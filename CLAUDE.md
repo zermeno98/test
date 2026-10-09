@@ -46,6 +46,10 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica (Transportes Ficticios del Pacífico, distinto del caso del IEC), 16 ejercicios que integran un expediente, cuatro tarjetas de rol, autodiagnóstico, 20 preguntas de práctica y respuestas |
 | `estandares-ia/13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA (servicio de consultoría): modalidades exprés, estándar y ampliada; fases; insumos; autodiagnóstico de 20 preguntas con semáforo; cuestionario, guía de entrevista y lista de proveedores; índice de madurez; formato del informe con hoja de ruta de 90 días; confidencialidad; mensajes comerciales permitidos y no permitidos |
 | `estandares-ia/14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA con los diez contenidos del Producto 1 del Elemento 3 del EC-B, seis anexos (registro de sistemas autorizados, clasificación, solicitud de autorización, reporte de incidente, lista de proveedores, carta de conocimiento) y notas de adaptación |
+| `estandares-ia/15-convenio-tipo-universidades.md` | Convenio específico de colaboración con instituciones educativas (alineación, evaluación y certificación), con anexos de programa de trabajo, condiciones económicas sin cifras, requisitos de sede y flujo de datos personales; notas para la empresa |
+| `estandares-ia/16-plan-prueba-piloto.md` | Plan de la prueba piloto: universidades y empresas participantes, grupo con curso y sin curso, doble calificación, indicadores con criterios de decisión (tiempo, dificultad y discriminación de reactivos, acuerdo entre evaluadores, umbrales), calendario de 10 semanas, ética y consentimiento informado |
+| `estandares-ia/17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias (nuevo o adhesión), composición propuesta, contenido de la propuesta de integración, términos de referencia y cuatro sesiones del grupo técnico, minuta de validación, carta de confidencialidad y preguntas para el CONOCER |
+| `estandares-ia/18-decision-EC-o-ECM.md` | Análisis EC frente a ECM (y EC de uso restringido, por confirmar), cómo capturar valor con un EC público, preguntas para el CONOCER y recomendación preliminar: EC público |
 
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 
@@ -60,7 +64,8 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    ~~Curso de alineación y guía de estudio del EC-A~~ **Hechos como borrador 1.0** (archivos 09 y 10). No usan el caso ni los reactivos del IEC. Pendiente: confirmar la clave de área temática de la DC-3, el registro como agente capacitador externo ante la STPS y si el CONOCER exige que quien alinea no evalúe a las mismas personas.
    ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
    ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
-   **Siguiente:** convenio tipo con universidades (pendiente 8).
+   ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
+   **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y llevar a la reunión con el CONOCER las preguntas de los archivos 17 y 18.
 3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede):
    - La plantilla vigente F21-COOPYD-01 y sus frases fijas: "obtiene los siguientes" para productos, "demuestra la siguiente" para situaciones emergentes, "demuestra las siguientes" para actitudes.
    - El texto oficial de los niveles Dos y Cuatro del Sistema Nacional de Competencias.
@@ -68,10 +73,10 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    - SINCO y SCIAN para estándares transversales.
    - El Elemento 3 del EC1705.
 4. Revisión jurídica de las definiciones de la LFPDPPP 2025 (dato personal, dato sensible, vulneración) y de los artículos citados.
-5. Gobernanza: Comité de Gestión por Competencias, grupo técnico y prueba piloto con universidades y empresas.
-6. Decidir el registro como EC o como ECM (Estándar de Competencia de Marca) y qué control da cada opción sobre quién evalúa.
+5. Gobernanza: Comité de Gestión por Competencias, grupo técnico y prueba piloto con universidades y empresas. Documentos listos: plan de la piloto (16) y ruta del comité y términos de referencia del grupo técnico (17). Falta ejecutarlos.
+6. Decidir el registro como EC o como ECM (Estándar de Competencia de Marca) y qué control da cada opción sobre quién evalúa. Análisis en el archivo 18: recomendación preliminar EC público; confirmar con el CONOCER si existe el EC de uso restringido y quién puede acreditarse.
 7. Pasar los estándares a la plantilla oficial en Word cuando el CONOCER la proporcione.
-8. Paquete comercial: ~~cursos de alineación~~ (archivos 09 y 11), ~~diagnóstico empresarial~~ (13) y ~~plantilla de política~~ (14) hechos como borrador 1.0. Falta el convenio tipo con universidades. Los evaluadores necesitan certificación en EC0076.
+8. Paquete comercial: ~~cursos de alineación~~ (archivos 09 y 11), ~~diagnóstico empresarial~~ (13), ~~plantilla de política~~ (14) y ~~convenio tipo con universidades~~ (15) hechos como borrador 1.0. Los evaluadores necesitan certificación en EC0076.
 
 ## 6. Reglas de redacción de los estándares (CONOCER)
 
@@ -95,4 +100,4 @@ git checkout claude/ai-standards-mexico-monetize-8v1qbe
 claude
 ```
 
-Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después redacta el convenio tipo con universidades (pendiente 8 de CLAUDE.md)."
+Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después elabora la segunda versión paralela de los casos de evaluación del EC-A y del EC-B."

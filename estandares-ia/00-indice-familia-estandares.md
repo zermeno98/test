@@ -20,6 +20,10 @@
 | `12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica, 16 ejercicios, tarjetas de rol, autodiagnóstico y preguntas de práctica con respuestas | Borrador 1.0 para prueba piloto |
 | `13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA: modalidades, fases, insumos, autodiagnóstico exprés de 20 preguntas, instrumentos, índice de madurez, formato del informe y mensajes comerciales | Borrador 1.0 para prueba piloto |
 | `14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA para adaptar a cada organización, con seis anexos y correspondencia con el EC-B | Borrador 1.0 para prueba piloto |
+| `15-convenio-tipo-universidades.md` | Convenio específico de colaboración con instituciones educativas para alineación, evaluación y certificación, con cuatro anexos | Borrador 1.0 para revisión jurídica |
+| `16-plan-prueba-piloto.md` | Plan de la prueba piloto: participantes, diseño, indicadores y criterios de decisión, calendario, ética y consentimiento informado | Borrador 1.0 |
+| `17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias, términos de referencia y sesiones del grupo técnico, minuta y carta de confidencialidad | Borrador 1.0 |
+| `18-decision-EC-o-ECM.md` | Análisis para decidir el registro como EC o como ECM, con preguntas para el CONOCER y recomendación preliminar | Borrador 1.0 |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
@@ -51,18 +55,18 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [x] Exposición de motivos
 - [x] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
 - [x] Instrumento de Evaluación de Competencia del EC-B: caso simulado con cuatro simulaciones, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
-- [ ] Prueba piloto de ambos instrumentos con empresas y universidades, y ajustes
+- [ ] Prueba piloto de ambos instrumentos con empresas y universidades, y ajustes (plan listo: documento 16)
 - [ ] Traslado de ambos estándares a la plantilla oficial en Word que proporcione el CONOCER
 
 **B. Gobernanza**
-- [ ] Integrar el Comité de Gestión por Competencias, o adherirse a uno existente, con su acta
-- [ ] Integrar el grupo técnico de expertos: protección de datos, seguridad de la información, recursos humanos, educación superior y empresas usuarias
+- [ ] Integrar el Comité de Gestión por Competencias, o adherirse a uno existente, con su acta (ruta y propuesta: documento 17)
+- [ ] Integrar el grupo técnico de expertos: protección de datos, seguridad de la información, recursos humanos, educación superior y empresas usuarias (términos de referencia: documento 17)
 - [ ] Validación de los borradores por el grupo técnico
 
 **C. Revisiones y confirmaciones**
 - [ ] Revisión jurídica: definiciones de la ley de datos de 2025, deber de informar vulneraciones, derechos de autor e imagen
 - [ ] Confirmar con el CONOCER: niveles, SINCO, SCIAN, frases del formato, escala de conocimientos, catálogo de actitudes y evaluación a distancia
-- [ ] Decidir el registro como EC o como Estándar de Competencia de Marca (ECM)
+- [ ] Decidir el registro como EC o como Estándar de Competencia de Marca (ECM) (análisis y recomendación preliminar: documento 18)
 
 **D. Aprobación**
 - [ ] Presentación al Comité Técnico del CONOCER
@@ -74,12 +78,12 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [x] Curso de alineación y guía de estudio del EC-A (borrador 1.0)
 - [x] Curso de alineación y guía de estudio del EC-B (borrador 1.0)
 - [x] Paquete empresarial: diagnóstico de uso de IA y plantilla de política de uso (borrador 1.0)
-- [ ] Convenio tipo con universidades
+- [x] Convenio tipo con universidades (borrador 1.0 para revisión jurídica)
 
 ---
 
 ## Decisiones pendientes
-1. Registro como EC o como ECM: alcance de cada opción sobre quién puede evaluar y certificar.
-2. Integración del Comité de Gestión por Competencias.
+1. Registro como EC o como ECM: alcance de cada opción sobre quién puede evaluar y certificar. Recomendación preliminar: EC público (documento 18), por confirmar con el CONOCER.
+2. Integración del Comité de Gestión por Competencias: comité nuevo o adhesión a uno existente (documento 17).
 3. Universidades y empresas para la prueba piloto.
 4. Evaluación a distancia del EC-A (clave para evaluar generaciones completas).
