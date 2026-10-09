@@ -22,7 +22,7 @@ Un Estándar de Competencia lo desarrolla un **Comité de Gestión por Competenc
 
 Según la guía "ABC de los Comités de Gestión por Competencias" del CONOCER:
 
-1. El CGC prepara su **propuesta de integración** y la presenta al comité de aprobación del CONOCER.
+1. El CGC prepara su **propuesta de integración** y la presenta al Comité de Validación del CONOCER (denominación vigente por confirmar).
 2. El comité **valida la integración** del CGC.
 3. Se firma el **acta de integración** entre el CONOCER y todos los integrantes del CGC.
 
@@ -89,7 +89,7 @@ Cargos que suelen tener los comités: presidencia, vicepresidencia, secretaría 
 | 1. Arranque y mapa funcional | 3 horas | 01 y 04 | Mapa funcional validado; delimitación con estándares existentes |
 | 2. EC-A | 4 horas | 02, 05 y 06 | Criterios del EC-A validados; observaciones al instrumento |
 | 3. EC-B | 4 horas | 03, 07 y 08 | Criterios del EC-B validados; observaciones al instrumento |
-| 4. Resultados de la prueba piloto | 3 horas | Informe de la piloto | Ajustes aprobados; versión para presentar al CONOCER |
+| 4. Resultados de la prueba piloto | 3 horas | Análisis de resultados de la piloto (documento 16, semanas 8 y 9) | Ajustes aprobados; versión para presentar al CONOCER |
 
 En cada sesión se revisa cada criterio con tres preguntas: ¿describe lo que la persona hace en el trabajo?, ¿se puede observar o verificar en la evaluación?, ¿es necesario o repite otro criterio?
 

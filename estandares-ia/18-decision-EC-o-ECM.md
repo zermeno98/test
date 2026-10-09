@@ -16,10 +16,10 @@ La empresa quiere que los estándares generen demanda y que su centro de evaluac
 
 | Tema | EC | ECM | Fuente y grado de certeza |
 |---|---|---|---|
-| Titularidad | Se inscribe en el RENEC, de consulta pública y gratuita | La organización que lo desarrolló conserva los derechos de autor y de propiedad industrial o intelectual | Documento del CONOCER; publicación de años anteriores |
+| Titularidad | Se inscribe en el RENEC, de consulta pública y gratuita | También se inscribe en el RENEC, pero la organización que lo desarrolló conserva los derechos de autor y de propiedad industrial o intelectual | Documento del CONOCER; publicación de años anteriores |
 | Quién lo desarrolla | Un Comité de Gestión por Competencias representativo del sector | Empresas u organizaciones de amplio prestigio nacional o internacional | Mismo documento |
 | Ejemplos | EC1705, EC1827 a EC1829 | ECM0054 (tecnología Microsoft para la productividad), ECM0107 (diseño con Adobe Illustrator), ECM0180 (Pearson English), ECM0358 (fundamentos de IA generativa, Microsoft) | Documento del CONOCER y revisión del RENEC del proyecto |
-| Quién evalúa | Prestadores de servicios acreditados por el CONOCER (ECE, Centros de Evaluación, evaluadores independientes) con evaluadores certificados en el EC0076 | No confirmado. Hay indicios de que se requieren evaluadores certificados en el estándar de marca específico | Manuales de prestadores; materiales de terceros |
+| Quién evalúa | Entidades de Certificación y Evaluación y Organismos Certificadores acreditados por el CONOCER, y Centros de Evaluación y Evaluadores Independientes acreditados por ellos (por confirmar), con evaluadores certificados en el EC0076 | No confirmado. Hay indicios de que se requieren evaluadores certificados en el estándar de marca específico | Manuales de prestadores; materiales de terceros |
 | Uso restringido | Existe una categoría de estándares de uso restringido que requieren autorización del comité que los desarrolló | — | Documento de terceros; no confirmado si sigue vigente ni si aplica a EC nuevos |
 | Certificado | Lleva los logotipos de la SEP, del CONOCER, de la institución certificadora y de las organizaciones que integran el estándar | No confirmado | Documento de años anteriores |
 
@@ -27,7 +27,7 @@ La empresa quiere que los estándares generen demanda y que su centro de evaluac
 
 | Criterio | EC (público) | EC de uso restringido (si existe) | ECM |
 |---|---|---|---|
-| **"Dientes": que una dependencia, una NOM, un lineamiento o una universidad lo exija** | **Fuerte.** Un estándar público y neutral es más fácil de citar en una norma o en un requisito de egreso | Media. Puede verse como una restricción a la competencia | **Débil.** Citar un estándar propiedad de una empresa en una norma o en un requisito público puede objetarse por falta de neutralidad |
+| **Que una dependencia, una NOM, un lineamiento o una universidad pueda exigirlo** | **Fuerte.** Un estándar público y neutral es más fácil de citar en una norma o en un requisito de egreso | Media. Puede verse como una restricción a la competencia | **Débil.** Citar un estándar propiedad de una empresa en una norma o en un requisito público puede objetarse por falta de neutralidad |
 | Control sobre quién evalúa | Bajo: otros prestadores pueden acreditarse | Medio a alto (por confirmar) | Alto (por confirmar) |
 | Requisito para registrarlo | CGC representativo | CGC y justificación (por confirmar) | Prestigio nacional o internacional de la organización: la empresa puede no cumplirlo hoy |
 | Credibilidad ante universidades y gobierno | Alta | Media | Media: se percibe como certificación de un proveedor |
@@ -65,7 +65,7 @@ Un EC público no impide que la empresa capture una parte relevante del mercado.
 2. Es probable que la empresa no cumpla hoy el requisito de prestigio de un ECM.
 3. El valor se protege con los activos de la sección 4, que no dependen del tipo de registro.
 
-Esta recomendación cambia si el CONOCER confirma que existe un **EC de uso restringido** con condiciones razonables, o que la organización desarrolladora tiene prioridad en la acreditación. En ese caso, valorar esa opción para el **EC-B**, cuyo mercado es más de consultoría, y mantener el **EC-A** como público, porque es el de volumen y el que necesita "dientes".
+Esta recomendación cambia si el CONOCER confirma que existe un **EC de uso restringido** con condiciones razonables, o que la organización desarrolladora tiene prioridad en la acreditación. En ese caso, valorar esa opción para el **EC-B**, cuyo mercado es más de consultoría, y mantener el **EC-A** como público, porque es el de mayor volumen y el que más necesita que dependencias, universidades y empresas lo exijan.
 
 ## Fuentes consultadas
 

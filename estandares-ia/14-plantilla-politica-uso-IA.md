@@ -37,7 +37,7 @@ Establecer las reglas para el uso de sistemas de inteligencia artificial en [nom
 - **Cuenta institucional:** acceso a un sistema de IA contratado o administrado por la organización.
 - **Dato personal:** cualquier información concerniente a una persona física identificada o identificable.
 - **Dato personal sensible:** dato personal que afecta la esfera más íntima de su titular o cuya utilización indebida puede dar origen a discriminación o conllevar un riesgo grave para éste, como el estado de salud, el origen racial o étnico, las creencias, las opiniones políticas y la preferencia sexual.
-- **Depuración:** eliminación o sustitución de los datos personales y de la información confidencial que no son necesarios para una tarea, antes de ingresarla a un sistema de IA.
+- **Depuración:** eliminación o sustitución de los datos personales y de la información confidencial que no son necesarios para una tarea, antes de ingresar la información a un sistema de IA.
 - **Incidente de IA:** evento derivado del uso de un sistema de IA que compromete la información o que causa, o puede causar, un daño a personas o a la organización.
 - **Intervención humana:** revisión del resultado de un sistema de IA por una persona con autoridad y conocimiento suficientes para confirmarlo, modificarlo o rechazarlo antes de que produzca efectos.
 - **Sistema de IA:** sistema basado en máquinas que, a partir de la información que recibe, genera resultados como contenido, predicciones, recomendaciones o decisiones.
@@ -95,7 +95,7 @@ El uso de IA en la organización se rige por estos principios:
 | Pública | Puede ingresarse en sistemas autorizados |
 | Interna | Solo en los sistemas autorizados para información interna (Anexo 1) |
 | Confidencial | No se ingresa, salvo autorización registrada de [titular del área propietaria de la información] |
-| Dato personal | Se depura (se elimina, se sustituye por datos genéricos o se agrega). Solo si es indispensable para la tarea, en sistemas autorizados para ese nivel y con autorización registrada de [Responsable de protección de datos] |
+| Dato personal | Se depura (se elimina, se sustituye por datos genéricos o se presenta en forma agregada). Solo si es indispensable para la tarea, en sistemas autorizados para ese nivel y con autorización registrada de [Responsable de protección de datos] |
 | Dato personal sensible | No se ingresa, salvo autorización expresa y registrada de [Responsable de protección de datos] |
 
 6.2 **Nunca se ingresan** contraseñas, credenciales de acceso, llaves de cifrado ni datos bancarios o de tarjetas.

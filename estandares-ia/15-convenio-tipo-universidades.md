@@ -4,7 +4,7 @@
 
 Versión 1.0 · Borrador para revisión jurídica · Octubre de 2026
 
-> **Antes de usarlo.** Este modelo no constituye asesoría jurídica: debe revisarlo el área jurídica de la empresa y el de cada institución. Muchas instituciones firman primero un convenio general (marco) y después convenios específicos; este documento es un convenio específico que puede firmarse solo o derivar de uno general. En las instituciones públicas, si la institución paga los servicios con recursos propios, el área jurídica debe determinar si aplica la normatividad de adquisiciones en lugar de un convenio de colaboración.
+> **Antes de usarlo.** Este modelo no constituye asesoría jurídica: deben revisarlo el área jurídica de la empresa y la de cada institución. Muchas instituciones firman primero un convenio general (marco) y después convenios específicos; este documento es un convenio específico que puede firmarse solo o derivar de uno general. En las instituciones públicas, si la institución paga los servicios con recursos propios, el área jurídica debe determinar si aplica la normatividad de adquisiciones en lugar de un convenio de colaboración.
 >
 > Texto entre corchetes [ ]: dato por completar u opción por elegir.
 
@@ -48,7 +48,7 @@ I.4 Su Registro Federal de Contribuyentes es [ ] y su domicilio para efectos de 
 
 II.1 Es una sociedad constituida conforme a las leyes mexicanas, según [escritura pública, notario, fecha, registro].
 
-II.2 Está acreditada por el CONOCER como [Entidad de Certificación y Evaluación / Centro de Evaluación de la ECE [nombre]], con número [ ], y cuenta con la acreditación para evaluar en el Estándar de Competencia [código] [y en el [código]].
+II.2 Está acreditada [por el CONOCER como Entidad de Certificación y Evaluación / por la Entidad de Certificación y Evaluación [nombre] como Centro de Evaluación], con número [ ], y cuenta con la acreditación para evaluar en el Estándar de Competencia [código] [y en el [código]].
 
 II.3 Sus evaluadores están certificados en el EC0076 "Evaluación de la competencia de candidatos con base en Estándares de Competencia" y autorizados conforme a las reglas del CONOCER.
 
@@ -62,7 +62,7 @@ II.6 Su Registro Federal de Contribuyentes es [ ] y su domicilio para efectos de
 
 ### CLÁUSULAS
 
-**PRIMERA. Objeto.** Establecer las bases de colaboración para que las y los estudiantes, egresados y personal de LA INSTITUCIÓN tengan acceso a la alineación, la evaluación y la certificación de competencias en el Estándar de Competencia [código del EC-A] [y en el [código del EC-B]], así como para incorporar estos procesos a la oferta académica de LA INSTITUCIÓN conforme a su normatividad.
+**PRIMERA. Objeto.** Establecer las bases de colaboración para que las y los estudiantes, egresados y personal de LA INSTITUCIÓN tengan acceso a la alineación, la evaluación y la certificación de competencias en el Estándar de Competencia [código del EC-A] [y en el [código del EC-B]], así como para incorporar estos procesos a la oferta académica de LA INSTITUCIÓN conforme a su normatividad. Los Anexos A, B, C y D forman parte integrante de este convenio.
 
 **SEGUNDA. Modalidades de incorporación.** LA INSTITUCIÓN determina, conforme a su normatividad y con la aprobación de sus órganos competentes, una o varias de las siguientes modalidades, que se detallan en el Anexo A:
 
@@ -92,7 +92,7 @@ LA EMPRESA reconoce que la decisión sobre requisitos académicos corresponde ex
 1. Designar a una persona enlace para la operación del convenio.
 2. Difundir entre su comunidad la oferta de alineación, evaluación y certificación.
 3. [En su caso: proporcionar las aulas, el equipo de cómputo y la conectividad para el curso y la evaluación, conforme a los requisitos del Anexo C.]
-4. Apoyar el registro de participantes conforme a la cláusula de protección de datos personales.
+4. Apoyar el registro de participantes conforme a la cláusula novena.
 5. Comunicar a LA EMPRESA los acuerdos de sus órganos competentes sobre las modalidades de la cláusula segunda.
 
 **QUINTA. Condiciones económicas.** Las cuotas por participante del curso de alineación, de la evaluación y de la gestión del certificado, la forma de pago, las becas o descuentos y la facturación se establecen en el Anexo B. [Elegir: cada participante paga directamente a LA EMPRESA / LA INSTITUCIÓN paga por los participantes que inscriba / esquema mixto.]
@@ -110,11 +110,12 @@ LA EMPRESA reconoce que la decisión sobre requisitos académicos corresponde ex
 
 **NOVENA. Protección de datos personales.**
 
-1. Cada una de LAS PARTES es responsable de los datos personales que recabe y trata conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares [y, en el caso de LA INSTITUCIÓN pública, a la legislación de protección de datos personales en posesión de sujetos obligados que le aplique].
+1. Cada una de LAS PARTES es responsable de los datos personales que recabe y trate, conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares o, en el caso de LA INSTITUCIÓN pública, a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados o a la legislación local que le aplique.
 2. Las personas que deseen evaluarse se registran directamente con LA EMPRESA, que les da a conocer su aviso de privacidad y trata sus datos para la alineación, la evaluación y la gestión del certificado ante el CONOCER.
 3. LA INSTITUCIÓN solo comunica a LA EMPRESA datos personales de su comunidad cuando cuente con el fundamento o el consentimiento que se requiera.
 4. LA EMPRESA no usa los datos personales para fines distintos de los de este convenio, incluida la promoción comercial, sin el consentimiento de sus titulares.
 5. LAS PARTES se avisan de inmediato de cualquier vulneración de seguridad que afecte datos personales relacionados con este convenio.
+6. El flujo de datos personales entre LAS PARTES se describe en el Anexo D.
 
 **DÉCIMA. Confidencialidad.** LAS PARTES guardan confidencialidad sobre la información que se proporcionen con ese carácter durante la vigencia del convenio y [dos] años después de su terminación, salvo la que deba hacerse pública por disposición legal.
 
@@ -186,7 +187,7 @@ Leído el presente convenio y enteradas LAS PARTES de su contenido y alcance, lo
 | Equipo de cómputo | Uno por participante o por pareja | Uno por candidato, con procesador de textos y hoja de cálculo |
 | Herramienta de IA | Cuenta institucional del agente capacitador o entorno simulado | Entorno proporcionado por el centro de evaluación |
 | Conectividad | Internet estable | Conforme a las indicaciones del centro de evaluación |
-| Otros | Bocinas para ejemplos de audio | Identificación oficial de cada candidato |
+| Otros | Bocinas para ejemplos de audio | Identificación oficial de cada candidato; teléfono o medio para recibir el mensaje y la nota de voz simulados (EC-A, Parte C), proporcionado por el centro de evaluación |
 
 ## Anexo D. Flujo de datos personales
 

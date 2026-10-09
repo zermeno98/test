@@ -35,6 +35,8 @@ Para medir el efecto del curso, la mitad de los candidatos del EC-A se evalúa *
 2. Grupo 2 (sin curso): guía de estudio y evaluación completa.
 3. Doble calificación: al menos 10 candidatos son evaluados por dos evaluadores al mismo tiempo, de forma independiente.
 4. Registro del tiempo de cada parte (cuestionario, Parte A, Parte B, Parte C) por candidato.
+5. Versión paralela: la mitad de cada grupo resuelve la segunda versión del caso; se comparan tiempos, dificultad y juicio entre versiones.
+6. Evaluación a distancia: si el CONOCER lo autoriza, [5] candidatos se evalúan por videollamada con pantalla compartida y se comparan tiempos y acuerdo entre evaluadores con la modalidad presencial.
 
 ### 3.2 EC-B
 
@@ -42,11 +44,12 @@ Para medir el efecto del curso, la mitad de los candidatos del EC-A se evalúa *
 2. Evaluación completa (5 horas) a todos. Si se observa que 4 horas de campo no alcanzan, se prueba con 2 o 3 candidatos una versión en dos sesiones.
 3. Doble calificación de al menos 4 candidatos.
 4. Registro del tiempo por producto.
+5. Versión paralela: [2 o 3] candidatos resuelven la segunda versión del caso; se comparan tiempos y juicio entre versiones.
 
 ### 3.3 Diagnóstico
 
 1. Autodiagnóstico exprés en 10 organizaciones.
-2. Diagnóstico estándar completo en una organización, con registro de horas por fase.
+2. Diagnóstico estándar completo en al menos una organización (de preferencia 2 o 3, como indica el documento 13), con registro de horas por fase.
 3. Revisión de la sección de obligaciones del informe por el área jurídica de la organización.
 
 ## 4. Indicadores y criterios de decisión
@@ -71,11 +74,11 @@ Los criterios numéricos son una propuesta para validar con el CONOCER y con el 
 | Semana | Actividad |
 |---|---|
 | 1 a 2 | Convenios con las instituciones y empresas piloto; selección de participantes; consentimientos; capacitación de evaluadores en los instrumentos |
-| 3 | Autodiagnóstico exprés; arranque del diagnóstico estándar |
+| 3 a 4 | Autodiagnóstico exprés; diagnóstico estándar (10 días hábiles) |
 | 4 | Curso del EC-A (grupo 1) en universidades y empresas; entrega de la guía de estudio al grupo 2 |
 | 5 | Evaluaciones del EC-A (ambos grupos), con doble calificación |
 | 4 a 6 | Curso del EC-B (cinco sesiones) |
-| 7 | Evaluaciones del EC-B, con doble calificación; cierre del diagnóstico estándar |
+| 7 | Evaluaciones del EC-B, con doble calificación |
 | 8 a 9 | Análisis de resultados; sesión del grupo técnico para ajustes |
 | 10 | Informe de resultados; versión 1.1 de los documentos |
 

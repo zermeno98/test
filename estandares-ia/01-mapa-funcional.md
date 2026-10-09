@@ -58,7 +58,7 @@ EC-B · *Gestión de riesgos y controles en el uso de sistemas de inteligencia a
 | EC-B · 3 de 4 Establecer política y controles | Gobernar y gestionar | Política de IA (5.2); competencia y toma de conciencia (7.2 y 7.3) |
 | EC-B · 4 de 4 Supervisar y gestionar incidentes | Gestionar | Evaluación del desempeño (9) y mejora (10) |
 
-Referente adicional: el artículo 4 del Reglamento (UE) 2024/1689 (alfabetización en IA), modificado en julio de 2026 por el Reglamento (UE) 2026/1744, que mantiene la obligación de tomar medidas sin exigir un nivel específico. El EC-A sirve como evidencia de esas medidas.
+Referente adicional: el artículo 4 del Reglamento (UE) 2024/1689 (alfabetización en IA), modificado en julio de 2026 por el Reglamento (UE) 2026/1744, que mantiene la obligación de tomar medidas sin exigir un nivel específico. El EC-A puede servir como evidencia de esas medidas.
 
 ---
 
@@ -68,7 +68,7 @@ Revisión de octubre de 2026.
 
 | EC | Título | Relación con esta familia |
 |---|---|---|
-| EC1705 | Uso básico de herramientas de IA generativa para la creación de contenido digital | **Complementario.** Evalúa la creación de contenido con IA. El EC-A evalúa qué información puede ingresarse, cómo se verifica el resultado y cómo se atienden incidentes. |
+| EC1705 | Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital | **Complementario.** Evalúa la creación de contenido con IA; su Elemento 3 de 3 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa") aplica principios de transparencia, veracidad, privacidad y propiedad intelectual durante esa creación. El EC-A evalúa un procedimiento con registros que aquel no exige: clasificar y depurar la información conforme al esquema de la organización, contrastar cada dato con una fuente verificable, y reportar incidentes y suplantaciones conforme al protocolo. |
 | ECM0358 | Fundamentos de IA generativa por Microsoft (estándar de marca) | Ligado a un proveedor; la familia es neutral respecto de la tecnología. |
 | EC1691 | Elaboración de materiales educativos con apoyo de IA generativa | Distinto ámbito (docencia). Sin traslape. |
 | EC1657 | Integración de arquitectura y herramientas de IA generativa en la cadena de suministro | Distinto ámbito (implementación técnica). Sin traslape. |
@@ -76,4 +76,4 @@ Revisión de octubre de 2026.
 | EC1828 | Implementación de estrategias con Marketing, utilizando IA para la Alta Dirección en PyME's (mismo acuerdo) | Distinto ámbito (marketing directivo). Sin traslape. |
 | EC1829 | Producción de videos digitales con herramientas de IA generativa (mismo acuerdo) | Distinto ámbito (producción de contenido). Sin traslape. |
 
-**Conclusión:** ningún EC publicado cubre la protección de la información en el uso de IA (EC-A) ni la gestión de riesgos y controles de IA en la organización (EC-B). Pendiente: revisar el Elemento 3 del EC1705 y las publicaciones posteriores al 7 de agosto de 2026.
+**Conclusión:** ningún EC publicado cubre la protección de la información en el uso de IA como procedimiento evaluable (EC-A) ni la gestión de riesgos y controles de IA en la organización (EC-B). Antes de presentar los estándares: comparar criterio por criterio con el texto publicado del Elemento 3 del EC1705 y revisar las publicaciones posteriores al 7 de agosto de 2026.

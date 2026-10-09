@@ -4,7 +4,7 @@
 
 Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
-> Documento de trabajo de la empresa consultora. Los instrumentos de las secciones 6 y 7 se entregan al cliente; el resto es para el equipo que realiza el diagnóstico. El diagnóstico aplica los Elementos 1 y 2 del EC-B (inventario y evaluación de riesgos) a una organización real.
+> Documento de trabajo de la empresa consultora. El autodiagnóstico (sección 6) y el cuestionario para jefaturas (7.1) se entregan al cliente; el resto es para el equipo que realiza el diagnóstico. El diagnóstico aplica los Elementos 1 y 2 del EC-B (inventario y evaluación de riesgos) a una organización real.
 
 ---
 
@@ -78,7 +78,7 @@ En el diagnóstico ampliado, la fase 1 dura de 8 a 12 días y se agrega la evalu
 
 *Se entrega al cliente. Responder con base en lo que la organización puede demostrar, no en lo que se supone.*
 
-Puntaje: **Sí = 2**, **Parcial = 1**, **No o no sé = 0**.
+Puntaje: **Sí = 2**, **Parcial = 1**, **No / no sé = 0**.
 
 | # | Pregunta | Sí | Parcial | No / no sé |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ Puntaje: **Sí = 2**, **Parcial = 1**, **No o no sé = 0**.
 | 15 a 29 | Amarillo | Hay medidas parciales. Se recomienda el diagnóstico para cerrar brechas y priorizar |
 | 30 a 40 | Verde | Hay una base de gestión. Se recomienda verificar que los controles funcionan y certificar al personal clave |
 
-**Alertas inmediatas.** Sin importar el puntaje, si la respuesta a la pregunta 6 o a la 12 es "No o no sé", o si a la 2 es "No sé", se recomienda actuar de inmediato: revisión humana de las decisiones sobre personas y control de herramientas no autorizadas.
+**Alertas inmediatas.** Sin importar el puntaje, si la respuesta a la pregunta 2, 6 o 12 es "No / no sé", se recomienda actuar de inmediato: revisión humana de las decisiones sobre personas y control de herramientas no autorizadas.
 
 **Puntaje por dimensión** (0 a 8, suma de sus cuatro preguntas): de 0 a 2, Inicial; de 3 a 4, Básico; de 5 a 6, Gestionado; de 7 a 8, Integrado (ver sección 8).
 
@@ -180,7 +180,7 @@ Pregunta final: "¿Algún sistema que usen da puntuaciones, predicciones o recom
 
 ### 7.4 Escala de valoración de riesgos
 
-Se usa la escala de 3 × 3 de la Guía de estudio del EC-B (sección 2.2), salvo que el cliente tenga una metodología de riesgos propia; en ese caso se usa la del cliente, para que los resultados se integren a su gestión de riesgos.
+Se usa la escala de 3 × 3 de la Guía de estudio del EC-B (documento 12, Unidad 2, apartado 2.2), salvo que el cliente tenga una metodología de riesgos propia; en ese caso se usa la del cliente, para que los resultados se integren a su gestión de riesgos.
 
 ## 8. Índice de madurez
 

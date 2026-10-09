@@ -16,8 +16,8 @@ Se propone crear dos Estándares de Competencia nacionales para que quienes usan
 
 | Estándar | Para quién | Qué certifica | Evaluación |
 | --- | --- | --- | --- |
-| EC-A · Protección de la información y verificación de resultados en el uso de herramientas de IA generativa | Toda persona que usa IA: personal administrativo y operativo, mandos medios, estudiantes por egresar | Que decide qué información puede ingresar a la herramienta, verifica lo que la IA produce y reporta incidentes y suplantaciones | Caso simulado de 2 h 30 min |
-| EC-B · Gestión de riesgos y controles en el uso de sistemas de IA en la organización | Responsables de tecnología, seguridad de la información, cumplimiento y protección de datos | Que inventaría los sistemas de IA, evalúa sus riesgos, establece la política y los controles, y gestiona incidentes | Caso práctico de 5 h |
+| EC-A · Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa | Toda persona que usa IA: personal administrativo y operativo, mandos medios, estudiantes por egresar | Que decide qué información puede ingresar a la herramienta, verifica lo que la IA produce y reporta incidentes y suplantaciones | Caso simulado de 2 h 30 min |
+| EC-B · Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización | Responsables de tecnología, seguridad de la información, cumplimiento y protección de datos | Que inventaría los sistemas de IA, evalúa sus riesgos, establece la política y los controles, y gestiona incidentes | Caso práctico de 5 h |
 
 Ambos se alinean con los referentes internacionales de gestión de IA y no dependen de ningún proveedor tecnológico.
 
@@ -29,16 +29,17 @@ Un Estándar de Competencia (EC) es un documento oficial que describe lo que una
 
 Funciona como el examen para la licencia de manejo: no importa dónde aprendió la persona, sino que demuestre frente a un evaluador que realiza la función con el resultado esperado. Quien lo demuestra recibe un certificado oficial con validez en todo el país.
 
-Cada estándar se compone de cuatro piezas que el evaluador revisa:
+Cada estándar se compone de piezas que el evaluador revisa:
 
 - **Desempeños:** lo que el evaluador observa que la persona hace.
 - **Productos:** lo que la persona entrega y queda como evidencia.
 - **Conocimientos:** lo que debe saber para hacerlo, con su nivel de dominio.
 - **Actitudes:** cómo se conduce mientras trabaja, por ejemplo con responsabilidad u orden.
+- **Respuesta ante situaciones emergentes:** cómo reacciona ante un imprevisto, cuando el estándar la incluye.
 
 El sistema lo coordina el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER), entidad paraestatal sectorizada en la Secretaría de Educación Pública. Los estándares los elaboran Comités de Gestión por Competencias, con representantes de empleadores, trabajadores e instituciones del sector. El Comité Técnico del CONOCER los aprueba, se publican en el Diario Oficial de la Federación (DOF) y se inscriben en el RENEC, de consulta pública y gratuita.
 
-La evaluación la realizan Entidades de Certificación y Evaluación y Centros de Evaluación acreditados por el CONOCER. Capacitarse antes es opcional: el certificado acredita la competencia, no la asistencia a un curso.
+La evaluación la realizan las Entidades de Certificación y Evaluación acreditadas por el CONOCER y los Centros de Evaluación que estas acreditan. Capacitarse antes es opcional: el certificado acredita la competencia, no la asistencia a un curso.
 
 **Así nace un estándar**
 
@@ -54,16 +55,14 @@ La evaluación la realizan Entidades de Certificación y Evaluación y Centros d
 
 El estándar se elabora y aprueba una sola vez; después, cualquier persona puede certificarse en él en un centro acreditado.
 
-El trámite es ágil. Los ocho estándares del Acuerdo SE/III-26/05,R se aprobaron el 3 de julio de 2026 y se publicaron en el DOF el 7 de agosto.
-
 ## El problema: la IA llegó antes que las reglas
 
-La IA ya entró a las organizaciones mexicanas más rápido que las reglas para usarla: la mitad de las empresas grandes la usa y gran parte del personal la emplea con cuentas personales.
+La IA ya entró a las organizaciones mexicanas más rápido que las reglas para usarla: casi la mitad de las empresas con más de 100 trabajadores la usa y gran parte del personal la emplea con cuentas personales.
 
 | Evidencia | Dato |
 | --- | --- |
 | Adopción en empresas | 48.5% de las empresas con más de 100 trabajadores usaba IA en junio de 2026, frente a 24.3% en septiembre de 2025, según la encuesta regional de Banxico; el banco advierte que las preguntas de ambos levantamientos no son idénticas ([fuente](https://www.tiempo.com.mx/economia/adoptan-empresas-cada-vez-mas-ia-conviven-empleos-banxico-septiembre-2026/)) |
-| Uso fuera de los canales oficiales | 67% de los profesionales en México usa asistentes de IA personales en su trabajo y solo 35% de las organizaciones los ofrece de forma oficial ([fuente](https://spanish.entrepreneur.com/noticias/mexico-67-de-los-trabajadores-en-la-region-usa-ia-sin-autorizacion-corporativa)) |
+| Uso fuera de los canales oficiales | 67% de los profesionales de la región, incluido México, usa asistentes de IA personales en su trabajo y solo 35% de las organizaciones los ofrece de forma oficial ([fuente](https://spanish.entrepreneur.com/noticias/mexico-67-de-los-trabajadores-en-la-region-usa-ia-sin-autorizacion-corporativa)) |
 | Información ingresada a la IA | 77% de los empleados pega datos en herramientas de IA generativa y 82% de esa actividad ocurre desde cuentas personales, en una medición internacional de 2025 ([fuente](https://go.layerxsecurity.com/hubfs/LayerX_Enterprise_AI_and_SaaS_Data_Security_Report.pdf)) |
 | Fuga de información | En 2023 Samsung restringió la IA generativa después de que personal subió código fuente confidencial a ChatGPT ([fuente](https://www.theregister.com/2023/05/02/samsung_generative_ai_ban/)) |
 | Suplantación con IA | En 2024 un empleado de Arup en Hong Kong transfirió cerca de 25 millones de dólares tras una videollamada con directivos falsos creados con IA ([fuente](https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk)) |
@@ -93,7 +92,7 @@ La familia sigue los marcos que ya usan las empresas multinacionales y los regul
 
 | Referente | Qué pide | Cómo lo recoge la familia |
 | --- | --- | --- |
-| [Ley de IA de la Unión Europea, artículo 4](https://artificialintelligenceact.eu/article/4/) | Desde febrero de 2025, quienes desarrollan o usan IA deben tomar medidas de alfabetización en IA de su personal. En julio de 2026 el [Reglamento (UE) 2026/1744](https://www.cuatrecasas.com/en/latam/intellectual-property/art/digital-omnibus-ai-has-been-published) mantuvo la obligación sin exigir un nivel específico | El EC-A es evidencia verificable de esas medidas para empresas que atienden a Europa o pertenecen a grupos europeos |
+| [Ley de IA de la Unión Europea, artículo 4](https://artificialintelligenceact.eu/article/4/) | Desde febrero de 2025, quienes desarrollan o usan IA deben tomar medidas de alfabetización en IA de su personal. En julio de 2026 el [Reglamento (UE) 2026/1744](https://www.cuatrecasas.com/en/latam/intellectual-property/art/digital-omnibus-ai-has-been-published) mantuvo la obligación sin exigir un nivel específico | El EC-A puede servir como evidencia de esas medidas para empresas que atienden a Europa o pertenecen a grupos europeos |
 | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html), sistema de gestión de IA | Política de IA, evaluación de riesgos y de impacto, competencia y toma de conciencia del personal | El EC-B certifica a quien opera esos procesos; el EC-A, la toma de conciencia del personal |
 | [Marco de Gestión de Riesgos de IA del NIST](https://www.nist.gov/itl/ai-risk-management-framework) (Estados Unidos) | Cuatro funciones: gobernar, mapear, medir y gestionar. Su perfil para IA generativa de 2024 incluye privacidad, seguridad e integridad de la información | Los cuatro elementos del EC-B siguen esas funciones |
 | [Principios de IA de la OCDE](https://oecd.ai/en/ai-principles) | Transparencia, seguridad, rendición de cuentas y desarrollo de capacidades; México es país miembro | Ambos estándares desarrollan capacidades medibles en el personal |
@@ -103,10 +102,10 @@ Correspondencia de los elementos del EC-B con los dos marcos de gestión más us
 
 | Elemento del EC-B | NIST AI RMF | ISO/IEC 42001 |
 | --- | --- | --- |
-| 1. Integrar el inventario de sistemas de IA | Mapear | Contexto y alcance (cláusula 4) |
-| 2. Evaluar los riesgos de los usos de IA | Mapear y medir | Evaluación de riesgos y de impacto (cláusulas 6.1 y 8) |
-| 3. Establecer la política de uso y los controles | Gobernar y gestionar | Política de IA (5.2), competencia y toma de conciencia (7.2 y 7.3) |
-| 4. Supervisar los controles y gestionar incidentes | Gestionar | Evaluación del desempeño (9) y mejora (10) |
+| 1. Integrar el inventario de sistemas de inteligencia artificial de la organización | Mapear | Contexto y alcance (cláusula 4) |
+| 2. Evaluar los riesgos de los usos de inteligencia artificial de la organización | Mapear y medir | Evaluación de riesgos y de impacto (cláusulas 6.1 y 8) |
+| 3. Establecer la política de uso y los controles de inteligencia artificial | Gobernar y gestionar | Política de IA (5.2), competencia y toma de conciencia (7.2 y 7.3) |
+| 4. Supervisar el cumplimiento de los controles y gestionar los incidentes de inteligencia artificial | Gestionar | Evaluación del desempeño (9) y mejora (10) |
 
 ## El vacío en el Registro Nacional de Estándares de Competencia
 
@@ -131,17 +130,17 @@ Se propone una familia de dos estándares complementarios: el EC-A para toda per
 | EC-A · Usuario de IA | EC-B · Responsable de la IA |
 | --- | --- |
 | **1. Preparar la información:** herramienta autorizada, información clasificada y datos personales retirados | **1. Integrar el inventario:** cada sistema de IA con su proveedor, uso, área responsable y datos que procesa |
-| **2. Verificar los productos:** datos contrastados con fuentes, derechos de terceros revisados y uso de IA declarado | **2. Evaluar los riesgos:** matriz de riesgos y evaluación de impacto de los usos que afectan a personas |
+| **2. Verificar los productos:** datos contrastados con fuentes, derechos de terceros revisados y uso de IA declarado | **2. Evaluar los riesgos:** matriz de riesgos y evaluación de impacto de un uso de riesgo alto |
 | **3. Atender incidentes:** solicitudes sospechosas confirmadas por otro canal e incidentes reportados | **3. Establecer política y controles:** política de uso, revisión de proveedores, plan de controles y programa de capacitación |
-| | **4. Supervisar y atender incidentes:** verificación de controles, registro de incidentes e informe a la dirección |
+| | **4. Supervisar el cumplimiento y gestionar incidentes:** verificación de controles, registro de incidentes e informe a la dirección |
 
 El EC-B establece la política, los controles y la capacitación; el EC-A comprueba que el personal los aplica. Así, una organización puede demostrar sus controles y también la competencia de su gente.
 
 | | EC-A · Usuario | EC-B · Responsable |
 | --- | --- | --- |
 | Nivel propuesto en el Sistema Nacional de Competencias | 2 | 4 |
-| Forma de evaluación | Caso simulado con datos ficticios y una solicitud de suplantación | Caso práctico de una organización ficticia y atención simulada de un incidente |
-| Evidencias que entrega la persona | Registro de clasificación, producto verificado y reporte de incidente | Inventario, matriz de riesgos, evaluación de impacto, política, plan de controles e informe a la dirección |
+| Forma de evaluación | Caso simulado con datos ficticios y una solicitud de suplantación | Caso práctico de una organización ficticia y cuatro simulaciones: entrevista, presentación a la dirección, comunicación de la política y atención de un incidente |
+| Evidencias que entrega la persona | Registro de clasificación, información depurada, producto verificado, registro de verificación y reporte de incidente | Doce productos en un expediente de gestión de IA, entre ellos inventario, matriz de riesgos, evaluación de impacto, política, plan de controles, programa de capacitación, registro de incidente e informe a la dirección |
 | Vigencia propuesta del certificado | 2 años | 2 años |
 
 ## Beneficios esperados
@@ -156,11 +155,11 @@ Cada actor obtiene algo verificable: la persona, un certificado; la empresa, evi
 
 ## Viabilidad y ruta de implementación
 
-La familia puede operar con la infraestructura que ya existe: se evalúa con casos simulados, sin datos reales, en la red de centros acreditados por el CONOCER.
+La familia puede operar con la infraestructura que ya existe: se evalúa con casos simulados, sin datos reales, en la red de entidades de certificación y evaluación y de centros de evaluación del Sistema Nacional de Competencias.
 
 - **Escala:** el EC-A usa un caso estandarizado y breve, pensado para evaluar a muchas personas en poco tiempo. Se consultará al CONOCER la evaluación a distancia.
 - **Capacidad instalada:** las Entidades de Certificación y Evaluación y los Centros de Evaluación existentes pueden incorporar los nuevos estándares a su oferta una vez publicados.
-- **Avance:** el mapa funcional, los borradores de ambos estándares y la revisión de traslapes con el RENEC ya están elaborados.
+- **Avance:** el mapa funcional, los borradores de ambos estándares, la revisión de traslapes con el RENEC y los instrumentos de evaluación (borrador para la prueba piloto) ya están elaborados.
 - **Vigencia:** revisión sugerida cada dos años para seguir el ritmo de la tecnología.
 
 Cuatro fases llevan los borradores a los primeros certificados; cada una cierra con un punto de control:
@@ -168,7 +167,7 @@ Cuatro fases llevan los borradores a los primeros certificados; cada una cierra 
 | Fase | Qué incluye | Punto de control |
 | --- | --- | --- |
 | 1. Preparación (paso que se solicita) | Comité de Gestión por Competencias integrado; el grupo técnico valida el mapa funcional y los borradores | Borradores validados |
-| 2. Prueba piloto | Instrumentos de evaluación elaborados; piloto con empresas y universidades; revisión jurídica | Piloto aprobado |
+| 2. Prueba piloto | Instrumentos de evaluación probados; piloto con empresas y universidades; revisión jurídica | Piloto aprobado |
 | 3. Aprobación | El Comité Técnico del CONOCER aprueba; publicación en el DOF e inscripción en el RENEC | Estándar publicado en el DOF |
 | 4. Operación | Evaluación acreditada en centros y entidades; primeras personas certificadas; revisión cada 2 años | |
 

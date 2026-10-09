@@ -56,7 +56,9 @@ Desempeña actividades programadas que, en su mayoría, son rutinarias y predeci
 
 | Sector | Subsector | Rama | Subrama | Clase |
 |---|---|---|---|---|
-| [Por definir con el CONOCER: función transversal a todos los sectores] | [ ] | [ ] | [ ] | [ ] |
+| 56 Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación | 561 Servicios de apoyo a los negocios | 5611 Servicios de administración de negocios | 56111 Servicios de administración de negocios | 561110 Servicios de administración de negocios |
+
+*Clasificación propuesta, por confirmar con el CONOCER.*
 
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
@@ -82,6 +84,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 - Equipo de cómputo con acceso a una herramienta de inteligencia artificial generativa, o entorno simulado proporcionado por el Centro de Evaluación.
 - Caso de trabajo de la organización ficticia con sus anexos: documentos de trabajo, política de uso de IA, lista de herramientas autorizadas, esquema de clasificación de la información y protocolo de reporte de incidentes.
 - Medio para presentar la solicitud simulada: mensaje de texto, nota de voz o video.
+- Directorio de la organización ficticia con el canal alterno para confirmar instrucciones.
 - Formatos de la organización ficticia para el registro de clasificación, el registro de verificación y el reporte de incidente.
 
 **Duración estimada de la evaluación**
@@ -219,7 +222,7 @@ La persona es competente cuando demuestra los siguientes:
    - Verificando que no reproduce obras protegidas ni signos distintivos sin autorización, y
    - Etiquetando como generado con IA el contenido sintético de imagen, audio o video.
 3. Declara el uso de la herramienta de IA generativa:
-   - Conforme a la política de la organización o a las reglas de la institución educativa,
+   - Aplicando la política de la organización o las reglas de la institución educativa,
    - Indicando la herramienta utilizada, e
    - Indicando la parte del producto elaborada con apoyo de la herramienta.
 
@@ -275,12 +278,12 @@ La persona es competente cuando demuestra los siguientes:
 **DESEMPEÑOS**
 
 1. Verifica la autenticidad de una solicitud sospechosa:
-   - Identificando las señales de posible suplantación: urgencia injustificada, solicitud por un canal no habitual, petición de transferencias o de información confidencial, e inconsistencias en la voz, la imagen o el texto,
+   - Identificando las señales de posible suplantación: urgencia para omitir el procedimiento habitual, solicitud por un canal no habitual, petición de transferencias o de información confidencial, e inconsistencias en la voz, la imagen o el texto,
    - Absteniéndose de ejecutar la instrucción mientras no confirme su autenticidad, y
    - Confirmando la solicitud por el canal alterno establecido por la organización.
 2. Reporta el incidente identificado:
-   - Al responsable designado por la organización,
-   - En el plazo que establece el protocolo de la organización,
+   - Dirigiéndolo al responsable designado por la organización,
+   - Presentándolo en el plazo que establece el protocolo de la organización,
    - Describiendo los hechos, la herramienta o el canal involucrado y la información comprometida, y
    - Absteniéndose de difundir el contenido o la información involucrada.
 
@@ -330,9 +333,9 @@ La persona es competente cuando demuestra las siguientes:
 ## Notas para el Comité de Gestión por Competencias
 *No forman parte del Estándar de Competencia.*
 
-1. **Delimitación.** Complementa al EC1705: aquel evalúa la creación de contenido con IA generativa; este evalúa la protección de la información, la verificación de resultados y la atención de incidentes. La revisión del RENEC de octubre de 2026 no identificó estándares con este objeto (ver `01-mapa-funcional.md`).
-2. **Fórmulas del formato por confirmar con el CONOCER:** las frases que introducen productos ("obtiene los siguientes"), situaciones emergentes ("demuestra la siguiente") y actitudes ("demuestra las siguientes"); la escala de niveles de conocimiento; el catálogo de actitudes; y el texto descriptivo del nivel Dos. Ya verificadas en estándares publicados: el formato F21-COOPYD-01, la frase "posee los siguientes" para conocimientos y la redacción de la duración de la evaluación.
-3. **Clasificación.** Definir con el CONOCER el SCIAN de una función transversal. El grupo unitario SINCO 9999 sigue el precedente del EC1781 (DOF 2026).
+1. **Delimitación.** Complementa al EC1705. Aquel evalúa la creación de contenido digital con IA generativa y, en su Elemento 3 de 3 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa"), la aplicación de principios de transparencia, veracidad, privacidad y propiedad intelectual durante esa creación, con conocimientos sobre precauciones básicas de seguridad y privacidad. Este EC evalúa un procedimiento verificable que aquel no exige: clasificar la información conforme al esquema de la organización y depurarla con registro, contrastar cada dato con una fuente verificable con registro, y reportar incidentes y suplantaciones conforme al protocolo de la organización. La revisión del RENEC de octubre de 2026 no identificó estándares con este objeto (ver `01-mapa-funcional.md`). Antes de presentarlo, comparar criterio por criterio con el texto publicado del Elemento 3 del EC1705.
+2. **Fórmulas del formato.** Verificadas en estándares publicados: el formato F21-COOPYD-01; las frases "demuestra los siguientes" (desempeños), "obtiene los siguientes" (productos) y "posee los siguientes" (conocimientos, con columna de nivel); la redacción de las actitudes ("Responsabilidad: La manera en que…"), con Iniciativa, Orden y Responsabilidad en el catálogo; el texto del nivel Dos, igual al del EC0554.01 y el EC1061; y la redacción de la duración de la evaluación. Por confirmar con el CONOCER: las frases que introducen situaciones emergentes ("demuestra la siguiente") y actitudes ("demuestra las siguientes"), la escala completa de niveles de conocimiento y que Perseverancia forme parte del catálogo de actitudes.
+3. **Clasificación.** El SCIAN 561110 es una propuesta para una función transversal de oficina; confirmar los códigos y sus nombres con el CONOCER y el SCIAN vigente del INEGI. Precedentes: el EC1705 usa el sector 61 (servicios educativos) y el EC1657 el sector 54. El grupo unitario SINCO 9999 sigue el precedente de estándares publicados, como el EC1171.
 4. **Definiciones legales.** Ajustar "dato personal" y "dato personal sensible" al texto literal de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025, con revisión de un especialista.
 5. **Evaluación.** Validar en la prueba piloto la duración y la consistencia entre evaluadores. Consultar al CONOCER si procede la evaluación a distancia.
 

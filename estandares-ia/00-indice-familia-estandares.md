@@ -8,8 +8,8 @@
 |---|---|---|
 | `04-exposicion-de-motivos.md` ([versión con diagramas](https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c)) | Por qué se necesitan los estándares, para lectores que no conocen el sistema CONOCER | Versión 1.0 |
 | `01-mapa-funcional.md` | Propósito principal, funciones clave, elementos, correspondencia con NIST e ISO, revisión del RENEC | Versión 1.0 |
-| `02-EC-A-borrador.md` | **EC-A** · Protección de la información y verificación de resultados en el uso de herramientas de IA generativa (3 elementos, nivel Dos) | Borrador 1.0 en formato F21-COOPYD-01 |
-| `03-EC-B-borrador.md` | **EC-B** · Gestión de riesgos y controles en el uso de sistemas de IA en la organización (4 elementos, nivel Cuatro) | Borrador 1.0 en formato F21-COOPYD-01 |
+| `02-EC-A-borrador.md` | **EC-A** · Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa (3 elementos, nivel Dos) | Borrador 1.0 en formato F21-COOPYD-01 |
+| `03-EC-B-borrador.md` | **EC-B** · Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización (4 elementos, nivel Cuatro) | Borrador 1.0 en formato F21-COOPYD-01 |
 | `05-IEC-EC-A-guia-evaluador.md` | Instrumento de evaluación del EC-A: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
 | `06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
 | `07-IEC-EC-B-guia-evaluador.md` | Instrumento de evaluación del EC-B: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
@@ -51,10 +51,11 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 **A. Documentos técnicos**
 - [x] Mapa funcional
 - [x] Borradores del EC-A y del EC-B en formato F21-COOPYD-01
-- [x] Revisión de traslapes con el RENEC
+- [x] Revisión de traslapes con el RENEC (antes de presentar: comparar con el texto publicado del Elemento 3 del EC1705 y revisar lo publicado después del 7 de agosto de 2026)
 - [x] Exposición de motivos
 - [x] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
 - [x] Instrumento de Evaluación de Competencia del EC-B: caso simulado con cuatro simulaciones, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
+- [ ] Segunda versión paralela de los casos de evaluación del EC-A y del EC-B
 - [ ] Prueba piloto de ambos instrumentos con empresas y universidades, y ajustes (plan listo: documento 16)
 - [ ] Traslado de ambos estándares a la plantilla oficial en Word que proporcione el CONOCER
 
@@ -65,7 +66,8 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 
 **C. Revisiones y confirmaciones**
 - [ ] Revisión jurídica: definiciones de la ley de datos de 2025, deber de informar vulneraciones, derechos de autor e imagen
-- [ ] Confirmar con el CONOCER: niveles, SINCO, SCIAN, frases del formato, escala de conocimientos, catálogo de actitudes y evaluación a distancia
+- [x] Verificar en estándares publicados el texto de los niveles Dos y Cuatro, y las frases de desempeños, productos, conocimientos y actitudes
+- [ ] Confirmar con el CONOCER: SCIAN (propuestas 561110 y 541610), frases de situaciones emergentes y actitudes, escala de conocimientos, catálogo de actitudes, umbrales de los cuestionarios (20 de 24 y 23 de 28), condiciones críticas y evaluación a distancia
 - [ ] Decidir el registro como EC o como Estándar de Competencia de Marca (ECM) (análisis y recomendación preliminar: documento 18)
 
 **D. Aprobación**
@@ -75,10 +77,42 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 **E. Operación (después de la publicación)**
 - [ ] Acreditar la solución de evaluación en el centro de evaluación
 - [ ] Contar con evaluadores certificados en el EC0076 (Evaluación de la competencia de candidatos con base en Estándares de Competencia)
+- [ ] Confirmar la clave de área temática de la DC-3 y el registro como agente capacitador externo ante la STPS
 - [x] Curso de alineación y guía de estudio del EC-A (borrador 1.0)
 - [x] Curso de alineación y guía de estudio del EC-B (borrador 1.0)
 - [x] Paquete empresarial: diagnóstico de uso de IA y plantilla de política de uso (borrador 1.0)
 - [x] Convenio tipo con universidades (borrador 1.0 para revisión jurídica)
+
+---
+
+## Documentos por elaborar
+
+Revisión del paquete del 9 de octubre de 2026. En orden de prioridad:
+
+**1. Para aplicar la evaluación**
+- Segunda versión paralela del caso de evaluación del EC-A y del EC-B (caso, anexos, cuestionario y claves), para que el caso no circule entre candidatos.
+- Insumos de producción del IEC del EC-A: nota de voz y mensajes grabados de la Parte C, y especificación del entorno que simula la herramienta de IA.
+- Formatos de registro: hoja de respuestas del cuestionario, bitácora de tiempos y bitácora de incidencias.
+
+**2. Para impartir los cursos**
+- Presentaciones del instructor del EC-A y del EC-B.
+- Banco de ejemplos del instructor que piden las cartas descriptivas (ejemplos para clasificar, fuentes, suplantaciones en audio, video y texto, declaraciones incompletas; sistemas, controles, cláusulas e incidente para el análisis de causa raíz).
+- Encuesta de satisfacción de cinco preguntas (cursos y prueba piloto).
+- Plantilla del programa de capacitación (Producto 4 del Elemento 3 del EC-B).
+
+**3. Para la prueba piloto**
+- Carta o convenio de participación en la piloto con instituciones y empresas (el documento 15 supone un estándar publicado).
+- Constancia de participación.
+- Programa de capacitación de los evaluadores en los instrumentos.
+- Aviso de privacidad de la empresa para candidatos, participantes y convenios (con revisión jurídica).
+
+**4. Para la consultoría y los convenios**
+- Convenio de confidencialidad con los clientes del diagnóstico y contrato de encargo de tratamiento de datos.
+- Formato del informe periódico de resultados a las instituciones (documento 15).
+- Descripción del servicio de seguimiento trimestral (documento 13).
+- Convenio general (marco) con instituciones, cuando la institución lo pida.
+
+**Dependen de terceros:** plantilla oficial en Word del CONOCER, acta del Comité de Gestión por Competencias, resultados de la prueba piloto, dictamen jurídico y expediente de acreditación de la solución de evaluación.
 
 ---
 

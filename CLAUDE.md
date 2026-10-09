@@ -6,12 +6,12 @@ Contexto para continuar el proyecto desde Claude Code local. Escrito al cierre d
 
 - Es socio de una empresa con fines de lucro que desarrolla Estándares de Competencia (EC) con el CONOCER (Consejo Nacional de Normalización y Certificación de Competencias Laborales, sectorizado en la SEP). Sus socios son expertos en estándares de otras áreas, no en IA.
 - Activos de la empresa: buena relación con la directora del CONOCER y un **centro evaluador que ya opera** y ha implementado otros estándares.
-- Objetivo: estándares de IA **"con dientes"** (que generen demanda obligatoria o casi obligatoria) y que se moneticen rápido: cursos de alineación, evaluación y certificación, y consultoría.
-- Analogía que usa el usuario: tras la explosión de la pipa de gas en Iztapalapa (septiembre de 2025) se emitieron las NOM-EM-006-ASEA-2025 y NOM-EM-007-ASEA-2025, que exigen capacitación de choferes acreditada con un estándar de competencia. No hubo reforma legal: el "diente" fue una NOM de emergencia emitida por una dependencia con facultades.
+- Objetivo: estándares de IA que generen demanda obligatoria o casi obligatoria y que se moneticen rápido: cursos de alineación, evaluación y certificación, y consultoría.
+- Analogía que usa el usuario: tras la explosión de la pipa de gas en Iztapalapa (septiembre de 2025) se emitieron las NOM-EM-006-ASEA-2025 y NOM-EM-007-ASEA-2025, que exigen capacitación de choferes acreditada con un estándar de competencia. No hubo reforma legal: la obligación vino de una NOM de emergencia emitida por una dependencia con facultades.
 
 ## 2. Decisiones estratégicas tomadas
 
-1. **No depender de reformas legales.** Los "dientes" vienen de instrumentos que ya existen: NOM (Ley de Infraestructura de la Calidad), lineamientos de dependencias, requisitos en contratos, requisitos de egreso de universidades y obligaciones vigentes de las empresas.
+1. **No depender de reformas legales.** La obligación de certificarse viene de instrumentos que ya existen: NOM (Ley de Infraestructura de la Calidad), lineamientos de dependencias, requisitos en contratos, requisitos de egreso de universidades y obligaciones vigentes de las empresas.
 2. **Mercados:**
    - Universidades: requisito de egreso. Subsistemas que dependen de la SEP (TecNM, universidades tecnológicas y politécnicas, DGETI, CONALEP) y privadas con RVOE. El EGEL del CENEVAL **no** es obligatorio a nivel nacional.
    - Empresas: la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF 20 de marzo de 2025) exige medidas de seguridad (art. 18) e informar vulneraciones (art. 19); la LFT obliga a capacitar (art. 153-A, constancias DC-3). Empleados que pegan datos en ChatGPT = riesgo legal actual.
@@ -65,13 +65,12 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    - ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
    - ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
    - ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
-   - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y llevar a la reunión con el CONOCER las preguntas de los archivos 17 y 18.
-3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede):
-   - La plantilla vigente F21-COOPYD-01 y sus frases fijas: "obtiene los siguientes" para productos, "demuestra la siguiente" para situaciones emergentes, "demuestra las siguientes" para actitudes.
-   - El texto oficial de los niveles Dos y Cuatro del Sistema Nacional de Competencias.
-   - La escala de niveles de conocimiento y el catálogo de actitudes que usa el CONOCER.
-   - SINCO y SCIAN para estándares transversales.
-   - El Elemento 3 del EC1705.
+   - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación). El usuario pidió terminar los documentos, en especial los estándares; no hace falta preparar la reunión con el CONOCER.
+3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede). Ya verificado con fragmentos de estándares publicados (EC0076, EC0301, EC0554.01, EC1061, EC1410, EC1440, EC1171): frases de desempeños, productos y conocimientos; redacción de actitudes; textos de los niveles Dos y Cuatro; SINCO 9999. Falta:
+   - Las frases "demuestra la siguiente" (situaciones emergentes) y "demuestra las siguientes" (actitudes).
+   - La escala completa de niveles de conocimiento y el catálogo de actitudes (si incluye Perseverancia y Tolerancia).
+   - Los códigos y nombres del SCIAN propuestos (561110 para el EC-A y 541610 para el EC-B).
+   - El texto completo del Elemento 3 del EC1705 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa"), para compararlo criterio por criterio con el EC-A.
 4. Revisión jurídica de las definiciones de la LFPDPPP 2025 (dato personal, dato sensible, vulneración) y de los artículos citados.
 5. Gobernanza: Comité de Gestión por Competencias, grupo técnico y prueba piloto con universidades y empresas. Documentos listos: plan de la piloto (16) y ruta del comité y términos de referencia del grupo técnico (17). Falta ejecutarlos.
 6. Decidir el registro como EC o como ECM (Estándar de Competencia de Marca) y qué control da cada opción sobre quién evalúa. Análisis en el archivo 18: recomendación preliminar EC público; confirmar con el CONOCER si existe el EC de uso restringido y quién puede acreditarse.
@@ -90,6 +89,7 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
 - Evaluación siempre con datos ficticios. Neutralidad tecnológica: ninguna marca obligatoria.
 - No presentar como hecho lo que no se ha verificado: marcarlo "por confirmar". No prometer al usuario que un certificado es "obligatorio por ley".
 - Las cifras de precios o ingresos que se han dado al usuario son hipotéticas.
+- No usar en los documentos la expresión "con dientes" ni "dientes": es un término interno de los socios. Decir "que dependencias, universidades y empresas lo exijan" o "demanda obligatoria o casi obligatoria".
 
 ## 7. Cómo arrancar
 
