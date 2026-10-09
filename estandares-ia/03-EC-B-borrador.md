@@ -19,14 +19,14 @@ Asimismo, puede ser referente para el desarrollo de programas de capacitación y
 El presente EC se refiere únicamente a funciones para cuya realización no se requiere por disposición legal, la posesión de un título profesional. Por lo que para certificarse en este EC no deberá ser requisito el poseer dicho documento académico.
 
 ### Descripción general del Estándar de Competencia
-Este EC expresa las funciones que una persona realiza para gestionar el uso de la inteligencia artificial en una organización, desde la integración del inventario de los sistemas de IA en uso, incluidos los no autorizados, y la evaluación de los riesgos y del impacto de cada uso en materia de protección de datos personales, seguridad de la información, exactitud de los resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual, imagen y voz de las personas, y continuidad de la operación, hasta el establecimiento de la política de uso, la revisión de las condiciones de los proveedores, el plan de controles y el programa de capacitación, así como la supervisión de los controles, la gestión de incidentes y el informe a la dirección.
+Este EC expresa las funciones que una persona realiza para gestionar el uso de la inteligencia artificial en una organización, desde la integración del inventario de los sistemas de IA en uso, incluidos los no autorizados, y la evaluación de los riesgos y del impacto de cada uso en materia de protección de datos personales, seguridad de la información, exactitud de los resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual e imagen y voz de las personas, y continuidad de la operación, hasta el establecimiento de la política de uso, la revisión de las condiciones de los proveedores, el plan de controles y el programa de capacitación, así como la supervisión de los controles, la gestión de incidentes y el informe a la dirección.
 
 También establece los conocimientos teóricos, básicos y prácticos con los que debe contar para realizar un trabajo, así como las actitudes relevantes en su desempeño.
 
 El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso, respeto, trabajo digno y responsabilidad social.
 
 ### Nivel en el Sistema Nacional de Competencias: Cuatro
-Desempeña una amplia gama de actividades tanto programadas poco rutinarias como impredecibles que implican la aplicación de técnicas y principios básicos. Recibe orientaciones generales e instrucciones específicas de un superior. Requiere emitir instrucciones generales y precisas a subordinados. Se coordina con personal de áreas afines.
+Desempeña diversas actividades tanto programadas, poco rutinarias como impredecibles que suponen la aplicación de técnicas y principios básicos. Recibe lineamientos generales de un superior. Requiere emitir orientaciones generales e instrucciones específicas a personas y equipos de trabajo subordinados. Es responsable de los resultados de las actividades de sus subordinados y del suyo propio.
 
 ### Comité de Gestión por Competencias que lo desarrolló
 [Por designar]
@@ -58,6 +58,8 @@ Desempeña una amplia gama de actividades tanto programadas poco rutinarias como
 |---|---|---|---|---|
 | 54 Servicios profesionales, científicos y técnicos | 541 Servicios profesionales, científicos y técnicos | 5416 Servicios de consultoría administrativa, científica y técnica | 54161 Servicios de consultoría en administración | 541610 Servicios de consultoría en administración |
 
+*Clasificación propuesta, por confirmar con el CONOCER.*
+
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
 ### Empresas e Instituciones participantes en el desarrollo del EC
@@ -78,7 +80,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 
 **Apoyos/Requerimientos**
 - Equipo de cómputo con procesador de textos y hoja de cálculo.
-- Caso práctico de la organización ficticia con sus anexos: organigrama, descripción de procesos, relación de sistemas detectados, contrataciones y licencias de software, extractos de las condiciones de servicio de proveedores de IA, política de seguridad de la información y reporte de un incidente.
+- Caso práctico de la organización ficticia con sus anexos: perfil de la organización, respuestas al cuestionario de levantamiento, relación de contrataciones y licencias de software, registro técnico de accesos a servicios de IA, extracto de las condiciones de servicio de un proveedor de IA, directorio y formatos. El incidente se presenta durante la simulación.
 - Espacio para las simulaciones de entrevista, presentación, comunicación de la política y atención del incidente.
 
 **Duración estimada de la evaluación**
@@ -229,8 +231,8 @@ La persona es competente cuando demuestra las siguientes:
 
 **GLOSARIO**
 1. Evaluación de impacto: Análisis documentado de los efectos que un uso de IA puede tener sobre las personas y la organización, y de las medidas para reducirlos.
-2. Inyección de instrucciones: Técnica que introduce en el contenido que procesa un sistema de IA instrucciones ocultas para alterar su comportamiento.
-3. Intervención humana: Revisión del resultado de un sistema de IA por una persona con autoridad y conocimiento suficientes para confirmarlo, modificarlo o rechazarlo antes de que produzca efectos.
+2. Inyección de instrucciones: Técnica que introduce instrucciones, de forma directa o dentro del contenido que procesa un sistema de IA, para alterar su comportamiento.
+3. Intervención humana: Revisión del resultado de un sistema de IA por una persona con facultades para confirmarlo, modificarlo o rechazarlo y con conocimiento del proceso en que se usa, antes de que produzca efectos.
 4. Nivel de riesgo: Resultado de combinar la probabilidad de ocurrencia y el impacto de un riesgo.
 5. Riesgo residual: Riesgo que permanece después de aplicar las medidas de tratamiento.
 6. Tratamiento del riesgo: Decisión de evitar, reducir, compartir o aceptar un riesgo, y las medidas que la acompañan.
@@ -365,7 +367,7 @@ La persona es competente cuando demuestra la siguiente:
 1. Situación emergente: Durante la atención del incidente, se informa que la información filtrada contiene datos personales sensibles de clientes y ya circula en redes sociales.
 
 **RESPUESTAS ESPERADAS**
-1. Escala de inmediato el incidente a la dirección y al área jurídica, solicita a la plataforma el retiro del contenido, determina con el área jurídica la información a las personas titulares conforme a la normatividad aplicable y lo documenta en el registro de incidente.
+1. Escala de inmediato el incidente a la dirección y al área jurídica, solicita a la plataforma el retiro del contenido, determina con el área jurídica si procede informar a las personas titulares conforme a la normatividad aplicable y lo documenta en el registro de incidente.
 
 La persona es competente cuando demuestra las siguientes:
 
@@ -387,9 +389,9 @@ La persona es competente cuando demuestra las siguientes:
 1. **Alineación internacional.** Los cuatro elementos siguen las funciones del NIST AI RMF (mapear, medir, gobernar y gestionar) y los requisitos de ISO/IEC 42001 (contexto, evaluación de riesgos y de impacto, política, competencia y toma de conciencia, evaluación del desempeño y mejora). La correspondencia está en `01-mapa-funcional.md`.
 2. **Expediente integrado.** Los productos de los cuatro elementos se elaboran sobre el mismo caso: la persona entrega un expediente de gestión de IA completo y comparable entre candidatos.
 3. **Nivel.** Se propone el nivel Cuatro por el grado de juicio y de coordinación con otras áreas. Confirmar con el CONOCER.
-4. **Clasificación.** El SCIAN 541610 es una propuesta; confirmar con el CONOCER. El grupo unitario SINCO 9999 sigue el precedente del EC1781 (DOF 2026).
-5. **Fórmulas del formato por confirmar con el CONOCER:** las mismas señaladas en el EC-A (introducción de productos, situaciones emergentes y actitudes; escala de conocimientos; catálogo de actitudes; texto del nivel Cuatro).
-6. **Validación jurídica.** El contenido de un EC es responsabilidad exclusiva de la institución que lo desarrolla (Acuerdo SE/III-26/05,R). Los principios de protección de datos, la definición de vulneración y el deber de informar a las personas titulares deben ajustarse al texto literal de la ley de 2025 con un especialista.
+4. **Clasificación.** El SCIAN 541610 es una propuesta; confirmar los códigos y sus nombres con el CONOCER y el SCIAN vigente del INEGI. El grupo unitario SINCO 9999 sigue el precedente de estándares publicados, como el EC1171.
+5. **Fórmulas del formato.** Las verificadas y las pendientes son las mismas señaladas en el EC-A. El texto del nivel Cuatro es el de estándares publicados como el EC0076, el EC1410 y el EC1440.
+6. **Validación jurídica.** El contenido de un EC es responsabilidad de la institución que lo desarrolla (así lo señala el Acuerdo SE/III-26/05,R; confirmar el texto literal). Los principios de protección de datos, la definición de vulneración y el deber de informar a las personas titulares deben ajustarse al texto literal de la ley de 2025 con un especialista.
 7. **Vínculo con el EC-A.** El producto 4 del Elemento 3 de 4 (programa de capacitación) se acredita en el personal mediante el EC-A.
 
 **Cambios respecto de la versión 0.1:** título más breve ("sistemas" incluye las herramientas); un desempeño observable por elemento mediante simulación (entrevista, presentación, comunicación y atención de incidente); escala de valoración de riesgos con criterios mínimos; riesgo residual en la evaluación de impacto; notificación de incidentes por proveedores; inyección de instrucciones entre los riesgos propios de la IA; "Imparcialidad" sustituida por "Orden"; frases introductorias del formato completas.

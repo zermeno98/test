@@ -98,7 +98,7 @@ Respuestas esperadas: congruentes con la política que elaboró el candidato. Co
 
 El evaluador representa al Lic. Marco Ejemplo Salas, Jefe de Atención a Clientes:
 
-> "Te aviso algo delicado. Uno de mis ejecutivos subió hoy, a las 10:40, a su cuenta personal del Asistente B un archivo con 3,500 registros de clientes del programa de garantías extendidas, para que le ayudara a priorizar llamadas. El archivo tiene nombre, teléfono y domicilio, y en 40 casos información de discapacidad para entregas adaptadas. Me di cuenta hace 20 minutos."
+> "Te aviso algo delicado. Uno de mis ejecutivos subió hoy, a las 10:40, a su cuenta personal del Asistente B un archivo con 3,500 registros de clientes del programa de garantías extendidas, para que le ayudara a priorizar llamadas. El archivo tiene nombre, teléfono y domicilio, y en 40 casos información de discapacidad para entregas adaptadas. Me di cuenta a las 11:50."
 
 | Si el candidato… | Respuesta |
 |---|---|
@@ -160,7 +160,7 @@ Marque **Sí** cuando el candidato realiza la conducta y **No** cuando no la rea
 | 4.1 | Confirma los hechos con la persona que reportó | | | |
 | 4.2 | Determina la información y las personas afectadas: 3,500 clientes, 40 de ellos con datos personales sensibles | | | |
 | 4.3 | Aplica las medidas de contención: suspensión del uso, eliminación de la conversación o el archivo, cierre de sesión y bloqueo técnico de la herramienta | | | |
-| 4.4 | Determina, con Jurídico, si el incidente constituye una vulneración de seguridad de datos personales que deba informarse a las personas titulares | | | |
+| 4.4 | Determina si el incidente constituye una vulneración de seguridad de datos personales que deba informarse a las personas titulares conforme a la normatividad aplicable | | | |
 | 4.5 | Comunica el incidente al Director General | | | |
 | SE.1 | Ante la situación emergente, escala de inmediato el incidente a la Dirección General y a Jurídico | | | |
 | SE.2 | Solicita a la plataforma el retiro del contenido | | | |
@@ -284,8 +284,8 @@ Marque **Sí** cuando el producto cumple el criterio. Un criterio que no aplica 
 | Asistente virtual de la tienda en línea (Proveedor Conversacional Ficticio) | B2 y B3 | Atención de clientes y quejas | Datos personales de clientes | No; apoya la atención | Integrado en sistemas | Autorizado (contrato) |
 | Filtro inteligente de candidatos (Plataforma RH Ficticia) | B3 y entrevista | Preselección y descarte de candidatos | Datos personales de candidatos; edad, fotografía y estado civil | **Sí: descarte automático sin revisión humana** | Integrado en la plataforma | Activado sin evaluación ni autorización |
 | Resúmenes inteligentes del correo (Proveedor de Oficina Ficticio) | B3 | Resumen de correos y documentos | Interna, confidencial y datos personales | No | Integrado, activado por defecto | Sin evaluación |
-| Asistente B | B4 y entrevista | Cartas de rechazo con CV (Recursos Humanos); uso en Finanzas | Datos personales de candidatos; información financiera | No | Cuentas personales | No autorizado |
-| Transcriptor de reuniones | B4 | Transcripción de reuniones de Finanzas | Confidencial | No | Cuentas personales | No autorizado |
+| Asistente B | B4 y entrevista | Cartas de rechazo con CV (Recursos Humanos); carga de reportes de resultados (Finanzas) | Datos personales de candidatos; información financiera confidencial | No | Cuentas personales | No autorizado |
+| Transcriptor de reuniones | B4 | Transcripción de las reuniones de cierre mensual y de presupuesto de Finanzas | Confidencial (información financiera) | No | Cuentas personales | No autorizado |
 | Generador de imágenes | B2 y B4 | Imágenes de campañas a partir de fotos del personal | Imagen de personas trabajadoras | No | Cuentas personales | No autorizado |
 
 ### Riesgos altos esperados y tratamiento
@@ -293,15 +293,15 @@ Marque **Sí** cuando el producto cumple el criterio. Un criterio que no aplica 
 | Uso | Por qué es alto | Tratamiento esperado |
 |---|---|---|
 | Filtro de candidatos | Decisión automatizada sobre personas, sin revisión humana, con datos que pueden producir discriminación; afecta a cerca de 2,000 personas al mes | Reducir: suspender el descarte automático, revisión humana de los descartados, retirar edad, fotografía y estado civil de los criterios, evaluar el sesgo antes de reactivarlo |
-| Asistente B con CV | Datos personales de candidatos en cuentas personales de un servicio público | Evitar: bloqueo técnico y alternativa institucional |
-| Transcriptor de reuniones | Información financiera confidencial en un servicio gratuito | Evitar: bloqueo técnico y alternativa institucional |
+| Asistente B con CV | Datos personales de candidatos en cuentas personales de un servicio público; también recibe reportes de resultados de Finanzas | Evitar: bloqueo técnico y alternativa institucional |
+| Transcriptor de reuniones | Información financiera confidencial (reuniones de cierre mensual y de presupuesto) en un servicio gratuito con cuentas personales | Evitar: bloqueo técnico y alternativa institucional |
 | Generador de imágenes con fotos del personal | Uso de la imagen de personas trabajadoras sin consentimiento documentado; cuentas personales | Reducir o evitar: consentimiento por escrito, herramienta institucional, leyenda de contenido generado con IA |
 
-Se aceptan como riesgo medio: el asistente virtual (condiciones del proveedor) y los resúmenes del correo (activados por defecto). Se acepta otra valoración si el candidato la fundamenta con su escala y con la información del caso.
+Se aceptan como riesgo medio el asistente virtual (condiciones del proveedor) y los resúmenes del correo (activados por defecto); en estos dos se acepta otra valoración fundamentada con la escala del candidato y la información del caso. Los tres usos de 2.2 y P4.5 (filtro de candidatos, Asistente B con CV y transcriptor de reuniones) deben valorarse como altos. En el generador de imágenes y en el Asistente A también se acepta otra valoración fundamentada.
 
 ### Evaluación de impacto esperada
 
-El uso esperado es el filtro de candidatos. Debe describir el puntaje y el descarte automático, el origen de los datos (CV de candidatos), los cerca de 2,000 candidatos al mes, el análisis de necesidad y proporcionalidad, la intervención humana antes de cualquier rechazo, las medidas y el riesgo residual.
+El uso esperado es el filtro de candidatos. Debe describir el puntaje y el descarte automático, el origen de los datos (CV de candidatos), los cerca de 2,000 candidatos al mes, el análisis de necesidad y proporcionalidad, la intervención humana antes de cualquier rechazo, las medidas y el riesgo residual. Si el candidato elige otro uso que valoró como alto, se califica con los criterios P5.1 a P5.7.
 
 ### Lista de verificación aplicada al Proveedor Conversacional Ficticio
 
@@ -317,6 +317,7 @@ Recomendación aceptable: mantener el servicio condicionado a un convenio modifi
 
 ### Incidente esperado (Parte D)
 
+- **Horas:** identificación, 14 de octubre de 2026, 11:50; reporte, al inicio de la Parte D (12:10).
 - **Información y personas afectadas:** 3,500 clientes (nombre, teléfono y domicilio) y, de ellos, 40 con información de discapacidad, que es un dato personal sensible.
 - **Contención:** suspender el uso, eliminar la conversación y el archivo, cerrar la sesión, bloquear el Asistente B en la red y conservar el registro de lo ocurrido.
 - **Determinación:** es una vulneración de seguridad de datos personales (tratamiento no autorizado por un tercero). Con Jurídico se determina si afecta de forma significativa los derechos de las personas titulares; con la publicación en redes sociales y los datos sensibles, se espera informar de inmediato, conforme a la normatividad aplicable.

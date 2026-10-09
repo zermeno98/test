@@ -30,7 +30,7 @@ Es miércoles 14 de octubre de 2026, 9:00 horas. El Director General, Ing. Héct
 |---|---|---|---|
 | A | 50 min | Entrevistas a la Jefa de Recursos Humanos e integras el inventario de sistemas de IA | Instrumento de levantamiento e inventario de sistemas de IA |
 | B | 70 min | Evalúas los riesgos y presentas los resultados al Director General (15 min de presentación) | Escala de valoración, matriz de riesgos y evaluación de impacto de un uso de riesgo alto |
-| C | 70 min | Estableces la política y los controles, y explicas la política a un grupo de personas usuarias (15 min) | Política de uso de IA, lista de verificación de proveedores aplicada, plan de controles y programa de capacitación |
+| C | 70 min | Estableces la política y los controles, y explicas la política a un grupo de personas usuarias (15 min) | Política de uso de IA, lista de verificación de proveedores aplicada al Proveedor Conversacional Ficticio (Anexo B5), plan de controles y programa de capacitación |
 | D | 45 min | Atiendes un incidente reportado y preparas el seguimiento | Programa de verificación de controles, registro de incidente e informe de gestión de IA para la dirección |
 | Cierre | 5 min | Entregas el expediente completo | — |
 
@@ -67,13 +67,13 @@ Es miércoles 14 de octubre de 2026, 9:00 horas. El Director General, Ing. Héct
 
 ## Anexo B4. Registro técnico de accesos a servicios de IA (septiembre de 2026)
 
-*Resumen elaborado por Tecnologías de la Información con los registros de la red.*
+*Resumen elaborado por Tecnologías de la Información con los registros de la red y, en los servicios no contratados, con lo que informaron las personas usuarias.*
 
 | Servicio | Tipo | Cuentas | Áreas de origen | Accesos en el mes |
 |---|---|---|---|---|
 | Asistente A | Contratado | Corporativas | Todas | 9,850 |
-| Asistente B | Público y gratuito | Personales | Recursos Humanos (2 usuarias) y Finanzas (1 usuario) | 340 |
-| Transcriptor de reuniones | Público y gratuito | Personales | Finanzas (3 usuarios) | 96 |
+| Asistente B | Público y gratuito | Personales | Recursos Humanos (2 usuarias) y Finanzas (1 usuario, carga reportes de resultados) | 340 |
+| Transcriptor de reuniones | Público y gratuito | Personales | Finanzas (3 usuarios): reuniones de cierre mensual y de presupuesto | 96 |
 | Generador de imágenes | Público | Personales | Mercadotecnia (2 usuarios) | 210 |
 
 ## Anexo B5. Condiciones de servicio del Proveedor Conversacional Ficticio (extracto)
