@@ -67,8 +67,11 @@ II.6 Su Registro Federal de Contribuyentes es [ ] y su domicilio para efectos de
 **SEGUNDA. Modalidades de incorporación.** LA INSTITUCIÓN determina, conforme a su normatividad y con la aprobación de sus órganos competentes, una o varias de las siguientes modalidades, que se detallan en el Anexo A:
 
 a) Opción de titulación o requisito de egreso para los programas [ ].
+
 b) Contenido de una asignatura, taller o actividad extracurricular.
+
 c) Servicio optativo para estudiantes y egresados.
+
 d) Capacitación y certificación de su personal docente y administrativo.
 
 LA EMPRESA reconoce que la decisión sobre requisitos académicos corresponde exclusivamente a LA INSTITUCIÓN.
