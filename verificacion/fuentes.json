@@ -278,7 +278,7 @@
   {
    "id": "LEY_INFRAESTRUCTURA_CALIDAD",
    "tipo": "pdf",
-   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal.pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
    "para": "Referencia: normas oficiales mexicanas que pueden exigir un estándar"
   },
   {
@@ -334,6 +334,66 @@
    "tipo": "pagina",
    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202601744",
    "para": "V12: Reglamento (UE) 2026/1744 (Ómnibus digital sobre IA)"
+  },
+  {
+   "id": "LFPPI",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+   "para": "Revisión jurídica: secretos industriales y signos distintivos"
+  },
+  {
+   "id": "CCF",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+   "para": "Revisión jurídica: daño moral, imagen, contratos y convenios"
+  },
+  {
+   "id": "LAASSP",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+   "para": "Revisión jurídica: contratación de servicios por instituciones públicas federales"
+  },
+  {
+   "id": "LFPC",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+   "para": "Revisión jurídica: publicidad y ofertas a consumidores (cursos y certificación)"
+  },
+  {
+   "id": "LGES",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+   "para": "Revisión jurídica: educación superior, gratuidad y requisitos de egreso"
+  },
+  {
+   "id": "LGE",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+   "para": "Revisión jurídica: educación media superior y gratuidad"
+  },
+  {
+   "id": "LFPED",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+   "para": "Revisión jurídica: no discriminación (sesgos de IA)"
+  },
+  {
+   "id": "CPEUM",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+   "para": "Revisión jurídica: artículos 3, 6, 16 y 123"
+  },
+  {
+   "id": "REG_LFPDPPP",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf",
+   "para": "Revisión jurídica: reglamento de la ley de datos de 2010 (remisión, encargado, vulneraciones); vigencia por confirmar"
+  },
+  {
+   "id": "LGRA",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+   "para": "Revisión jurídica: conflicto de interés y faltas de particulares"
   }
  ]
 }

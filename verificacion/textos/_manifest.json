@@ -373,11 +373,13 @@
   "id": "LEY_INFRAESTRUCTURA_CALIDAD",
   "tipo": "pdf",
   "para": "Referencia: normas oficiales mexicanas que pueden exigir un estándar",
-  "estado": "error",
-  "errores": [
-   "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
-  ],
-  "fecha": "2026-10-09T16:02:48+00:00"
+  "estado": "ok",
+  "paginas": 63,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+  "bytes": 680036,
+  "sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
+  "caracteres_de_texto": 207775,
+  "fecha": "2026-10-09T16:49:53+00:00"
  },
  "INEGI_SCIAN": {
   "id": "INEGI_SCIAN",
@@ -486,5 +488,125 @@
   "sha256": "ed8531e84235e5b19e4d6ebdf9d267685004f307fabf76fcec0ddffae163c3c6",
   "caracteres_de_texto": 495136,
   "fecha": "2026-10-09T16:05:57+00:00"
+ },
+ "LFPPI": {
+  "id": "LFPPI",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: secretos industriales y signos distintivos",
+  "estado": "ok",
+  "paginas": 116,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+  "bytes": 1263932,
+  "sha256": "8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20",
+  "caracteres_de_texto": 368557,
+  "fecha": "2026-10-09T16:50:05+00:00"
+ },
+ "CCF": {
+  "id": "CCF",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: daño moral, imagen, contratos y convenios",
+  "estado": "ok",
+  "paginas": 370,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+  "bytes": 3415624,
+  "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
+  "caracteres_de_texto": 1038215,
+  "fecha": "2026-10-09T16:50:37+00:00"
+ },
+ "LAASSP": {
+  "id": "LAASSP",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: contratación de servicios por instituciones públicas federales",
+  "estado": "ok",
+  "paginas": 53,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+  "bytes": 682666,
+  "sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
+  "caracteres_de_texto": 236114,
+  "fecha": "2026-10-09T16:50:47+00:00"
+ },
+ "LFPC": {
+  "id": "LFPC",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: publicidad y ofertas a consumidores (cursos y certificación)",
+  "estado": "ok",
+  "paginas": 119,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+  "bytes": 1279976,
+  "sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55",
+  "caracteres_de_texto": 334516,
+  "fecha": "2026-10-09T16:51:02+00:00"
+ },
+ "LGES": {
+  "id": "LGES",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: educación superior, gratuidad y requisitos de egreso",
+  "estado": "ok",
+  "paginas": 48,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+  "bytes": 445712,
+  "sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
+  "caracteres_de_texto": 161103,
+  "fecha": "2026-10-09T16:51:07+00:00"
+ },
+ "LGE": {
+  "id": "LGE",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: educación media superior y gratuidad",
+  "estado": "ok",
+  "paginas": 82,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+  "bytes": 1059443,
+  "sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
+  "caracteres_de_texto": 268918,
+  "fecha": "2026-10-09T16:51:16+00:00"
+ },
+ "LFPED": {
+  "id": "LFPED",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: no discriminación (sesgos de IA)",
+  "estado": "ok",
+  "paginas": 54,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+  "bytes": 688437,
+  "sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+  "caracteres_de_texto": 138102,
+  "fecha": "2026-10-09T16:51:21+00:00"
+ },
+ "CPEUM": {
+  "id": "CPEUM",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: artículos 3, 6, 16 y 123",
+  "estado": "ok",
+  "paginas": 416,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+  "bytes": 3146661,
+  "sha256": "cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65",
+  "caracteres_de_texto": 1223783,
+  "fecha": "2026-10-09T16:52:03+00:00"
+ },
+ "REG_LFPDPPP": {
+  "id": "REG_LFPDPPP",
+  "tipo": "pdf",
+  "para": "Revisión jurídica: reglamento de la ley de datos de 2010 (remisión, encargado, vulneraciones); vigencia por confirmar",
+  "estado": "ok",
+  "paginas": 36,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf",
+  "bytes": 413465,
+  "sha256": "cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb",
+  "caracteres_de_texto": 115014,
+  "fecha": "2026-10-09T16:52:06+00:00"
+ },
+ "LGRA": {
+  "id": "LGRA",
+  "tipo": "pdf",
+  "para": "Fuente adicional",
+  "estado": "ok",
+  "paginas": 79,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+  "bytes": 972618,
+  "sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
+  "caracteres_de_texto": 257330,
+  "fecha": "2026-10-09T16:58:34+00:00"
  }
 }
