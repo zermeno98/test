@@ -36,7 +36,7 @@ Tiempo estimado de estudio por cuenta propia: de 6 a 8 horas.
 |---|---|
 | 1. Diagnóstico | El centro de evaluación revisa contigo si estás listo para evaluarte |
 | 2. Alineación | Curso para prepararte. Es opcional si el diagnóstico muestra que estás listo (por confirmar con las reglas vigentes del CONOCER) |
-| 3. Evaluación | Cuestionario y situación simulada con un caso ficticio |
+| 3. Evaluación | Situación simulada con un caso ficticio y, al terminar, un cuestionario |
 | 4. Juicio | El evaluador emite el juicio: **competente** o **todavía no competente**. Si todavía no eres competente, recibes retroalimentación y puedes volver a evaluarte |
 | 5. Certificado | Si eres competente, el CONOCER emite tu certificado de competencia. La vigencia propuesta en el estándar es de 2 años |
 
@@ -289,10 +289,10 @@ Ejemplo académico: "Utilicé [herramienta] para generar el primer borrador de l
 
 | Señal | Ejemplo |
 |---|---|
-| Urgencia injustificada | "Lo necesito en 10 minutos", "es confidencial, no lo comentes" |
+| Urgencia para omitir el procedimiento | "Tiene que quedar antes del mediodía o se cancela el trámite", "sáltate la firma de autorización y luego la regularizamos" |
 | Canal no habitual | Un número nuevo, un correo con dominio externo, una red social |
 | Petición de transferencias o de información confidencial | Pagos a cuentas nuevas, listas de clientes o de estudiantes, contraseñas |
-| Impide confirmar | "Estoy en reunión, no me llames" |
+| Impide confirmar | "Voy en carretera y no tengo señal para llamadas", "manéjalo solo tú, en el área todavía no lo saben" |
 | Inconsistencias en la voz, la imagen o el texto | Entonación plana o pausas extrañas, labios que no coinciden con el audio, iluminación irregular, forma de escribir distinta a la habitual |
 
 Las voces y los videos sintéticos pueden ser muy convincentes. **No confíes en que "suena igual"**: confirma siempre por el canal alterno.
@@ -332,7 +332,7 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 1. Solo se usan las herramientas de la lista P2, con la cuenta institucional.
 2. Antes de ingresar información a una herramienta, se clasifica conforme al esquema P3, se depura y se registra en el registro de clasificación.
 3. Todo contenido generado con IA se verifica con fuentes distintas de la herramienta antes de usarse, y se registra en el registro de verificación.
-4. Los productos elaborados con apoyo de IA llevan la declaración: "Elaborado con apoyo de [herramienta]; revisado por [nombre y puesto]".
+4. Los productos elaborados con apoyo de IA llevan la declaración: "Elaborado con apoyo de [herramienta] en [parte del producto]; revisado por [nombre y puesto]".
 5. Las imágenes, el audio y el video generados con IA llevan la leyenda "Contenido generado con IA". No se usa la imagen ni la voz de ninguna persona sin su autorización por escrito.
 6. Las instrucciones que pidan datos personales, información confidencial o pagos por un canal no habitual se confirman llamando a la extensión del directorio P5. No se responde al mismo número o correo.
 7. **Protocolo de incidentes:** todo incidente se reporta a la Coordinación de Tecnologías de la Información y a la Responsable de Protección de Datos Personales en un plazo máximo de **30 minutos** desde que se identifica, por teléfono a sus extensiones y con el formato de reporte de incidente. El contenido sospechoso no se reenvía.
@@ -341,7 +341,7 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 
 | Herramienta | Cuenta | Usos autorizados | Información que puede ingresarse |
 |---|---|---|---|
-| Asistente de Redacción Institucional | Institucional (@utfs.edu.mx) | Redactar, resumir y corregir textos | Pública e interna. Datos personales solo con autorización registrada de la Responsable de Protección de Datos |
+| Asistente de Redacción Institucional | Institucional (@utfs.ficticio) | Redactar, resumir y corregir textos | Pública e interna. Datos personales solo con autorización registrada de la Responsable de Protección de Datos |
 | Generador de Imágenes Institucional | Institucional | Ilustraciones que no representen a personas reales | Solo pública |
 | Cualquier herramienta con cuenta personal | — | No autorizada | Ninguna |
 | Extensiones de navegador con IA | — | No autorizadas | Ninguna |
@@ -367,7 +367,7 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 | 2403150 | Ana Demo Ríos | Tecnologías de la Información | 8.8 | Ejemplo de Juárez | $5,800 | Justificante médico por tratamiento de depresión | Aprobada |
 | 2401299 | Carlos Ficticio Peña | Mecatrónica | 8.4 | San Ficticio del Monte | $7,100 | Falta comprobante de domicilio | Rechazada: documentación incompleta |
 | 2402410 | Sofía Caso Medina | Logística | 9.4 | Villa Muestra | $4,900 | Embarazo; solicita entregar documentos a distancia | Aprobada |
-| 2403077 | Jorge Muestra Vidal | Tecnologías de la Información | 8.2 | Ejemplo de Juárez | $8,300 | Entregó fuera de plazo | Rechazada: fuera de plazo |
+| 2403077 | Andrés Demo Vidal | Tecnologías de la Información | 8.2 | Ejemplo de Juárez | $8,300 | Entregó fuera de plazo | Rechazada: fuera de plazo |
 
 **Totales de la primera etapa** (elaborados por Servicios Escolares): 312 solicitudes; 180 aprobadas; 132 rechazadas: 70 por documentación incompleta (52 de ellas por falta de comprobante de domicilio), 40 por promedio menor a 8.0 y 22 por entrega fuera de plazo.
 
@@ -375,7 +375,7 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 
 > **CONFIDENCIAL, salvo el punto 1.**
 >
-> 1. **Puede publicarse:** para la segunda etapa se autorizan 150 becas de transporte de $800 mensuales, de enero a abril de 2027. La recepción de solicitudes será del 3 al 14 de noviembre de 2026 en el portal de Servicios Escolares, y los resultados se publicarán el 28 de noviembre de 2026.
+> 1. **Puede publicarse:** para la segunda etapa se autorizan 150 becas de transporte de $800 mensuales, de enero a abril de 2027. La recepción de solicitudes será del 3 al 13 de noviembre de 2026 en el portal de Servicios Escolares, y los resultados se publicarán el 27 de noviembre de 2026.
 > 2. La Universidad negocia con Autobuses Ficticios del Sur, S.A. de C.V., un descuento del 30% para sustituir parte de las becas en efectivo por pases de transporte. La negociación es confidencial hasta la firma del convenio.
 > 3. El presupuesto total de apoyos estudiantiles para 2027 ($3.2 millones) está pendiente de aprobación por el Consejo Directivo.
 
@@ -394,12 +394,12 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 | Lic. Paola Ejemplo Gil | Asistente de la Rectoría | 101 |
 | Mtro. Julio Ejemplo Cruz | Jefe de Servicios Escolares | 210 |
 | Lic. Rosa Demo Luna | Coordinadora de Becas (tu jefa inmediata) | 215 |
-| Lic. Sara Muestra Paz | Responsable de Protección de Datos Personales | 230 |
+| Lic. Sara Modelo Paz | Responsable de Protección de Datos Personales | 230 |
 | Ing. Iván Prueba Sol | Coordinador de Tecnologías de la Información | 250 |
 
 ### P6. Borrador encontrado en la carpeta compartida
 
-*Un compañero lo generó ayer con la herramienta y te pidió revisarlo y completarlo antes de enviarlo a tu jefa.*
+*Un compañero lo generó el viernes pasado con la herramienta y te pidió revisarlo y completarlo antes de enviarlo a tu jefa.*
 
 > **AVISO A LA COMUNIDAD ESTUDIANTIL**
 >
@@ -413,7 +413,7 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 >
 > **Documentos:** constancia de inscripción, comprobante de domicilio con antigüedad no mayor a tres meses, identificación oficial o credencial de estudiante y comprobante de ingresos.
 >
-> **Fechas:** recepción de solicitudes del 3 al 21 de noviembre de 2026 en el portal de Servicios Escolares; publicación de resultados el 28 de noviembre de 2026. Quien no esté de acuerdo con el resultado podrá presentar un recurso de revisión dentro de los 5 días hábiles siguientes a la publicación.
+> **Fechas:** recepción de solicitudes del 3 al 20 de noviembre de 2026 en el portal de Servicios Escolares; publicación de resultados el 27 de noviembre de 2026. Quien no esté de acuerdo con el resultado podrá presentar un recurso de revisión dentro de los 5 días hábiles siguientes a la publicación.
 >
 > **Recomendaciones:** en la primera etapa, la principal causa de rechazo fue la documentación incompleta, sobre todo la falta de comprobante de domicilio. Recomendamos especialmente a los estudiantes de comunidades rurales revisar dos veces su documentación, pues suelen entregarla incompleta. Como Valeria Prueba Ortiz, de Mecatrónica, que a pesar de su discapacidad motriz entregó todo a tiempo, ¡tú también puedes lograrlo!
 >
@@ -477,15 +477,15 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
 
 **Ejercicio 5. Situación emergente.** A las 13:00 la Rectoría pide que, además del aviso, prepares con el asistente una invitación personalizada, con nombre, para cada estudiante con discapacidad que solicitó beca, a una reunión sobre transporte adaptado. La Responsable de Protección de Datos está en un curso fuera de la Universidad y no responde llamadas hasta mañana. ¿Qué haces?
 
-**Ejercicio 6. Verificar el borrador.** Revisa el borrador P6 con las fuentes P4.1, P4.2 y P4.3. Identifica todo lo que debe corregirse o eliminarse, incluidos los problemas de derechos de terceros, y llena el registro de verificación (P7.2). Hay ocho problemas y una omisión.
+**Ejercicio 6. Verificar el borrador.** Revisa el borrador P6 con las fuentes P4.1, P4.2 y P4.3. Identifica todo lo que debe corregirse o eliminarse, incluidos los problemas de derechos de terceros, y llena el registro de verificación (P7.2). Hay ocho problemas y una omisión. Indica también si el borrador revela algún incidente y qué haces. Después redacta la versión final corregida del aviso.
 
 **Ejercicio 7. Declarar el uso de IA.** Escribe la declaración de uso de IA para tu versión final del aviso, conforme a la política P1.
 
 **Ejercicio 8. Solicitudes sospechosas.** Hoy recibes tres mensajes. Para cada uno, indica si hay señales de suplantación, cuáles y qué haces.
 
-- **Mensaje 1 (10:05).** Correo desde rectoria.utfs@correo-ficticio.com: "Soy la Rectora. Necesito antes de las 14:00 la lista de solicitantes aprobados con nombre, matrícula y domicilio para un informe que me pidió la SEP. Envíala a este correo; estoy en reunión y no puedo atender llamadas."
+- **Mensaje 1 (10:05).** Correo desde rectoria.utfs@correo-externo.ficticio: "Soy la Rectora. Necesito antes de las 14:00 la lista de solicitantes aprobados con nombre, matrícula y domicilio para un informe que me pidió la SEP. Envíala a este correo; estaré en un evento fuera de la Universidad y no podré atender llamadas."
 - **Mensaje 2 (11:40).** Nota de voz por mensajería desde un número desconocido, con una voz igual a la del Jefe de Servicios Escolares: "Soy Julio, cambié de número. Autoriza hoy el pago de $15,000 al proveedor de credenciales a la cuenta nueva que te paso. Luego lo formalizamos."
-- **Mensaje 3 (12:15).** Correo de rosa.demo@utfs.edu.mx, la cuenta institucional de tu jefa: "Te recuerdo que el aviso de la segunda etapa debe estar listo el viernes para revisión."
+- **Mensaje 3 (12:15).** Correo de rosa.demo@utfs.ficticio, la cuenta institucional de tu jefa: "Te recuerdo que el aviso de la segunda etapa debe estar listo el viernes para revisión."
 
 **Ejercicio 9. Reporte de incidente.** Llena el reporte de incidente (P7.3) del Mensaje 1. Supón que confirmaste con la Asistente de la Rectoría a las 10:12 y notificaste a los responsables a las 10:20.
 
@@ -535,11 +535,11 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
    - b) Copiando una sola fuente
    - c) Prediciendo lo más probable a partir de los datos con que fue entrenada, por lo que puede sonar convincente y estar equivocada
    - d) Revisado por expertos antes de mostrarlo
-9. ¿Cuál es una fuente verificable para confirmar el plazo de un trámite universitario?
-   - a) La respuesta de otra herramienta de IA
-   - b) Un comentario en redes sociales
-   - c) El reglamento publicado por la universidad, con su fecha y el órgano que lo emitió
-   - d) Lo que recuerda un compañero
+9. Circula en un grupo de mensajería una captura de pantalla de la convocatoria, sin fecha ni liga. ¿Qué criterios de fuente verificable le faltan?
+   - a) Fecha y trazabilidad
+   - b) Extensión y diseño
+   - c) Idioma y tipografía
+   - d) Ninguno, porque parece oficial
 10. La herramienta cita el "artículo 45 del Reglamento de Becas", pero el reglamento tiene 30 artículos. Lo correcto es:
     - a) Eliminar la cita o sustituirla por el artículo correcto, verificado en el reglamento
     - b) Dejarla, porque la herramienta suele acertar
@@ -565,11 +565,11 @@ Tu jefa inmediata, la Coordinadora de Becas, te pide:
     - b) Un número nuevo dice ser tu jefe
     - c) Una solicitud de rutina por el canal habitual, sin urgencia ni información confidencial
     - d) Pausas y entonación extrañas en una nota de voz
-15. Ante un incidente, ¿qué NO debes hacer?
-    - a) Describir los hechos
-    - b) Indicar el canal involucrado
-    - c) Notificar al responsable designado dentro del plazo
-    - d) Reenviar el audio falso a tus compañeros por mensajería para alertarlos
+15. ¿Qué acción cumple el protocolo de incidentes del caso de práctica (P1, punto 7)?
+    - a) Comentar el incidente con tu jefa al día siguiente
+    - b) Publicar un aviso en el portal de Servicios Escolares
+    - c) Escribir al remitente sospechoso para avisarle que lo reportarás
+    - d) Llamar a las extensiones de Tecnologías de la Información y de Protección de Datos dentro de los 30 minutos siguientes y entregar el reporte de incidente
 
 ---
 
@@ -605,7 +605,7 @@ Si marcaste todos, solicita tu evaluación. Si te faltan algunos, repasa la unid
 
 ## 11. Cómo es la evaluación
 
-- **Dos momentos:** un cuestionario de opción múltiple de 30 minutos y una situación simulada de 2 horas, con un caso ficticio distinto del de esta guía.
+- **Dos momentos:** una situación simulada de 2 horas, con un caso ficticio distinto del de esta guía, y, al terminar, un cuestionario de opción múltiple de 30 minutos.
 - **En la situación simulada** trabajas como integrante de una organización ficticia. Recibes su política de uso de IA, la lista de herramientas autorizadas, el esquema de clasificación, documentos de trabajo, el directorio y los formatos.
 - **Usas una herramienta de IA generativa autorizada o un entorno que la simula**, proporcionados por el centro de evaluación. Tus instrucciones y los resultados forman parte de la evidencia.
 - **El evaluador representa a personas de la organización** y en algún momento te presentará una solicitud que puede ser falsa.
@@ -647,13 +647,13 @@ Tarea: aviso a la comunidad estudiantil sobre la segunda etapa de la convocatori
 
 **Ejercicio 3.** Información depurada esperada (o equivalente):
 
-> Convocatoria de becas de transporte, segunda etapa. 150 becas de $800 mensuales, de enero a abril de 2027. Requisitos (Reglamento de Becas, artículo 12): inscripción vigente; promedio general mínimo de 8.0; no contar con otra beca de transporte; ingreso familiar mensual no mayor de $10,000. Documentos (artículo 13): constancia de inscripción; comprobante de domicilio con antigüedad no mayor a tres meses; identificación oficial o credencial de estudiante; comprobante de ingresos. Fechas: recepción de solicitudes del 3 al 14 de noviembre de 2026 en el portal de Servicios Escolares; resultados el 28 de noviembre de 2026, por número de matrícula; recurso de revisión dentro de los 5 días hábiles siguientes a la publicación (artículo 17). Primera etapa: 312 solicitudes, 180 aprobadas y 132 rechazadas: 70 por documentación incompleta (52 de ellas por falta de comprobante de domicilio), 40 por promedio menor a 8.0 y 22 por entrega fuera de plazo.
+> Convocatoria de becas de transporte, segunda etapa. 150 becas de $800 mensuales, de enero a abril de 2027. Requisitos (Reglamento de Becas, artículo 12): inscripción vigente; promedio general mínimo de 8.0; no contar con otra beca de transporte; ingreso familiar mensual no mayor de $10,000. Documentos (artículo 13): constancia de inscripción; comprobante de domicilio con antigüedad no mayor a tres meses; identificación oficial o credencial de estudiante; comprobante de ingresos. Fechas: recepción de solicitudes del 3 al 13 de noviembre de 2026 en el portal de Servicios Escolares; resultados el 27 de noviembre de 2026, por número de matrícula; recurso de revisión dentro de los 5 días hábiles siguientes a la publicación (artículo 17). Primera etapa: 312 solicitudes, 180 aprobadas y 132 rechazadas: 70 por documentación incompleta (52 de ellas por falta de comprobante de domicilio), 40 por promedio menor a 8.0 y 22 por entrega fuera de plazo.
 
 No identifica a ninguna persona, no contiene información confidencial y tiene todo lo necesario para el aviso.
 
 **Ejercicio 4.** Ejemplo: "Redacta un aviso de máximo 250 palabras para estudiantes universitarios sobre la segunda etapa de una convocatoria de becas de transporte. Usa un tono cordial y las secciones: número de becas y monto, requisitos, documentos, fechas y recomendaciones para evitar los rechazos más frecuentes. Usa solo esta información: [información depurada del Ejercicio 3]. No agregues datos ni cites normas que no te proporcioné." Se acepta cualquier instrucción con objetivo, contexto y formato, sin datos personales ni información confidencial.
 
-**Ejercicio 5.** La invitación personalizada requiere nombres y el dato de discapacidad (sensible) y no puede depurarse sin perder su propósito. No ingresas la información al asistente; registras la situación en el registro de clasificación; informas a tu jefa inmediata, la Coordinadora de Becas (ext. 215), y haces las invitaciones sin la herramienta o las reprogramas hasta tener la autorización de la Responsable de Protección de Datos. Alternativa válida: usar el asistente solo para redactar una plantilla con marcadores ("Estimado(a) [Nombre]:") y completar los datos fuera de la herramienta.
+**Ejercicio 5.** La invitación personalizada requiere nombres y el dato de discapacidad (sensible) y no puede depurarse sin perder su propósito. No ingresas la información al asistente; le dejas por escrito a la Responsable de Protección de Datos (ext. 230) la solicitud de autorización, para que la atienda a su regreso; registras la situación en el registro de clasificación; informas a tu jefa inmediata, la Coordinadora de Becas (ext. 215), y haces las invitaciones sin la herramienta o las reprogramas hasta tener la autorización. Alternativa válida: usar el asistente solo para redactar una plantilla con marcadores ("Estimado(a) [Nombre]:") y completar los datos fuera de la herramienta.
 
 **Ejercicio 6.** Ocho problemas y una omisión:
 
@@ -663,15 +663,41 @@ No identifica a ninguna persona, no contiene información confidencial y tiene t
 | 65% aprobadas | 180 ÷ 312 = 57.7% | Corregido a 57.7% |
 | Negociación con Autobuses Ficticios del Sur | P4.2, punto 2: confidencial | Eliminado |
 | "Lineamiento Nacional de Becas de Transporte 2025 de la SEP" | No aparece en las fuentes; no verificable | Eliminado; los requisitos se fundamentan en el artículo 12 del Reglamento de Becas |
-| Recepción hasta el 21 de noviembre | P4.2, punto 1: hasta el 14 de noviembre | Corregido a 14 |
+| Recepción hasta el 20 de noviembre | P4.2, punto 1: hasta el 13 de noviembre | Corregido a 13 |
 | "Estudiantes de comunidades rurales… suelen entregarla incompleta" | Generalización sin sustento sobre un grupo | Eliminado (sesgo). Se sustituye por una recomendación neutral: revisar que el comprobante de domicilio tenga una antigüedad no mayor a tres meses |
 | Nombre de la estudiante y su discapacidad | Dato personal y dato personal sensible | Eliminado |
 | Ilustración hecha con la fotografía del grupo de Logística | Imagen de personas sin autorización; sin leyenda | Eliminada o sustituida por una ilustración sin personas reales, hecha con el Generador de Imágenes Institucional y con la leyenda "Contenido generado con IA" |
 | *Omisión:* falta la declaración de uso de IA | P1, punto 4 | Agregada |
 
-Datos confirmados sin cambio: 180 aprobadas; 150 becas de $800 mensuales; enero a abril de 2027; requisitos y documentos; 28 de noviembre; 5 días hábiles; documentación incompleta y comprobante de domicilio como principales causas de rechazo.
+Datos confirmados sin cambio: 180 aprobadas; 150 becas de $800 mensuales; enero a abril de 2027; requisitos y documentos; 27 de noviembre; 5 días hábiles; documentación incompleta y comprobante de domicilio como principales causas de rechazo.
 
-**Ejercicio 7.** "Elaborado con apoyo del Asistente de Redacción Institucional; revisado por [tu nombre], Auxiliar Administrativo de la Coordinación de Becas."
+**Incidente.** El borrador muestra que quien lo generó ingresó al asistente datos personales y un dato personal sensible (el nombre y la discapacidad motriz de una estudiante) e información confidencial (la negociación con Autobuses Ficticios del Sur), que solo pudieron tomarse de P4.1 y P4.2. Lo reportas como "ingreso indebido de información", por teléfono, a TI (ext. 250) y a la Responsable de Protección de Datos (ext. 230) dentro de los 30 minutos que fija el protocolo (P1, punto 7), contados desde que lo identificas, y requisitas el reporte de incidente (P7.3). No reenvías el borrador.
+
+**Versión final corregida (ejemplo):**
+
+> **AVISO A LA COMUNIDAD ESTUDIANTIL**
+>
+> **Segunda etapa de la convocatoria de becas de transporte, enero a abril de 2027**
+>
+> La Universidad Tecnológica Ficticia del Sur informa que en la primera etapa se recibieron 312 solicitudes y se aprobaron 180, es decir, el 57.7%.
+>
+> Para la segunda etapa se otorgarán 150 becas de $800 mensuales, de enero a abril de 2027.
+>
+> **Requisitos** (Reglamento de Becas, artículo 12): inscripción vigente, promedio general mínimo de 8.0, no contar con otra beca de transporte e ingreso familiar mensual no mayor de $10,000.
+>
+> **Documentos** (artículo 13): constancia de inscripción, comprobante de domicilio con antigüedad no mayor a tres meses, identificación oficial o credencial de estudiante y comprobante de ingresos.
+>
+> **Fechas:** recepción de solicitudes del 3 al 13 de noviembre de 2026 en el portal de Servicios Escolares; publicación de resultados el 27 de noviembre de 2026, por número de matrícula. Quien no esté de acuerdo con el resultado podrá presentar un recurso de revisión dentro de los 5 días hábiles siguientes a la publicación.
+>
+> **Recomendaciones:** en la primera etapa, la principal causa de rechazo fue la documentación incompleta, sobre todo la falta de comprobante de domicilio. Antes de enviar tu solicitud, revisa que tu comprobante de domicilio tenga una antigüedad no mayor a tres meses y que adjuntes los cuatro documentos.
+>
+> Atentamente, Servicios Escolares
+>
+> *Elaborado con apoyo del Asistente de Redacción Institucional en la redacción del primer borrador del aviso; revisado por [tu nombre], Auxiliar Administrativo de la Coordinación de Becas.*
+
+Si se conserva una ilustración, debe ser sin personas reales, hecha con el Generador de Imágenes Institucional y con la leyenda "Contenido generado con IA".
+
+**Ejercicio 7.** "Elaborado con apoyo del Asistente de Redacción Institucional en la redacción del primer borrador del aviso; revisado por [tu nombre], Auxiliar Administrativo de la Coordinación de Becas."
 
 **Ejercicio 8.**
 
@@ -679,7 +705,7 @@ Datos confirmados sin cambio: 180 aprobadas; 150 becas de $800 mensuales; enero 
 |---|---|---|---|
 | 1 | Sí | Dominio externo (canal no habitual), urgencia, pide datos personales, impide confirmar por teléfono | No respondes ni envías nada; confirmas con la Rectoría por la ext. 100 o la 101; reportas a TI (ext. 250) y a Protección de Datos (ext. 230) antes de las 10:35; no reenvías el correo |
 | 2 | Sí | Número nuevo, petición de pago a una cuenta nueva, urgencia ("hoy"), voz que puede ser sintética | No autorizas el pago; confirmas con el Jefe de Servicios Escolares por la ext. 210; reportas antes de las 12:10; no reenvías el audio |
-| 3 | No | Cuenta institucional habitual, solicitud de rutina, sin urgencia injustificada ni información confidencial | Continúas con tu trabajo |
+| 3 | No | Cuenta institucional habitual, solicitud de rutina, sin urgencia para omitir el procedimiento ni información confidencial | Continúas con tu trabajo |
 
 **Ejercicio 9.**
 
@@ -687,10 +713,10 @@ Datos confirmados sin cambio: 180 aprobadas; 150 becas de $800 mensuales; enero 
 |---|---|
 | Fecha y hora en que se identificó | 26 de octubre de 2026, 10:05 |
 | Tipo de incidente | Suplantación de identidad |
-| Herramienta o canal involucrado | Correo electrónico desde rectoria.utfs@correo-ficticio.com (dominio externo) |
+| Herramienta o canal involucrado | Correo electrónico desde rectoria.utfs@correo-externo.ficticio (dominio externo) |
 | Información comprometida | Ninguna entregada. Se solicitaban nombre, matrícula y domicilio de los solicitantes aprobados |
 | Acciones de contención realizadas | No se respondió ni se reenvió el correo. Se confirmó con la Asistente de la Rectoría (ext. 101) a las 10:12 que la Rectora no lo envió |
-| Responsable notificado y hora de la notificación | Ing. Iván Prueba Sol (TI) y Lic. Sara Muestra Paz (Protección de Datos), 10:20 |
+| Responsable notificado y hora de la notificación | Ing. Iván Prueba Sol (TI) y Lic. Sara Modelo Paz (Protección de Datos), 10:20 |
 | Elaboró | [Tu nombre], Auxiliar Administrativo de la Coordinación de Becas |
 
 **Ejercicio 10.** Suspendes de inmediato el uso del asistente; notificas por teléfono, dentro del plazo de 30 minutos, a TI (ext. 250) y a la Responsable de Protección de Datos (ext. 230); sigues sus indicaciones sobre la eliminación de la conversación y del archivo, y requisitas el reporte de incidente como "ingreso indebido de información", describiendo los datos comprometidos (nombres, matrículas, promedios, municipios, ingresos y datos de salud de los solicitantes). No lo ocultas ni te limitas a borrar la conversación.
@@ -707,13 +733,13 @@ Datos confirmados sin cambio: 180 aprobadas; 150 becas de $800 mensuales; enero 
 | 6 | d | Los marcadores permiten personalizar sin ingresar datos personales |
 | 7 | a | Generalizar reduce la precisión del dato para que no identifique a la persona |
 | 8 | c | La IA generativa predice texto probable; no garantiza su veracidad |
-| 9 | c | Tiene autoría, fecha, origen institucional y trazabilidad |
+| 9 | a | Sin fecha ni liga no puede saberse cuándo se emitió ni llegar al documento original |
 | 10 | a | Una referencia que no existe se elimina o se sustituye por una verificada |
 | 11 | d | Se requiere la autorización de las personas y etiquetar el contenido sintético |
 | 12 | b | Indica la herramienta y la parte elaborada con su apoyo |
 | 13 | a | Un resultado erróneo sobre salud enviado sin revisión puede causar un daño |
 | 14 | c | No hay urgencia, canal no habitual ni petición de información confidencial |
-| 15 | d | El contenido sospechoso no se difunde; lo maneja el responsable designado |
+| 15 | d | El protocolo fija los responsables (TI y Protección de Datos), el canal (teléfono y formato de reporte) y el plazo (30 minutos) |
 
 ---
 

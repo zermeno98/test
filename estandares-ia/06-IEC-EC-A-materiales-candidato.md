@@ -12,7 +12,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 ## Instrucciones para el candidato
 
-1. La evaluación tiene dos momentos: un **cuestionario** de 30 minutos y una **situación simulada** de 2 horas.
+1. La evaluación tiene dos momentos: una **situación simulada** de 2 horas y, al terminar, un **cuestionario** de 30 minutos.
 2. En la situación simulada trabajas como **Analista de Atención a Clientes** de Comercializadora Ejemplo del Bajío, S.A. de C.V.
 3. Puedes consultar los anexos en cualquier momento.
 4. Usa únicamente el equipo, la herramienta y los medios que te proporcione el Centro de Evaluación.
@@ -43,7 +43,7 @@ Es martes 13 de octubre de 2026, 9:00 horas. La Gerente de Atención a Clientes,
 4. Los datos personales se ingresan solo cuando son indispensables para la tarea y solo en herramientas autorizadas para ese nivel. En los demás casos se sustituyen por identificadores genéricos.
 5. La información confidencial no se ingresa a herramientas de IA sin autorización escrita del área propietaria.
 6. Todo resultado de IA se verifica contra fuentes de la organización u oficiales antes de usarse. Lo que no puede verificarse se elimina.
-7. Todo producto elaborado con IA incluye la declaración: "Elaborado con apoyo de [herramienta]; revisado por [nombre]".
+7. Todo producto elaborado con IA incluye la declaración: "Elaborado con apoyo de [herramienta] en [parte del producto]; revisado por [nombre]".
 8. El contenido sintético de imagen, audio o video lleva la leyenda "Contenido generado con IA". No se usa la imagen ni la voz de ninguna persona sin su consentimiento por escrito, ni obras o personajes protegidos sin licencia.
 9. Las instrucciones recibidas por canales no habituales que impliquen transferencias o envío de información confidencial se confirman llamando a la extensión que aparece en el Directorio institucional (Anexo A5). No se responde al mismo número o correo.
 10. Todo incidente se reporta al Responsable de Seguridad de la Información en un plazo máximo de 1 hora, por teléfono a su extensión y con el formato de reporte de incidente. El contenido sospechoso no se reenvía.
@@ -52,7 +52,7 @@ Es martes 13 de octubre de 2026, 9:00 horas. La Gerente de Atención a Clientes,
 
 | Herramienta | Descripción | Condición | Información que puede ingresarse |
 |---|---|---|---|
-| Herramienta A, cuenta institucional | Asistente de IA generativa de texto contratado por la organización | Autorizada | Pública e interna; datos personales solo si son indispensables. Nunca datos sensibles |
+| Herramienta A, cuenta institucional | Asistente de IA generativa de texto contratado por la organización | Autorizada | Pública e interna; datos personales solo si son indispensables; datos personales sensibles solo con autorización escrita del Responsable de Protección de Datos Personales |
 | Herramienta A, cuenta personal | La misma herramienta con cuenta gratuita personal | No autorizada | Ninguna |
 | Herramienta B | Asistente de IA generativa público y gratuito | No autorizada | Ninguna |
 | Herramienta C | Generador de imágenes contratado por la organización | Autorizada | Solo información pública |
@@ -125,7 +125,7 @@ Asunto: Compensaciones y contrato de paquetería
 
 > **Resumen ejecutivo de quejas del tercer trimestre de 2026**
 >
-> Durante el tercer trimestre se recibieron 420 quejas. El principal motivo fue la entrega tardía (44.7%), seguido de producto dañado (30.2%) y cobro incorrecto (21%). Destaca el caso de la señora Mariana Ejemplo Soto, quien no recibió a tiempo su insulina.
+> Durante el tercer trimestre se recibieron 420 quejas. El principal motivo fue la entrega tardía (44.7%), seguido de producto dañado (30.2%), cobro incorrecto (21%) y atención telefónica (8.8%). Destaca el caso de la señora Mariana Ejemplo Soto, quien no recibió a tiempo su insulina.
 >
 > De acuerdo con el Estudio Nacional de Satisfacción del Consumidor 2025 de la Profeco, 68% de las empresas del sector presenta problemas similares.
 >
@@ -188,6 +188,8 @@ Asunto: Compensaciones y contrato de paquetería
 ---
 
 ## Cuestionario
+
+*Se entrega al terminar la situación simulada.*
 
 Instrucciones: elige una sola respuesta por pregunta. Tienes 30 minutos.
 
@@ -271,10 +273,10 @@ Instrucciones: elige una sola respuesta por pregunta. Tienes 30 minutos.
     - b) Es válido si la imagen se generó con IA
     - c) Es válido si se cambian los colores
     - d) Es válido si se etiqueta como contenido generado con IA
-17. Si la política exige declarar "Elaborado con apoyo de [herramienta]; revisado por [nombre]", la declaración correcta es:
+17. Si la política exige declarar "Elaborado con apoyo de [herramienta] en [parte del producto]; revisado por [nombre]", la declaración correcta es:
     - a) "Hecho con IA"
     - b) Ninguna, si el producto ya se revisó
-    - c) "Elaborado con apoyo de Herramienta A; revisado por Juan Pérez"
+    - c) "Elaborado con apoyo de Herramienta A en la redacción del primer borrador; revisado por Juan Pérez"
     - d) "Generado automáticamente"
 18. Una imagen generada con IA para un comunicado debe:
     - a) Presentarse como fotografía real
@@ -294,7 +296,7 @@ Instrucciones: elige una sola respuesta por pregunta. Tienes 30 minutos.
 21. ¿Cuál es una señal de posible suplantación?
     - a) El mensaje llega por el canal habitual y con el formato de siempre
     - b) La solicitud sigue el procedimiento de compras
-    - c) Hay urgencia injustificada y se pide mantener la solicitud en secreto
+    - c) Hay urgencia para omitir el procedimiento y se pide mantener la solicitud en secreto
     - d) El mensaje no tiene errores
 22. Recibes una nota de voz que suena como tu jefe y te pide datos de clientes. Para confirmar la solicitud, lo correcto es:
     - a) Responder al mismo número

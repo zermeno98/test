@@ -14,9 +14,9 @@
 | `06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
 | `07-IEC-EC-B-guia-evaluador.md` | Instrumento de evaluación del EC-B: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
 | `08-IEC-EC-B-materiales-candidato.md` | Instrumento de evaluación del EC-B: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
-| `09-curso-alineacion-EC-A.md` | Curso de alineación del EC-A: carta descriptiva de 8 horas, guía del instructor, evaluación, DC-3 y correspondencia con el estándar | Borrador 1.0 para prueba piloto |
+| `09-curso-alineacion-EC-A.md` | Curso de alineación del EC-A: carta descriptiva de 8 horas, guía del instructor, evaluación con cuestionario final de 15 reactivos (confidencial para instructores), DC-3 y correspondencia con el estándar | Borrador 1.0 para prueba piloto |
 | `10-guia-estudio-EC-A.md` | Guía de estudio del EC-A y cuaderno del participante: contenidos, caso de práctica, ejercicios, autodiagnóstico y preguntas de práctica con respuestas | Borrador 1.0 para prueba piloto |
-| `11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B: carta descriptiva de 20 horas, guía del instructor, simulaciones en tríos, evaluación, DC-3 y correspondencia con el estándar | Borrador 1.0 para prueba piloto |
+| `11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B: carta descriptiva de 20 horas, guía del instructor, simulaciones en tríos, evaluación con cuestionario final de 20 reactivos (confidencial para instructores), DC-3 y correspondencia con el estándar | Borrador 1.0 para prueba piloto |
 | `12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica, 16 ejercicios, tarjetas de rol, autodiagnóstico y preguntas de práctica con respuestas | Borrador 1.0 para prueba piloto |
 | `13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA: modalidades, fases, insumos, autodiagnóstico exprés de 20 preguntas, instrumentos, índice de madurez, formato del informe y mensajes comerciales | Borrador 1.0 para prueba piloto |
 | `14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA para adaptar a cada organización, con seis anexos y correspondencia con el EC-B | Borrador 1.0 para prueba piloto |

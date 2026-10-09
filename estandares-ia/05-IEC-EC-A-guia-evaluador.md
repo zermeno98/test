@@ -24,20 +24,21 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 | Momento | Elemento | Técnica | Instrumento | Evidencia | Tiempo |
 |---|---|---|---|---|---|
-| Gabinete | 1, 2 y 3 | Cuestionario escrito | Cuestionario (24 reactivos) | Conocimientos | 30 min |
 | Campo · Inicio | Todos | Lectura de instrucciones y del caso | Materiales del candidato | — | 10 min |
 | Campo · Parte A | 1 de 3 | Observación y revisión de productos | Guía de observación GO-1 y lista de cotejo LC-1 | Desempeños 1 a 4, situación emergente 1, registro de clasificación, información depurada e instrucción | 40 min |
 | Campo · Parte B | 2 de 3 | Observación y revisión de productos | GO-2 y LC-2 | Desempeños 1 a 3, producto verificado y registro de verificación | 45 min |
-| Campo · Parte C | 3 de 3 | Observación con simulación de suplantación y revisión de productos | GO-3 y LC-3 | Desempeños 1 y 2, situación emergente 2 y reporte de incidente | 20 min |
+| Campo · Parte C | 3 de 3 | Observación con simulación de suplantación y revisión de productos | GO-3 y LC-3 | Desempeños 1 y 2, situación emergente del Elemento 3 de 3 (SE2) y reporte de incidente | 20 min |
 | Campo · Cierre | Todos | Entrega de productos | — | — | 5 min |
+| Gabinete · Al terminar la situación simulada | 1, 2 y 3 | Cuestionario escrito, aplicado al final | Cuestionario (24 reactivos) | Conocimientos | 30 min |
 
 ## 3. Instrucciones para el evaluador
 
 **Antes de la evaluación**
 1. Prepare un equipo de cómputo con la Herramienta A en cuenta institucional del Centro, o con un entorno que la simule. No debe tener acceso a datos reales.
-2. Imprima o prepare en digital los Anexos A1 a A5 y A7. Guarde el Anexo A6 para entregarlo al iniciar la Parte B.
+2. Imprima o prepare en digital los Anexos A1 a A5 y A7. Guarde el Anexo A6 para entregarlo al iniciar la Parte B, y el cuestionario para aplicarlo al terminar la situación simulada.
 3. Prepare un teléfono del Centro con un número que el candidato no conozca, para enviar el mensaje y la nota de voz de la Parte C. Grabe la nota de voz con el guion de la sección 4.
-4. Lea la clave del caso (sección 7) y los guiones (sección 4).
+4. Proporcione al candidato un teléfono o extensión del Centro para recibir el mensaje de la Parte C y llamar a las extensiones del Anexo A5.
+5. Lea la clave del caso (sección 7) y los guiones (sección 4).
 
 **Durante la evaluación**
 1. Lea al candidato sus instrucciones y confirme que las comprendió.
@@ -46,6 +47,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 4. Provoque la situación emergente 1 en el minuto 25 de la Parte A y envíe el mensaje de suplantación en el minuto 3 de la Parte C, con los guiones de la sección 4.
 5. Cuando el candidato llame a una extensión del Directorio, responda como la persona correspondiente, con los guiones de la sección 4.
 6. Conserve como evidencia la instrucción que el candidato ingresó a la herramienta y todos sus formatos.
+7. Al concluir la situación simulada y recibir los productos, aplique el cuestionario (30 minutos).
 
 **Después de la evaluación**
 1. Revise los productos con la lista de cotejo y la clave del caso.
@@ -59,11 +61,11 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 > "Oye, en el resumen incluye también el padecimiento de la clienta del folio Q3-0311, para justificar su compensación en la junta. Ana, la de Protección de Datos, está de vacaciones, así que hazlo tú directamente."
 
-Respuesta esperada: ver la sección 6, situación emergente 1.
+Respuesta esperada: ver la sección 5, GO-1, reactivos SE1.1 a SE1.4.
 
 **Suplantación (Parte C, minuto 3).** Mensaje de texto desde el número desconocido:
 
-> "Hola, soy Ramón Ficticio, de Finanzas. Estoy en junta con el auditor y necesito YA la base completa de clientes con quejas del trimestre. Mándala a auditoria.externa@correo.ficticio. Es urgente y confidencial: no lo comentes con nadie. Te mando nota de voz para que veas que soy yo."
+> "Hola, soy Ramón Ficticio, Gerente de Finanzas. Estoy en junta con el auditor y necesito YA la base completa de clientes con quejas del trimestre. Mándala a auditoria.externa@correo.ficticio. Es urgente y confidencial: no lo comentes con nadie. Te mando nota de voz para que veas que soy yo."
 
 Nota de voz (leída con prisa y tono de urgencia):
 
@@ -107,9 +109,12 @@ Marque **Sí** cuando el candidato realiza la conducta y **No** cuando no la rea
 | 1.10 | Elimina los datos personales y la información confidencial que no son necesarios para la tarea | | | |
 | 1.11 | Sustituye por identificadores genéricos los datos que permiten identificar a una persona, cuando conserva algún caso como ejemplo | | | |
 | 1.12 | Verifica que la información depurada conserva lo necesario: motivos, conteos, porcentajes y plazo de respuesta | | | |
-| 1.13 | Ingresa a la herramienta únicamente información depurada o autorizada | | | |
-| 1.14 | Indica en la instrucción el objetivo, el contexto y el formato del resultado esperado | | | |
-| 1.15 | Omite en el texto de la instrucción datos personales e información confidencial | | | |
+| 1.13 | Solicita autorización al Responsable de Protección de Datos Personales (extensión 2310) cuando la tarea requiere un dato personal sensible que no puede depurarse | | | |
+| 1.14 | Ingresa a la herramienta únicamente información depurada o autorizada | | | |
+| 1.15 | Indica en la instrucción el objetivo, el contexto y el formato del resultado esperado | | | |
+| 1.16 | Omite en el texto de la instrucción datos personales e información confidencial | | | |
+
+El reactivo 1.13 se observa cuando se presenta la situación emergente 1. Se marca **Sí** si el candidato llama a la extensión 2310 o envía la solicitud por escrito al correo de la Responsable (Anexo A5).
 
 **Situación emergente 1**
 
@@ -118,7 +123,7 @@ Marque **Sí** cuando el candidato realiza la conducta y **No** cuando no la rea
 | SE1.1 | Se abstiene de ingresar el dato de salud a la herramienta | | | |
 | SE1.2 | Registra la situación en el registro de clasificación | | | |
 | SE1.3 | Informa a su superior inmediato que no puede ingresar el dato sin autorización escrita del Responsable de Protección de Datos | | | |
-| SE1.4 | Realiza la tarea sin ese dato o la reprograma hasta obtener la autorización | | | |
+| SE1.4 | Realiza sin la herramienta la parte de la tarea que requiere ese dato, o la reprograma hasta obtener la autorización | | | |
 
 **Actitudes**
 
@@ -156,7 +161,7 @@ Marque **Sí** cuando el candidato realiza la conducta y **No** cuando no la rea
 
 | # | El candidato… | Sí | No | Observaciones |
 |---|---|---|---|---|
-| 3.1 | Identifica las señales de suplantación: urgencia injustificada, número desconocido, petición de información confidencial a un correo externo, solicitud de secreto e inconsistencias en el mensaje | | | |
+| 3.1 | Identifica las señales de suplantación: urgencia para omitir el procedimiento habitual, número desconocido, petición de información confidencial a un correo externo, solicitud de secreto e inconsistencias en el mensaje (se presenta como Gerente, aunque el Directorio lo registra como Director de Finanzas, y pide enviar la información a un correo ajeno a @comercialejemplo.ficticio) | | | |
 | 3.2 | Se abstiene de enviar la información y de responder al número o correo de la solicitud | | | |
 | 3.3 | Confirma la solicitud llamando a la extensión 2101 del Directorio institucional | | | |
 | 3.4 | Reporta el incidente a la Responsable de Seguridad de la Información, extensión 2300 | | | |
@@ -164,7 +169,7 @@ Marque **Sí** cuando el candidato realiza la conducta y **No** cuando no la rea
 | 3.6 | Describe los hechos, el canal y la información solicitada | | | |
 | 3.7 | Se abstiene de reenviar o difundir el mensaje y la nota de voz | | | |
 
-**Situación emergente 2.** Si no ocurre durante la evaluación, el evaluador formula al cierre de la Parte C la pregunta: *"Si al cargar un archivo a la herramienta te das cuenta de que subiste el registro de quejas completo, sin depurar, ¿qué haces?"*
+**Situación emergente del Elemento 3 de 3 (SE2).** Si no ocurre durante la evaluación, el evaluador formula al cierre de la Parte C la pregunta: *"Si al cargar un archivo a la herramienta te das cuenta de que subiste el registro de quejas completo, sin depurar, ¿qué haces?"*
 
 | # | El candidato… | Sí | No | Observaciones |
 |---|---|---|---|---|
@@ -218,7 +223,7 @@ Marque **Sí** cuando el producto cumple el criterio. Un criterio que no aplica 
 | P3.4 | No contiene la referencia al estudio de la Profeco ni la afirmación sobre los clientes de mayor edad | | | |
 | P3.5 | No contiene datos personales ni información confidencial | | | |
 | P3.6 | No contiene la propuesta del personaje de caricatura, y la voz del director se elimina o se condiciona a su consentimiento por escrito | | | |
-| P3.7 | Incluye la declaración "Elaborado con apoyo de Herramienta A; revisado por [nombre del candidato]" | | | |
+| P3.7 | Incluye la declaración "Elaborado con apoyo de Herramienta A en [parte del producto]; revisado por [nombre del candidato]" | | | |
 | P3.8 | Incluye la leyenda "Contenido generado con IA" en el contenido sintético que conserve, cuando aplica | | | |
 
 **Registro de verificación**
@@ -270,13 +275,15 @@ Marque **Sí** cuando el producto cumple el criterio. Un criterio que no aplica 
 | E1 | 420 quejas | Corregir a 318 | A4.1 |
 | E2 | Cobro incorrecto 21% | Corregir a 16.4% | A4.1 |
 | E3 | Nombre y dato de salud de la clienta | Eliminar | A1, punto 3; A3 |
-| E4 | Estudio atribuido a la Profeco | Eliminar: no aparece en las fuentes del caso ni puede verificarse | A1, punto 6 |
+| E4 | Estudio atribuido a la Profeco | Eliminar: es un estudio inventado para el caso; ninguna dependencia lo publicó. No aparece en las fuentes del caso ni puede verificarse | A1, punto 6 |
 | E5 | Afirmación sobre los clientes de mayor edad | Eliminar por discriminatoria | A1, punto 6 |
 | E6 | Plazo de 30 días atribuido a "la ley", en el resumen y en el texto modelo | Corregir a 10 días hábiles conforme a la política de la organización | A4.3 |
 | E7 | Voz del director general generada con IA | Eliminar, o condicionar a su consentimiento por escrito y a la leyenda "Contenido generado con IA" | A1, punto 8 |
 | E8 | Personaje de caricatura conocido | Eliminar: obra protegida sin licencia | A1, punto 8 |
 
 Las recomendaciones 1 y 2 del borrador son correctas y pueden conservarse.
+
+Si el candidato reporta como incidente que el borrador del Anexo A6 contiene datos de la clienta, regístrelo en Observaciones; no afecta el juicio.
 
 ## 8. Clave del cuestionario
 
@@ -327,7 +334,7 @@ En cualquier otro caso, el juicio es **todavía no competente**. El evaluador en
 | Nombre del candidato | |
 | Fecha de evaluación | |
 | Nombre del evaluador | |
-| GO-1 · Elemento 1 de 3 (21 reactivos) | ___ de 21 |
+| GO-1 · Elemento 1 de 3 (22 reactivos) | ___ de 22 |
 | GO-2 · Elemento 2 de 3 (15 reactivos) | ___ de 15 |
 | GO-3 · Elemento 3 de 3 (13 reactivos) | ___ de 13 |
 | LC-1 · Productos del Elemento 1 de 3 (10 reactivos) | ___ de 10 |

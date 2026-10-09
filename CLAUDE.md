@@ -31,7 +31,7 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 
 | Archivo | Contenido |
 |---|---|
-| `estandares-ia/00-indice-familia-estandares.md` | Índice, estado y lista de pendientes |
+| `estandares-ia/00-indice-familia-estandares.md` | Índice, estado, lista de pendientes y documentos por elaborar |
 | `estandares-ia/01-mapa-funcional.md` | Mapa funcional, correspondencia NIST/ISO y revisión del RENEC |
 | `estandares-ia/02-EC-A-borrador.md` | EC-A completo, versión 1.0, formato F21-COOPYD-01 |
 | `estandares-ia/03-EC-B-borrador.md` | EC-B completo, versión 1.0, formato F21-COOPYD-01 |
@@ -40,9 +40,9 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A, materiales del candidato: caso ficticio, anexos A1 a A7 y cuestionario de 24 reactivos |
 | `estandares-ia/07-IEC-EC-B-guia-evaluador.md` | Instrumento de evaluación del EC-B, guía del evaluador (confidencial): plan, guiones de las cuatro simulaciones, guía de observación, lista de cotejo, claves, juicio y cédula |
 | `estandares-ia/08-IEC-EC-B-materiales-candidato.md` | Instrumento de evaluación del EC-B, materiales del candidato: caso ficticio, anexos B1 a B7 y cuestionario de 28 reactivos |
-| `estandares-ia/09-curso-alineacion-EC-A.md` | Curso de alineación del EC-A (8 horas): carta descriptiva, guía del instructor, evaluación, datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad de la evaluación |
+| `estandares-ia/09-curso-alineacion-EC-A.md` | Curso de alineación del EC-A (8 horas): carta descriptiva, guía del instructor, evaluación con cuestionario final de 15 reactivos (confidencial para instructores), datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad de la evaluación |
 | `estandares-ia/10-guia-estudio-EC-A.md` | Guía de estudio del EC-A, que también es el cuaderno del participante del curso: contenidos, caso de práctica (Universidad Tecnológica Ficticia del Sur, distinto del caso del IEC), 10 ejercicios, autodiagnóstico, 15 preguntas de práctica y respuestas |
-| `estandares-ia/11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B (20 horas en cinco sesiones): carta descriptiva, guía del instructor, simulaciones en tríos con tarjetas de rol, evaluación, datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad |
+| `estandares-ia/11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B (20 horas en cinco sesiones): carta descriptiva, guía del instructor, simulaciones en tríos con tarjetas de rol, evaluación con cuestionario final de 20 reactivos (confidencial para instructores), datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad |
 | `estandares-ia/12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica (Transportes Ficticios del Pacífico, distinto del caso del IEC), 16 ejercicios que integran un expediente, cuatro tarjetas de rol, autodiagnóstico, 20 preguntas de práctica y respuestas |
 | `estandares-ia/13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA (servicio de consultoría): modalidades exprés, estándar y ampliada; fases; insumos; autodiagnóstico de 20 preguntas con semáforo; cuestionario, guía de entrevista y lista de proveedores; índice de madurez; formato del informe con hoja de ruta de 90 días; confidencialidad; mensajes comerciales permitidos y no permitidos |
 | `estandares-ia/14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA con los diez contenidos del Producto 1 del Elemento 3 del EC-B, seis anexos (registro de sistemas autorizados, clasificación, solicitud de autorización, reporte de incidente, lista de proveedores, carta de conocimiento) y notas de adaptación |
@@ -65,7 +65,8 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    - ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
    - ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
    - ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
-   - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación). El usuario pidió terminar los documentos, en especial los estándares; no hace falta preparar la reunión con el CONOCER.
+   - Revisión general del 9 de octubre de 2026 aplicada a los documentos 00 a 18. En el EC-A el cuestionario se aplica al final de la situación simulada, para que no adelante los errores sembrados.
+   - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y después los demás documentos de la sección "Documentos por elaborar" del índice (00). El usuario pidió terminar los documentos, en especial los estándares; no hace falta preparar la reunión con el CONOCER.
 3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede). Ya verificado con fragmentos de estándares publicados (EC0076, EC0301, EC0554.01, EC1061, EC1410, EC1440, EC1171): frases de desempeños, productos y conocimientos; redacción de actitudes; textos de los niveles Dos y Cuatro; SINCO 9999. Falta:
    - Las frases "demuestra la siguiente" (situaciones emergentes) y "demuestra las siguientes" (actitudes).
    - La escala completa de niveles de conocimiento y el catálogo de actitudes (si incluye Perseverancia y Tolerancia).
