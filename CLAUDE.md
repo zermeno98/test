@@ -44,6 +44,8 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/10-guia-estudio-EC-A.md` | Guía de estudio del EC-A, que también es el cuaderno del participante del curso: contenidos, caso de práctica (Universidad Tecnológica Ficticia del Sur, distinto del caso del IEC), 10 ejercicios, autodiagnóstico, 15 preguntas de práctica y respuestas |
 | `estandares-ia/11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B (20 horas en cinco sesiones): carta descriptiva, guía del instructor, simulaciones en tríos con tarjetas de rol, evaluación, datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad |
 | `estandares-ia/12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica (Transportes Ficticios del Pacífico, distinto del caso del IEC), 16 ejercicios que integran un expediente, cuatro tarjetas de rol, autodiagnóstico, 20 preguntas de práctica y respuestas |
+| `estandares-ia/13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA (servicio de consultoría): modalidades exprés, estándar y ampliada; fases; insumos; autodiagnóstico de 20 preguntas con semáforo; cuestionario, guía de entrevista y lista de proveedores; índice de madurez; formato del informe con hoja de ruta de 90 días; confidencialidad; mensajes comerciales permitidos y no permitidos |
+| `estandares-ia/14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA con los diez contenidos del Producto 1 del Elemento 3 del EC-B, seis anexos (registro de sistemas autorizados, clasificación, solicitud de autorización, reporte de incidente, lista de proveedores, carta de conocimiento) y notas de adaptación |
 
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 
@@ -57,7 +59,8 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
 2. ~~IEC del EC-B~~ **Hecho como borrador 1.0** (archivos 07 y 08). Pendiente: prueba piloto (medir si alcanzan 4 horas para doce productos), segunda versión paralela del caso y validar con el CONOCER el umbral del cuestionario (23 de 28) y la condición crítica.
    ~~Curso de alineación y guía de estudio del EC-A~~ **Hechos como borrador 1.0** (archivos 09 y 10). No usan el caso ni los reactivos del IEC. Pendiente: confirmar la clave de área temática de la DC-3, el registro como agente capacitador externo ante la STPS y si el CONOCER exige que quien alinea no evalúe a las mismas personas.
    ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
-   **Siguiente:** paquete comercial (pendiente 8): diagnóstico empresarial de uso de IA y plantilla de política de uso de IA. Las respuestas de los Ejercicios 8, 9 y 10 de la guía del EC-B sirven de base.
+   ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
+   **Siguiente:** convenio tipo con universidades (pendiente 8).
 3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede):
    - La plantilla vigente F21-COOPYD-01 y sus frases fijas: "obtiene los siguientes" para productos, "demuestra la siguiente" para situaciones emergentes, "demuestra las siguientes" para actitudes.
    - El texto oficial de los niveles Dos y Cuatro del Sistema Nacional de Competencias.
@@ -68,7 +71,7 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
 5. Gobernanza: Comité de Gestión por Competencias, grupo técnico y prueba piloto con universidades y empresas.
 6. Decidir el registro como EC o como ECM (Estándar de Competencia de Marca) y qué control da cada opción sobre quién evalúa.
 7. Pasar los estándares a la plantilla oficial en Word cuando el CONOCER la proporcione.
-8. Paquete comercial: cursos de alineación (con constancia DC-3), diagnóstico empresarial de uso de IA, plantilla de política de uso de IA, convenio tipo con universidades. Los evaluadores necesitan certificación en EC0076.
+8. Paquete comercial: ~~cursos de alineación~~ (archivos 09 y 11), ~~diagnóstico empresarial~~ (13) y ~~plantilla de política~~ (14) hechos como borrador 1.0. Falta el convenio tipo con universidades. Los evaluadores necesitan certificación en EC0076.
 
 ## 6. Reglas de redacción de los estándares (CONOCER)
 
@@ -92,4 +95,4 @@ git checkout claude/ai-standards-mexico-monetize-8v1qbe
 claude
 ```
 
-Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después prepara el paquete comercial: diagnóstico empresarial de uso de IA y plantilla de política de uso de IA (pendiente 8 de CLAUDE.md)."
+Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después redacta el convenio tipo con universidades (pendiente 8 de CLAUDE.md)."

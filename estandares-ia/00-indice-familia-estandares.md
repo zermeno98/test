@@ -18,6 +18,8 @@
 | `10-guia-estudio-EC-A.md` | Guía de estudio del EC-A y cuaderno del participante: contenidos, caso de práctica, ejercicios, autodiagnóstico y preguntas de práctica con respuestas | Borrador 1.0 para prueba piloto |
 | `11-curso-alineacion-EC-B.md` | Curso de alineación del EC-B: carta descriptiva de 20 horas, guía del instructor, simulaciones en tríos, evaluación, DC-3 y correspondencia con el estándar | Borrador 1.0 para prueba piloto |
 | `12-guia-estudio-EC-B.md` | Guía de estudio del EC-B y cuaderno del participante: contenidos, caso de práctica, 16 ejercicios, tarjetas de rol, autodiagnóstico y preguntas de práctica con respuestas | Borrador 1.0 para prueba piloto |
+| `13-diagnostico-uso-IA.md` | Diagnóstico empresarial de uso de IA: modalidades, fases, insumos, autodiagnóstico exprés de 20 preguntas, instrumentos, índice de madurez, formato del informe y mensajes comerciales | Borrador 1.0 para prueba piloto |
+| `14-plantilla-politica-uso-IA.md` | Plantilla de política de uso de IA para adaptar a cada organización, con seis anexos y correspondencia con el EC-B | Borrador 1.0 para prueba piloto |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
@@ -71,7 +73,8 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [ ] Contar con evaluadores certificados en el EC0076 (Evaluación de la competencia de candidatos con base en Estándares de Competencia)
 - [x] Curso de alineación y guía de estudio del EC-A (borrador 1.0)
 - [x] Curso de alineación y guía de estudio del EC-B (borrador 1.0)
-- [ ] Paquete empresarial: diagnóstico de uso de IA, plantilla de política de uso y convenio tipo con universidades
+- [x] Paquete empresarial: diagnóstico de uso de IA y plantilla de política de uso (borrador 1.0)
+- [ ] Convenio tipo con universidades
 
 ---
 
