@@ -25,6 +25,8 @@
 | `17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias, términos de referencia y sesiones del grupo técnico, minuta y carta de confidencialidad | Borrador 1.0 |
 | `18-decision-EC-o-ECM.md` | Análisis para decidir el registro como EC o como ECM, con preguntas para el CONOCER y recomendación preliminar | Borrador 1.0 |
 
+Verificación contra fuentes oficiales desde una computadora local: `verificacion/INSTRUCCIONES.md`.
+
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
 ---

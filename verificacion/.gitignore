@@ -1,0 +1,4 @@
+# Los PDF y páginas originales se quedan en tu computadora; solo se suben los textos extraídos.
+descargas/
+.venv/
+__pycache__/

@@ -51,6 +51,8 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias (nuevo o adhesión), composición propuesta, contenido de la propuesta de integración, términos de referencia y cuatro sesiones del grupo técnico, minuta de validación, carta de confidencialidad y preguntas para el CONOCER |
 | `estandares-ia/18-decision-EC-o-ECM.md` | Análisis EC frente a ECM (y EC de uso restringido, por confirmar), cómo capturar valor con un EC público, preguntas para el CONOCER y recomendación preliminar: EC público |
 
+| `verificacion/` | Kit para verificar contra fuentes oficiales desde una computadora local: script con Playwright (`descargar_fuentes.py`), lista de fuentes (`fuentes.json`) e instrucciones con las verificaciones V1 a V12 (`INSTRUCCIONES.md`) |
+
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 
 Exposición de motivos con diagramas (documento de Claude): https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c
@@ -67,7 +69,7 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    - ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
    - Revisión general del 9 de octubre de 2026 aplicada a los documentos 00 a 18. En el EC-A el cuestionario se aplica al final de la situación simulada, para que no adelante los errores sembrados.
    - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y después los demás documentos de la sección "Documentos por elaborar" del índice (00). El usuario pidió terminar los documentos, en especial los estándares; no hace falta preparar la reunión con el CONOCER.
-3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede). Ya verificado con fragmentos de estándares publicados (EC0076, EC0301, EC0554.01, EC1061, EC1410, EC1440, EC1171): frases de desempeños, productos y conocimientos; redacción de actitudes; textos de los niveles Dos y Cuatro; SINCO 9999. Falta:
+3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede). **Procedimiento completo en `verificacion/INSTRUCCIONES.md`.** Ya verificado con fragmentos de estándares publicados (EC0076, EC0301, EC0554.01, EC1061, EC1410, EC1440, EC1171): frases de desempeños, productos y conocimientos; redacción de actitudes; textos de los niveles Dos y Cuatro; SINCO 9999. Falta:
    - Las frases "demuestra la siguiente" (situaciones emergentes) y "demuestra las siguientes" (actitudes).
    - La escala completa de niveles de conocimiento y el catálogo de actitudes (si incluye Perseverancia y Tolerancia).
    - Los códigos y nombres del SCIAN propuestos (561110 para el EC-A y 541610 para el EC-B).
@@ -101,4 +103,4 @@ git checkout claude/ai-standards-mexico-monetize-8v1qbe
 claude
 ```
 
-Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después elabora la segunda versión paralela de los casos de evaluación del EC-A y del EC-B."
+Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y verificacion/INSTRUCCIONES.md (Parte 2). Ejecuta el script de descarga, haz todas las verificaciones V1 a V12, corrige los documentos, escribe el informe y sube los cambios a la rama."
