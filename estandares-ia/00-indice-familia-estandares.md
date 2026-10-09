@@ -6,10 +6,12 @@
 
 | Documento | Contenido | Estado |
 |---|---|---|
-| [Exposición de motivos](https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c) | Por qué se necesitan los estándares, para lectores que no conocen el sistema CONOCER | Versión 1.0 |
+| `04-exposicion-de-motivos.md` ([versión con diagramas](https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c)) | Por qué se necesitan los estándares, para lectores que no conocen el sistema CONOCER | Versión 1.0 |
 | `01-mapa-funcional.md` | Propósito principal, funciones clave, elementos, correspondencia con NIST e ISO, revisión del RENEC | Versión 1.0 |
 | `02-EC-A-borrador.md` | **EC-A** · Protección de la información y verificación de resultados en el uso de herramientas de IA generativa (3 elementos, nivel Dos) | Borrador 1.0 en formato F21-COOPYD-01 |
 | `03-EC-B-borrador.md` | **EC-B** · Gestión de riesgos y controles en el uso de sistemas de IA en la organización (4 elementos, nivel Cuatro) | Borrador 1.0 en formato F21-COOPYD-01 |
+
+Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
 ---
 
