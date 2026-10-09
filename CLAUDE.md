@@ -40,6 +40,8 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A, materiales del candidato: caso ficticio, anexos A1 a A7 y cuestionario de 24 reactivos |
 | `estandares-ia/07-IEC-EC-B-guia-evaluador.md` | Instrumento de evaluación del EC-B, guía del evaluador (confidencial): plan, guiones de las cuatro simulaciones, guía de observación, lista de cotejo, claves, juicio y cédula |
 | `estandares-ia/08-IEC-EC-B-materiales-candidato.md` | Instrumento de evaluación del EC-B, materiales del candidato: caso ficticio, anexos B1 a B7 y cuestionario de 28 reactivos |
+| `estandares-ia/09-curso-alineacion-EC-A.md` | Curso de alineación del EC-A (8 horas): carta descriptiva, guía del instructor, evaluación, datos para la DC-3, correspondencia con cada criterio del EC y reglas de integridad de la evaluación |
+| `estandares-ia/10-guia-estudio-EC-A.md` | Guía de estudio del EC-A, que también es el cuaderno del participante del curso: contenidos, caso de práctica (Universidad Tecnológica Ficticia del Sur, distinto del caso del IEC), 10 ejercicios, autodiagnóstico, 15 preguntas de práctica y respuestas |
 
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 
@@ -51,7 +53,8 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
 
 1. ~~Instrumento de Evaluación de Competencia (IEC) del EC-A~~ **Hecho como borrador 1.0** (archivos 05 y 06). Pendiente: prueba piloto, segunda versión paralela del caso y validar con el CONOCER el umbral del cuestionario (20 de 24) y la condición crítica.
 2. ~~IEC del EC-B~~ **Hecho como borrador 1.0** (archivos 07 y 08). Pendiente: prueba piloto (medir si alcanzan 4 horas para doce productos), segunda versión paralela del caso y validar con el CONOCER el umbral del cuestionario (23 de 28) y la condición crítica.
-   **Siguiente:** curso de alineación y guía de estudio del EC-A, que se derivan del IEC; después, los del EC-B.
+   ~~Curso de alineación y guía de estudio del EC-A~~ **Hechos como borrador 1.0** (archivos 09 y 10). No usan el caso ni los reactivos del IEC. Pendiente: confirmar la clave de área temática de la DC-3, el registro como agente capacitador externo ante la STPS y si el CONOCER exige que quien alinea no evalúe a las mismas personas.
+   **Siguiente:** curso de alineación y guía de estudio del EC-B, con la misma estructura y un caso de práctica distinto del caso del IEC del EC-B.
 3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede):
    - La plantilla vigente F21-COOPYD-01 y sus frases fijas: "obtiene los siguientes" para productos, "demuestra la siguiente" para situaciones emergentes, "demuestra las siguientes" para actitudes.
    - El texto oficial de los niveles Dos y Cuatro del Sistema Nacional de Competencias.
@@ -86,4 +89,4 @@ git checkout claude/ai-standards-mexico-monetize-8v1qbe
 claude
 ```
 
-Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después diseña el curso de alineación y la guía de estudio del EC-A a partir de su instrumento de evaluación (archivos 05 y 06)."
+Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después diseña el curso de alineación y la guía de estudio del EC-B con la misma estructura que los del EC-A (archivos 09 y 10), sin usar el caso ni los reactivos de su instrumento de evaluación (archivos 07 y 08)."
