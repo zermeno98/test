@@ -42,6 +42,7 @@ DOCUMENTOS = [
     ('18', '18-decision-EC-o-ECM', 'Decisión EC o ECM', {}),
     ('19', '19-avisos-de-privacidad', 'Avisos de privacidad', {}),
     ('20', '20-contratos-tipo', 'Contratos tipo', {}),
+    ('21', '21-resumen-ejecutivo-socios', 'Resumen ejecutivo para los socios', {}),
     ('CLAUDE', 'CLAUDE', 'Contexto del proyecto', {'word': 'CLAUDE-contexto-del-proyecto'}),
 ]
 

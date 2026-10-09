@@ -1,5 +1,5 @@
 ESTANDARES DE COMPETENCIA EN INTELIGENCIA ARTIFICIAL - CONOCER
-Paquete de documentos al 9 de octubre de 2026 (borradores 1.0 verificados contra fuentes oficiales y con revision juridica aplicada, documentos 00 a 20)
+Paquete de documentos al 9 de octubre de 2026 (borradores 1.0 verificados contra fuentes oficiales y con revision juridica aplicada, documentos 00 a 21)
 
 CARPETAS
 - Word/       Documentos 00 a 20 en formato Word (.docx), regenerados el 9 de octubre de 2026 con todas las correcciones.
@@ -31,6 +31,7 @@ DOCUMENTOS
 18  Decision: registro como EC o como ECM
 19  Avisos de privacidad de la empresa (participantes, candidatos, entrevistados, grupo tecnico)
 20  Contratos tipo: consultoria, encargo de datos, cesion de derechos y terminos para participantes
+21  Resumen ejecutivo para los socios (estandares, por que son dos, documentos y estrategia de venta)
 CLAUDE  Contexto del proyecto para continuar con Claude Code en tu computadora
 
 IMPORTANTE

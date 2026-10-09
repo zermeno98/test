@@ -26,6 +26,7 @@
 | `18-decision-EC-o-ECM.md` | Análisis para decidir el registro como EC o como ECM, con preguntas para el CONOCER y recomendación preliminar | Borrador 1.0 |
 | `19-avisos-de-privacidad.md` | Avisos de privacidad de la empresa: integral y simplificado para participantes y candidatos, para personas entrevistadas del diagnóstico y para el grupo técnico, con formatos de consentimiento específico | Borrador 1.0 para revisión jurídica |
 | `20-contratos-tipo.md` | Contratos tipo: servicios de consultoría, encargo de tratamiento de datos personales, cesión de derechos de autor y términos y condiciones para participantes | Borrador 1.0 para revisión jurídica |
+| `21-resumen-ejecutivo-socios.md` | Resumen ejecutivo para los socios: qué estándares escogimos, por qué son dos, qué documentos creamos, cuidados legales y estrategia de venta | Versión 1.0 |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
