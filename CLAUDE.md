@@ -61,11 +61,11 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
 
 1. ~~Instrumento de Evaluación de Competencia (IEC) del EC-A~~ **Hecho como borrador 1.0** (archivos 05 y 06). Pendiente: prueba piloto, segunda versión paralela del caso y validar con el CONOCER el umbral del cuestionario (20 de 24) y la condición crítica.
 2. ~~IEC del EC-B~~ **Hecho como borrador 1.0** (archivos 07 y 08). Pendiente: prueba piloto (medir si alcanzan 4 horas para doce productos), segunda versión paralela del caso y validar con el CONOCER el umbral del cuestionario (23 de 28) y la condición crítica.
-   ~~Curso de alineación y guía de estudio del EC-A~~ **Hechos como borrador 1.0** (archivos 09 y 10). No usan el caso ni los reactivos del IEC. Pendiente: confirmar la clave de área temática de la DC-3, el registro como agente capacitador externo ante la STPS y si el CONOCER exige que quien alinea no evalúe a las mismas personas.
-   ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
-   ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
-   ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
-   **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y llevar a la reunión con el CONOCER las preguntas de los archivos 17 y 18.
+   - ~~Curso de alineación y guía de estudio del EC-A~~ **Hechos como borrador 1.0** (archivos 09 y 10). No usan el caso ni los reactivos del IEC. Pendiente: confirmar la clave de área temática de la DC-3, el registro como agente capacitador externo ante la STPS y si el CONOCER exige que quien alinea no evalúe a las mismas personas.
+   - ~~Curso de alineación y guía de estudio del EC-B~~ **Hechos como borrador 1.0** (archivos 11 y 12). Pendiente: medir en la piloto si 20 horas alcanzan.
+   - ~~Diagnóstico empresarial y plantilla de política~~ **Hechos como borrador 1.0** (archivos 13 y 14). Sin precios: se definen aparte.
+   - ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
+   - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y llevar a la reunión con el CONOCER las preguntas de los archivos 17 y 18.
 3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede):
    - La plantilla vigente F21-COOPYD-01 y sus frases fijas: "obtiene los siguientes" para productos, "demuestra la siguiente" para situaciones emergentes, "demuestra las siguientes" para actitudes.
    - El texto oficial de los niveles Dos y Cuatro del Sistema Nacional de Competencias.
