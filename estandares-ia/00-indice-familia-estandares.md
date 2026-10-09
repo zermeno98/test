@@ -9,6 +9,8 @@
 | `04-exposicion-de-motivos.md` ([versión con diagramas](https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c)) | Por qué se necesitan los estándares, para lectores que no conocen el sistema CONOCER | Versión 1.0 |
 | `01-mapa-funcional.md` | Propósito principal, funciones clave, elementos, correspondencia con NIST e ISO, revisión del RENEC | Versión 1.0 |
 | `02-EC-A-borrador.md` | **EC-A** · Protección de la información y verificación de resultados en el uso de herramientas de IA generativa (3 elementos, nivel Dos) | Borrador 1.0 en formato F21-COOPYD-01 |
+| `05-IEC-EC-A-guia-evaluador.md` | Instrumento de evaluación del EC-A: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
+| `06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
 | `03-EC-B-borrador.md` | **EC-B** · Gestión de riesgos y controles en el uso de sistemas de IA en la organización (4 elementos, nivel Cuatro) | Borrador 1.0 en formato F21-COOPYD-01 |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
@@ -39,7 +41,7 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [x] Borradores del EC-A y del EC-B en formato F21-COOPYD-01
 - [x] Revisión de traslapes con el RENEC
 - [x] Exposición de motivos
-- [ ] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario
+- [x] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
 - [ ] Instrumento de Evaluación de Competencia del EC-B
 - [ ] Prueba piloto de ambos instrumentos con empresas y universidades, y ajustes
 - [ ] Traslado de ambos estándares a la plantilla oficial en Word que proporcione el CONOCER
