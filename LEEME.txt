@@ -1,0 +1,46 @@
+ESTANDARES DE COMPETENCIA EN INTELIGENCIA ARTIFICIAL - CONOCER
+Paquete de documentos al 9 de octubre de 2026 (borradores 1.0 verificados contra fuentes oficiales y con revision juridica aplicada, documentos 00 a 20)
+
+CARPETAS
+- Word/       Documentos 00 a 20 en formato Word (.docx), regenerados el 9 de octubre de 2026 con todas las correcciones.
+- PDF/        Los mismos documentos en PDF tamano carta, listos para imprimir.
+- exportar/   Scripts para volver a generar los Word y los PDF desde los Markdown (ver exportar/LEEME.txt).
+- Markdown/   Los mismos documentos en texto (.md), tal como estan en GitHub.
+- 04-Exposicion-de-motivos-con-diagramas.pdf   Version con diagramas de la exposicion de motivos.
+- diagramas/   Los tres diagramas de la exposicion de motivos (HTML, SVG y PNG) y los scripts para regenerarlos.
+
+DOCUMENTOS
+00  Indice, estado del proyecto y pendientes
+01  Mapa funcional y revision del RENEC
+02  EC-A  Proteccion de la informacion y verificacion de resultados en el uso de IA generativa (nivel Dos)
+03  EC-B  Gestion de riesgos y controles en el uso de sistemas de IA en la organizacion (nivel Cuatro)
+04  Exposicion de motivos (para lectores que no conocen el CONOCER)
+05  Instrumento de evaluacion del EC-A - Guia del evaluador (CONFIDENCIAL: contiene claves)
+06  Instrumento de evaluacion del EC-A - Materiales del candidato
+07  Instrumento de evaluacion del EC-B - Guia del evaluador (CONFIDENCIAL: contiene claves)
+08  Instrumento de evaluacion del EC-B - Materiales del candidato
+09  Curso de alineacion del EC-A (8 horas). Incluye cuestionario final CONFIDENCIAL para instructores
+10  Guia de estudio del EC-A (cuaderno del participante)
+11  Curso de alineacion del EC-B (20 horas). Incluye cuestionario final CONFIDENCIAL para instructores
+12  Guia de estudio del EC-B (cuaderno del participante)
+13  Diagnostico empresarial de uso de IA (servicio de consultoria)
+14  Plantilla de politica de uso de IA
+15  Convenio tipo con universidades (requiere revision juridica)
+16  Plan de la prueba piloto
+17  Gobernanza: Comite de Gestion por Competencias y grupo tecnico
+18  Decision: registro como EC o como ECM
+19  Avisos de privacidad de la empresa (participantes, candidatos, entrevistados, grupo tecnico)
+20  Contratos tipo: consultoria, encargo de datos, cesion de derechos y terminos para participantes
+CLAUDE  Contexto del proyecto para continuar con Claude Code en tu computadora
+
+IMPORTANTE
+- Los documentos 05 y 07 son confidenciales: no los compartas con candidatos ni instructores.
+- Los cuestionarios finales de los cursos (al final de 09 y 11) son solo para instructores.
+- Los estandares 02 y 03 en Word ya tienen el encabezado del formato F21-COOPYD-01.
+- La lista de documentos que faltan esta en el indice (00), seccion "Documentos por elaborar".
+- Todo es borrador para prueba piloto. Lo marcado "por confirmar" debe verificarse con el CONOCER,
+  la STPS o un abogado antes de usarse.
+
+EN LINEA
+- Google Drive: https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
+- GitHub (rama de trabajo): https://github.com/zermeno98/test/tree/claude/ai-standards-mexico-monetize-8v1qbe

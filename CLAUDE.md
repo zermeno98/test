@@ -53,6 +53,7 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/19-avisos-de-privacidad.md` | Avisos de privacidad de la empresa (participantes y candidatos, integral y simplificado; personas entrevistadas; grupo técnico) y formatos de consentimiento (dato sensible, grabación, uso de voz o imagen) |
 | `estandares-ia/20-contratos-tipo.md` | Contratos tipo: servicios de consultoría, encargo de datos personales, cesión de derechos de autor y términos y condiciones para participantes |
 | `verificacion/REVISION-JURIDICA.md` y `verificacion/EVALUACION-RIESGO-LEGAL.md` | Revisión de congruencia jurídica de los documentos 02 a 18 y evaluación de riesgo legal (9 de octubre de 2026); sus correcciones ya se aplicaron |
+| `Word/`, `PDF/` y `exportar/` | Versiones en Word y en PDF tamaño carta de los documentos 00 a 20 y de este archivo, generadas desde los Markdown con `exportar/exportar_todo.py` (instrucciones en `exportar/LEEME.txt`). Después de editar un Markdown, volver a exportar |
 
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 

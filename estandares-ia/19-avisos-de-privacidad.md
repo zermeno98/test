@@ -24,21 +24,24 @@ Versión 1.0 · Borrador para revisión jurídica · Octubre de 2026
 
 ## Notas para la empresa (no forman parte de los avisos)
 
-1. **Cuatro avisos.**
+**Cuatro avisos.**
 
-   | Aviso | Para quién | Papel de la empresa |
-   |---|---|---|
-   | A | Participantes de cursos y personas candidatas a evaluación | Responsable |
-   | B | Versión simplificada de A, para formularios en línea | Responsable |
-   | C | Personas entrevistadas y contactos de clientes del diagnóstico | Responsable |
-   | D | Integrantes del grupo técnico y del Comité de Gestión por Competencias | Responsable |
+| Aviso | Para quién | Papel de la empresa |
+|---|---|---|
+| A | Participantes de cursos y personas candidatas a evaluación | Responsable |
+| B | Versión simplificada de A, para formularios en línea | Responsable |
+| C | Personas entrevistadas y contactos de clientes del diagnóstico | Responsable |
+| D | Integrantes del grupo técnico y del Comité de Gestión por Competencias | Responsable |
 
-   Cuando un cliente entrega datos de sus trabajadores o clientes, la empresa no usa estos avisos: actúa como persona encargada y aplica el contrato de encargo del documento 20.
-2. **Departamento de datos personales.** Designar a una persona o un área y publicar su correo (artículo 29). Es quien responde las solicitudes ARCO en 20 días, plazo que se puede ampliar una vez por un periodo igual (artículo 31).
-3. **Datos sensibles.** No se piden. Si una persona solicita ajustes por discapacidad para su evaluación, ese dato requiere su consentimiento expreso y por escrito (artículo 8). Se recaba con el formato E.1 y se usa solo para el ajuste.
-4. **Plazos de conservación.** Completar con lo que exijan las reglas del CONOCER para las evidencias de evaluación (por confirmar con el CONOCER) y la legislación fiscal para la facturación.
-5. **Personal de la empresa.** El aviso de privacidad para empleados (incluido el monitoreo de equipos, documento 14, punto 10.3) se elabora aparte.
-6. **Uso de IA.** Los avisos declaran que la empresa no toma decisiones automatizadas sobre las personas. Si eso cambia, hay que actualizar el aviso e informar el derecho de oposición (artículo 26, fracción II).
+Cuando un cliente entrega datos de sus trabajadores o clientes, la empresa no usa estos avisos: actúa como persona encargada y aplica el contrato de encargo del documento 20.
+
+**Otras notas**
+
+1. **Departamento de datos personales.** Designar a una persona o un área y publicar su correo (artículo 29). Es quien responde las solicitudes ARCO en 20 días, plazo que se puede ampliar una vez por un periodo igual (artículo 31).
+2. **Datos sensibles.** No se piden. Si una persona solicita ajustes por discapacidad para su evaluación, ese dato requiere su consentimiento expreso y por escrito (artículo 8). Se recaba con el formato E.1 y se usa solo para el ajuste.
+3. **Plazos de conservación.** Completar con lo que exijan las reglas del CONOCER para las evidencias de evaluación (por confirmar con el CONOCER) y la legislación fiscal para la facturación.
+4. **Personal de la empresa.** El aviso de privacidad para empleados (incluido el monitoreo de equipos, documento 14, punto 10.3) se elabora aparte.
+5. **Uso de IA.** Los avisos declaran que la empresa no toma decisiones automatizadas sobre las personas. Si eso cambia, hay que actualizar el aviso e informar el derecho de oposición (artículo 26, fracción II).
 
 ---
 

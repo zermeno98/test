@@ -1,0 +1,31 @@
+EXPORTAR LOS DOCUMENTOS A WORD Y A PDF
+
+Los Markdown (Markdown/ en la carpeta local, estandares-ia/ en GitHub) son la fuente.
+Los Word (Word/) y los PDF para imprimir (PDF/) se generan desde ellos.
+
+Requisitos (una vez), desde la raiz del proyecto:
+    python -m venv verificacion/.venv
+    verificacion/.venv/Scripts/activate        (Mac/Linux: source verificacion/.venv/bin/activate)
+    pip install -r verificacion/requirements.txt python-docx markdown defusedxml
+    python -m playwright install chromium
+
+Exportar todo:
+    python exportar/exportar_todo.py
+Solo algunos documentos:
+    python exportar/exportar_todo.py --solo 02 15
+Solo Word o solo PDF:
+    python exportar/exportar_todo.py --sin-pdf
+    python exportar/exportar_todo.py --sin-word
+
+Que hace:
+- md_a_docx.py usa como plantilla el Word original de cada documento (exportar/plantillas/),
+  sin su texto: conserva estilos, numeracion y, en 02 y 03, el encabezado del formato F21-COOPYD-01.
+  Agrega pie con numero de pagina, tamano carta y, en 05, 07, 09 y 11, el aviso de confidencialidad.
+  En 04 inserta los tres diagramas (diagramas/*.png).
+- comprobar_texto.py verifica que todo el texto del Markdown quede en el Word.
+- md_a_pdf.py genera el PDF tamano carta con el navegador (Playwright): encabezado F21 en 02 y 03,
+  banda de confidencialidad en 05, 07, 09 y 11, diagramas en 04, pie con numero de pagina.
+  Avisa si algun elemento excede el ancho imprimible.
+
+Los PDF salen del Markdown, no del Word, porque en la computadora no hay Word ni LibreOffice:
+el contenido es el mismo y el formato es parecido, no identico.
