@@ -1,109 +1,112 @@
-# ESTÁNDAR DE COMPETENCIA – BORRADOR v0.1
+# ESTÁNDAR DE COMPETENCIA
 
-*Estructura conforme al Formato de Estándar de Competencia **F21-COOPYD-01** de CONOCER (versión vigente a confirmar; los EC publicados en 2025–2026 usan la versión 08).*
-*Los campos entre corchetes [ ] los asigna CONOCER o están pendientes de confirmar.*
+**Formato de Estándar de Competencia F21-COOPYD-01**
+Borrador para validación · Versión 1.0 · Octubre de 2026
 
 ---
 
-## I.- Datos generales
+## I.- Datos Generales
 
 | Código | Título |
 |---|---|
-| [ECxxxx] | Protección de la información en el uso de herramientas de inteligencia artificial generativa en actividades de trabajo |
+| [Asignado por el CONOCER] | Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa |
 
 ### Propósito del Estándar de Competencia
-Servir como referente para la evaluación y certificación de las personas que utilizan herramientas de inteligencia artificial generativa en sus actividades laborales o académicas, preparando la información conforme a su clasificación, verificando los productos de trabajo obtenidos y atendiendo los incidentes relacionados con su uso.
+Servir como referente para la evaluación y certificación de las personas que utilizan herramientas de inteligencia artificial generativa en actividades laborales o de formación, y que preparan la información conforme a su clasificación antes de ingresarla, verifican los productos obtenidos y atienden los incidentes relacionados con su uso, incluidos los intentos de suplantación de identidad mediante contenido sintético.
 
 Asimismo, puede ser referente para el desarrollo de programas de capacitación y de formación basados en Estándares de Competencia (EC).
 
-El presente EC se refiere únicamente a funciones para cuya realización no se requiere por disposición legal la posesión de un título profesional. Por lo que para certificarse en este EC no deberá ser requisito el poseer dicho documento académico.
+El presente EC se refiere únicamente a funciones para cuya realización no se requiere por disposición legal, la posesión de un título profesional. Por lo que para certificarse en este EC no deberá ser requisito el poseer dicho documento académico.
 
 ### Descripción general del Estándar de Competencia
-Este EC expresa las funciones que una persona realiza para utilizar herramientas de inteligencia artificial generativa protegiendo la información de la organización: verificar que la herramienta esté autorizada, clasificar la información de trabajo y depurar los datos personales e información confidencial antes de ingresarlos; elaborar productos de trabajo verificando la exactitud del contenido generado, respetando los derechos de terceros y declarando el uso de la herramienta; e identificar, verificar y reportar incidentes, incluidos los intentos de suplantación mediante contenido sintético.
+Este EC expresa las funciones que una persona realiza al utilizar herramientas de inteligencia artificial generativa en su trabajo, desde la verificación de que la herramienta está autorizada y la clasificación y depuración de la información que ingresará, hasta la verificación de los productos obtenidos, la revisión de los derechos de terceros, la declaración del uso de la herramienta y la atención de los incidentes, incluidos los intentos de suplantación de identidad mediante voz, imagen, video o texto sintéticos.
 
-También establece los conocimientos teóricos básicos y prácticos con los que debe contar para realizar un trabajo, así como las actitudes relevantes en su desempeño.
+También establece los conocimientos teóricos, básicos y prácticos con los que debe contar para realizar un trabajo, así como las actitudes relevantes en su desempeño.
 
 El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso, respeto, trabajo digno y responsabilidad social.
 
-### Nivel en el Sistema Nacional de Competencias: [Dos – propuesto]
-Desempeña actividades programadas que, en su mayoría, son rutinarias y predecibles. Depende de las instrucciones de un superior. Se coordina con compañeros de trabajo del mismo nivel jerárquico. *(Texto descriptivo del nivel a confirmar contra la plantilla vigente.)*
+### Nivel en el Sistema Nacional de Competencias: Dos
+Desempeña actividades programadas que, en su mayoría, son rutinarias y predecibles. Depende de las instrucciones de un superior. Se coordina con compañeros de trabajo del mismo nivel jerárquico.
 
 ### Comité de Gestión por Competencias que lo desarrolló
-[Nombre del Comité – por constituir o designar]
+[Por designar]
 
 | Fecha de aprobación por el Comité Técnico del CONOCER | Fecha de publicación en el Diario Oficial de la Federación |
 |---|---|
 | [ ] | [ ] |
 
-| Periodo sugerido de revisión/actualización del EC | Tiempo de vigencia del certificado de competencia en este EC |
+| Periodo sugerido de revisión/actualización del EC | Tiempo de Vigencia del Certificado de competencia en este EC |
 |---|---|
-| 2 años *(propuesto: la tecnología cambia rápido; el EC1781 de 2026 usa 3 años)* | 2 años *(propuesto)* |
+| 2 años | 2 años |
 
 ### Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación de Ocupaciones (SINCO)
-*Estándar transversal. Opción A (usada por el EC1781, DOF 2026): Grupo unitario 9999 Ocupaciones no especificadas; Ocupaciones asociadas: Sin referente. Opción B, grupos unitarios específicos a confirmar con CONOCER:*
-- [Auxiliares y técnicos en administración, contabilidad y finanzas]
-- [Secretarias, capturistas y operadores de equipo de cómputo]
-- [Trabajadores de apoyo en actividades administrativas diversas]
-- [Coordinadores y jefes de área de servicios administrativos]
 
-**Ocupaciones no contenidas en el SINCO y reconocidas en el sector para este EC:**
-- Usuario de herramientas de inteligencia artificial generativa
-- Analista administrativo
-- Estudiante en proceso de egreso
+| Grupo unitario | Ocupaciones asociadas |
+|---|---|
+| 9999 Ocupaciones no especificadas | Sin referente |
+
+**Ocupaciones no contenidas en el Sistema Nacional de Clasificación de Ocupaciones y reconocidas en el Sector para este EC:**
+- Auxiliar administrativo
+- Analista de información
+- Asistente ejecutivo
+- Ejecutivo de atención a clientes
+- Personal de oficina usuario de herramientas de inteligencia artificial generativa
 
 ### Clasificación según el Sistema de Clasificación Industrial de América del Norte (SCIAN)
-*Estándar transversal; sector de referencia a definir con CONOCER:*
-- Sector: [54 Servicios profesionales, científicos y técnicos]
-- Subsector / Rama / Subrama / Clase: [por definir]
+
+| Sector | Subsector | Rama | Subrama | Clase |
+|---|---|---|---|---|
+| [Por definir con el CONOCER: función transversal a todos los sectores] | [ ] | [ ] | [ ] | [ ] |
 
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
-### Organizaciones participantes en el desarrollo del EC
-- [Empresa desarrolladora]
-- [Centro de evaluación]
-- [Universidades piloto]
-- [Empresas / cámaras empresariales participantes]
+### Empresas e Instituciones participantes en el desarrollo del EC
+- [Por integrar: empresa desarrolladora, centro de evaluación, instituciones de educación superior, empresas y cámaras empresariales]
 
 ### Relación con otros estándares de competencia
-**Estándares relacionados:**
-- ECM0358 Fundamentos de IA generativa por Microsoft *(estándar de marca; uso de herramientas Microsoft)*.
-- EC1705 Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital *(complementario: el EC1705 evalúa la operación de la herramienta; el presente EC evalúa la protección de la información y la verificación de resultados)*.
-- [EC-B] Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización *(en desarrollo)*.
+
+**Estándares relacionados**
+- EC1705 Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital
+- [Por asignar] Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización
 
 ### Aspectos relevantes de la evaluación
-**Detalles de la práctica a considerar:**
-- La evaluación se realiza mediante una situación simulada en la que la persona recibe un caso de trabajo con documentos que contienen datos personales, datos personales sensibles e información confidencial **ficticios**.
-- En ningún momento deberán utilizarse datos personales reales durante la evaluación.
-- Para el Elemento 3, el evaluador presenta una solicitud simulada (mensaje de texto, audio o video) que suplanta la identidad de una persona de la organización.
-- Las instrucciones que la persona ingrese a la herramienta y los resultados obtenidos se conservan como evidencia.
 
-**Apoyos/Requerimientos:**
-- Equipo de cómputo con acceso a una herramienta de inteligencia artificial generativa o a un entorno simulado proporcionado por el Centro de Evaluación.
-- Política de uso de IA y lista de herramientas autorizadas de una organización ficticia.
-- Esquema de clasificación de la información de la organización ficticia.
-- Formatos de registro de clasificación, registro de verificación y reporte de incidente.
+**Detalles de la práctica a considerar**
+- La evaluación se lleva a cabo en situación simulada. El Centro de Evaluación proporciona un caso de trabajo de una organización ficticia, con documentos que contienen datos personales, datos personales sensibles e información confidencial ficticios.
+- Para el Elemento 1 de 3 y el Elemento 2 de 3, la persona realiza una tarea con una herramienta de inteligencia artificial generativa autorizada en el caso, o con un entorno que la simule.
+- Para el Elemento 3 de 3, el evaluador presenta a la persona una solicitud que suplanta la identidad de un integrante de la organización ficticia, mediante mensaje de texto, nota de voz o video.
+- En ningún momento deben utilizarse datos personales ni información confidencial reales.
+- Las instrucciones ingresadas a la herramienta y los resultados obtenidos se integran como evidencia.
 
-**Duración estimada de la evaluación:**
-- 30 minutos en gabinete y 2 horas en campo, totalizando 2 horas y 30 minutos. *(Redacción conforme al EC1781; tiempos a validar en la prueba piloto.)*
+**Apoyos/Requerimientos**
+- Equipo de cómputo con acceso a una herramienta de inteligencia artificial generativa, o entorno simulado proporcionado por el Centro de Evaluación.
+- Caso de trabajo de la organización ficticia con sus anexos: documentos de trabajo, política de uso de IA, lista de herramientas autorizadas, esquema de clasificación de la información y protocolo de reporte de incidentes.
+- Medio para presentar la solicitud simulada: mensaje de texto, nota de voz o video.
+- Formatos de la organización ficticia para el registro de clasificación, el registro de verificación y el reporte de incidente.
 
-### Referencias de información
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. DOF, 20 de marzo de 2025.
-- Ley Federal del Trabajo, artículo 153-A.
+**Duración estimada de la evaluación**
+- 30 minutos en gabinete y 2 horas en campo, totalizando 2 horas y 30 minutos.
+
+### Referencias de Información
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
+- Ley Federal del Trabajo.
 - Ley Federal del Derecho de Autor.
-- ISO/IEC 27001:2022. Seguridad de la información, ciberseguridad y protección de la privacidad.
-- ISO/IEC 42001:2023. Sistema de gestión de inteligencia artificial.
-- NIST AI Risk Management Framework (AI RMF 1.0), 2023.
-- UNESCO. Recomendación sobre la ética de la inteligencia artificial, 2021.
+- ISO/IEC 22989:2022. Information technology — Artificial intelligence — Artificial intelligence concepts and terminology.
+- ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection — Information security management systems — Requirements.
+- ISO/IEC 42001:2023. Information technology — Artificial intelligence — Management system.
+- National Institute of Standards and Technology (2024). NIST AI 600-1. Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.
+- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial, artículo 4.
+- UNESCO (2021). Recomendación sobre la ética de la inteligencia artificial.
 
 ---
 
 ## II.- Perfil del Estándar de Competencia
 
-**Estándar de Competencia:** Protección de la información en el uso de herramientas de inteligencia artificial generativa en actividades de trabajo
-
-- **Elemento 1 de 3:** Preparar la información de trabajo para su uso en herramientas de inteligencia artificial generativa
-- **Elemento 2 de 3:** Elaborar productos de trabajo con apoyo de herramientas de inteligencia artificial generativa
-- **Elemento 3 de 3:** Atender incidentes relacionados con el uso de inteligencia artificial generativa
+| Estándar de Competencia | Elementos |
+|---|---|
+| Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa | **Elemento 1 de 3** · Preparar la información para su uso en herramientas de inteligencia artificial generativa |
+| | **Elemento 2 de 3** · Verificar los productos de trabajo elaborados con herramientas de inteligencia artificial generativa |
+| | **Elemento 3 de 3** · Atender los incidentes relacionados con el uso de inteligencia artificial generativa |
 
 ---
 
@@ -111,173 +114,226 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 
 | Referencia | Código | Título |
 |---|---|---|
-| 1 de 3 | [E0000] | Preparar la información de trabajo para su uso en herramientas de inteligencia artificial generativa |
+| 1 de 3 | [E0000] | Preparar la información para su uso en herramientas de inteligencia artificial generativa |
 
 ### CRITERIOS DE EVALUACIÓN
+
 La persona es competente cuando demuestra los siguientes:
 
 **DESEMPEÑOS**
+
 1. Verifica la herramienta de inteligencia artificial generativa a utilizar:
    - Consultando la política de uso de IA de la organización,
-   - Confirmando que la herramienta se encuentra en la lista de herramientas autorizadas, y
-   - Accediendo mediante la cuenta institucional asignada, cuando la organización la proporciona.
+   - Confirmando que la herramienta se encuentra en la lista de herramientas autorizadas,
+   - Confirmando que la política permite el uso previsto para el tipo de información de la tarea, y
+   - Accediendo con la cuenta institucional, cuando la organización la asigna.
 2. Clasifica la información requerida para la tarea:
-   - Identificando los datos personales contenidos,
-   - Identificando los datos personales sensibles contenidos,
+   - Revisando cada documento de trabajo que utilizará,
+   - Identificando los datos personales,
+   - Identificando los datos personales sensibles,
    - Identificando la información confidencial de la organización y de terceros, y
-   - Asignando el nivel de clasificación conforme al esquema de la organización.
+   - Asignando a cada tipo de información el nivel que establece el esquema de clasificación de la organización.
 3. Depura la información antes de ingresarla a la herramienta:
    - Eliminando los datos personales y la información confidencial que no son necesarios para la tarea,
-   - Sustituyendo los datos identificables por datos genéricos o ficticios, y
+   - Sustituyendo por datos genéricos o ficticios los datos que permiten identificar a una persona,
+   - Verificando que la información depurada conserva lo necesario para realizar la tarea, y
    - Solicitando autorización al responsable designado cuando la tarea requiere información clasificada que no puede depurarse.
+4. Ingresa la instrucción a la herramienta:
+   - Utilizando únicamente la información depurada o autorizada,
+   - Indicando el objetivo, el contexto y el formato del resultado esperado, y
+   - Omitiendo en el texto de la instrucción datos personales e información confidencial.
+
+La persona es competente cuando obtiene los siguientes:
 
 **PRODUCTOS**
+
 1. El registro de clasificación de la información elaborado:
-   - Contiene la descripción de la tarea a realizar,
-   - Contiene el nombre de la herramienta utilizada y su condición de autorizada,
+   - Contiene la descripción de la tarea,
+   - Contiene el nombre de la herramienta y su condición de autorizada,
    - Identifica cada tipo de información contenida en los documentos de trabajo,
    - Indica el nivel de clasificación asignado a cada tipo de información,
-   - Especifica el tratamiento aplicado: eliminación, sustitución o autorización, e
-   - Incluye fecha y nombre de quien lo elaboró.
+   - Especifica el tratamiento aplicado a cada tipo de información: conservación, eliminación, sustitución o autorización,
+   - Incluye, en su caso, el nombre del responsable que autorizó el uso de información clasificada, e
+   - Incluye la fecha y el nombre de quien lo elaboró.
 2. La información depurada para la tarea:
-   - No contiene datos personales que permitan identificar a una persona,
+   - No contiene datos que permitan identificar a una persona, salvo autorización registrada,
    - No contiene información confidencial ajena al propósito de la tarea, y
    - Conserva los elementos necesarios para realizar la tarea.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Conceptos de dato personal, dato personal sensible e información confidencial. | Comprensión
-2. Principios y deberes de protección de datos personales previstos en la legislación vigente. | Conocimiento
-3. Tratamiento que las herramientas de IA generativa pueden dar a la información ingresada: almacenamiento, conservación y uso por terceros. | Comprensión
-4. Técnicas de eliminación y sustitución de datos identificables. | Aplicación
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Datos personales, datos personales sensibles e información confidencial: concepto y ejemplos. | Comprensión |
+| 2. Principios y deberes de protección de datos personales previstos en la legislación vigente. | Conocimiento |
+| 3. Tratamiento que las herramientas de IA generativa pueden dar a la información ingresada: almacenamiento, conservación, uso para entrenamiento y acceso por terceros. | Comprensión |
+| 4. Diferencias entre cuentas institucionales y cuentas personales en herramientas de IA generativa. | Comprensión |
+| 5. Técnicas de eliminación y sustitución de datos que permiten identificar a una persona. | Aplicación |
+
+La persona es competente cuando demuestra la siguiente:
+
+**RESPUESTA ANTE SITUACIONES EMERGENTES**
+
+**SITUACIÓN EMERGENTE**
+1. Situación emergente: La tarea requiere ingresar a la herramienta datos personales sensibles que no pueden depurarse y el responsable designado no está disponible para autorizarlo.
+
+**RESPUESTAS ESPERADAS**
+1. Se abstiene de ingresar la información a la herramienta, registra la situación en el registro de clasificación, informa a su superior inmediato y realiza la tarea sin la herramienta o la reprograma hasta obtener la autorización.
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
 1. Responsabilidad: La manera en que verifica que la herramienta está autorizada antes de ingresar cualquier información.
-2. Orden: La manera en que registra la clasificación y el tratamiento de la información siguiendo la secuencia establecida.
+2. Orden: La manera en que registra la clasificación y el tratamiento de cada tipo de información siguiendo la secuencia del esquema de la organización.
 
 **GLOSARIO**
-1. Dato personal: Cualquier información concerniente a una persona física identificada o identificable.
-2. Dato personal sensible: Dato personal que afecta a la esfera más íntima de su titular o cuya utilización indebida puede dar origen a discriminación o conllevar un riesgo grave para éste. *(Ajustar a la definición literal de la ley vigente.)*
-3. Herramienta autorizada: Herramienta de IA generativa que la organización ha aprobado expresamente para su uso.
-4. Información confidencial: Información de la organización o de terceros cuyo acceso está restringido por disposición legal, contractual o por decisión de la organización.
+1. Cuenta institucional: Acceso a una herramienta de IA generativa contratado o administrado por la organización, sujeto a sus condiciones de uso y seguridad.
+2. Dato personal: Cualquier información concerniente a una persona física identificada o identificable.
+3. Dato personal sensible: Dato personal que afecta la esfera más íntima de su titular o cuya utilización indebida puede dar origen a discriminación o conllevar un riesgo grave para éste, como el origen racial o étnico, el estado de salud, la información genética, las creencias religiosas, filosóficas y morales, la afiliación sindical, las opiniones políticas y la preferencia sexual.
+4. Depuración de la información: Eliminación o sustitución de los datos personales y de la información confidencial que no son necesarios para una tarea, antes de ingresarla a una herramienta de IA.
+5. Esquema de clasificación de la información: Criterios de la organización para asignar a cada tipo de información un nivel de acceso y de protección.
+6. Herramienta autorizada: Herramienta de IA generativa aprobada expresamente por la organización para un uso determinado.
+7. Información confidencial: Información de la organización o de terceros cuyo acceso está restringido por disposición legal, contractual o por decisión de la organización.
+8. Instrucción: Texto que la persona ingresa a una herramienta de IA generativa para indicarle el resultado esperado; también se le denomina *prompt*.
 
 ---
 
 | Referencia | Código | Título |
 |---|---|---|
-| 2 de 3 | [E0000] | Elaborar productos de trabajo con apoyo de herramientas de inteligencia artificial generativa |
+| 2 de 3 | [E0000] | Verificar los productos de trabajo elaborados con herramientas de inteligencia artificial generativa |
 
 ### CRITERIOS DE EVALUACIÓN
+
 La persona es competente cuando demuestra los siguientes:
 
 **DESEMPEÑOS**
-1. Formula las instrucciones a la herramienta de IA generativa:
-   - Especificando el objetivo, el contexto y el formato del resultado esperado,
-   - Utilizando únicamente la información depurada, y
-   - Ajustando las instrucciones cuando el resultado no corresponde al objetivo.
-2. Verifica el contenido generado por la herramienta:
-   - Contrastando datos, cifras, citas y referencias con fuentes confiables,
-   - Identificando la información inexacta o inexistente,
+
+1. Verifica el contenido generado por la herramienta:
+   - Contrastando cada dato, cifra, fecha, nombre propio, cita y referencia con al menos una fuente verificable distinta de la herramienta,
+   - Identificando la información inexacta, desactualizada o inexistente,
    - Identificando el contenido sesgado o discriminatorio, y
    - Corrigiendo o eliminando el contenido que no pudo verificarse.
-3. Revisa que el producto respete los derechos de terceros:
-   - Verificando que no utiliza la imagen, voz o rasgos físicos de personas sin su autorización,
-   - Verificando que no reproduce obras protegidas o marcas sin autorización, y
+2. Revisa que el producto respete la información y los derechos de terceros:
+   - Verificando que no contiene datos personales ni información confidencial no autorizados, incluidos los que haya incorporado la herramienta,
+   - Verificando que no utiliza la imagen, la voz o los rasgos físicos de una persona sin su autorización,
+   - Verificando que no reproduce obras protegidas ni signos distintivos sin autorización, y
    - Etiquetando como generado con IA el contenido sintético de imagen, audio o video.
-4. Declara el uso de la herramienta de IA generativa:
-   - Conforme a la política de la organización o a las reglas de la institución educativa, e
+3. Declara el uso de la herramienta de IA generativa:
+   - Conforme a la política de la organización o a las reglas de la institución educativa,
+   - Indicando la herramienta utilizada, e
    - Indicando la parte del producto elaborada con apoyo de la herramienta.
 
+La persona es competente cuando obtiene los siguientes:
+
 **PRODUCTOS**
-1. El producto de trabajo final elaborado:
+
+1. El producto de trabajo verificado:
    - Corresponde al objetivo de la tarea,
-   - No contiene información sin verificar,
+   - No contiene datos, cifras, citas ni referencias sin verificar,
    - No contiene datos personales ni información confidencial no autorizados,
    - Incluye la declaración de uso de IA, e
-   - Incluye la etiqueta de contenido sintético, cuando aplica.
+   - Incluye la etiqueta de contenido sintético, cuando contiene imagen, audio o video generados con IA.
 2. El registro de verificación elaborado:
-   - Contiene la herramienta utilizada,
-   - Contiene las instrucciones formuladas,
-   - Contiene las fuentes utilizadas para contrastar el contenido, y
-   - Describe las correcciones realizadas al contenido generado.
+   - Contiene el nombre de la herramienta utilizada,
+   - Contiene las instrucciones ingresadas a la herramienta,
+   - Contiene cada dato verificado y la fuente con la que se contrastó,
+   - Describe las correcciones y eliminaciones realizadas al contenido generado, e
+   - Incluye la fecha y el nombre de quien lo elaboró.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Limitaciones de la IA generativa: información inexacta o inventada, sesgos y desactualización. | Comprensión
-2. Criterios para valorar la confiabilidad de las fuentes de información. | Aplicación
-3. Nociones de derechos de autor y de uso de la imagen y voz de las personas. | Conocimiento
-4. Estructura de una instrucción para herramientas de IA generativa. | Aplicación
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Funcionamiento general de la IA generativa y sus limitaciones: información inventada, sesgos y desactualización. | Comprensión |
+| 2. Criterios para identificar fuentes verificables: autoría, fecha, origen institucional y trazabilidad. | Aplicación |
+| 3. Nociones de derechos de autor y de protección de la imagen y la voz de las personas. | Conocimiento |
+| 4. Formas de declarar el uso de IA en productos de trabajo y académicos. | Aplicación |
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
 1. Responsabilidad: La manera en que corrige o elimina el contenido que no pudo verificar antes de entregar el producto.
-2. Perseverancia: La manera en que ajusta las instrucciones hasta obtener un resultado que corresponda al objetivo.
+2. Perseverancia: La manera en que contrasta cada dato con las fuentes hasta confirmarlo o descartarlo.
 
 **GLOSARIO**
 1. Contenido sintético: Texto, imagen, audio o video creado o modificado mediante inteligencia artificial.
-2. Declaración de uso de IA: Mención expresa en el producto de trabajo de que se utilizó una herramienta de IA generativa y en qué parte.
-3. Instrucción (prompt): Texto que la persona ingresa a la herramienta para indicarle el resultado esperado.
-4. Información inventada (alucinación): Contenido generado por la herramienta que aparenta ser verdadero, pero carece de sustento.
+2. Declaración de uso de IA: Mención expresa, en un producto de trabajo, de la herramienta de IA utilizada y de la parte elaborada con su apoyo.
+3. Fuente verificable: Documento o registro distinto de la herramienta de IA, con autoría u origen identificable, que permite comprobar un dato.
+4. Información inventada: Contenido generado por la herramienta que aparenta ser verdadero, pero carece de sustento en una fuente verificable; también se le denomina alucinación.
+5. Sesgo: Tendencia sistemática del contenido generado a favorecer o perjudicar a personas o grupos.
 
 ---
 
 | Referencia | Código | Título |
 |---|---|---|
-| 3 de 3 | [E0000] | Atender incidentes relacionados con el uso de inteligencia artificial generativa |
+| 3 de 3 | [E0000] | Atender los incidentes relacionados con el uso de inteligencia artificial generativa |
 
 ### CRITERIOS DE EVALUACIÓN
+
 La persona es competente cuando demuestra los siguientes:
 
 **DESEMPEÑOS**
+
 1. Verifica la autenticidad de una solicitud sospechosa:
-   - Identificando las señales de posible suplantación mediante contenido sintético,
-   - Absteniéndose de ejecutar la instrucción solicitada mientras no confirme su autenticidad, y
-   - Confirmando la solicitud por un canal alterno establecido por la organización.
+   - Identificando las señales de posible suplantación: urgencia injustificada, solicitud por un canal no habitual, petición de transferencias o de información confidencial, e inconsistencias en la voz, la imagen o el texto,
+   - Absteniéndose de ejecutar la instrucción mientras no confirme su autenticidad, y
+   - Confirmando la solicitud por el canal alterno establecido por la organización.
 2. Reporta el incidente identificado:
    - Al responsable designado por la organización,
-   - En el plazo establecido por la organización,
-   - Describiendo los hechos, la herramienta o canal involucrado y la información comprometida, y
+   - En el plazo que establece el protocolo de la organización,
+   - Describiendo los hechos, la herramienta o el canal involucrado y la información comprometida, y
    - Absteniéndose de difundir el contenido o la información involucrada.
 
-**PRODUCTOS**
+La persona es competente cuando obtiene el siguiente:
+
+**PRODUCTO**
+
 1. El reporte de incidente requisitado:
-   - Contiene la fecha y hora en que se identificó el incidente,
-   - Indica el tipo de incidente: ingreso indebido de información, suplantación de identidad o resultado que puede causar daño,
+   - Contiene la fecha y la hora en que se identificó el incidente,
+   - Indica el tipo de incidente: ingreso indebido de información, suplantación de identidad o resultado que puede causar un daño,
    - Identifica la herramienta o el canal involucrado,
-   - Describe la información involucrada,
+   - Describe la información comprometida,
    - Describe las acciones de contención realizadas, e
-   - Indica el nombre del responsable al que se notificó.
+   - Indica el nombre del responsable al que se notificó y la hora de la notificación.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Tipos de incidentes relacionados con el uso de IA generativa. | Conocimiento
-2. Señales de suplantación de identidad mediante voz, imagen, video o texto sintéticos. | Comprensión
-3. Protocolo de reporte de incidentes de la organización. | Aplicación
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Tipos de incidentes relacionados con el uso de IA generativa. | Conocimiento |
+| 2. Señales de suplantación de identidad mediante voz, imagen, video o texto sintéticos. | Comprensión |
+| 3. Protocolo de reporte de incidentes: canal, responsable y plazo. | Aplicación |
+
+La persona es competente cuando demuestra la siguiente:
+
+**RESPUESTA ANTE SITUACIONES EMERGENTES**
+
+**SITUACIÓN EMERGENTE**
+1. Situación emergente: Durante la tarea, la persona advierte que ingresó a la herramienta un documento con datos personales sin depurar.
+
+**RESPUESTAS ESPERADAS**
+1. Suspende el uso de la herramienta, notifica de inmediato al responsable designado, sigue sus indicaciones sobre la eliminación de la conversación o del archivo y requisita el reporte de incidente.
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
 1. Iniciativa: La manera en que reporta el incidente sin esperar a que se le solicite.
-2. Responsabilidad: La manera en que se abstiene de ejecutar instrucciones no verificadas.
-
-**SITUACIÓN EMERGENTE**
-1. Durante la elaboración del producto de trabajo, la persona advierte que ingresó a la herramienta un documento con datos personales sin depurar.
-
-**RESPUESTAS ESPERADAS**
-1. Suspende el uso de la herramienta, elimina la conversación o el archivo conforme a las opciones de la herramienta, y elabora el reporte de incidente al responsable designado.
+2. Responsabilidad: La manera en que se abstiene de ejecutar instrucciones cuya autenticidad no ha confirmado.
 
 **GLOSARIO**
-1. Canal alterno: Medio de comunicación distinto al de la solicitud recibida, previamente establecido por la organización para confirmar instrucciones.
+1. Canal alterno: Medio de comunicación distinto del utilizado en la solicitud, establecido previamente por la organización para confirmar instrucciones.
 2. Incidente: Evento que compromete o puede comprometer la información de la organización o de terceros, o que puede causar un daño derivado del uso de IA.
-3. Suplantación de identidad: Acción de hacerse pasar por otra persona, incluido el uso de voz, imagen o video sintéticos.
+3. Suplantación de identidad: Acción de hacerse pasar por otra persona, incluido el uso de voz, imagen, video o texto sintéticos.
 
 ---
 
-## Notas de diseño (no forman parte del EC)
-1. **Diferenciación con el EC1705:** este EC no evalúa la generación de contenido en sí, sino la protección de la información, la verificación y la atención de incidentes. Debe confirmarse que los tres EC de IA aprobados en el DOF del 7-ago-2026 no cubran estas funciones.
-2. **Volumen:** la duración propuesta (≈2.5 h) y el uso de casos ficticios permiten aplicar la evaluación a grupos grandes. Confirmar con CONOCER si es admisible la evaluación a distancia.
-3. **Verificado en EC publicados:** formato F21-COOPYD-01; los conocimientos se introducen con "La persona es competente cuando posee los siguientes:"; códigos de elemento tipo E5336; redacción de la duración ("X en gabinete y Y en campo, totalizando Z").
-4. **EC1705 (verificado parcialmente):** Elemento 1 E5336 "Identificar los fundamentos y herramientas de la IA generativa para la creación de contenido digital básico"; Elemento 2 "Generar contenido digital básico…"; Elemento 3 no recuperado. Revisar que su Elemento 3 (posible uso ético) no se traslape con nuestro Elemento 2.
-5. **Niveles de conocimiento:** confirmar la escala vigente que usa CONOCER.
-6. **Actitudes:** confirmar contra el catálogo que utiliza CONOCER.
-7. **Glosario:** las definiciones legales deben ajustarse al texto literal de la LFPDPPP 2025.
+## Notas para el Comité de Gestión por Competencias
+*No forman parte del Estándar de Competencia.*
+
+1. **Delimitación.** Complementa al EC1705: aquel evalúa la creación de contenido con IA generativa; este evalúa la protección de la información, la verificación de resultados y la atención de incidentes. La revisión del RENEC de octubre de 2026 no identificó estándares con este objeto (ver `01-mapa-funcional.md`).
+2. **Fórmulas del formato por confirmar con el CONOCER:** las frases que introducen productos ("obtiene los siguientes"), situaciones emergentes ("demuestra la siguiente") y actitudes ("demuestra las siguientes"); la escala de niveles de conocimiento; el catálogo de actitudes; y el texto descriptivo del nivel Dos. Ya verificadas en estándares publicados: el formato F21-COOPYD-01, la frase "posee los siguientes" para conocimientos y la redacción de la duración de la evaluación.
+3. **Clasificación.** Definir con el CONOCER el SCIAN de una función transversal. El grupo unitario SINCO 9999 sigue el precedente del EC1781 (DOF 2026).
+4. **Definiciones legales.** Ajustar "dato personal" y "dato personal sensible" al texto literal de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025, con revisión de un especialista.
+5. **Evaluación.** Validar en la prueba piloto la duración y la consistencia entre evaluadores. Consultar al CONOCER si procede la evaluación a distancia.
+
+**Cambios respecto de la versión 0.1:** título ajustado para reflejar sus dos funciones centrales; el Elemento 2 se centra en verificar, no en generar contenido, para diferenciarse del EC1705; criterios medibles en lugar de adjetivos ("al menos una fuente verificable distinta de la herramienta"); nueva situación emergente en el Elemento 1; glosario ampliado; frases introductorias del formato completas.

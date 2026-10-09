@@ -1,111 +1,114 @@
-# ESTÁNDAR DE COMPETENCIA – BORRADOR v0.1
+# ESTÁNDAR DE COMPETENCIA
 
-*Estructura conforme al Formato de Estándar de Competencia **F21-COOPYD-01** de CONOCER.*
-*Los campos entre corchetes [ ] los asigna CONOCER o están pendientes de confirmar.*
+**Formato de Estándar de Competencia F21-COOPYD-01**
+Borrador para validación · Versión 1.0 · Octubre de 2026
 
 ---
 
-## I.- Datos generales
+## I.- Datos Generales
 
 | Código | Título |
 |---|---|
-| [ECxxxx] | Gestión de riesgos y controles en el uso de herramientas y sistemas de inteligencia artificial en la organización |
+| [Asignado por el CONOCER] | Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización |
 
 ### Propósito del Estándar de Competencia
-Servir como referente para la evaluación y certificación de las personas que gestionan los riesgos y controles del uso de herramientas y sistemas de inteligencia artificial en una organización, integrando el inventario de herramientas y sistemas, evaluando los riesgos de sus usos, estableciendo los controles y la política de uso, y supervisando su cumplimiento y la atención de incidentes.
+Servir como referente para la evaluación y certificación de las personas que gestionan los riesgos y controles del uso de sistemas de inteligencia artificial en una organización, y que integran el inventario de sistemas, evalúan los riesgos y el impacto de sus usos, establecen la política de uso y los controles, y supervisan su cumplimiento y la atención de los incidentes.
 
 Asimismo, puede ser referente para el desarrollo de programas de capacitación y de formación basados en Estándares de Competencia (EC).
 
-El presente EC se refiere únicamente a funciones para cuya realización no se requiere por disposición legal la posesión de un título profesional. Por lo que para certificarse en este EC no deberá ser requisito el poseer dicho documento académico.
+El presente EC se refiere únicamente a funciones para cuya realización no se requiere por disposición legal, la posesión de un título profesional. Por lo que para certificarse en este EC no deberá ser requisito el poseer dicho documento académico.
 
 ### Descripción general del Estándar de Competencia
-Este EC expresa las funciones que una persona realiza para gestionar el uso de la inteligencia artificial en una organización: identificar y registrar las herramientas y sistemas de IA en uso, incluidos los no autorizados, con su proveedor, finalidad, área usuaria e información que procesan; evaluar los riesgos de cada uso en materia de protección de datos personales, seguridad de la información, exactitud de resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual, uso de imagen y voz, y continuidad de la operación; establecer los controles, los criterios de autorización de herramientas, la revisión de las condiciones contractuales con proveedores y la política de uso de IA; y supervisar el cumplimiento de los controles, atender los incidentes e informar a la dirección.
+Este EC expresa las funciones que una persona realiza para gestionar el uso de la inteligencia artificial en una organización, desde la integración del inventario de los sistemas de IA en uso, incluidos los no autorizados, y la evaluación de los riesgos y del impacto de cada uso en materia de protección de datos personales, seguridad de la información, exactitud de los resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual, imagen y voz de las personas, y continuidad de la operación, hasta el establecimiento de la política de uso, la revisión de las condiciones de los proveedores, el plan de controles y el programa de capacitación, así como la supervisión de los controles, la gestión de incidentes y el informe a la dirección.
 
-También establece los conocimientos teóricos básicos y prácticos con los que debe contar para realizar un trabajo, así como las actitudes relevantes en su desempeño.
+También establece los conocimientos teóricos, básicos y prácticos con los que debe contar para realizar un trabajo, así como las actitudes relevantes en su desempeño.
 
 El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso, respeto, trabajo digno y responsabilidad social.
 
-### Nivel en el Sistema Nacional de Competencias: [Cuatro – propuesto]
-Desempeña una amplia gama de actividades tanto programadas poco rutinarias como impredecibles que implican la aplicación de técnicas y principios básicos. Recibe orientaciones generales e instrucciones específicas de un superior. Requiere emitir instrucciones generales y precisas a subordinados. Se coordina con personal de áreas afines. *(Texto del nivel a confirmar contra la plantilla vigente; si CONOCER lo ubica en nivel Tres, se ajusta el texto.)*
+### Nivel en el Sistema Nacional de Competencias: Cuatro
+Desempeña una amplia gama de actividades tanto programadas poco rutinarias como impredecibles que implican la aplicación de técnicas y principios básicos. Recibe orientaciones generales e instrucciones específicas de un superior. Requiere emitir instrucciones generales y precisas a subordinados. Se coordina con personal de áreas afines.
 
 ### Comité de Gestión por Competencias que lo desarrolló
-[Nombre del Comité – por constituir o designar]
+[Por designar]
 
 | Fecha de aprobación por el Comité Técnico del CONOCER | Fecha de publicación en el Diario Oficial de la Federación |
 |---|---|
 | [ ] | [ ] |
 
-| Periodo sugerido de revisión/actualización del EC | Tiempo de vigencia del certificado de competencia en este EC |
+| Periodo sugerido de revisión/actualización del EC | Tiempo de Vigencia del Certificado de competencia en este EC |
 |---|---|
 | 2 años | 2 años |
 
 ### Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación de Ocupaciones (SINCO)
-*Opción A:* Grupo unitario 9999 Ocupaciones no especificadas. Ocupaciones asociadas: Sin referente.
-*Opción B (a confirmar con CONOCER):*
-- [Coordinadores y jefes de área en informática]
-- [Coordinadores y jefes de área en servicios administrativos / cumplimiento]
-- [Especialistas en seguridad de la información]
 
-**Ocupaciones no contenidas en el SINCO y reconocidas en el sector para este EC:**
+| Grupo unitario | Ocupaciones asociadas |
+|---|---|
+| 9999 Ocupaciones no especificadas | Sin referente |
+
+**Ocupaciones no contenidas en el Sistema Nacional de Clasificación de Ocupaciones y reconocidas en el Sector para este EC:**
 - Responsable de gobernanza de inteligencia artificial
 - Oficial de cumplimiento
 - Responsable de protección de datos personales
 - Responsable de seguridad de la información
+- Gerente de riesgos tecnológicos
 
 ### Clasificación según el Sistema de Clasificación Industrial de América del Norte (SCIAN)
-- Sector: [54 Servicios profesionales, científicos y técnicos]
-- Subsector: [541 Servicios profesionales, científicos y técnicos]
-- Rama: [5416 Servicios de consultoría administrativa, científica y técnica]
-- Subrama / Clase: [por definir con CONOCER]
+
+| Sector | Subsector | Rama | Subrama | Clase |
+|---|---|---|---|---|
+| 54 Servicios profesionales, científicos y técnicos | 541 Servicios profesionales, científicos y técnicos | 5416 Servicios de consultoría administrativa, científica y técnica | 54161 Servicios de consultoría en administración | 541610 Servicios de consultoría en administración |
 
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
-### Organizaciones participantes en el desarrollo del EC
-- [Empresa desarrolladora]
-- [Centro de evaluación]
-- [Empresas piloto]
-- [Cámaras / asociaciones empresariales]
+### Empresas e Instituciones participantes en el desarrollo del EC
+- [Por integrar: empresa desarrolladora, centro de evaluación, empresas de sectores regulados, cámaras empresariales y especialistas en protección de datos]
 
 ### Relación con otros estándares de competencia
-**Estándares relacionados:**
-- [EC-A] Protección de la información en el uso de herramientas de inteligencia artificial generativa en actividades de trabajo *(el EC-B establece los controles que el personal certificado en el EC-A aplica)*.
+
+**Estándares relacionados**
+- [Por asignar] Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa
 
 ### Aspectos relevantes de la evaluación
-**Detalles de la práctica a considerar:**
-- La evaluación se realiza mediante un caso práctico de una organización ficticia que describe sus áreas, procesos, herramientas de IA en uso (autorizadas y no autorizadas), proveedores, tipos de información que procesa y un incidente ocurrido.
-- La persona elabora los productos de los cuatro elementos a partir del mismo caso, de modo que integra un expediente de gestión de IA.
-- La evaluación de los desempeños del Elemento 4 se realiza mediante una situación simulada de atención de incidente, conducida por el evaluador.
-- En ningún momento deberán utilizarse datos personales ni información confidencial reales.
 
-**Apoyos/Requerimientos:**
+**Detalles de la práctica a considerar**
+- La evaluación se lleva a cabo en situación simulada, sobre el caso práctico de una organización ficticia que describe sus áreas, procesos, sistemas de IA en uso, autorizados y no autorizados, proveedores, tipos de información que procesa y un incidente.
+- La persona elabora los productos de los cuatro elementos a partir del mismo caso e integra un expediente de gestión de IA.
+- Los desempeños se evalúan mediante simulaciones conducidas por el evaluador: entrevista con el responsable de un área usuaria (Elemento 1 de 4), presentación a la dirección (Elemento 2 de 4), comunicación de la política a personas usuarias (Elemento 3 de 4) y atención de un incidente (Elemento 4 de 4).
+- En ningún momento deben utilizarse datos personales ni información confidencial reales.
+
+**Apoyos/Requerimientos**
 - Equipo de cómputo con procesador de textos y hoja de cálculo.
-- Caso práctico de la organización ficticia, con anexos: organigrama, descripción de procesos, listado de herramientas detectadas, extractos de términos y condiciones de proveedores de IA y reporte de incidente.
-- Formatos de inventario, matriz de riesgos y registro de incidentes, cuando la organización ficticia los proporcione; en caso contrario, la persona los elabora.
+- Caso práctico de la organización ficticia con sus anexos: organigrama, descripción de procesos, relación de sistemas detectados, contrataciones y licencias de software, extractos de las condiciones de servicio de proveedores de IA, política de seguridad de la información y reporte de un incidente.
+- Espacio para las simulaciones de entrevista, presentación, comunicación de la política y atención del incidente.
 
-**Duración estimada de la evaluación:**
-- 1 hora en gabinete y 4 horas en campo, totalizando 5 horas. *(Tiempos a validar en la prueba piloto.)*
+**Duración estimada de la evaluación**
+- 1 hora en gabinete y 4 horas en campo, totalizando 5 horas.
 
-### Referencias de información
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. DOF, 20 de marzo de 2025.
-- Ley Federal del Trabajo, artículo 153-A.
+### Referencias de Información
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
+- Ley Federal del Trabajo.
 - Ley Federal del Derecho de Autor.
-- ISO/IEC 27001:2022. Seguridad de la información, ciberseguridad y protección de la privacidad.
-- ISO/IEC 42001:2023. Sistema de gestión de inteligencia artificial.
-- ISO/IEC 23894:2023. Inteligencia artificial – Orientación sobre la gestión de riesgos.
-- ISO 31000:2018. Gestión del riesgo – Directrices.
-- NIST AI Risk Management Framework (AI RMF 1.0), 2023.
-- UNESCO. Recomendación sobre la ética de la inteligencia artificial, 2021.
+- ISO 31000:2018. Risk management — Guidelines.
+- ISO/IEC 22989:2022. Information technology — Artificial intelligence — Artificial intelligence concepts and terminology.
+- ISO/IEC 23894:2023. Information technology — Artificial intelligence — Guidance on risk management.
+- ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection — Information security management systems — Requirements.
+- ISO/IEC 42001:2023. Information technology — Artificial intelligence — Management system.
+- National Institute of Standards and Technology (2023). NIST AI 100-1. Artificial Intelligence Risk Management Framework (AI RMF 1.0).
+- National Institute of Standards and Technology (2024). NIST AI 600-1. Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.
+- OWASP Foundation (2025). OWASP Top 10 for Large Language Model Applications.
+- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial.
+- UNESCO (2021). Recomendación sobre la ética de la inteligencia artificial.
 
 ---
 
 ## II.- Perfil del Estándar de Competencia
 
-**Estándar de Competencia:** Gestión de riesgos y controles en el uso de herramientas y sistemas de inteligencia artificial en la organización
-
-- **Elemento 1 de 4:** Integrar el inventario de herramientas y sistemas de inteligencia artificial de la organización
-- **Elemento 2 de 4:** Evaluar los riesgos de los usos de inteligencia artificial identificados
-- **Elemento 3 de 4:** Establecer los controles y la política de uso de inteligencia artificial
-- **Elemento 4 de 4:** Supervisar el cumplimiento de los controles y gestionar los incidentes de inteligencia artificial
+| Estándar de Competencia | Elementos |
+|---|---|
+| Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización | **Elemento 1 de 4** · Integrar el inventario de sistemas de inteligencia artificial de la organización |
+| | **Elemento 2 de 4** · Evaluar los riesgos de los usos de inteligencia artificial de la organización |
+| | **Elemento 3 de 4** · Establecer la política de uso y los controles de inteligencia artificial |
+| | **Elemento 4 de 4** · Supervisar el cumplimiento de los controles y gestionar los incidentes de inteligencia artificial |
 
 ---
 
@@ -113,160 +116,195 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 
 | Referencia | Código | Título |
 |---|---|---|
-| 1 de 4 | [E0000] | Integrar el inventario de herramientas y sistemas de inteligencia artificial de la organización |
+| 1 de 4 | [E0000] | Integrar el inventario de sistemas de inteligencia artificial de la organización |
 
 ### CRITERIOS DE EVALUACIÓN
-La persona es competente cuando demuestra los siguientes:
 
-**DESEMPEÑOS**
-1. Identifica las herramientas y sistemas de IA en uso en la organización:
-   - Consultando a las áreas usuarias mediante el instrumento de levantamiento,
-   - Revisando las contrataciones, licencias y suscripciones de software,
-   - Revisando los registros técnicos disponibles de acceso a servicios de IA, e
-   - Identificando las funciones de IA incorporadas en el software que ya utiliza la organización.
+La persona es competente cuando demuestra el siguiente:
+
+**DESEMPEÑO**
+
+1. Realiza la entrevista de levantamiento con el responsable de un área usuaria:
+   - Explicando el propósito del inventario y el uso que se dará a la información,
+   - Preguntando por los sistemas de IA que utiliza el área, incluidos los de uso personal y las funciones de IA incorporadas en otro software,
+   - Preguntando por la finalidad de cada uso, la información que se ingresa y las decisiones que apoya, y
+   - Confirmando con la persona entrevistada la información registrada.
+
+La persona es competente cuando obtiene los siguientes:
 
 **PRODUCTOS**
+
 1. El instrumento de levantamiento de información elaborado:
-   - Contiene las preguntas sobre herramientas utilizadas, finalidad de uso, frecuencia y tipo de información ingresada,
-   - Está dirigido a los responsables de cada área, y
+   - Contiene preguntas sobre los sistemas utilizados, la finalidad de uso, la frecuencia, la información ingresada y las decisiones que apoyan,
+   - Indica el puesto al que está dirigido, e
    - Incluye las instrucciones para su llenado.
-2. El inventario de herramientas y sistemas de IA integrado:
-   - Contiene el nombre de la herramienta o sistema y su proveedor,
+2. El inventario de sistemas de IA integrado:
+   - Contiene cada sistema identificado en el caso, con su nombre y su proveedor,
+   - Indica la fuente por la que se identificó cada sistema: entrevista, contratación o licencia, o registro técnico,
    - Especifica la finalidad de uso y el proceso en el que interviene,
    - Indica el área usuaria y la persona responsable del uso,
-   - Especifica los tipos de información que procesa: datos personales, datos personales sensibles, información confidencial o pública,
+   - Especifica los tipos de información que procesa: pública, interna, confidencial, datos personales y datos personales sensibles,
    - Indica si toma o apoya decisiones que afectan a personas,
-   - Indica la condición de autorizada o no autorizada,
-   - Indica la modalidad de acceso: cuenta personal, cuenta institucional o integración en sistemas, e
+   - Indica la modalidad de acceso: cuenta personal, cuenta institucional o integración en otros sistemas,
+   - Indica la condición de autorizado o no autorizado, e
    - Incluye la fecha de actualización.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Tipos de herramientas y sistemas de IA: IA generativa, sistemas de recomendación, clasificación y decisión automatizada. | Comprensión
-2. Formas de uso no autorizado de herramientas de IA en las organizaciones. | Comprensión
-3. Técnicas de levantamiento de información: entrevista y cuestionario. | Aplicación
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Tipos de sistemas de IA: generativos, de recomendación, de clasificación y de decisión automatizada. | Comprensión |
+| 2. Formas de uso no autorizado de la IA en las organizaciones y fuentes para identificarlo. | Comprensión |
+| 3. Técnicas de entrevista para el levantamiento de información. | Aplicación |
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
-1. Orden: La manera en que registra la información de cada herramienta en el inventario siguiendo la estructura establecida.
-2. Perseverancia: La manera en que da seguimiento a las áreas hasta obtener la información requerida.
+1. Amabilidad: La manera en que trata a la persona entrevistada durante el levantamiento de información.
+2. Orden: La manera en que registra cada sistema en el inventario siguiendo la estructura establecida.
 
 **GLOSARIO**
-1. Herramienta de IA no autorizada: Herramienta de IA utilizada por personal de la organización sin la aprobación expresa del responsable designado.
-2. Inventario de IA: Registro actualizado de las herramientas y sistemas de IA utilizados por la organización y de sus características relevantes para la gestión de riesgos.
-3. Sistema de decisión automatizada: Sistema que, con o sin intervención humana, produce resultados que se utilizan para tomar decisiones que afectan a personas.
+1. Función de IA incorporada: Capacidad de IA integrada en un software de uso general de la organización, como un procesador de textos, un sistema de correo o un sistema de gestión.
+2. Inventario de IA: Registro actualizado de los sistemas de IA que utiliza la organización y de sus características relevantes para la gestión de riesgos.
+3. Sistema de IA: Sistema basado en máquinas que, a partir de la información que recibe, genera resultados como contenido, predicciones, recomendaciones o decisiones; incluye las herramientas de IA generativa.
+4. Sistema de IA no autorizado: Sistema de IA que el personal de la organización utiliza sin la aprobación expresa del responsable designado.
 
 ---
 
 | Referencia | Código | Título |
 |---|---|---|
-| 2 de 4 | [E0000] | Evaluar los riesgos de los usos de inteligencia artificial identificados |
+| 2 de 4 | [E0000] | Evaluar los riesgos de los usos de inteligencia artificial de la organización |
 
 ### CRITERIOS DE EVALUACIÓN
-La persona es competente cuando demuestra los siguientes:
 
-**DESEMPEÑOS**
-1. Presenta los resultados de la evaluación de riesgos al responsable de la organización:
-   - Explicando los criterios utilizados para valorar la probabilidad y el impacto,
-   - Señalando los usos de IA con riesgo alto y las razones de su clasificación,
+La persona es competente cuando demuestra el siguiente:
+
+**DESEMPEÑO**
+
+1. Presenta los resultados de la evaluación de riesgos a la dirección de la organización:
+   - Explicando la escala utilizada para valorar la probabilidad y el impacto,
+   - Señalando los usos de riesgo alto y las razones de su valoración,
    - Proponiendo el tratamiento de cada riesgo alto, y
-   - Atendiendo las dudas planteadas.
+   - Respondiendo las preguntas planteadas con base en la información del caso.
+
+La persona es competente cuando obtiene los siguientes:
 
 **PRODUCTOS**
-1. La matriz de riesgos de los usos de IA elaborada:
+
+1. La escala de valoración de riesgos elaborada:
+   - Define al menos tres niveles de probabilidad, con el criterio de cada uno,
+   - Define al menos tres niveles de impacto, con el criterio de cada uno, y
+   - Establece la regla para obtener el nivel de riesgo y el nivel a partir del cual un riesgo se considera alto.
+2. La matriz de riesgos de los usos de IA elaborada:
    - Contiene cada uso de IA registrado en el inventario,
-   - Identifica los riesgos de cada uso en las categorías de: protección de datos personales, seguridad de la información, exactitud de los resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual y uso de imagen y voz, y continuidad de la operación,
+   - Identifica los riesgos de cada uso en las categorías de protección de datos personales, seguridad de la información, exactitud de los resultados, sesgo y discriminación, derechos de las personas trabajadoras, propiedad intelectual e imagen y voz de las personas, y continuidad de la operación,
    - Especifica las personas o grupos que pueden resultar afectados,
-   - Valora la probabilidad y el impacto de cada riesgo conforme a la escala definida,
+   - Valora la probabilidad y el impacto de cada riesgo conforme a la escala,
    - Asigna el nivel de riesgo resultante,
-   - Indica los controles existentes, y
-   - Indica el tratamiento propuesto: eliminar, reducir, transferir o aceptar el riesgo.
-2. La evaluación de impacto de un uso de IA de riesgo alto elaborada:
+   - Indica los controles existentes, e
+   - Indica el tratamiento propuesto: evitar, reducir, compartir o aceptar el riesgo.
+3. La evaluación de impacto de un uso de IA de riesgo alto elaborada:
    - Describe la finalidad y el funcionamiento general del uso,
    - Identifica la información que procesa y su origen,
-   - Describe las decisiones que el uso apoya o toma y las personas afectadas,
+   - Describe las decisiones que el uso apoya o toma y las personas a las que afectan,
    - Analiza la necesidad y la proporcionalidad del uso respecto de su finalidad,
-   - Especifica el mecanismo de intervención humana previsto, y
-   - Contiene las medidas propuestas para reducir el riesgo.
+   - Especifica el mecanismo de intervención humana,
+   - Contiene las medidas para reducir el riesgo, e
+   - Indica el riesgo residual después de aplicar las medidas.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Principios y deberes de protección de datos personales: consentimiento, finalidad, proporcionalidad, medidas de seguridad, transferencias y remisiones. | Comprensión
-2. Metodología de evaluación de riesgos: identificación, análisis, valoración y tratamiento. | Aplicación
-3. Riesgos propios de la IA: información inexacta, sesgo, opacidad, filtración de información y suplantación mediante contenido sintético. | Comprensión
-4. Supuestos en que el uso de IA afecta derechos de las personas trabajadoras: selección, evaluación de desempeño y supervisión. | Comprensión
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Principios de protección de datos personales: licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad; medidas de seguridad, transferencias y remisiones. | Comprensión |
+| 2. Proceso de gestión de riesgos: identificación, análisis, valoración y tratamiento. | Aplicación |
+| 3. Riesgos propios de la IA: información inventada, sesgo, opacidad, filtración de información, inyección de instrucciones y suplantación mediante contenido sintético. | Comprensión |
+| 4. Usos de IA que afectan derechos de las personas trabajadoras: selección, evaluación del desempeño, supervisión y terminación de la relación laboral. | Comprensión |
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
 1. Responsabilidad: La manera en que fundamenta el nivel asignado a cada riesgo con la información del caso.
-2. Tolerancia: La manera en que atiende las dudas y objeciones del responsable de la organización.
+2. Tolerancia: La manera en que atiende las preguntas y objeciones de la dirección.
 
 **GLOSARIO**
 1. Evaluación de impacto: Análisis documentado de los efectos que un uso de IA puede tener sobre las personas y la organización, y de las medidas para reducirlos.
-2. Intervención humana: Revisión por parte de una persona con autoridad y conocimiento suficientes para confirmar, modificar o rechazar el resultado de un sistema de IA.
-3. Nivel de riesgo: Resultado de la combinación de la probabilidad de ocurrencia y el impacto de un riesgo.
-4. Tratamiento del riesgo: Decisión adoptada para eliminar, reducir, transferir o aceptar un riesgo.
+2. Inyección de instrucciones: Técnica que introduce en el contenido que procesa un sistema de IA instrucciones ocultas para alterar su comportamiento.
+3. Intervención humana: Revisión del resultado de un sistema de IA por una persona con autoridad y conocimiento suficientes para confirmarlo, modificarlo o rechazarlo antes de que produzca efectos.
+4. Nivel de riesgo: Resultado de combinar la probabilidad de ocurrencia y el impacto de un riesgo.
+5. Riesgo residual: Riesgo que permanece después de aplicar las medidas de tratamiento.
+6. Tratamiento del riesgo: Decisión de evitar, reducir, compartir o aceptar un riesgo, y las medidas que la acompañan.
 
 ---
 
 | Referencia | Código | Título |
 |---|---|---|
-| 3 de 4 | [E0000] | Establecer los controles y la política de uso de inteligencia artificial |
+| 3 de 4 | [E0000] | Establecer la política de uso y los controles de inteligencia artificial |
 
 ### CRITERIOS DE EVALUACIÓN
-La persona es competente cuando demuestra los siguientes:
 
-**DESEMPEÑOS**
-1. Revisa las condiciones contractuales de un proveedor de IA:
-   - Identificando el uso que el proveedor puede dar a la información ingresada,
-   - Identificando el lugar y el plazo de conservación de la información,
-   - Identificando las condiciones de confidencialidad y seguridad ofrecidas, e
-   - Identificando las condiciones aplicables a la información después de la terminación del servicio.
+La persona es competente cuando demuestra el siguiente:
+
+**DESEMPEÑO**
+
+1. Comunica la política de uso de IA a un grupo de personas usuarias:
+   - Explicando qué herramientas están autorizadas y para qué usos,
+   - Explicando qué información puede y no puede ingresarse a las herramientas,
+   - Explicando el procedimiento de reporte de incidentes, y
+   - Resolviendo las dudas planteadas con base en la política.
+
+La persona es competente cuando obtiene los siguientes:
 
 **PRODUCTOS**
-1. La política de uso de IA de la organización elaborada:
+
+1. La política de uso de IA elaborada:
    - Contiene el objetivo y el alcance,
-   - Establece los criterios para autorizar herramientas de IA,
-   - Especifica la información que puede y no puede ingresarse en herramientas de IA conforme a su clasificación,
+   - Establece los criterios y el procedimiento para autorizar sistemas de IA,
+   - Especifica la información que puede y no puede ingresarse a los sistemas de IA conforme a su clasificación,
    - Establece la obligación de verificar los resultados y de declarar el uso de IA,
-   - Establece las reglas para el uso de imagen, voz y obras de terceros,
+   - Establece las reglas para el uso de la imagen, la voz y las obras de terceros,
    - Establece la intervención humana en los usos que afectan a personas,
    - Especifica el procedimiento de reporte de incidentes,
-   - Designa a los responsables de su aplicación, y
-   - Indica las consecuencias de su incumplimiento.
-2. La lista de verificación contractual de proveedores de IA elaborada:
-   - Contiene los criterios de uso de la información ingresada por el proveedor,
-   - Contiene los criterios de conservación, ubicación y eliminación de la información,
-   - Contiene los criterios de confidencialidad y seguridad, y
-   - Incluye el resultado de su aplicación a un proveedor del caso.
+   - Designa a los responsables de su aplicación,
+   - Indica las consecuencias de su incumplimiento, e
+   - Indica su periodo de revisión.
+2. La lista de verificación de proveedores de IA aplicada:
+   - Contiene criterios sobre el uso que el proveedor da a la información ingresada, incluido su uso para entrenamiento,
+   - Contiene criterios sobre la conservación, la ubicación y la eliminación de la información,
+   - Contiene criterios de confidencialidad y seguridad,
+   - Contiene criterios sobre la notificación de incidentes por parte del proveedor, e
+   - Incluye el resultado de su aplicación a un proveedor del caso y la recomendación de autorizarlo o no.
 3. El plan de controles elaborado:
-   - Contiene un control para cada riesgo alto de la matriz,
-   - Especifica el tipo de control: técnico, administrativo o de capacitación,
+   - Contiene al menos un control para cada riesgo alto de la matriz,
+   - Especifica el tipo de cada control: técnico, administrativo o físico,
    - Indica el responsable de implementarlo,
    - Indica el plazo de implementación, y
-   - Especifica la evidencia que demuestra su funcionamiento.
+   - Especifica la evidencia que demostrará su funcionamiento.
 4. El programa de capacitación en el uso de IA elaborado:
    - Identifica la población a capacitar por tipo de puesto,
-   - Especifica los contenidos de acuerdo con la política de uso de IA,
-   - Indica la modalidad, duración y calendario, y
+   - Especifica los contenidos conforme a la política de uso de IA,
+   - Indica la modalidad, la duración y el calendario, y
    - Especifica la forma de evaluar y registrar la capacitación.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Tipos de controles de seguridad de la información: técnicos, administrativos y físicos. | Comprensión
-2. Elementos de una política organizacional. | Aplicación
-3. Condiciones de servicio relevantes de los proveedores de IA: uso de la información para entrenamiento, conservación, ubicación y confidencialidad. | Comprensión
-4. Obligación patronal de capacitación y su registro. | Conocimiento
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Tipos de controles de seguridad de la información: técnicos, administrativos y físicos. | Comprensión |
+| 2. Estructura de una política organizacional. | Aplicación |
+| 3. Condiciones de servicio relevantes de los proveedores de IA: uso de la información para entrenamiento, conservación, ubicación, confidencialidad y notificación de incidentes. | Comprensión |
+| 4. Obligaciones patronales de capacitación y su registro. | Conocimiento |
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
-1. Responsabilidad: La manera en que vincula cada control con un riesgo identificado en la matriz.
-2. Iniciativa: La manera en que propone controles adicionales a los existentes en la organización.
+1. Responsabilidad: La manera en que vincula cada control con un riesgo de la matriz.
+2. Iniciativa: La manera en que propone controles adicionales a los que ya existen en la organización.
 
 **GLOSARIO**
-1. Control: Medida que modifica un riesgo, reduciendo su probabilidad o su impacto.
-2. Política de uso de IA: Documento aprobado por la organización que establece las reglas para el uso de herramientas y sistemas de IA por su personal.
-3. Proveedor de IA: Persona física o moral que ofrece una herramienta o sistema de IA a la organización, de forma gratuita o mediante contrato.
+1. Control: Medida que modifica un riesgo, al reducir su probabilidad o su impacto.
+2. Política de uso de IA: Documento aprobado por la organización que establece las reglas para el uso de sistemas de IA por su personal.
+3. Proveedor de IA: Persona física o moral que ofrece un sistema de IA a la organización, de forma gratuita o mediante contrato.
 
 ---
 
@@ -275,64 +313,83 @@ La persona es competente cuando posee los siguientes:
 | 4 de 4 | [E0000] | Supervisar el cumplimiento de los controles y gestionar los incidentes de inteligencia artificial |
 
 ### CRITERIOS DE EVALUACIÓN
-La persona es competente cuando demuestra los siguientes:
 
-**DESEMPEÑOS**
+La persona es competente cuando demuestra el siguiente:
+
+**DESEMPEÑO**
+
 1. Atiende un incidente de IA reportado:
    - Confirmando los hechos con la persona que lo reportó,
    - Determinando la información y las personas afectadas,
    - Aplicando las medidas de contención,
-   - Determinando si el incidente requiere notificarse a las personas afectadas o a la autoridad conforme a la normatividad aplicable, y
-   - Comunicando el incidente a la dirección de la organización.
+   - Determinando si el incidente constituye una vulneración de seguridad de datos personales que deba informarse a las personas titulares conforme a la normatividad aplicable, y
+   - Comunicando el incidente a la dirección.
+
+La persona es competente cuando obtiene los siguientes:
 
 **PRODUCTOS**
+
 1. El programa de verificación de controles elaborado:
    - Contiene los controles a verificar,
    - Especifica el método de verificación de cada control,
    - Indica la periodicidad de la verificación, y
-   - Designa al responsable de la verificación.
+   - Designa al responsable de cada verificación.
 2. El registro de incidente de IA requisitado:
-   - Contiene la fecha y hora de identificación y de reporte,
-   - Describe el incidente y la herramienta o sistema involucrado,
+   - Contiene la fecha y la hora de identificación y de reporte,
+   - Describe el incidente y el sistema involucrado,
    - Identifica la información y las personas afectadas,
    - Describe las medidas de contención aplicadas,
-   - Indica la determinación sobre la notificación a personas afectadas o autoridad, y su fundamento,
+   - Indica la determinación sobre informar a las personas titulares y su fundamento,
    - Describe la causa identificada, e
-   - Indica las acciones correctivas, sus responsables y plazos.
+   - Indica las acciones correctivas, sus responsables y sus plazos.
 3. El informe de gestión de IA para la dirección elaborado:
    - Contiene el resumen del inventario y sus cambios,
    - Contiene los riesgos altos y el avance de sus controles,
    - Contiene los resultados de la verificación de controles,
-   - Contiene los incidentes ocurridos y su estado, y
-   - Incluye las recomendaciones y decisiones requeridas de la dirección.
+   - Contiene los incidentes ocurridos y su estado, e
+   - Incluye las recomendaciones y las decisiones que requiere de la dirección.
 
 La persona es competente cuando posee los siguientes:
 
-**CONOCIMIENTOS** | **NIVEL**
-1. Etapas de la gestión de incidentes: identificación, contención, análisis, corrección y cierre. | Aplicación
-2. Deber de notificación de vulneraciones de seguridad de datos personales conforme a la normatividad aplicable. | Comprensión
-3. Análisis de causa raíz. | Aplicación
+| CONOCIMIENTOS | NIVEL |
+|---|---|
+| 1. Etapas de la gestión de incidentes: identificación, contención, análisis, corrección y cierre. | Aplicación |
+| 2. Vulneraciones de seguridad de datos personales y deber de informar a las personas titulares. | Comprensión |
+| 3. Análisis de causa raíz. | Aplicación |
+
+La persona es competente cuando demuestra la siguiente:
+
+**RESPUESTA ANTE SITUACIONES EMERGENTES**
+
+**SITUACIÓN EMERGENTE**
+1. Situación emergente: Durante la atención del incidente, se informa que la información filtrada contiene datos personales sensibles de clientes y ya circula en redes sociales.
+
+**RESPUESTAS ESPERADAS**
+1. Escala de inmediato el incidente a la dirección y al área jurídica, solicita a la plataforma el retiro del contenido, determina con el área jurídica la información a las personas titulares conforme a la normatividad aplicable y lo documenta en el registro de incidente.
+
+La persona es competente cuando demuestra las siguientes:
 
 **ACTITUDES/HÁBITOS/VALORES**
 1. Responsabilidad: La manera en que aplica las medidas de contención en cuanto confirma el incidente.
-2. Imparcialidad: La manera en que describe los hechos y la causa del incidente sin atribuir culpas no sustentadas. *(Confirmar si "Imparcialidad" está en el catálogo de CONOCER; alternativa: "Objetividad".)*
-
-**SITUACIÓN EMERGENTE**
-1. Durante la atención del incidente, el evaluador informa que la información filtrada contiene datos personales sensibles de clientes y ya circula en redes sociales.
-
-**RESPUESTAS ESPERADAS**
-1. Escala de inmediato el incidente a la dirección y al área jurídica, solicita la retirada del contenido a la plataforma correspondiente, determina la notificación a las personas afectadas conforme a la normatividad aplicable y lo documenta en el registro de incidente.
+2. Orden: La manera en que documenta los hechos, la causa y las acciones en el registro de incidente siguiendo la secuencia en que ocurrieron.
 
 **GLOSARIO**
-1. Acción correctiva: Medida adoptada para eliminar la causa de un incidente y evitar que vuelva a ocurrir.
+1. Acción correctiva: Medida para eliminar la causa de un incidente y evitar que se repita.
 2. Contención: Medidas inmediatas para detener o limitar los efectos de un incidente.
-3. Incidente de IA: Evento derivado del uso de herramientas o sistemas de IA que compromete la información, causa o puede causar un daño a personas o a la organización.
-4. Vulneración de seguridad: Pérdida, robo, extravío, copia, uso, acceso, tratamiento, daño, alteración o modificación no autorizados de datos personales. *(Ajustar a la definición literal de la ley vigente.)*
+3. Incidente de IA: Evento derivado del uso de un sistema de IA que compromete la información o que causa, o puede causar, un daño a personas o a la organización.
+4. Vulneración de seguridad: Pérdida, robo, extravío, copia, uso, acceso, tratamiento, daño, alteración o modificación no autorizados de datos personales.
 
 ---
 
-## Notas de diseño (no forman parte del EC)
-1. **Expediente integrado:** los productos de los cuatro elementos se elaboran sobre el mismo caso, lo que da al candidato y a la empresa un entregable reutilizable (inventario, matriz, política, plan de controles, registro de incidentes e informe).
-2. **Nivel:** se propone nivel 4 por el grado de juicio y coordinación requeridos. Confirmar con CONOCER.
-3. **Validación jurídica:** el contenido es responsabilidad exclusiva de la institución desarrolladora (Acuerdo SE/III-26/05,R); los productos con contenido legal (Elementos 2, 3 y 4) deben ser revisados por un abogado especialista en protección de datos.
-4. **Vínculo con el EC-A:** el producto 4 del Elemento 3 (programa de capacitación) es el punto de conexión comercial con el EC-A.
+## Notas para el Comité de Gestión por Competencias
+*No forman parte del Estándar de Competencia.*
+
+1. **Alineación internacional.** Los cuatro elementos siguen las funciones del NIST AI RMF (mapear, medir, gobernar y gestionar) y los requisitos de ISO/IEC 42001 (contexto, evaluación de riesgos y de impacto, política, competencia y toma de conciencia, evaluación del desempeño y mejora). La correspondencia está en `01-mapa-funcional.md`.
+2. **Expediente integrado.** Los productos de los cuatro elementos se elaboran sobre el mismo caso: la persona entrega un expediente de gestión de IA completo y comparable entre candidatos.
+3. **Nivel.** Se propone el nivel Cuatro por el grado de juicio y de coordinación con otras áreas. Confirmar con el CONOCER.
+4. **Clasificación.** El SCIAN 541610 es una propuesta; confirmar con el CONOCER. El grupo unitario SINCO 9999 sigue el precedente del EC1781 (DOF 2026).
+5. **Fórmulas del formato por confirmar con el CONOCER:** las mismas señaladas en el EC-A (introducción de productos, situaciones emergentes y actitudes; escala de conocimientos; catálogo de actitudes; texto del nivel Cuatro).
+6. **Validación jurídica.** El contenido de un EC es responsabilidad exclusiva de la institución que lo desarrolla (Acuerdo SE/III-26/05,R). Los principios de protección de datos, la definición de vulneración y el deber de informar a las personas titulares deben ajustarse al texto literal de la ley de 2025 con un especialista.
+7. **Vínculo con el EC-A.** El producto 4 del Elemento 3 de 4 (programa de capacitación) se acredita en el personal mediante el EC-A.
+
+**Cambios respecto de la versión 0.1:** título más breve ("sistemas" incluye las herramientas); un desempeño observable por elemento mediante simulación (entrevista, presentación, comunicación y atención de incidente); escala de valoración de riesgos con criterios mínimos; riesgo residual en la evaluación de impacto; notificación de incidentes por proveedores; inyección de instrucciones entre los riesgos propios de la IA; "Imparcialidad" sustituida por "Orden"; frases introductorias del formato completas.
