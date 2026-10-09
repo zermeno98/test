@@ -96,7 +96,9 @@ def main():
                 args += ['--confidencial', op['confidencial']]
             if op.get('diagramas'):
                 args += ['--diagramas', RAIZ / 'diagramas']
-            correr(args)
+            for linea in correr(args).splitlines():
+                if 'aviso' in linea.lower():
+                    print(f'{clave:>6} Word  {linea.strip()}')
             chk = [RAIZ / 'exportar' / 'comprobar_texto.py', md, docx_out] + (['--estandar'] if op.get('estandar') else []) + (['--diagramas'] if op.get('diagramas') else [])
             res = correr(chk)
             print(f'{clave:>6} Word  {res}')
@@ -109,7 +111,9 @@ def main():
                 args += ['--confidencial', op['confidencial']]
             if op.get('diagramas'):
                 args.append('--diagramas')
-            correr(args)
+            for linea in correr(args).splitlines():
+                if 'aviso' in linea.lower():
+                    print(f'{clave:>6} PDF   {linea.strip()}')
             print(f'{clave:>6} PDF   {pdf_out.name}')
 
 

@@ -137,6 +137,18 @@ def ordenar_tblpr(table):
     for h in sorted(hijos, key=clave):
         tblPr.append(h)
 
+def margenes_celda(table, dxa):
+    """Márgenes internos izquierdo y derecho de las celdas (tablas de muchas columnas)."""
+    tblPr = table._tbl.tblPr
+    mar = OxmlElement('w:tblCellMar')
+    for lado in ('left', 'right'):
+        el = OxmlElement(f'w:{lado}')
+        el.set(qn('w:w'), str(dxa))
+        el.set(qn('w:type'), 'dxa')
+        mar.append(el)
+    tblPr.append(mar)
+
+
 def repeat_header(row):
     trPr = row._tr.get_or_add_trPr()
     el = OxmlElement('w:tblHeader')
@@ -188,6 +200,49 @@ def estilo(doc, nombre):
         if s.style_id == sid:
             return s
     raise KeyError(nombre)
+
+def anchos_columnas(filas, ncols, total):
+    """Anchos de columna (DXA) que no parten palabras.
+
+    Cada columna recibe al menos el ancho de su palabra más larga; el espacio que sobra se
+    reparte según cuánto texto tiene cada columna. Si la tabla no cabe con letra de 8.5 pt,
+    se intenta con 7.5 pt. Devuelve (anchos, tamaño de letra).
+    """
+    angosta = ncols >= 6
+    margen = 190 if angosta else 300  # márgenes internos de la celda y holgura
+    datos = []
+    for f in filas:
+        celdas = f.findall('th') + f.findall('td')
+        enc = bool(f.findall('th'))
+        for i, c in enumerate(celdas[:ncols]):
+            texto = ' '.join(c.text_content().split())
+            palabras = texto.split(' ') if texto else ['']
+            datos.append((i, enc, min(max(len(p) for p in palabras), 28), min(len(texto), 160)))
+    for tam in ((8.5, 7.5, 7, 6.5) if angosta else (8.5, 7.5)):
+        char = tam * 20 * 0.56          # ancho medio de un carácter de Arial, en DXA
+        char_neg = tam * 20 * 0.62      # en negrita (encabezados)
+        minimo = [700] * ncols
+        natural = [700] * ncols
+        for i, enc, larga, largo in datos:
+            minimo[i] = max(minimo[i], larga * (char_neg if enc else char) + margen)
+            natural[i] = max(natural[i], largo * (char_neg if enc else char) + margen)
+        if sum(minimo) <= total:
+            break
+    if sum(minimo) > total:
+        escala = total / sum(minimo)
+        print(f'  aviso: tabla de {ncols} columnas no cabe sin partir palabras (escala {escala:.2f})')
+        return [m * escala for m in minimo], tam
+    sobrante = total - sum(minimo)
+    necesidad = [max(n - m, 0) for n, m in zip(natural, minimo)]
+    if sum(necesidad) <= sobrante:
+        # todo cabe en una línea: repartir el resto en proporción al ancho natural
+        anchos = [n for n in natural]
+        resto = total - sum(anchos)
+        anchos = [a + resto * a / sum(anchos) for a in anchos]
+    else:
+        anchos = [m + sobrante * nd / sum(necesidad) for m, nd in zip(minimo, necesidad)]
+    return anchos, tam
+
 
 # ----------------------------------------------------------------------------- convertidor
 class Conversor:
@@ -418,18 +473,9 @@ class Conversor:
             t.style = estilo(self.doc, 'Table')
         except KeyError:
             pass
-        # anchos proporcionales al contenido
-        largos = [0] * ncols
-        for f in filas:
-            for i, c in enumerate(f.findall('th') + f.findall('td')):
-                largos[i] = max(largos[i], min(len(c.text_content()), 120))
-        largos = [max(l, 6) for l in largos]
-        total = sum(largos)
-        widths = [self.ancho * l / total for l in largos]
-        minimo = 900
-        widths = [max(w, minimo) for w in widths]
-        escala = self.ancho / sum(widths)
-        widths = [w * escala for w in widths]
+        widths, tam = anchos_columnas(filas, ncols, self.ancho)
+        if ncols >= 6:
+            margenes_celda(t, 60)
         for fi, f in enumerate(filas):
             celdas = f.findall('th') + f.findall('td')
             row = t.add_row()
@@ -444,7 +490,7 @@ class Conversor:
                 p.paragraph_format.space_before = Pt(1)
                 p.paragraph_format.space_after = Pt(1)
                 if i < len(celdas):
-                    self.inline(p, celdas[i], bold=es_enc, size=8.5)
+                    self.inline(p, celdas[i], bold=es_enc, size=tam)
                 if es_enc:
                     shade(cell, 'ECECEC')
         table_borders(t)

@@ -29,7 +29,7 @@ CSS = """
 :root { --ink:#2d3142; --muted:#4f5d75; --soft:#7a8399; --rule:rgba(45,49,66,.16); --paper:#f5f5f5; }
 * { box-sizing: border-box; }
 html { font-size: 10pt; }
-body { font-family:'Geist',Arial,sans-serif; color:var(--ink); line-height:1.5; margin:0; overflow-wrap:break-word; word-break:break-word; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+body { font-family:'Geist',Arial,sans-serif; color:var(--ink); line-height:1.5; margin:0; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
 h1 { font-family:'Instrument Serif','Noto Serif',serif; font-weight:400; font-size:25pt; line-height:1.12; letter-spacing:-.02em; margin:0 0 8pt; }
 h2 { font-family:'Instrument Serif','Noto Serif',serif; font-weight:400; font-size:17pt; letter-spacing:-.01em; line-height:1.15; margin:20pt 0 7pt; break-after:avoid; }
 h3 { font-size:11pt; font-weight:600; margin:14pt 0 5pt; break-after:avoid; }
@@ -37,7 +37,7 @@ h4 { font-size:10pt; font-weight:600; margin:10pt 0 4pt; break-after:avoid; }
 p { margin:0 0 7pt; }
 strong { font-weight:600; }
 ul, ol { margin:0 0 8pt; padding-left:16pt; } li { margin:0 0 2.5pt; } li > ul, li > ol { margin:2pt 0 2pt; }
-a { color:#2e5aa8; text-decoration:none; overflow-wrap:anywhere; }
+a { color:#2e5aa8; text-decoration:none; overflow-wrap:anywhere; word-break:break-all; }
 code { font-family:'Geist Mono',Consolas,monospace; font-size:8.5pt; background:#f0f0f0; padding:0 2px; border-radius:2px; overflow-wrap:anywhere; }
 blockquote { margin:6pt 0 10pt; padding:6pt 10pt; border-left:2.5pt solid #bfc0c0; background:#f7f7f7; }
 blockquote p:last-child { margin-bottom:0; }
@@ -45,8 +45,13 @@ hr { border:0; border-top:1px solid var(--rule); margin:14pt 0; }
 table { width:100%; border-collapse:collapse; margin:5pt 0 11pt; font-size:8.2pt; line-height:1.38; }
 thead th { text-align:left; font-weight:600; font-size:7.8pt; background:var(--paper); border-top:1px solid var(--ink); border-bottom:1px solid var(--rule); padding:4pt 5pt; }
 thead { display: table-header-group; }
-tbody td { vertical-align:top; padding:4pt 5pt; border-bottom:1px solid var(--rule); overflow-wrap:anywhere; }
+tbody td { vertical-align:top; padding:4pt 5pt; border-bottom:1px solid var(--rule); overflow-wrap:break-word; }
+th { overflow-wrap:break-word; }
+.nw { white-space:nowrap; }
 tr { break-inside:avoid; }
+table:has(th:nth-child(6)) { font-size:7.4pt; }
+table:has(th:nth-child(6)) td, table:has(th:nth-child(6)) th { padding:3pt 3.5pt; }
+table:has(th:nth-child(8)) { font-size:6.9pt; }
 table:not(:has(tbody tr:nth-child(5))) { break-inside:avoid; }
 figure { margin:8pt 0 12pt; break-inside:avoid; }
 figure svg { display:block; width:100%; height:auto; border:1px solid var(--rule); border-radius:8px; }
@@ -95,7 +100,16 @@ def main():
         import diagramas as D
         from md_a_docx import sustituir_figuras  # mismos reemplazos que el Word
         texto = sustituir_figuras(texto)
+    # URLs sueltas como enlaces, para que se puedan cortar sin angostar otras columnas
+    texto = re.sub(r'(?<![(<\[`])\bhttps?://[^\s)>\]|`]+[^\s)>\]|`.,;:]', lambda m: f'<{m.group(0)}>', texto)
     html = markdown.markdown(preprocesar(texto), extensions=['tables', 'sane_lists'])
+    # en las celdas, las palabras cortas con guion (folios como Q3-0311) no se parten
+    def _sin_corte(m):
+        celda = re.sub(r'(?<![\w/.-])(\w{1,6}(?:-\w{1,8}){1,3})(?![\w/.-])',
+                       lambda x: f'<span class="nw">{x.group(1)}</span>' if len(x.group(1)) <= 14 else x.group(1),
+                       m.group(2))
+        return m.group(1) + celda + m.group(3)
+    html = re.sub(r'(<td>)(.*?)(</td>)', lambda m: m.group(1) + re.sub(r'>([^<]*)<', lambda n: '>' + _sin_corte(re.match(r'()(.*)()', n.group(1), re.S)) + '<', '>' + m.group(2) + '<')[1:-1] + m.group(3), html, flags=re.S)
     if a.diagramas:
         figs = {'FIGURA1': (D.figura1, 'Figura 1. Un estándar se crea una vez y certifica a muchas personas. Seis pasos en dos etapas.'),
                 'FIGURA2': (D.figura2, 'Figura 2. Dos estándares: uno para quien usa la IA y otro para quien responde por ella. Familia de dos estándares y siete elementos.'),
@@ -139,11 +153,36 @@ def main():
         }""")
         if anchos[0] > anchos[1] + 2:
             print(f'AVISO {salida.name}: contenido de {anchos[0]} px en {anchos[1]} px; {anchos[2]}')
+        partidas = pg.evaluate("""() => {
+            const cv = document.createElement('canvas').getContext('2d'), malas = [];
+            document.querySelectorAll('td, th').forEach(c => {
+                const cs = getComputedStyle(c);
+                const util = c.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+                const recorre = (nodo, font) => {
+                    nodo.childNodes.forEach(n => {
+                        if (n.nodeType === 3) {
+                            cv.font = font;
+                            n.textContent.split(/\s+/).forEach(w => {
+                                if (w && cv.measureText(w).width > util + 1 && !n.parentElement.closest('a, code'))
+                                    malas.push(w);
+                            });
+                        } else if (n.nodeType === 1) {
+                            const s = getComputedStyle(n);
+                            recorre(n, `${s.fontWeight} ${s.fontSize} ${s.fontFamily}`);
+                        }
+                    });
+                };
+                recorre(c, `${cs.fontWeight} ${cs.fontSize} ${cs.fontFamily}`);
+            });
+            return malas;
+        }""")
+        if partidas:
+            print(f'AVISO {salida.name}: {len(partidas)} palabras no caben en su columna: {partidas[:8]}')
         pg.pdf(path=str(salida), format='Letter', print_background=True, display_header_footer=True,
                header_template=enc, footer_template=pie(a.titulo_pie),
                margin={'top': margen_sup, 'bottom': '0.8in', 'left': '0.7in', 'right': '0.7in'})
         b.close()
-    tmp.unlink()
+    if not __import__("os").environ.get("CONSERVAR_HTML"): tmp.unlink()
     print('ok', salida)
 
 
