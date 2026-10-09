@@ -747,7 +747,7 @@ Si marcaste todos, solicita tu evaluación. Si te faltan algunos, repasa la unid
 
 ## 12. Cómo es la evaluación
 
-- **Dos momentos:** 1 hora de cuestionario de opción múltiple y lectura del caso, y 4 horas de situación simulada, con un caso ficticio distinto del de esta guía.
+- **Tres momentos:** 15 minutos de lectura del caso, 4 horas de situación simulada con un caso ficticio distinto del de esta guía y, al terminar, 45 minutos de cuestionario de opción múltiple.
 - **Un mismo caso para todo:** asumes un puesto de gobernanza de IA en una organización ficticia y elaboras los doce productos, que integran un expediente. Recibes anexos parecidos a los de esta guía y formatos para algunos productos.
 - **Cuatro simulaciones conducidas por el evaluador:** una entrevista de levantamiento, una presentación a la dirección, una sesión para explicar la política a personas usuarias y la atención de un incidente.
 - **El evaluador entrega información solo si la pides.** En la entrevista y en el incidente, pregunta: lo que no preguntes no aparecerá.

@@ -24,12 +24,13 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 | Momento | Elemento | Técnica | Instrumento | Evidencia | Tiempo |
 |---|---|---|---|---|---|
-| Gabinete | 1 a 4 | Cuestionario escrito y lectura del caso | Cuestionario (28 reactivos) | Conocimientos | 1 h |
+| Gabinete · Inicio | Todos | Lectura de instrucciones y del caso | Materiales del candidato | — | 15 min |
 | Campo · Parte A | 1 de 4 | Entrevista simulada y revisión de productos | GO-1 y LC-1 | Desempeño 1, instrumento de levantamiento e inventario | 50 min |
 | Campo · Parte B | 2 de 4 | Presentación simulada a la dirección y revisión de productos | GO-2 y LC-2 | Desempeño 1, escala, matriz y evaluación de impacto | 70 min |
 | Campo · Parte C | 3 de 4 | Sesión simulada con personas usuarias y revisión de productos | GO-3 y LC-3 | Desempeño 1, política, lista de verificación, plan de controles y programa de capacitación | 70 min |
 | Campo · Parte D | 4 de 4 | Atención simulada de incidente y revisión de productos | GO-4 y LC-4 | Desempeño 1, situación emergente, programa de verificación, registro de incidente e informe | 45 min |
 | Campo · Cierre | Todos | Entrega del expediente | — | — | 5 min |
+| Gabinete · Al terminar la situación simulada | 1 a 4 | Cuestionario escrito, aplicado al final para que no adelante el contenido del caso | Cuestionario (28 reactivos) | Conocimientos | 45 min |
 
 ## 3. Instrucciones para el evaluador
 
@@ -45,6 +46,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 3. En las simulaciones, entregue la información solo cuando el candidato la pida con una pregunta que la justifique, conforme a los guiones.
 4. Registre en la guía de observación lo que observa, en el momento en que ocurre.
 5. Provoque la situación emergente en el minuto 10 de la Parte D.
+6. Al recibir el expediente, aplique el cuestionario (45 minutos). No lo entregue antes de que termine la situación simulada.
 
 **Después de la evaluación**
 1. Revise el expediente con la lista de cotejo y la clave del caso.

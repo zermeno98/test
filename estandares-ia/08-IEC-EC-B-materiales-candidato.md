@@ -12,7 +12,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 ## Instrucciones para el candidato
 
-1. La evaluación tiene dos momentos: un **cuestionario** y lectura del caso (1 hora) y una **situación simulada** de 4 horas.
+1. La evaluación empieza con la lectura de estas instrucciones y del caso (15 minutos), sigue con una **situación simulada** de 4 horas y termina con un **cuestionario** de 45 minutos.
 2. En la situación simulada eres la persona **Responsable de Gobernanza de Inteligencia Artificial** de Grupo Comercial Ejemplo del Norte, S.A. de C.V. Te nombraron hace una semana y reportas a la Dirección General.
 3. Trabajas sobre un mismo caso. Los productos de cada parte se usan en las siguientes, así que integra un expediente.
 4. Puedes consultar los anexos en cualquier momento. Para esta evaluación, las fuentes verificables son los documentos del caso (Anexos B1 a B6) y lo que obtengas en las entrevistas.
@@ -130,6 +130,8 @@ Categorías: protección de datos personales; seguridad de la información; exac
 ---
 
 ## Cuestionario
+
+*Se entrega al terminar la situación simulada.*
 
 Instrucciones: elige una sola respuesta por pregunta. Tienes 45 minutos.
 
