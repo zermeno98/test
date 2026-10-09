@@ -1,0 +1,8 @@
+Regenerar los diagramas y el PDF de la exposicion de motivos
+
+1. pip install -r requirements.txt  y  python -m playwright install chromium
+2. python diagramas.py salida          genera los tres diagramas (HTML y fragmentos SVG) en la carpeta "salida"
+3. python shot.py salida               genera los PNG y revisa que el texto quepa en sus cajas
+4. python build_pdf.py ../../Markdown/04-exposicion-de-motivos.md salida ../../04-Exposicion-de-motivos-con-diagramas.pdf
+
+Los diagramas siguen las reglas de la skill diagram-design (https://github.com/cathrynlavery/diagram-design).
