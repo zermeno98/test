@@ -22,7 +22,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 ## Situación simulada
 
-Es martes 14 de octubre de 2026, 9:00 horas. El Director General, Ing. Héctor Ejemplo Garza, te pide:
+Es miércoles 14 de octubre de 2026, 9:00 horas. El Director General, Ing. Héctor Ejemplo Garza, te pide:
 
 > "Necesito saber qué inteligencia artificial usamos, qué riesgos tenemos y qué vamos a hacer. Hoy mismo quiero ver el inventario, los riesgos y la propuesta de política y controles."
 

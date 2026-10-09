@@ -23,7 +23,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 ## Situación simulada
 
-Es lunes 13 de octubre de 2026, 9:00 horas. La Gerente de Atención a Clientes, Mtra. Sofía Prueba Gómez, te pide:
+Es martes 13 de octubre de 2026, 9:00 horas. La Gerente de Atención a Clientes, Mtra. Sofía Prueba Gómez, te pide:
 
 > "Prepara con apoyo de la herramienta de IA un resumen ejecutivo de una página sobre las quejas del tercer trimestre y un texto modelo de respuesta para los clientes. Lo necesito hoy para la junta de dirección."
 
