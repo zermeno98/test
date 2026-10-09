@@ -52,9 +52,10 @@ Lista de los **Elementos** que conforman el estándar (normalmente de 2 a 5).
 ### Bloque 0. Gobernanza y arranque
 - 0.1 Comité de Gestión por Competencias: integrantes (universidades, empleadores, cámaras, especialistas en datos personales y seguridad de la información).
 - 0.2 Grupo técnico de expertos por estándar.
-- 0.3 Revisión del RENEC: estándares existentes de IA, tecnologías de la información y protección de datos (incluido EC1657) para evitar duplicidad.
-- 0.4 Marco de referencia: LFPDPPP 2025, LFT art. 153-A, reforma "Ley Antimemes" (cuando se publique), ISO/IEC 27001, ISO/IEC 42001, NIST AI RMF.
-- 0.5 Estándar de referencia del propio centro evaluador (para copiar formato y nivel de detalle).
+- 0.3 Revisión del RENEC: estándares existentes de IA (EC1657, EC1691, EC1705 y los tres EC de IA del Acuerdo SE/III-26/05,R, DOF 7-ago-2026) para evitar duplicidad. Ver `01-mapa-funcional.md`.
+- 0.4 Formato oficial: F21-COOPYD-01 (versión 08 en EC publicados 2025–2026).
+- 0.5 Marco de referencia: LFPDPPP 2025, LFT art. 153-A, reforma "Ley Antimemes" (cuando se publique), ISO/IEC 27001, ISO/IEC 42001, NIST AI RMF.
+
 
 ### Bloque 1. Mapa funcional común
 - Propósito principal: *Utilizar y gestionar sistemas de inteligencia artificial en las organizaciones de forma segura, responsable y conforme a la normatividad aplicable.*
@@ -65,7 +66,7 @@ Lista de los **Elementos** que conforman el estándar (normalmente de 2 a 5).
 
 | Dato | Propuesta |
 |---|---|
-| Título de trabajo | Uso seguro y responsable de herramientas de inteligencia artificial generativa con información de la organización |
+| Título de trabajo | Protección de la información en el uso de herramientas de inteligencia artificial generativa en actividades de trabajo *(renombrado para diferenciarlo del EC1705)* |
 | Propósito | Servir como referente para evaluar y certificar a las personas que utilizan herramientas de IA generativa en actividades académicas o laborales, protegiendo la información y verificando los resultados. |
 | Población | Estudiantes por egresar, personal administrativo y operativo, mandos medios |
 | Nivel SNC propuesto | 2 (a confirmar) |
@@ -131,9 +132,13 @@ Actitudes: responsabilidad, imparcialidad, perseverancia.
 
 ---
 
+## Documentos de la familia
+- `01-mapa-funcional.md` – Mapa funcional y delimitación frente al RENEC
+- `02-EC-A-borrador.md` – Borrador completo del EC-A en formato F21-COOPYD-01
+
 ## Decisiones pendientes
 1. Confirmar niveles SNC con CONOCER.
 2. Confirmar que el EC-A no duplique estándares existentes en el RENEC.
 3. Definir integrantes del Comité de Gestión por Competencias.
-4. Obtener un EC operado por el centro evaluador como plantilla de formato.
+4. Obtener los títulos de los tres EC de IA del DOF del 7-ago-2026 y confirmar que no se traslapan.
 5. Confirmar si la evaluación del EC-A puede aplicarse a distancia (clave para volumen).
