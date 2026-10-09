@@ -12,6 +12,8 @@
 | `03-EC-B-borrador.md` | **EC-B** · Gestión de riesgos y controles en el uso de sistemas de IA en la organización (4 elementos, nivel Cuatro) | Borrador 1.0 en formato F21-COOPYD-01 |
 | `05-IEC-EC-A-guia-evaluador.md` | Instrumento de evaluación del EC-A: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
 | `06-IEC-EC-A-materiales-candidato.md` | Instrumento de evaluación del EC-A: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
+| `07-IEC-EC-B-guia-evaluador.md` | Instrumento de evaluación del EC-B: guía del evaluador (confidencial) | Borrador 1.0 para prueba piloto |
+| `08-IEC-EC-B-materiales-candidato.md` | Instrumento de evaluación del EC-B: caso, anexos y cuestionario para el candidato | Borrador 1.0 para prueba piloto |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
@@ -42,7 +44,7 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [x] Revisión de traslapes con el RENEC
 - [x] Exposición de motivos
 - [x] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
-- [ ] Instrumento de Evaluación de Competencia del EC-B
+- [x] Instrumento de Evaluación de Competencia del EC-B: caso simulado con cuatro simulaciones, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
 - [ ] Prueba piloto de ambos instrumentos con empresas y universidades, y ajustes
 - [ ] Traslado de ambos estándares a la plantilla oficial en Word que proporcione el CONOCER
 
