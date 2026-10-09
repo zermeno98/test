@@ -48,4 +48,8 @@ Reglas de redacción aplicadas:
 | ECM0358 | Fundamentos de IA generativa por Microsoft (estándar de marca) | Ligado a un proveedor; el EC-A es neutral respecto de la herramienta. |
 | EC1691 | Elaboración de materiales educativos con apoyo de IA generativa | Distinto ámbito (docencia). Sin traslape relevante. |
 | EC1657 | Integración de arquitectura y herramientas de IA generativa en la cadena de suministro | Distinto ámbito (implementación técnica). Sin traslape relevante. |
-| Por identificar | Tres EC de IA aprobados en el Acuerdo SE/III-26/05,R (DOF 7-ago-2026) | **Revisar antes de presentar el proyecto.** Pueden traslaparse con el EC-A o el EC-B. |
+| EC1827 | Desarrollo de productos y servicios con IA en MiPyME (Acuerdo SE/III-26/05,R; aprobado 3-jul-2026, DOF 7-ago-2026) | Distinto ámbito (desarrollo de productos). Sin traslape. |
+| EC1828 | Implementación de estrategias con Marketing, utilizando IA para la Alta Dirección en PyME's (mismo acuerdo) | Distinto ámbito (marketing directivo). Sin traslape. |
+| EC1829 | Producción de videos digitales con herramientas de IA generativa (mismo acuerdo) | Distinto ámbito (producción de contenido). Sin traslape; posible relación con el tema de contenido sintético. |
+
+**Conclusión de la revisión (oct-2026):** ningún EC publicado cubre la protección de la información en el uso de IA (EC-A) ni la gestión de riesgos y controles de IA en la organización (EC-B). Pendiente únicamente: Elemento 3 del EC1705 y publicaciones posteriores al 7-ago-2026.

@@ -52,7 +52,7 @@ Lista de los **Elementos** que conforman el estándar (normalmente de 2 a 5).
 ### Bloque 0. Gobernanza y arranque
 - 0.1 Comité de Gestión por Competencias: integrantes (universidades, empleadores, cámaras, especialistas en datos personales y seguridad de la información).
 - 0.2 Grupo técnico de expertos por estándar.
-- 0.3 Revisión del RENEC: estándares existentes de IA (EC1657, EC1691, EC1705 y los tres EC de IA del Acuerdo SE/III-26/05,R, DOF 7-ago-2026) para evitar duplicidad. Ver `01-mapa-funcional.md`.
+- 0.3 Revisión del RENEC: estándares existentes de IA (EC1657, EC1691, EC1705 y EC1827, EC1828 y EC1829 del Acuerdo SE/III-26/05,R, DOF 7-ago-2026; sin traslape) para evitar duplicidad. Ver `01-mapa-funcional.md`.
 - 0.4 Formato oficial: F21-COOPYD-01 (versión 08 en EC publicados 2025–2026).
 - 0.5 Marco de referencia: LFPDPPP 2025, LFT art. 153-A, reforma "Ley Antimemes" (cuando se publique), ISO/IEC 27001, ISO/IEC 42001, NIST AI RMF.
 
@@ -140,5 +140,6 @@ Actitudes: responsabilidad, imparcialidad, perseverancia.
 1. Confirmar niveles SNC con CONOCER.
 2. Confirmar que el EC-A no duplique estándares existentes en el RENEC.
 3. Definir integrantes del Comité de Gestión por Competencias.
-4. Obtener los títulos de los tres EC de IA del DOF del 7-ago-2026 y confirmar que no se traslapan.
+4. ~~Títulos de los EC de IA del DOF del 7-ago-2026~~ (resuelto: EC1827, EC1828, EC1829, sin traslape).
+6. Definir si se registra como EC (abierto) o como ECM (Estándar de Competencia de Marca).
 5. Confirmar si la evaluación del EC-A puede aplicarse a distancia (clave para volumen).
