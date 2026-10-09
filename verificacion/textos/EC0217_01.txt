@@ -1,0 +1,1054 @@
+Fuente: https://www.ilce.edu.mx/images/certificaciones/competencias/estandares/EstandarEC0217_1.pdf
+
+=== Página 1 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+1 de 20 
+ 
+ 
+ 
+ I.- Datos Generales  
+Código 
+EC0217.01 Título 
+ 
+Impartición de cursos de formaci ón del capital humano de manera 
+presencial grupal 
+ 
+Propósito del Estándar de Competencia 
+Servir como referente para la evaluación y certificación de las personas que imparten cursos de 
+formación del capital humano de manera presencial y grupal. 
+ 
+Asimismo, puede ser referente para el desarrollo de programas de capacitación y de formación 
+basados en Estándares de Competencia (EC). 
+ 
+El presente estándar de competencia se refiere a una función para cuya realización no se requiere por 
+disposición legal, la posesión de un título profesional. Cabe señalar adicionalmente que para 
+certificarse en este estándar de competencia no deberá ser requisito o impedimento el poseer un título 
+académico. 
+ 
+Descripción general del Estándar de Competencia 
+El estándar de competencia impartición de cursos de formación del capital humano de manera 
+presencial y grupal contempla las funciones sustantivas de preparar, conducir y evaluar cursos de 
+capacitación. Preparar la sesión mediante la planeación de la sesión y la comprobación de la 
+existencia y el funcionamiento de los recursos requeridos para la sesión. Conducir la sesión realizando 
+el encuadre, desarrollo y cierre, empleando técnicas instruccionales y grupales que faciliten el proceso 
+de aprendizaje. Evaluar el aprendizaje antes, durante y al final del curso, considerando la satisfacción 
+de los participantes/capacitandos. 
+  
+El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso, respeto, 
+trabajo digno y responsabilidad social.  
+ 
+El presente EC actualiza al EC0217 “Impartición de cursos de formación del capital humano de 
+manera presencial grupal”, publicado en el Diario Oficial de la Federación el 6 de julio de 2012. Los 
+asuntos y procesos de evaluación y certificación de competencias tramitados con base en el EC0217 
+“Impartición de cursos de formación del capital humano de manera presencial grupal”, tendrán para su 
+conclusión, incluyendo la emisión de certificados, un plazo máximo de cinco meses, a partir de la 
+publicación en el Diario Oficial de la Federación del presente Estándar de Competencia. 
+ 
+Nivel en el Sistema Nacional de Competencias: Tres 
+Desempeña actividades tanto programadas rutinarias como impredecibles. Recibe orientaciones 
+generales e instrucciones específicas de un superior. Requiere supervisar y orientar a otros 
+trabajadores jerárquicamente subordinados. 
+ 
+Comité de Gestión por Competencias que lo desarrolló 
+Asociación Mexicana de Capacitación de Personal y Empresarial, A.C. 
+=== Página 2 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+2 de 20 
+ 
+ 
+ 
+ 
+Fecha de aprobación por el Comité 
+Técnico del CONOCER:  Fecha de publicación en el Diario Oficial de la Federación: 
+ 
+ 
+ 
+  
+Periodo sugerido de revisión  
+/actualización del EC:   
+4 años    
+ 
+Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación de 
+Ocupaciones (SINCO) 
+Grupo unitario 
+9999 Ocupaciones no especificadas 
+ 
+Ocupaciones asociadas 
+Capacitador. 
+Facilitador.  
+Instructor. 
+ 
+Clasificación según el sistema de Clasificación Industrial de América del Norte (SCIAN) 
+Sector: 
+61 servicios educativos. 
+Subsector: 
+611 servicios educativos. 
+Rama: 
+6117 servicios de apoyo a la educación. 
+Clase: 
+611710 servicios de apoyo a la educación. 
+El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro 
+Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta 
+gratuita. 
+Organizaciones participantes en el desarrollo del Estándar de Competencia 
+• Asociación Mexicana de Capacitación de Personal y Empresarial A.C. (AMECAP). 
+• Asociación Mexicana de Directivos en Recursos Humanos. A.C. (AMEDIRH). 
+• Confederación Patronal de la República Mexicana.  
+• Educación Superior del Centro, A.C.  
+• Fundación Telefónica Movistar México, A.C.  
+• Grupo Salinas. 
+• Instituto Latinoamericano de la Comunicación Educativa.  
+• Sistema Nacional para el Desarrollo Integral de la Familia (SNDIF). 
+• Universidad Panamericana.  
+=== Página 3 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+3 de 20 
+ 
+ 
+ 
+• Universidad del Valle de México, S.C.
+=== Página 4 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+4 de 20 
+ 
+Relación con otros Estándares de Competencia 
+Estándares equivalentes 
+• EC0454 Ejecución de cursos con enfoque de competencias 
+• EC0567 Impartición de cursos con educación experiencial 
+• EC0646 Facilitación de procesos de aprendizaje bajo el enfoque por competencias en la 
+educación media superior 
+• EC1154 Capacitación en el sector rural 
+Estándares equivalentes 
+• EC0301 Diseño de cursos de formación del capital humano de manera presencial grupal, 
+sus instrumentos de evaluación y manuales del curso 
+• EC0084 Uso didáctico de las tecnologías de información y comunicación en procesos de 
+aprendizaje: nivel básico 
+• EC0185 Impartición de acciones de capacitación presencial con enfoque incluyente 
+• EC0235 Facilitación de sesiones para el desarrollo de competencias con apoyo de 
+tecnologías de información 
+• EC0688 Facilitación de los procesos de aprendizaje de nivel superior basados en 
+programas curriculares por competencia 
+• EC0999 Facilitar procesos de aprendizaje para el desarrollo de competencia en el nivel 
+medio superior 
+• EC1154 Capacitación en el sector rural 
+ 
+Aspectos relevantes de la evaluación 
+Detalles de la práctica: • Observar el encuadre, el desarrollo y cierre de un curso de 
+formación que puede durar como mínimo una sesión de 2 
+horas, ya sea de manera real o simulada. 
+ 
+Apoyos/Requerimientos: • Espacio/aula con capacidad suficiente para impartir la 
+sesión/curso con al menos 4 participantes/capacitandos 
+(todos físicamente presentes, o bien 2 físicamente presentes 
+y 2 presentes vía remota), así como el facilitador/capacitador. 
+• En el caso de que se tengan participantes/capacitandos  
+conectados de manera remota a través de herramientas de 
+comunicación sincrónica, se deberá considerar que haya 
+condiciones adecuadas de visualización y audio que propicie 
+la correcta interacción entre los participantes/capacitandos, 
+los materiales, las evaluaciones y recursos didácti cos. Se 
+recomienda apoyarse en el uso de herramientas y 
+aplicaciones digitales para este fin. 
+• Recursos y materiales didácticos y equipo de apoyo. 
+Duración estimada de la evaluación 
+• 1 hora en gabinete y 2 horas en campo, totalizando 3 horas. 
+ 
+=== Página 5 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+5 de 20 
+ 
+Referencias de Información 
+• Bloom, B. (1971). Taxonomía de los objetivos de la educación: la clasificación de las metas 
+educacionales: manuales I y II. Centro Regional de Ayuda Técnica: Agencia para el 
+Desarrollo Internacional (A.I.D). Buenos Aires, Argentina. 
+• Caro, M (2018). ¿De qué formas se puede evaluar el aprendizaje? McGraw-Hill Education, 
+España. 
+• Delors, Jacques (1994). "Los cuatro pilares de la educación", en La Educación encierra un 
+tesoro. México  
+• Gardner, H. (1994). Inteligencias múltiples. Barcelona: Paidós. 
+• Grados, J.A. (2009). Capacitación y Desarrollo de Personal, Trillas, México. 
+• Grados, J.A. (2006). Integración y Sensibilización de Equipos de Trabajo. Análisis 
+estructural de la Dinámica de Grupos, Trillas, México. 
+• Herrmann, N. (1995). The Creative Brain. Lake Lure N.C.: The Ned Herrmann Group.  
+• Instituto Latinoamericano para el Desarrollo de Competencias Laborales, (2020). 
+Formación de Instructores y Agentes Capacitadores, con base en el EC0217 y criterios de 
+STPS. Planeación, aplicación y evaluación. E -Book, 1a. Edición, pp AA-AA, México, 
+tomado de www.ilecc.com.mx/e-books, el 9 marzo de 2021. 
+• Izquierdo, B. (2008). De la evaluación clásica a la evaluación pluralista. Criterios para 
+clasificar los distintos tipos de evaluación EMPIRIA. Revista de Metodología de las 
+Ciencias Sociales, núm. 16, julio-diciembre, 2008, pp. 115- 134 Universidad Nacional de 
+Educación a Distancia Madrid, España 
+• MacLean, P. (1978). A Mind of three Minds: Educating the triune Brain. Chicago: University 
+of Chicago Press. 
+• Muñoz, J., Gutiérrez, P. y Serrano, R. (2012). Los hemisferios cerebrales: dos estilos de 
+pensar, dos modos de enseñar y aprender: Universidad de Córdoba. 
+• Sáenz, J. (2008). Estilos de Aprendizaje y Métodos de Enseñanza: Universidad Nacional 
+de Educación a Distancia (UNAD), Madrid. 
+• Salas, R. (2008). Estilos de Aprendizaje a la luz de la Neurociencia: Cooperativa Editorial 
+Magisterio, Colombia. 
+• Uribe, G. I.  (2016). Un nuevo Enfoque de la Profesionalización del Docente de Secundaria 
+y su Influencia en el Logro Educativo de los Alumnos, Tesis para obtener el grado de 
+Doctor en Ciencias de la Educación del Colegio de Estudios de Posgrado de la Ciudad de 
+México, México. 
+ 
+=== Página 6 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+6 de 20 
+ 
+II.- Perfil del Estándar de Competencia 
+Estándar de Competencia  Elemento 1 de 3 
+Impartición de cursos de formación del 
+capital humano de manera presencial 
+grupal 
+ 
+Preparar la sesión/curso de 
+capacitación/formación 
+Elemento 2 de 3 
+Conducir la sesión/curso de 
+capacitación/formación 
+Elemento 3 de 3 
+Evaluar la sesión /curso de 
+capacitación/formación 
+  
+=== Página 7 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+7 de 20 
+ 
+III.- Elementos que conforman el Estándar de Competencia 
+Referencia Código Título 
+1 de 3 E4358 Preparar la sesión/curso de capacitación/formación 
+CRITERIOS DE EVALUACIÓN 
+ La persona es competente cuando demuestra los siguientes: 
+ DESEMPEÑOS 
+1. Comprueba la existencia y el funcionamiento de los recursos requeridos para la sesión: 
+• Previo a su inicio, 
+• De acuerdo con lo especificado en la lista de verificación de requerimientos del curso, 
+• Realizando pruebas de funcionamiento del equipo, 
+• Corroborando la suficiencia y disposición de: mobiliario, equipo, instalaciones, materiales y 
+servicios necesarios conforme a la lista de verificación, y 
+• Verificando la disponibilidad de los recursos/materiales didácticos de acuerdo con el número 
+de participantes/capacitandos y condiciones de interacción. 
+ 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+ 1. La lista de verificación de los requerimientos de la sesión/curso elaborada:      
+• Contiene nombre del curso y del facilitador/instructor/capacitador/formador, 
+• Enuncia fecha/período y lugar(es) en que se lleva a cabo, 
+• Indica la existencia de: mobiliario, equipo, instalaciones, materiales y servicios, en 
+congruencia con el número de participantes/capacitando s y a sus condiciones de 
+interacción, 
+• Corresponde con las actividades descritas en el documento de planeación del curso, 
+• Corresponde con el número de participantes/capacitandos, 
+• Corresponde con los recursos/materiales didácticos mencionados en el documento de 
+planeación del curso, e 
+• Incluye el apartado de comprobación de medidas de salud/seguridad/higiene/protección civil 
+vigentes aplicables al espacio en donde se realiza el curso. 
+ 
+2.  El documento de planeación del curso elaborado: 
+• Describe el propósito/beneficio del curso/sesión, 
+• Describe el perfil de los participantes/capacitandos, 
+• Indica los conocimientos y habilidades que requiere el participante/capacitando para 
+ingresar al curso, 
+• Contiene el objetivo general/resultado de aprendizaje esperado, 
+• Incluye los objetivos particulares/resultados parciales de aprendizaje esperados, 
+• Incluye el nombre del curso, 
+• Incluye el contenido temático, 
+• Considera los momentos de la capacitación/formación: inicio/encuadre/apertura, desarrollo y 
+cierre/clausura, 
+=== Página 8 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+8 de 20 
+ 
+• Indica la duración parcial por módulos/temas/apartados/unidades/etapas y la duración total 
+del curso/sesión, 
+• Indica la duración de cada una de las actividades de enseñanza y de aprendizaje, 
+• Indica las técnicas instruccionales, 
+• Describe las técnicas grupales, 
+• Especifica los recursos/materiales didácticos y equipo de apoyo a utilizar, en congruencia 
+con las condiciones de interacción establecidas, 
+• Describe las actividades a desarrollar por el facilitador/instructor/capacitador/formador y 
+participantes/capacitandos, 
+• Indica la forma de evaluar/verificar el aprendizaje, 
+• Incluye la(s) referencia(s) bibliográfica(s)/fuente(s) de información en la que se sustenta el 
+curso, y 
+• Se presenta sin errores ortográficos. 
+ 
+  3.  El objetivo/resultado general de aprendizaje en el documento de planeación del curso 
+redactado: 
+• Hace mención del sujeto del aprendizaje: a quién, 
+• Contiene un verbo que hace referencia a la acción que se espera alcanzar como resultado 
+del dominio de aprendizaje cognitivo/psicomotriz/afectivo/relacional-social del curso: qué,  
+• Contiene el objeto sobre el que recae la acción que se espera alcanzar como resultado del 
+aprendizaje en términos de conocimiento/desempeño/producto/actitud-hábito-valor, 
+• Expresa la condición bajo la cual debe darse la acción que se espera alcanzar como 
+resultado del aprendizaje del curso: cómo, y 
+• Describe la finalidad/utilidad/beneficio que tiene el aprendizaje esperado (para qué). 
+ 
+ 4. Los objetivos/resultados particulares de aprendizaje en el documento de planeación del curso 
+redactados: 
+• Hace mención del sujeto del aprendizaje: quién, 
+• Contiene un verbo que hace referencia a la acción que se espera alcanzar como resultado 
+del dominio de aprendizaje cognitivo/psicomotriz/afectivo/relacional -social del 
+módulo/tema/apartado/unidad/etapa (qué), 
+• Contiene el objeto sobre el que recae la acción que se espera alcanzar como resultado del 
+aprendizaje del módulo/tema/apartado/unidad/etapa en términos de 
+conocimiento/desempeño/producto/actitud-hábito-valor, 
+• Expresa la condición bajo la cual debe darse la acción que se espera alcanzar como 
+resultado del aprendizaje del módulo/tema/apartado/unidad/etapa (cómo), y 
+• Son congruentes con el objetivo/resultado general de aprendizaje. 
+ 
+5. El contenido temático en el documento de planeación del curso incluido: 
+• Corresponde con los objetivos/resultados de aprendizaje del curso, 
+• Presenta una secuencia de lo simple a lo complejo, y 
+• Está organizado en formato de tablas. 
+ 
+ 6. Las técnicas de instrucción en el documento de planeación del curso descritas: 
+• Corresponden con los objetivos/resultados de aprendizaje, 
+=== Página 9 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+9 de 20 
+ 
+• Corresponden con el contenido temático, y 
+• Contienen al menos tres técnicas distintas. 
+ 
+           7. Las técnicas grupales en el documento de planeación del curso descritas: 
+• Corresponden con los objetivos/resultados de aprendizaje, 
+• Corresponden con el contenido temático, y 
+• Contienen al menos tres técnicas distintas que promuevan el aprendizaje 
+social/colaborativo. 
+ 
+8.  Las actividades a desarrollar por el facilitador/instructor/capacitador/formador contenidas en 
+el documento de planeación del curso especificadas: 
+• Corresponden con los objetivos/resultados de aprendizaje, 
+• Corresponden con las técnicas instruccionales y grupales establecidas, 
+• Describen lo que debe hacer el participante/capacitando, y 
+• Describen la manera de organizar al grupo y su forma de interacción. 
+ 
+9. La forma de medir el aprendizaje en el documento de planeación del curso descrita: 
+• Corresponden con los objetivos/resultados de aprendizaje, 
+• Corresponden con los contenidos, 
+• Indica el momento de la aplicación, e 
+• Indica la técnica e instrumento a emplear. 
+ 
+ 10.  La duración en el documento de planeación del curso especificada: 
+• Está distribuida acorde con los requerimientos de aprendizaje planteados en el curso en las 
+etapas de inicio, desarrollo y cierre, 
+• Considera el tiempo parcial a emplear en cada actividad descrita en el documento de 
+planeación del curso,  
+• Incluye la sumatoria de los tiempos parciales de acuerdo con el total de horas establecidas 
+en el curso/sesión, y 
+• Considera el número total de horas para impartir el curso/sesión. 
+ 
+  11. Los recursos/materiales didácticos especificados: 
+• Corresponden con lo estipulado en el documento de planeación del curso y el contenido 
+temático del curso, y 
+• Están diseñados tomando en cuenta el perfil de los participantes/capacitandos. 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS  NIVEL 
+1. Dominios de aprendizaje:  
+• Conductas y acciones de los tipos de dominios de 
+aprendizaje de acuerdo con Benjamín Bloom y la 
+UNESCO (cognitivo/cognoscitivo, psicomotriz, afectivo y 
+relacional-social). 
+ Comprensión 
+2. Elementos básicos de los enfoques de las Teorías del  Aplicación 
+=== Página 10 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+10 de 20 
+ 
+CONOCIMIENTOS  NIVEL 
+Aprendizaje en la planeación didáctica: 
+• Casos de aplicación de los enfoques de las teorías: 
+constructivista, conductista, cognitivista y humanista. 
+3. Estilos de aprendizaje en la planeación didáctica de 
+acuerdo con Ned Herrmann, David Kolb, Paul MacLean, 
+Roger Sperry y Howard Gardner y VAK de Richard 
+Bandler y John Grinder. 
+ Comprensión 
+ 
+ACTITUDES/HÁBITOS/VALORES 
+1. Orden: La manera en que integra la información contenida  en el 
+documento de planeación del curso de acuerdo con una secuencia 
+de tipo deductiva/inductiva. 
+2. Responsabilidad: La manera en que revisa la suficiencia y disposición de los 
+materiales y equipo de acuerdo con el espacio, número de 
+participantes/capacitandos y condiciones de interacción 
+establecidas. 
+ 
+=== Página 11 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+11 de 20 
+ 
+GLOSARIO 
+ 
+ 
+1. Clasificación de 
+objetivos: 
+Establecer en qué dominio de aprendizaje se clasifica cada 
+uno de los objetivos redactados  en el documento de 
+planeación del curso. 
+2. Condiciones de 
+interacción: 
+Se refiere a los elementos requeridos para que los 
+participantes/capacitandos interactúen entre sí y con el 
+facilitador/instructor durante la impartición de curso. 
+3. Documento de 
+planeación del curso: 
+Se refiere  a aquel utilizado por el 
+facilitador/instructor/capacitador/formador  como guía para 
+desarrollar una sesión o un curso completo. Puede 
+encontrarse referida como carta descriptiva, planeación 
+didáctica, plan de sesión(es), programa, guía de instrucción, 
+entre otros. 
+4. Dominios de aprendizaje: Es la clasificación de diversas conductas del individuo que 
+permiten identificar la organización y jerarquización de los 
+procesos para la adquisición de conocimientos puede ser de 
+tipo afectivo, cognitivo y psicomotriz. 
+5. Dominio de aprendizaje 
+cognitivo: 
+Se refiere a todas aquellas conductas en las que predominan 
+los procesos mentales o intelectuales que abarcan desde la 
+memorización hasta la aplicación de criterios y elaboración de 
+juicios de una actividad intelectual compleja; por ejemplo: 
+percepción, atención memoria, lenguaje y razonamiento. 
+6. Dominio de aprendizaje 
+psicomotriz: 
+Se refiere a las conductas que se realizan con precisión, 
+exactitud, facilidad, economía del tiempo y esfuerzo. 
+7. Dominio de aprendizaje 
+afectivo: 
+Se refiere a la interiorización de una actitud, sentimientos, 
+emociones, valores y prejuicios. 
+8. Dominio de aprendizaje 
+relacional-social: 
+Se refiere a la capacidad de aprender a vivir juntos/con los 
+demás en la diversidad; a tra vés de la colaboración, 
+interdependencia, y comprensión del otro, respetando los 
+valores de pluralismo y los derechos de las personas, a fin de 
+propiciar la convivencia, paz y armonía. 
+9. Estilo de aprendizaje: Se refiere a los rasgos cognitivos, fisiológicos y afectivos a 
+través de los cuales los estudiantes/participantes perciben e 
+interaccionan en los diferentes ambientes del aprendizaje. 
+10. Forma de 
+verificar/evaluar el 
+aprendizaje: 
+Se refiere a la estrategia que utiliza el facilitador/instructor  
+para identificar el nivel de aprendizaje de los 
+participantes/capacitandos, la cual puede considerar el tipo de 
+evaluación según el agente que evalúa, el momento de 
+evaluación según la finalidad que persigue, la técnica e 
+instrumento de evaluación a emple ar de acuerdo con la 
+siguiente tabla. 
+Forma de Evaluar: 
+TIPOS DE 
+EVALUACIÓN 
+(según el agente) 
+MOMENTOS DE 
+EVALUACIÓN 
+(según la 
+TÉCNICAS DE 
+EVALUACIÓN 
+INSTRUMENTOS 
+DE EVALUACIÓN 
+=== Página 12 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+12 de 20 
+ 
+finalidad) 
+ü Autoevaluación 
+Coevaluación 
+Hetero-evaluación 
+Interna/externa 
+Antes, durante y 
+después 
+Diagnóstica/Previa 
+Formativa/ 
+Intermedia 
+Sumativa/Final 
+Documental 
+-Formulación 
+de preguntas 
+escritas 
+-Valoración de 
+productos 
+-Estudios de 
+casos. 
+De campo 
+-Simulación 
+-Discursiva 
+-Formulación 
+de preguntas 
+verbales. 
+Guías de 
+Observación 
+Listas de cotejo 
+Cuestionario 
+Rúbricas 
+ 
+11. Momentos de la 
+capacitación/formación: 
+Son las etapas inicio/encuadre/apertura, desarrollo y 
+cierre/clausura que estructuran el curso. 
+12. Sujeto de Aprendizaje: Se refiere a la(s) persona(s) a quien(es) está dirigido el curso. 
+13. Modalidad de 
+formación/capacitación 
+presencial: 
+Se refiere a la permanencia evidente de los 
+participantes/capacitandos del grupo de 
+capacitación/formación de manera física la cual puede estar 
+complementada con la participación de algunos miembros del 
+grupo de manera remota conectados a través de medios de 
+comunicación digitales donde la dinámica de interacción 
+sostenida se dé en un entorno de aprendizaje en tiempo real, 
+de forma síncrona y con propósitos comunes. 
+14. Objetivo General: El que expresa el comportamiento o resultado final que se 
+pretende obtener u observar del participante/capacitando. 
+ 
+15. Objetivo Particular: El que expresa el comportamiento o resultado que se desea 
+lograr en cada uno de los temas. El logro de los objetivos 
+particulares asegura el logro del objetivo general. 
+16. Objeto sobre el que 
+recae la acción: 
+Se refiere al elemento sobre el cual se materializa la acción 
+del verbo determinado en el objetivo de aprendizaje, es decir 
+hace referencia al “qué” se espera que el 
+participante/capacitando logre hacer/ejecutar/adecuar su 
+conducta. 
+17. Secuencia de tipo 
+deductivo: 
+Es el orden en el que se parte de conceptos, definiciones, 
+leyes o normas generales, de las cuales se extraen elementos 
+esenciales, que posteriormente se aplican para 
+analizar/derivar/desplegar. 
+elementos/contenidos/casos/experiencias/hechos cada vez 
+más específicos/detallados. Es decir, partir de lo general para 
+llegar a lo particular. 
+18. Secuencia de tipo 
+inductivo: 
+Es el orden en el que se parte de la síntesis de elementos, 
+contenidos, casos, experiencias o hechos 
+específicos/particulares, con el fin de llegar a conclusiones 
+que deriven en algún concepto, fundamento, teoría, principio o 
+generalización, aplicables a otras situaciones o eventos 
+similares. Es partir de lo particular para llegar a lo general. 
+19. Secuencia Jerárquica: Encadenamiento ordenado del aprendizaje expresado en los 
+objetivos generales, particulares y específicos; manteniendo 
+una subordinación entre sí. 
+=== Página 13 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+13 de 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. Técnicas Instruccionales: Son herramientas que utiliza el instructor para desarrollar los 
+temas del curso. 
+Las técnicas instruccionales a las que se refiere el estándar 
+son: 
+• Expositivas; 
+• Diálogo o discusión/debate; 
+• Demostración/Ejecución o Técnica de los cuatro pasos. 
+21. Técnicas Grupales: Son herramientas que utiliza el instructor para generar un 
+clima de trabajo dentro del grupo.  
+22. Teorías del aprendizaje: Conjunto de reglas, principios y conocimientos científicamente 
+aceptables que explican los fenómenos educativos. Las 
+teorías ofrecen marcos de referencia para desarrollar 
+estrategias y ambientes de enseñanza-aprendizaje. 
+ 
+=== Página 14 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+14 de 20 
+ 
+ 
+ 
+ 
+Referencia Código Título 
+2 de 3 E4359 Conducir la sesión/curso de capacitación/formación 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS 
+1. Realiza el inicio/encuadre/apertura del curso: 
+• De acuerdo con lo establecido en el documento de planeación del curso, 
+• Presentándose ante el grupo, 
+• Presentando los objetivos a los participantes/capacitandos, 
+• Mencionando la descripción general del desarrollo del curso, 
+• Mencionando el temario del curso, 
+• Creando un ambiente participativo a través de preguntas al grupo, 
+• Haciendo preguntas relacionadas con el contexto/experiencia laboral/personal de los 
+participantes/capacitandos, 
+• Clarificando el alcance del curso de acuerdo con las expectativas planteadas por los 
+participantes/capacitandos, 
+• Comentando los beneficios del curso y su relación con la experiencia personal/laboral,  
+• Acordando las reglas de operación, participación y convivencia del curso, acordes a las 
+condiciones de interacción, y 
+• Realizando el contrato de aprendizaje de acuerdo con  los objetivos/resultados de 
+aprendizaje. 
+ 
+  2.  Emplea la técnica grupal de integración: 
+• En el momento definido en el documento de planeación del curso, 
+• Explicando el objetivo de la técnica, 
+• Mencionando el tiempo para realizar la técnica, 
+• Explicando las instrucciones de la técnica, 
+• Incluyendo la actividad de integración con la presentación de los participantes/capacitandos,  
+• Promoviendo la integración de todos los participantes /capacitandos de acuerdo con las 
+condiciones de interacción, 
+• Participando junto con el grupo de acuerdo con las condiciones de interacción, y 
+• Controlando el tiempo para realizar la técnica. 
+ 
+  3.  Emplea la técnica instruccional expositiva: 
+• Presentando el objetivo/resultados de aprendizaje del contenido temático a exponer, 
+• Realizando una introducción general del contenido temático que promueva el interés de los 
+participantes/capacitandos, 
+• Preguntando a los participantes /capacitandos sobre sus conocimientos previos del 
+contenido temático por abordar, 
+• Desarrollando el contenido de acuerdo con el documento de planeación del curso, 
+=== Página 15 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+15 de 20 
+ 
+• Mencionando las citas/referencias de contenido que provenga de otros autores, 
+• Planteando preguntas dirigidas que verifiquen la comprensión del tema, 
+• Resolviendo dudas de los participantes/capacitandos acerca de los temas expuestos, 
+• Promoviendo que los participantes/capacitandos realicen la síntesis de la exposición, 
+haciendo énfasis en los aspectos sobresalientes del mensaje, e  
+• Invitando a los participantes/capacitandos a expresar la utilidad de lo aprendido durante la 
+exposición. 
+ 
+  4.  Emplea la técnica instruccional demostrativa: 
+• Presentando la actividad a desarrollar/propósito/beneficios para despertar el interés en los 
+participantes/capacitandos, 
+• Explicando el grado de dominio de lo que se desea lograr al terminar la actividad en 
+términos de procedimiento/desempeño/producto, 
+• Invitando a la participación de todos los miembros del grupo, acorde a las condiciones de 
+interacción, 
+• Ejemplificando la actividad a desarrollar, 
+• Resolviendo dudas sobre la demostración realizada, 
+• Permitiendo que los participantes/capacitandos realicen la práctica, 
+• Supervisando la realización de la actividad, 
+• Atendiendo las dudas que se presentan durante su práctica, 
+• Retroalimentando sobre la práctica, y 
+• Recuperando/Preguntando a los participantes/capacitandos acerca de la utilidad de lo 
+aprendido durante la actividad. 
+ 
+  5.  Emplea la técnica diálogo-discusión/debate: 
+• Presentando la actividad a desarrollar, el propósito/beneficios para despertar el interés en 
+los participantes/capacitandos, 
+• Mencionando el tema/planteamiento/reto a dialogar/discutir/debatir, 
+• Indicando las instrucciones y tiempos de la actividad, así como las reglas de participación, 
+• Invitando a la participación de todos los miembros del grupo, acord e a las condiciones de 
+interacción, 
+• Resolviendo dudas acerca de la actividad a realizar, 
+• Organizando al grupo en subgrupos, 
+• Abriendo la discusión recordando el tema/planteamiento a dialogar/discutir/debatir, 
+• Propiciando la participación de los equipos, 
+• Moderando la discusión,  
+• Vigilando el cumplimiento de las reglas y tiempos y participación de los miembros del grupo, 
+y 
+• Recuperando/Preguntando a los participantes/capacitando acerca de las conclusiones del 
+diálogo-discusión/debate y utilidad de la actividad. 
+ 
+  6. Facilita el proceso de aprendizaje del grupo: 
+• Recuperando la experiencia previa de los participantes/capacitandos sobre el tema, 
+• Utilizando ejemplos relacionados con los temas tratados, 
+=== Página 16 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+16 de 20 
+ 
+• Utilizando ejemplos relacionados con el contexto de los participantes/capacitandos, 
+• Aclarando los tecnicismos utilizados, 
+• Realizando en conjunto con el grupo al menos una actividad que fomente el aprendizaje a 
+través de la investigación/solución de problemas/descubrimiento/logros/casos, 
+• Dirigiendo la mirada a todos los participantes/capacitandos durante el desarrollo de la 
+sesión/curso, acorde a las condiciones de interacción, 
+• Empleando expresiones faciales/gestos, ademanes, posturas, congruentes con el contenido 
+que se está transmitiendo, 
+• Manteniendo una postura dinámica dentro del espacio de capacitación, 
+• Realizando cambios en el volumen y entonación durante la interacción con el grupo, 
+• Utilizando variantes de tono/modulación lingüística en la comunicación que facilite la 
+comprensión del/de los mensaje(s) a todos los participantes/capacitandos, 
+• Empleando alguna técnica grupal energizante, 
+• Empleando alguna técnica/estrategia para promover emociones positivas vinculadas al 
+aprendizaje, 
+• Brindando retroalimentación positiva en respuesta a las intervenciones de lo s 
+participantes/capacitandos, 
+• Mencionando a los participantes/capacitandos que los errores/fallas/omisiones que se 
+presentan durante el desarrollo del curso, son oportunidades para fortalecer el aprendizaje,  
+• Recordando al grupo las reglas de operación, participación y convivencia acordadas, 
+• Empleando técnicas para verificar la comprensión de los contenidos, 
+• Preguntando acerca de los conocimientos adquiridos durante los temas tratados, 
+• Promoviendo comentarios/participación acerca de la utilidad de los tem as en su vida 
+profesional/laboral y personal, 
+• Preguntando sobre la aplicación de los temas expuestos al contexto de los 
+participantes/capacitandos, y 
+• Mencionando los logros alcanzados y lo que falta por abordar. 
+ 
+  7. Maneja los equipos, recursos/materiales y apoyos didácticos: 
+• De acuerdo con lo especificado en el documento de planeación del curso, 
+• Conforme a lo indicado en los manuales/guías de usuario del proveedor /recomendaciones 
+de uso del equipo, 
+• Expresando al grupo que hagan el mejor aprovechamiento de los materiales en aras de 
+promover su uso sustentable, y 
+• Permitiendo la visibilidad de los apoyos didácticos a todos los participantes/capacitandos de 
+acuerdo con las características del aula/condiciones de interacción. 
+ 
+  8.  Realiza el cierre del curso: 
+• Invitando a los participantes/capacitandos a resumir los contenidos del curso, 
+• Preguntando acerca del logro de las expectativas planteadas por los 
+participantes/capacitandos al inicio del curso, 
+• Preguntando a los participantes /capacitandos acerca de los objetivos/resultados de 
+aprendizaje del curso alcanzados, 
+• Sugiriendo acciones que promuevan la continuidad en el aprendizaje, 
+=== Página 17 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+17 de 20 
+ 
+• Invitando al grupo a formular compromisos de aplicación de lo aprendido, y 
+• Empleando alguna técnica grupal de cierre. 
+ 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS  NIVEL 
+1. Dinámica de grupos: 
+• Principales características y comportamientos en la 
+dinámica de grupos. Tipos de grupos (silencioso, 
+participativo, indiferente, agresivo). 
+• Roles de los participantes/capacitandos (el contreras, el 
+experto, el aliado, el novato). 
+ Comprensión 
+ 
+La persona es competente cuando demuestra las siguientes: 
+ACTITUDES/HÁBITOS/VALORES 
+1. Amabilidad: La manera en que permite que los participantes/capacitandos  
+expresen sus dudas , presta atención , da respuesta a 
+planteamientos y responde con argumentaciones, apoyándose en 
+su comunicación verbal/gestual y corporalidad asertiva. 
+2. Responsabilidad: La manera en que mantiene el interés y brinda apoyo a los 
+participantes/capacitandos en el logro de los resultados de 
+aprendizaje. 
+3. Tolerancia: La manera en que respeta el ritmo de aprendizaje de cada 
+participante/capacitando y acepta los comentarios del grupo para 
+la mejora continua del curso. 
+GLOSARIO 
+1.Activación de emociones 
+positivas: 
+Se refiere a las acciones que permiten promover los 
+sentimientos que generan un cambio en el estado de ánimo de 
+las personas y aumentan la atención, la memoria, la conciencia, 
+la retención de información y la facilidad para relacionar varias 
+ideas y conceptos. 
+2.Contrato de aprendizaje: Se refiere a la generación de un acuerdo por parte de los 
+participantes/capacitandos y del 
+facilitador/instructor/capacitador/formador, al inicio del curso, 
+que propicie la permanente participación, presencia plena al 
+curso y acciones para el cumplimiento de los objetivos. 
+3.Formulación de 
+compromisos: 
+Se refiere a todas aquellas acciones a las que se compromete a 
+realizar el participante/capacitando como producto de la 
+aplicación de los aprendizajes obtenidos durante el curso, ya 
+sea en el ámbito privado o laboral, considerando la fecha de 
+ejecución al término del curso. 
+4. Modulación lingüística: Se refiere a la aplicación de diversos gestos, entonación en las 
+lenguas orales/señadas, así como las utilizadas en función de 
+=== Página 18 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+18 de 20 
+ 
+las variantes culturales de acuerdo con los regionalismos 
+propios de una comunidad. 
+4.Retroalimentación 
+positiva: 
+Se refiere a la comunicación asertiva directa que se brinda a 
+una persona, enfocada en los elementos que potencialicen una 
+mejora en el desempeño/resultado/involucramiento durante el 
+curso/sesión. 
+5. Técnica grupal de cierre: Se refiere al conjunto de actividades que tienen la finalidad de 
+que el grupo y el docente/instructor/capacitador lleven a cabo 
+en conjunto, un cierre de un curso o evento de formación de 
+manera emotiva, en el que los participantes/capacitandos vivan 
+experiencias de interacción que les permitan asociar emociones 
+positivas a los logros del aprendizaje y su aplicación en el 
+campo personal y laboral, estimularles y motivarles para que 
+deseen continuar en próximos eventos/cursos/actividades de 
+aprendizaje. 
+6. Técnica grupal de 
+integración: 
+Se refiere al conjunto de procedimientos o recursos utilizados 
+en los grupos para lograr la participación e interacción entre sus 
+miembros con el fin de generar un ambiente de aprendizaje y 
+alcanzar objetivos de aprendizaje comunes. 
+7. Técnica grupal 
+energizante: 
+Se refiere al conjunto de actividades que realiza un 
+instructor/docente/capacitador, junto con su grupo, para 
+movilizar y estimular el ánimo de los participantes/capacitandos 
+cuando se observa un ambiente de tedio y/o cansancio durante 
+la capacitación/formación. 
+8. Tipos de grupos: Se refiere a la caracterización en el tipo de comportamiento que 
+prevalece en el conjunto de participantes/capacitandos del 
+curso con la finalidad de que el instructor o facilitador realice el 
+manejo apropiado de acuerdo con la tipología. Los Tipos de 
+grupos a los que se refiere el estándar son: 
+• Silencioso 
+• Participativo 
+• Indiferente 
+• Agresivo 
+9. Tipos de 
+participantes/capacitandos: 
+Se refiere a la caracterización en el tipo de comportamiento que 
+prevalece en cada uno de los participantes/capacitandos al 
+curso con la finalidad de que el instructor realice el manejo 
+apropiado de acuerdo con la tipología. Los Tipos de 
+participantes/capacitandos a los que se refiere el estándar son: 
+• El contreras 
+• El experto 
+• El aliado 
+• El novato 
+10. Uso sustentable de los 
+recursos/materiales 
+didácticos: 
+Se refiere a emplear la regla de las 3R que significa Reducir, 
+Reutilizar y Reciclar en la medida de lo posible todos aquellos 
+materiales de apoyo necesarios en el logro de los resultados de 
+=== Página 19 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+19 de 20 
+ 
+aprendizaje esperados, manteniendo con ello no sólo el respeto 
+hacia el medio ambiente, sino el cuidado y defensa de los 
+aspectos económicos y sociales que intervienen en una 
+sesión/curso. 
+Referencia Código Título 
+3 de 3 E4360 Evaluar la sesión/curso de capacitación/formación 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS 
+      1.  Informa a los participantes/capacitandos acerca de la manera en que se evaluará su 
+aprendizaje: 
+• Durante el encuadre, 
+• Especificando el momento de aplicación, 
+• Indicando los criterios que se utilizarán, 
+• Mencionando sus beneficios/finalidad/ventaja, 
+• Indicando el tipo y forma de evaluación a realizar, así como el seguimiento en la aplicación 
+de lo aprendido, e 
+• Indicando los instrumentos de evaluación a utilizar. 
+ 
+2.  Aplica la evaluación diagnóstica: 
+• Durante el encuadre, 
+• De acuerdo con lo establecido en el documento de planeación del curso, 
+• Mencionando los alcances/propósito/finalidad de la evaluación, 
+• Indicando las instrucciones y el tiempo para realizarla, y 
+• Aclarando las dudas que se presentan. 
+ 
+  3. Aplica las evaluaciones del aprendizaje formativa/intermedia y sumativa/final: 
+• De acuerdo con lo establecido en el documento de planeación del curso, 
+• Mencionando los alcances/propósito/finalidad de la evaluación, 
+• Indicando las instrucciones y el tiempo para realizarla, y 
+• Aclarando las dudas que se presenten. 
+ 
+  4. Aplica el instrumento para evaluar la satisfacción sobre el curso: 
+• Mencionando los alcances/propósito/finalidad de la evaluación, 
+• Aclarando las dudas que se presenten, e 
+• Indicando las instrucciones de su aplicación. 
+ 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+ 1. Los instrumentos de evaluación de aprendizaje aplicados: 
+• Contienen el nombre del curso, 
+• Contienen la fecha de aplicación, 
+=== Página 20 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+7.0 
+Página: 
+20 de 20 
+ 
+• Contienen el nombre del participante/capacitando, 
+• Contienen las instrucciones para su resolución, y 
+• Presenta los reactivos de acuerdo con los objetivos/resultados de aprendizaje del curso. 
+ 
+  2. El informe final del curso elaborado: 
+• Incluye nombre del instructor y del curso, 
+• Incluye fecha de desarrollo del curso, 
+• Incluye los comentarios del instructor acerca del proceso de aprendizaje y del grupo, 
+• Especifica de manera descriptiva el nivel de cumplimiento de los objetivos /resultados de 
+aprendizaje y de las expectativas del curso, 
+• Incluye el apartado del plan de seguimiento a los participantes/capacitandos en la aplicación 
+de lo aprendido,  
+• Describe las contingencias/ajustes al plan de sesión que se presentaron y su resolución, 
+• Contiene el resumen de las recomendaciones vertidas por los participantes/capacitandos  en 
+la encuesta de satisfacción para la mejora del curso de acuerdo con la escala de estimación 
+del nivel de satisfacción acerca de las características del evento, los contenidos del curso, 
+los recursos y materiales didácticos empleados y el desempeño del instructor,  
+• Incluye el resultado de las evaluaciones de aprendizaje, 
+• Contiene como anexo el registro de asistencia al curso, 
+• Especifica los avances logrados con relación a los resultados de aprendizaje planeados, 
+• Se presenta sin errores ortográficos, 
+• Elaborado en formato impreso y/o digital, e 
+• Incluye los gráficos de las evaluaciones de aprendizaje. 
+ 
+GLOSARIO 
+1. Tipos de evaluación: Se refiere a la manera en la que el docente/instructor/capacitador 
+plantea evaluar de manera cuantitativa y/o cualitativa a los 
+participantes/capacitandos:   autoevaluación, el 
+participante/capacitando se evalúa a sí mismo; coevaluación dos 
+o más participantes/capacitandos se evalúan entre ellos; 
+heteroevaluación, realizada por una persona distinta a los 
+participantes/capacitandos del grupo, puede ser alguien interno o 
+externo. 
+ 

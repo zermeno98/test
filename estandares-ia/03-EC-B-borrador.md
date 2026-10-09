@@ -62,13 +62,8 @@ Desempeña diversas actividades tanto programadas, poco rutinarias como impredec
 
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
-### Empresas e Instituciones participantes en el desarrollo del EC
+### Organizaciones participantes en el desarrollo del Estándar de Competencia
 - [Por integrar: empresa desarrolladora, centro de evaluación, empresas de sectores regulados, cámaras empresariales y especialistas en protección de datos]
-
-### Relación con otros estándares de competencia
-
-**Estándares relacionados**
-- [Por asignar] Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa
 
 ### Aspectos relevantes de la evaluación
 
@@ -87,7 +82,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 - 1 hora en gabinete y 4 horas en campo, totalizando 5 horas.
 
 ### Referencias de Información
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025 (última reforma: 14 de noviembre de 2025).
 - Ley Federal del Trabajo.
 - Ley Federal del Derecho de Autor.
 - ISO 31000:2018. Risk management — Guidelines.
@@ -98,7 +93,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 - National Institute of Standards and Technology (2023). NIST AI 100-1. Artificial Intelligence Risk Management Framework (AI RMF 1.0).
 - National Institute of Standards and Technology (2024). NIST AI 600-1. Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.
 - OWASP Foundation (2025). OWASP Top 10 for Large Language Model Applications.
-- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial.
+- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial, modificado por el Reglamento (UE) 2026/1744 (DOUE, 24 de julio de 2026).
 - UNESCO (2021). Recomendación sobre la ética de la inteligencia artificial.
 
 ---
@@ -218,7 +213,7 @@ La persona es competente cuando posee los siguientes:
 
 | CONOCIMIENTOS | NIVEL |
 |---|---|
-| 1. Principios de protección de datos personales: licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad; medidas de seguridad, transferencias y remisiones. | Comprensión |
+| 1. Principios de protección de datos personales: licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad; medidas de seguridad, vulneraciones, transferencias y tratamiento por personas encargadas. | Comprensión |
 | 2. Proceso de gestión de riesgos: identificación, análisis, valoración y tratamiento. | Aplicación |
 | 3. Riesgos propios de la IA: información inventada, sesgo, opacidad, filtración de información, inyección de instrucciones y suplantación mediante contenido sintético. | Comprensión |
 | 4. Usos de IA que afectan derechos de las personas trabajadoras: selección, evaluación del desempeño, supervisión y terminación de la relación laboral. | Comprensión |
@@ -359,14 +354,14 @@ La persona es competente cuando posee los siguientes:
 | 2. Vulneraciones de seguridad de datos personales y deber de informar a las personas titulares. | Comprensión |
 | 3. Análisis de causa raíz. | Aplicación |
 
-La persona es competente cuando demuestra la siguiente:
+La persona es competente cuando demuestra las siguientes:
 
-**RESPUESTA ANTE SITUACIONES EMERGENTES**
+**RESPUESTAS ANTE SITUACIONES EMERGENTES**
 
-**SITUACIÓN EMERGENTE**
-1. Situación emergente: Durante la atención del incidente, se informa que la información filtrada contiene datos personales sensibles de clientes y ya circula en redes sociales.
+**Situación emergente**
+1. Durante la atención del incidente, se informa que la información filtrada contiene datos personales sensibles de clientes y ya circula en redes sociales.
 
-**RESPUESTAS ESPERADAS**
+**Respuestas esperadas**
 1. Escala de inmediato el incidente a la dirección y al área jurídica, solicita a la plataforma el retiro del contenido, determina con el área jurídica si procede informar a las personas titulares conforme a la normatividad aplicable y lo documenta en el registro de incidente.
 
 La persona es competente cuando demuestra las siguientes:
@@ -379,7 +374,7 @@ La persona es competente cuando demuestra las siguientes:
 1. Acción correctiva: Medida para eliminar la causa de un incidente y evitar que se repita.
 2. Contención: Medidas inmediatas para detener o limitar los efectos de un incidente.
 3. Incidente de IA: Evento derivado del uso de un sistema de IA que compromete la información o que causa, o puede causar, un daño a personas o a la organización.
-4. Vulneración de seguridad: Pérdida, robo, extravío, copia, uso, acceso, tratamiento, daño, alteración o modificación no autorizados de datos personales.
+4. Vulneración de seguridad: Pérdida o destrucción, robo, extravío o copia, uso, acceso o tratamiento, o daño, alteración o modificación no autorizados de datos personales.
 
 ---
 
@@ -389,9 +384,11 @@ La persona es competente cuando demuestra las siguientes:
 1. **Alineación internacional.** Los cuatro elementos siguen las funciones del NIST AI RMF (mapear, medir, gobernar y gestionar) y los requisitos de ISO/IEC 42001 (contexto, evaluación de riesgos y de impacto, política, competencia y toma de conciencia, evaluación del desempeño y mejora). La correspondencia está en `01-mapa-funcional.md`.
 2. **Expediente integrado.** Los productos de los cuatro elementos se elaboran sobre el mismo caso: la persona entrega un expediente de gestión de IA completo y comparable entre candidatos.
 3. **Nivel.** Se propone el nivel Cuatro por el grado de juicio y de coordinación con otras áreas. Confirmar con el CONOCER.
-4. **Clasificación.** El SCIAN 541610 es una propuesta; confirmar los códigos y sus nombres con el CONOCER y el SCIAN vigente del INEGI. El grupo unitario SINCO 9999 sigue el precedente de estándares publicados, como el EC1171.
-5. **Fórmulas del formato.** Las verificadas y las pendientes son las mismas señaladas en el EC-A. El texto del nivel Cuatro es el de estándares publicados como el EC0076, el EC1410 y el EC1440.
-6. **Validación jurídica.** El contenido de un EC es responsabilidad de la institución que lo desarrolla (así lo señala el Acuerdo SE/III-26/05,R; confirmar el texto literal). Los principios de protección de datos, la definición de vulneración y el deber de informar a las personas titulares deben ajustarse al texto literal de la ley de 2025 con un especialista.
+4. **Clasificación.** Verificada en el SCIAN México 2023 del INEGI (estructura oficial): 541610 "Servicios de consultoría en administración" y la jerarquía 54, 541, 5416, 54161 coinciden con la tabla. Sigue siendo una propuesta: confirmar con el CONOCER. El grupo unitario SINCO 9999 "Ocupaciones no especificadas", con "Sin referente", sigue el precedente del EC1171 y el EC1781.
+5. **Fórmulas del formato.** Las verificadas el 9 de octubre de 2026 y las pendientes son las señaladas en la nota 2 del EC-A. El texto del nivel Cuatro es igual al del estándar de marca ECM0358 (los textos de los estándares EC0076, EC1410 y EC1440 no pudieron compararse: el EC0076 no lo incluye por ser de un formato anterior y el EC1410 y el EC1440 no se pudieron descargar). Por confirmar con el CONOCER: que la plantilla vigente no haya cambiado.
+6. **Validación jurídica.** El Acuerdo SE/III-26/05,R (DOF del 7 de agosto de 2026) señala que el contenido de los estándares y su apego a la normatividad vigente es "responsabilidad exclusiva de la Institución" que los presenta; la empresa debe contar con revisión jurídica propia. En la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025 (última reforma DOF del 14 de noviembre de 2025): los ocho principios están en el artículo 5, las medidas de seguridad en el 18 y la obligación de informar de inmediato a las personas titulares las vulneraciones que afecten de forma significativa sus derechos patrimoniales o morales en el 19. Esa ley no define "vulneración" ni "remisión" (aparecen en la Ley General para sujetos obligados, artículos 3 fracción XXIV y 32); la definición del glosario sigue el artículo 32 de aquella Ley General y debe revisarla un especialista.
 7. **Vínculo con el EC-A.** El producto 4 del Elemento 3 de 4 (programa de capacitación) se acredita en el personal mediante el EC-A.
 
 **Cambios respecto de la versión 0.1:** título más breve ("sistemas" incluye las herramientas); un desempeño observable por elemento mediante simulación (entrevista, presentación, comunicación y atención de incidente); escala de valoración de riesgos con criterios mínimos; riesgo residual en la evaluación de impacto; notificación de incidentes por proveedores; inyección de instrucciones entre los riesgos propios de la IA; "Imparcialidad" sustituida por "Orden"; frases introductorias del formato completas.
+
+**Cambios de la verificación del 9 de octubre de 2026:** encabezado y frases de las respuestas ante situaciones emergentes conforme a los estándares publicados; nombre del campo de organizaciones participantes; se retiró el apartado "Relación con otros estándares de competencia", que no existe en el formato versión 08 (el vínculo con el EC-A está en la nota 7); el conocimiento 1 del Elemento 2 de 4 dejó de citar "remisiones", que la ley de 2025 para particulares no define; definición de vulneración conforme al artículo 32 de la Ley General para sujetos obligados; notas 4 a 6 actualizadas.

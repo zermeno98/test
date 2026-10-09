@@ -62,14 +62,8 @@ Desempeña actividades programadas que, en su mayoría, son rutinarias y predeci
 
 El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y consulta gratuita.
 
-### Empresas e Instituciones participantes en el desarrollo del EC
+### Organizaciones participantes en el desarrollo del Estándar de Competencia
 - [Por integrar: empresa desarrolladora, centro de evaluación, instituciones de educación superior, empresas y cámaras empresariales]
-
-### Relación con otros estándares de competencia
-
-**Estándares relacionados**
-- EC1705 Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital
-- [Por asignar] Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización
 
 ### Aspectos relevantes de la evaluación
 
@@ -91,14 +85,14 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 - 30 minutos en gabinete y 2 horas en campo, totalizando 2 horas y 30 minutos.
 
 ### Referencias de Información
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025 (última reforma: 14 de noviembre de 2025).
 - Ley Federal del Trabajo.
 - Ley Federal del Derecho de Autor.
 - ISO/IEC 22989:2022. Information technology — Artificial intelligence — Artificial intelligence concepts and terminology.
 - ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection — Information security management systems — Requirements.
 - ISO/IEC 42001:2023. Information technology — Artificial intelligence — Management system.
 - National Institute of Standards and Technology (2024). NIST AI 600-1. Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.
-- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial, artículo 4.
+- Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, por el que se establecen normas armonizadas en materia de inteligencia artificial, artículo 4, en la redacción dada por el Reglamento (UE) 2026/1744 (DOUE, 24 de julio de 2026).
 - UNESCO (2021). Recomendación sobre la ética de la inteligencia artificial.
 
 ---
@@ -173,14 +167,14 @@ La persona es competente cuando posee los siguientes:
 | 4. Diferencias entre cuentas institucionales y cuentas personales en herramientas de IA generativa. | Comprensión |
 | 5. Técnicas de eliminación y sustitución de datos que permiten identificar a una persona. | Aplicación |
 
-La persona es competente cuando demuestra la siguiente:
+La persona es competente cuando demuestra las siguientes:
 
-**RESPUESTA ANTE SITUACIONES EMERGENTES**
+**RESPUESTAS ANTE SITUACIONES EMERGENTES**
 
-**SITUACIÓN EMERGENTE**
-1. Situación emergente: La tarea requiere ingresar a la herramienta datos personales sensibles que no pueden depurarse y el responsable designado no está disponible para autorizarlo.
+**Situación emergente**
+1. La tarea requiere ingresar a la herramienta datos personales sensibles que no pueden depurarse y el responsable designado no está disponible para autorizarlo.
 
-**RESPUESTAS ESPERADAS**
+**Respuestas esperadas**
 1. Se abstiene de ingresar la información a la herramienta, registra la situación en el registro de clasificación, informa a su superior inmediato y realiza la tarea sin la herramienta o la reprograma hasta obtener la autorización.
 
 La persona es competente cuando demuestra las siguientes:
@@ -191,8 +185,8 @@ La persona es competente cuando demuestra las siguientes:
 
 **GLOSARIO**
 1. Cuenta institucional: Acceso a una herramienta de IA generativa contratado o administrado por la organización, sujeto a sus condiciones de uso y seguridad.
-2. Dato personal: Cualquier información concerniente a una persona física identificada o identificable.
-3. Dato personal sensible: Dato personal que afecta la esfera más íntima de su titular o cuya utilización indebida puede dar origen a discriminación o conllevar un riesgo grave para éste, como el origen racial o étnico, el estado de salud, la información genética, las creencias religiosas, filosóficas y morales, la afiliación sindical, las opiniones políticas y la preferencia sexual.
+2. Dato personal: Cualquier información concerniente a una persona identificada o identificable. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información.
+3. Dato personal sensible: Aquellos datos personales que afectan a la esfera más íntima de la persona titular, o cuya utilización indebida puede dar origen a discriminación o conlleva un riesgo grave para esta; de manera enunciativa más no limitativa, los que puedan revelar aspectos como origen racial o étnico, estado de salud presente o futuro, información genética, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual.
 4. Depuración de la información: Eliminación o sustitución de los datos personales y de la información confidencial que no son necesarios para una tarea, antes de ingresarla a una herramienta de IA.
 5. Esquema de clasificación de la información: Criterios de la organización para asignar a cada tipo de información un nivel de acceso y de protección.
 6. Herramienta autorizada: Herramienta de IA generativa aprobada expresamente por la organización para un uso determinado.
@@ -307,14 +301,14 @@ La persona es competente cuando posee los siguientes:
 | 2. Señales de suplantación de identidad mediante voz, imagen, video o texto sintéticos. | Comprensión |
 | 3. Protocolo de reporte de incidentes: canal, responsable y plazo. | Aplicación |
 
-La persona es competente cuando demuestra la siguiente:
+La persona es competente cuando demuestra las siguientes:
 
-**RESPUESTA ANTE SITUACIONES EMERGENTES**
+**RESPUESTAS ANTE SITUACIONES EMERGENTES**
 
-**SITUACIÓN EMERGENTE**
-1. Situación emergente: Durante la tarea, la persona advierte que ingresó a la herramienta un documento con datos personales sin depurar.
+**Situación emergente**
+1. Durante la tarea, la persona advierte que ingresó a la herramienta un documento con datos personales sin depurar.
 
-**RESPUESTAS ESPERADAS**
+**Respuestas esperadas**
 1. Suspende el uso de la herramienta, notifica de inmediato al responsable designado, sigue sus indicaciones sobre la eliminación de la conversación o del archivo y requisita el reporte de incidente.
 
 La persona es competente cuando demuestra las siguientes:
@@ -333,10 +327,12 @@ La persona es competente cuando demuestra las siguientes:
 ## Notas para el Comité de Gestión por Competencias
 *No forman parte del Estándar de Competencia.*
 
-1. **Delimitación.** Complementa al EC1705. Aquel evalúa la creación de contenido digital con IA generativa y, en su Elemento 3 de 3 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa"), la aplicación de principios de transparencia, veracidad, privacidad y propiedad intelectual durante esa creación, con conocimientos sobre precauciones básicas de seguridad y privacidad. Este EC evalúa un procedimiento verificable que aquel no exige: clasificar la información conforme al esquema de la organización y depurarla con registro, contrastar cada dato con una fuente verificable con registro, y reportar incidentes y suplantaciones conforme al protocolo de la organización. La revisión del RENEC de octubre de 2026 no identificó estándares con este objeto (ver `01-mapa-funcional.md`). Antes de presentarlo, comparar criterio por criterio con el texto publicado del Elemento 3 del EC1705.
-2. **Fórmulas del formato.** Verificadas en estándares publicados: el formato F21-COOPYD-01; las frases "demuestra los siguientes" (desempeños), "obtiene los siguientes" (productos) y "posee los siguientes" (conocimientos, con columna de nivel); la redacción de las actitudes ("Responsabilidad: La manera en que…"), con Iniciativa, Orden y Responsabilidad en el catálogo; el texto del nivel Dos, igual al del EC0554.01 y el EC1061; y la redacción de la duración de la evaluación. Por confirmar con el CONOCER: las frases que introducen situaciones emergentes ("demuestra la siguiente") y actitudes ("demuestra las siguientes"), la escala completa de niveles de conocimiento y que Perseverancia forme parte del catálogo de actitudes.
-3. **Clasificación.** El SCIAN 561110 es una propuesta para una función transversal de oficina; confirmar los códigos y sus nombres con el CONOCER y el SCIAN vigente del INEGI. Precedentes: el EC1705 usa el sector 61 (servicios educativos) y el EC1657 el sector 54. El grupo unitario SINCO 9999 sigue el precedente de estándares publicados, como el EC1171.
-4. **Definiciones legales.** Ajustar "dato personal" y "dato personal sensible" al texto literal de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025, con revisión de un especialista.
+1. **Delimitación.** Complementa al EC1705. Aquel evalúa la creación de contenido digital con IA generativa (nivel Tres) y, en su Elemento 3 de 3 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa"), la aplicación de principios de privacidad y veracidad durante esa creación. Comparación con su texto publicado (9 de octubre de 2026): ese Elemento tiene dos desempeños y una actitud, y no tiene productos ni conocimientos propios. Su desempeño 1 (revisar las políticas de privacidad de la herramienta y evitar ingresar información que comprometa la privacidad cuando no son claras) se parece al Desempeño 1 del Elemento 1 de este EC, pero se basa en las políticas del proveedor y no en la política y la lista de herramientas autorizadas de la organización, y no exige clasificar, depurar ni registrar la información. Su desempeño 2 (identificar fechas, cifras, nombres y referencias y verificarlas con fuentes alternas) se parece al Desempeño 1 del Elemento 2 de este EC, que además exige al menos una fuente verificable distinta de la herramienta para cada dato, un registro de verificación, la revisión de derechos de terceros y la declaración de uso. Hay traslape parcial en la intención, no en los criterios: se delimita por el procedimiento con registro y por el nivel (Dos, frente a Tres). El EC1705 no cubre incidentes ni suplantaciones. La revisión de los estándares publicados no identificó otro con este objeto; relacionados por tema, pero con otro alcance, son el EC1771 (cultura de ciberseguridad en el entorno laboral) y el EC1801 (gestión de la calidad en servicios de tecnologías de la información y ciberseguridad), cuyos textos no pudieron consultarse (ver `verificacion/INFORME-VERIFICACION.md`).
+2. **Fórmulas del formato.** Verificadas el 9 de octubre de 2026 en estándares publicados con el formato F21-COOPYD-01 versión 08 (EC1705, EC1780, EC1781, EC1804, EC1691 y EC1131.01) y, para las situaciones emergentes y el nivel Dos, también en el EC1171, el EC0553.01 y el EC0554.01 (versión 7.0 del formato): "demuestra los siguientes" (desempeños), "obtiene los siguientes" (productos), "posee los siguientes" (conocimientos, con columna de nivel) y "demuestra las siguientes" (actitudes y respuestas ante situaciones emergentes, con el encabezado "RESPUESTAS ANTE SITUACIONES EMERGENTES" y los subtítulos "Situación emergente" y "Respuestas esperadas"); en singular, "demuestra el siguiente" (EC1131.01). "Obtiene el siguiente" no apareció en los estándares consultados y se conserva por analogía. Niveles de conocimiento usados: Conocimiento, Comprensión y Aplicación. Actitudes del catálogo: Responsabilidad, Orden, Perseverancia (EC1691), Iniciativa (EC1780), Amabilidad, Tolerancia y Cooperación. El texto del nivel Dos es igual al del EC0554.01 y el EC1804. En el formato versión 08 el campo de empresas se llama "Organizaciones participantes en el desarrollo del Estándar de Competencia", el campo "Tiempo de Vigencia del Certificado" aparece en estándares de 2026 (EC1781) y no existe el apartado "Relación con otros estándares de competencia". Por confirmar con el CONOCER: que la plantilla vigente no haya cambiado.
+3. **Clasificación.** Verificada en el SCIAN México 2023 del INEGI (estructura oficial): 561110 "Servicios de administración de negocios" y la jerarquía 56, 561, 5611, 56111 coinciden con la tabla; el estándar EC1804 usa los nombres de 2018 del sector 56 ("y desechos"). Es una propuesta para una función transversal de oficina: confirmar con el CONOCER. Precedentes: el EC1705 usa el sector 61 (servicios educativos) y el EC1657 el sector 54 (su PDF no pudo descargarse; dato por confirmar). El grupo unitario SINCO 9999 "Ocupaciones no especificadas", con "Sin referente", sigue el precedente del EC1171 y el EC1781.
+4. **Definiciones legales.** "Dato personal" y "dato personal sensible" se transcribieron del artículo 2 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (nueva ley del DOF del 20 de marzo de 2025; última reforma DOF del 14 de noviembre de 2025). La lista de la ley de 2025 no incluye la afiliación sindical que los borradores anteriores citaban (probablemente tomada de la ley de 2010, dato no verificado); se eliminó. Revisión de un especialista: pendiente.
 5. **Evaluación.** Validar en la prueba piloto la duración y la consistencia entre evaluadores. Consultar al CONOCER si procede la evaluación a distancia.
 
 **Cambios respecto de la versión 0.1:** título ajustado para reflejar sus dos funciones centrales; el Elemento 2 se centra en verificar, no en generar contenido, para diferenciarse del EC1705; criterios medibles en lugar de adjetivos ("al menos una fuente verificable distinta de la herramienta"); nueva situación emergente en el Elemento 1; glosario ampliado; frases introductorias del formato completas.
+
+**Cambios de la verificación del 9 de octubre de 2026:** encabezado y frases de las respuestas ante situaciones emergentes conforme a los estándares publicados; nombre del campo de organizaciones participantes; se retiró el apartado "Relación con otros estándares de competencia", que no existe en el formato versión 08 (la relación con el EC1705 está en la nota 1); definiciones de dato personal y dato personal sensible conforme al artículo 2 de la ley de 2025 (se retiró la afiliación sindical); notas 1 a 4 actualizadas con lo verificado y lo pendiente.

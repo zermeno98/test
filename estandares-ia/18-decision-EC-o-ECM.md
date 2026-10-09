@@ -19,8 +19,8 @@ La empresa quiere que los estándares generen demanda y que su centro de evaluac
 | Titularidad | Se inscribe en el RENEC, de consulta pública y gratuita | También se inscribe en el RENEC, pero la organización que lo desarrolló conserva los derechos de autor y de propiedad industrial o intelectual | Documento del CONOCER; publicación de años anteriores |
 | Quién lo desarrolla | Un Comité de Gestión por Competencias representativo del sector | Empresas u organizaciones de amplio prestigio nacional o internacional | Mismo documento |
 | Ejemplos | EC1705, EC1827 a EC1829 | ECM0054 (tecnología Microsoft para la productividad), ECM0107 (diseño con Adobe Illustrator), ECM0180 (Pearson English), ECM0358 (fundamentos de IA generativa, Microsoft) | Documento del CONOCER y revisión del RENEC del proyecto |
-| Quién evalúa | Entidades de Certificación y Evaluación y Organismos Certificadores acreditados por el CONOCER, y Centros de Evaluación y Evaluadores Independientes acreditados por ellos (por confirmar), con evaluadores certificados en el EC0076 | No confirmado. Hay indicios de que se requieren evaluadores certificados en el estándar de marca específico | Manuales de prestadores; materiales de terceros |
-| Uso restringido | Existe una categoría de estándares de uso restringido que requieren autorización del comité que los desarrolló | — | Documento de terceros; no confirmado si sigue vigente ni si aplica a EC nuevos |
+| Quién evalúa | Entidades de Certificación y Evaluación (ECE) y Organismos Certificadores (OC) acreditados por el CONOCER. Los Centros de Evaluación y Evaluadores Independientes se autorizan por el sistema del CONOCER, a solicitud de la ECE u OC, si esta tiene acreditado un EC inscrito en el RENEC y cuentan con evaluadores certificados en el EC0076 y en el EC (doble certificación) | Las ECE y OC solo pueden operarlo si el propietario de la marca o sus licenciatarios las determinan como solución de certificación y así consta en un convenio con el CONOCER; el CONOCER acredita el ECM a las ECE y OC autorizadas por el propietario, y los Centros de Evaluación y Evaluadores Independientes se autorizan según ese convenio | Manual M-DGAOSU-02, revisión 3.3, octubre de 2016, puntos 4.1.2, 4.2.2, 4.5.1 y 4.6 (verificado el 9 de octubre de 2026; vigencia del manual por confirmar) |
+| Uso restringido | El manual de 2016 menciona los "EC restringidos" (punto 4.7.3) sin definirlos; sus condiciones, y si aplican a EC nuevos, no se pudieron confirmar | — | Manual M-DGAOSU-02 (2016); condiciones por confirmar con el CONOCER |
 | Certificado | Lleva los logotipos de la SEP, del CONOCER, de la institución certificadora y de las organizaciones que integran el estándar | No confirmado | Documento de años anteriores |
 
 ## 3. Comparación para este proyecto
@@ -69,7 +69,7 @@ Esta recomendación cambia si el CONOCER confirma que existe un **EC de uso rest
 
 ## Fuentes consultadas
 
-- CONOCER. Documento de transparencia sobre el Sistema Nacional de Competencias y los estándares de marca. https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf
+- CONOCER. Documento de transparencia sobre el Sistema Nacional de Competencias y los estándares de marca. https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf
 - OIT/Cinterfor. *Normalización: catálogo de competencias laborales, estructura y organización* (CONOCER). https://www.oitcinterfor.org/sites/default/files/file_evento/pacifico_certifica/normalizacion_conocer.pdf
 - Manual de operación del CONOCER (copia publicada por ICATQR, 2018). https://icatqr.qroo.gob.mx/icatqr/wp-content/uploads/2024/08/21-Manual-Actual_2018-CONOCER.pdf
 - CONALEP. *Manual de evaluación.* https://www.conalep.edu.mx/sites/default/files/micrositios/daoce/PDF/Mnual_de_evaluacion.pdf

@@ -1,94 +1,339 @@
 {
  "nota": "Lista de fuentes para verificar los borradores. Si una URL ya no existe, buscar la vigente y agregarla en 'alternativas'. tipo: pdf | pagina | buscar.",
  "fuentes": [
-  {"id": "EC1705", "tipo": "pdf", "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf",
-   "alternativas": ["https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1705.pdf"],
-   "para": "V6: Elemento 3 de 3 completo; V1 a V3: formato reciente"},
-  {"id": "EC1804", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/segunda_so/EC1804.pdf",
-   "para": "V1 a V4: formato F21-COOPYD-01 de 2026 y texto del nivel Dos"},
-  {"id": "EC1780", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1780.pdf",
-   "para": "V1 a V4: formato de 2026 y nivel Dos"},
-  {"id": "EC1781", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1781.pdf",
-   "para": "V1 y V5: formato de 2026, SINCO y SCIAN"},
-  {"id": "EC1827", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf",
-   "para": "V1, V5 y V7: estándar de IA de agosto de 2026"},
-  {"id": "EC1828", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf",
-   "para": "V7: estándar de IA de agosto de 2026"},
-  {"id": "EC1829", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf",
-   "para": "V7: estándar de IA de agosto de 2026"},
-  {"id": "EC1657", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf",
-   "para": "V5 y V7: estándar de IA; SCIAN 54"},
-  {"id": "EC1691", "tipo": "pdf", "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf",
-   "para": "V7: estándar de IA en educación"},
-  {"id": "ECM0358", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf",
-   "para": "V7 y V11: estándar de marca de IA"},
-  {"id": "EC0554_01", "tipo": "pdf", "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0554_01.pdf",
-   "para": "V1 a V4: estándar transversal, nivel Dos"},
-  {"id": "EC0553_01", "tipo": "pdf", "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0553_01.pdf",
-   "para": "V1 a V4: estándar transversal"},
-  {"id": "EC1440", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf",
-   "para": "V4: texto del nivel Cuatro"},
-  {"id": "EC1730", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf",
-   "para": "V1 a V3: formato de 2025"},
-  {"id": "EC1131_01", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1131.01.pdf",
-   "para": "V1: frase en singular 'demuestra el siguiente'"},
-  {"id": "EC0076", "tipo": "pdf", "url": "https://www.uttt.edu.mx/ECEC/Estandares/EC0076.pdf",
-   "alternativas": ["https://www.uacj.mx/vinculacion/conocer/documentos/estandares/EC0076.pdf", "https://mail.ciees.edu.mx/documentos/estandares/EC0076.pdf"],
-   "para": "V4: nivel Cuatro; requisitos de los evaluadores"},
-  {"id": "EC1410", "tipo": "pdf", "url": "https://ingles.ilce.edu.mx/images/certificaciones/competencias/estandares/EC1410.pdf",
-   "para": "V4: nivel Cuatro"},
-  {"id": "EC1171", "tipo": "pdf", "url": "https://www.infoem.org.mx/doc/publicaciones/EstandardeCompetencia_1171.pdf",
-   "para": "V5: grupo unitario SINCO 9999"},
-  {"id": "EC0301", "tipo": "pdf", "url": "https://ciees.edu.mx/documentos/estandares/EC0301.pdf",
-   "para": "V1: frases de productos; referencia para cursos"},
-  {"id": "EC0217_01", "tipo": "pdf", "url": "https://www.ilce.edu.mx/images/certificaciones/competencias/estandares/EstandarEC0217_1.pdf",
-   "para": "Referencia para los instructores de los cursos"},
-
-  {"id": "CONOCER_PUBLICACIONES_DOF", "tipo": "pagina", "url": "https://conocer.gob.mx/publicaciones_dof/",
-   "alternativas": ["https://www.conocer.gob.mx/publicaciones_dof/"],
-   "filtrar_enlaces": ["2026", "\\.pdf"],
-   "para": "V7: estándares publicados después del 7 de agosto de 2026"},
-  {"id": "CONOCER_INICIO", "tipo": "pagina", "url": "https://conocer.gob.mx/",
-   "filtrar_enlaces": ["RENEC", "regla", "lineamiento", "formato", "normatividad", "transparencia", "acredita"],
-   "para": "V11: localizar Reglas Generales del SNC, RENEC y formatos vigentes"},
-  {"id": "CONOCER_TRANSPARENCIA_55", "tipo": "pdf", "url": "https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf",
-   "para": "V11: EC frente a ECM"},
-  {"id": "CONOCER_TRANSPARENCIA_61", "tipo": "pdf", "url": "https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf",
-   "para": "V11: comité de validación y comités de gestión"},
-  {"id": "CONOCER_ABC_CGC", "tipo": "pdf", "url": "https://www.conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf",
-   "para": "V11: integración de un Comité de Gestión por Competencias"},
-
-  {"id": "DOF_2026_08_07", "tipo": "pagina", "url": "https://www.dof.gob.mx/index.php?year=2026&month=08&day=07",
-   "alternativas": ["https://dof.gob.mx/index.php?year=2026&month=08&day=07", "https://www.dof.gob.mx/index_111.php?year=2026&month=08&day=07"],
-   "filtrar_enlaces": ["Normalizaci", "CONOCER", "Competencia"],
-   "para": "V8: Acuerdo SE/III-26/05,R del 7 de agosto de 2026"},
-
-  {"id": "LFPDPPP", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
-   "para": "V9: ley de datos personales vigente (definiciones, principios, seguridad, vulneraciones, remisión y transferencia)"},
-  {"id": "LFPDPPP_DOF_2025", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.pdf",
-   "para": "V9: texto original publicado el 20 de marzo de 2025"},
-  {"id": "LGPDPPSO", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
-   "para": "V9: ley para sujetos obligados (instituciones públicas del convenio)"},
-  {"id": "LFT", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
-   "para": "V10: capacitación (artículo 153-A y siguientes) y comisión mixta"},
-  {"id": "LFDA", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
-   "para": "Referencia del EC-A (derechos de autor e imagen)"},
-  {"id": "LEY_INFRAESTRUCTURA_CALIDAD", "tipo": "pdf", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal.pdf",
-   "para": "Referencia: normas oficiales mexicanas que pueden exigir un estándar"},
-
-  {"id": "INEGI_SCIAN", "tipo": "pagina", "url": "https://www.inegi.org.mx/app/scian/",
-   "para": "V5: confirmar 561110 y 541610 y sus nombres en el SCIAN vigente"},
-  {"id": "INEGI_SINCO", "tipo": "pagina", "url": "https://www.inegi.org.mx/app/sinco/",
-   "para": "V5: confirmar el grupo unitario 9999"},
-
-  {"id": "EU_REGLAMENTO_IA", "tipo": "pagina", "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689",
-   "para": "V12: artículo 4 (alfabetización en IA)"},
-
-  {"id": "STPS_DC3", "tipo": "buscar",
-   "para": "V10: Criterios generales y formatos de la STPS para la constancia DC-3 y el catálogo de áreas temáticas vigentes"},
-  {"id": "EU_REGLAMENTO_2026_1744", "tipo": "buscar",
-   "para": "V12: Reglamento (UE) 2026/1744 que modifica el artículo 4 de la Ley de IA"},
-  {"id": "CONOCER_REGLAS_SNC", "tipo": "buscar",
-   "para": "V11: Reglas Generales y criterios vigentes para la integración y operación del Sistema Nacional de Competencias (quién acredita a quién, ECM, uso restringido, evaluación a distancia)"}
+  {
+   "id": "EC1705",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf",
+   "alternativas": [
+    "https://conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1705.pdf"
+   ],
+   "para": "V6: Elemento 3 de 3 completo; V1 a V3: formato reciente"
+  },
+  {
+   "id": "EC1804",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/segunda_so/EC1804.pdf",
+   "para": "V1 a V4: formato F21-COOPYD-01 de 2026 y texto del nivel Dos",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/segunda_so/EC1804.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/segunda_so/EC1804.pdf"
+   ]
+  },
+  {
+   "id": "EC1780",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1780.pdf",
+   "para": "V1 a V4: formato de 2026 y nivel Dos",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1780.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1780.pdf"
+   ]
+  },
+  {
+   "id": "EC1781",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1781.pdf",
+   "para": "V1 y V5: formato de 2026, SINCO y SCIAN",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1781.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1781.pdf"
+   ]
+  },
+  {
+   "id": "EC1827",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf",
+   "para": "V1, V5 y V7: estándar de IA de agosto de 2026",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf"
+   ]
+  },
+  {
+   "id": "EC1828",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf",
+   "para": "V7: estándar de IA de agosto de 2026",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf"
+   ]
+  },
+  {
+   "id": "EC1829",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf",
+   "para": "V7: estándar de IA de agosto de 2026",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf"
+   ]
+  },
+  {
+   "id": "EC1657",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf",
+   "para": "V5 y V7: estándar de IA; SCIAN 54",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf"
+   ]
+  },
+  {
+   "id": "EC1691",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf",
+   "para": "V7: estándar de IA en educación"
+  },
+  {
+   "id": "ECM0358",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf",
+   "para": "V7 y V11: estándar de marca de IA",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf"
+   ]
+  },
+  {
+   "id": "EC0554_01",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0554_01.pdf",
+   "para": "V1 a V4: estándar transversal, nivel Dos"
+  },
+  {
+   "id": "EC0553_01",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0553_01.pdf",
+   "para": "V1 a V4: estándar transversal"
+  },
+  {
+   "id": "EC1440",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf",
+   "para": "V4: texto del nivel Cuatro",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf"
+   ]
+  },
+  {
+   "id": "EC1730",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf",
+   "para": "V1 a V3: formato de 2025",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf"
+   ]
+  },
+  {
+   "id": "EC1131_01",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1131.01.pdf",
+   "para": "V1: frase en singular 'demuestra el siguiente'",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1131.01.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1131.01.pdf"
+   ]
+  },
+  {
+   "id": "EC0076",
+   "tipo": "pdf",
+   "url": "https://www.uttt.edu.mx/ECEC/Estandares/EC0076.pdf",
+   "alternativas": [
+    "https://www.uacj.mx/vinculacion/conocer/documentos/estandares/EC0076.pdf",
+    "https://mail.ciees.edu.mx/documentos/estandares/EC0076.pdf"
+   ],
+   "para": "V4: nivel Cuatro; requisitos de los evaluadores"
+  },
+  {
+   "id": "EC1410",
+   "tipo": "pdf",
+   "url": "https://ingles.ilce.edu.mx/images/certificaciones/competencias/estandares/EC1410.pdf",
+   "para": "V4: nivel Cuatro"
+  },
+  {
+   "id": "EC1171",
+   "tipo": "pdf",
+   "url": "https://www.infoem.org.mx/doc/publicaciones/EstandardeCompetencia_1171.pdf",
+   "para": "V5: grupo unitario SINCO 9999"
+  },
+  {
+   "id": "EC0301",
+   "tipo": "pdf",
+   "url": "https://ciees.edu.mx/documentos/estandares/EC0301.pdf",
+   "para": "V1: frases de productos; referencia para cursos"
+  },
+  {
+   "id": "EC0217_01",
+   "tipo": "pdf",
+   "url": "https://www.ilce.edu.mx/images/certificaciones/competencias/estandares/EstandarEC0217_1.pdf",
+   "para": "Referencia para los instructores de los cursos"
+  },
+  {
+   "id": "CONOCER_PUBLICACIONES_DOF",
+   "tipo": "pagina",
+   "url": "https://conocer.gob.mx/publicaciones_dof/",
+   "alternativas": [
+    "https://conocer.gob.mx/publicaciones_dof/"
+   ],
+   "filtrar_enlaces": [
+    "2026",
+    "\\.pdf"
+   ],
+   "para": "V7: estándares publicados después del 7 de agosto de 2026"
+  },
+  {
+   "id": "CONOCER_INICIO",
+   "tipo": "pagina",
+   "url": "https://conocer.gob.mx/",
+   "filtrar_enlaces": [
+    "RENEC",
+    "regla",
+    "lineamiento",
+    "formato",
+    "normatividad",
+    "transparencia",
+    "acredita"
+   ],
+   "para": "V11: localizar Reglas Generales del SNC, RENEC y formatos vigentes"
+  },
+  {
+   "id": "CONOCER_TRANSPARENCIA_55",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf",
+   "para": "V11: EC frente a ECM",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf"
+   ]
+  },
+  {
+   "id": "CONOCER_TRANSPARENCIA_61",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf",
+   "para": "V11: comité de validación y comités de gestión",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf"
+   ]
+  },
+  {
+   "id": "CONOCER_ABC_CGC",
+   "tipo": "pdf",
+   "url": "https://conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf",
+   "para": "V11: integración de un Comité de Gestión por Competencias",
+   "alternativas": [
+    "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf",
+    "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf"
+   ]
+  },
+  {
+   "id": "DOF_2026_08_07",
+   "tipo": "pagina",
+   "url": "https://www.dof.gob.mx/index.php?year=2026&month=08&day=07",
+   "alternativas": [
+    "https://dof.gob.mx/index.php?year=2026&month=08&day=07",
+    "https://www.dof.gob.mx/index_111.php?year=2026&month=08&day=07"
+   ],
+   "filtrar_enlaces": [
+    "Normalizaci",
+    "CONOCER",
+    "Competencia"
+   ],
+   "para": "V8: Acuerdo SE/III-26/05,R del 7 de agosto de 2026"
+  },
+  {
+   "id": "LFPDPPP",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+   "para": "V9: ley de datos personales vigente (definiciones, principios, seguridad, vulneraciones, remisión y transferencia)"
+  },
+  {
+   "id": "LFPDPPP_DOF_2025",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.pdf",
+   "para": "V9: texto original publicado el 20 de marzo de 2025"
+  },
+  {
+   "id": "LGPDPPSO",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+   "para": "V9: ley para sujetos obligados (instituciones públicas del convenio)"
+  },
+  {
+   "id": "LFT",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+   "para": "V10: capacitación (artículo 153-A y siguientes) y comisión mixta"
+  },
+  {
+   "id": "LFDA",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+   "para": "Referencia del EC-A (derechos de autor e imagen)"
+  },
+  {
+   "id": "LEY_INFRAESTRUCTURA_CALIDAD",
+   "tipo": "pdf",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal.pdf",
+   "para": "Referencia: normas oficiales mexicanas que pueden exigir un estándar"
+  },
+  {
+   "id": "INEGI_SCIAN",
+   "tipo": "pagina",
+   "url": "https://www.inegi.org.mx/app/scian/",
+   "para": "V5: confirmar 561110 y 541610 y sus nombres en el SCIAN vigente"
+  },
+  {
+   "id": "INEGI_SINCO",
+   "tipo": "pagina",
+   "url": "https://www.inegi.org.mx/app/sinco/",
+   "para": "V5: confirmar el grupo unitario 9999"
+  },
+  {
+   "id": "EU_REGLAMENTO_IA",
+   "tipo": "pagina",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689",
+   "para": "V12: artículo 4 (alfabetización en IA)"
+  },
+  {
+   "id": "STPS_DC3",
+   "tipo": "buscar",
+   "para": "V10: Criterios generales y formatos de la STPS para la constancia DC-3 y el catálogo de áreas temáticas vigentes"
+  },
+  {
+   "id": "EU_REGLAMENTO_2026_1744",
+   "tipo": "buscar",
+   "para": "V12: Reglamento (UE) 2026/1744 que modifica el artículo 4 de la Ley de IA"
+  },
+  {
+   "id": "CONOCER_REGLAS_SNC",
+   "tipo": "buscar",
+   "para": "V11: Reglas Generales y criterios vigentes para la integración y operación del Sistema Nacional de Competencias (quién acredita a quién, ECM, uso restringido, evaluación a distancia)"
+  },
+  {
+   "id": "DOF_ACUERDO_SE_III_26_05R",
+   "tipo": "pagina",
+   "url": "https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026",
+   "para": "V8: Acuerdo SE/III-26/05,R (DOF 7 de agosto de 2026, edición matutina)"
+  },
+  {
+   "id": "STPS_ACUERDO_2013",
+   "tipo": "pagina",
+   "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5302582&fecha=14/06/2013",
+   "alternativas": [
+    "https://dof.gob.mx/nota_detalle_popup.php?codigo=5302582"
+   ],
+   "para": "V10: criterios administrativos, requisitos y formatos de capacitación (DC-3, DC-4), DOF 14 de junio de 2013"
+  },
+  {
+   "id": "EU_REGLAMENTO_2026_1744_ES",
+   "tipo": "pagina",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202601744",
+   "para": "V12: Reglamento (UE) 2026/1744 (Ómnibus digital sobre IA)"
+  }
  ]
 }

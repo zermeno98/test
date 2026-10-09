@@ -1,0 +1,701 @@
+Fuente: https://www.uttt.edu.mx/ECEC/Estandares/EC0076.pdf
+
+=== Página 1 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+1 de 12 
+ 
+ 
+ 
+ESTÁNDAR DE COMPETENCIA  
+ 
+ 
+I.- Datos Generales  
+ 
+Código: Título: Evaluación de la competencia de candidatos  con base en Estándares de 
+Competencia 
+EC0076  
+      
+ 
+Propósito del Estándar de Competencia: 
+Servir como referente para la evaluación y certifica ción de las personas que evalúan la competencia 
+de candidatos con base en Estándares de Competencia  y aseguran la  excelencia en el proceso de 
+evaluación de competencia. 
+ 
+Asimismo, puede ser referente para el desarrollo de programas de capacitación y de for mación 
+basados en el Estándar de Competencia (EC). 
+ 
+Descripción del Estándar de Competencia 
+Este EC contempla las funciones que una persona realiza para evaluar la competencia de candidatos 
+con base en Estándares de Competencia cumpliendo los principios de transparencia, imparcialidad y 
+objetividad. 
+El presente Estándar de Competencia se fundamenta en criterios rectores de legalidad, 
+competitividad, libre acceso, respeto, trabajo digno y responsabilidad social. 
+ 
+Comité de Gestión por Competencia que lo desarrolló:  
+Consejo Nacional de Normalización y Certificación de Competencias Laborales. 
+ 
+ 
+Fecha de aprobación por el Comité Técnico 
+del CONOCER: 
+ 
+ Fecha de publicación en el D.O.F: 
+ 
+ 
+ 
+ 
+Periodo de revisión/actualización del EC: 
+ 
+2 años 
+ 
+ Tiempo de Vigencia d el Certificado de 
+competencia en este EC:  
+3 años 
+ 
+  
+Ocupaciones relacionadas con este  EC de acuerdo al Sistema de Información del Catálogo 
+Nacional de Ocupaciones (SICNO): 
+ 
+ 
+ 
+=== Página 2 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+2 de 12 
+ 
+Módulo Ocupacional  
+Capacitadores e instructores  
+ 
+Ocupaciones:  
+Capacitador  
+Facilitador  
+Instructor  
+ 
+Ocupaciones no contenidas en el SICNO y reconocidas en el Sector para este EC 
+Evaluador de Competencias con base en Estándares de Competencia 
+ 
+ 
+Clasificación según el Sistema de Clasificación Industrial de América del Norte (SCIAN): 
+Sector: 
+54 Servicios profesionales, científicos y técnicos 
+Subsector: 
+541 Servicios profesionales, científicos y técnicos 
+Rama: 
+5416 Servicios de consultoría administrativa, científica y técnica 
+Subrama: 
+54169 Otros servicios de consultoría científica y técnica 
+Clase: 
+541690 Otros servicios de consultoría en científica y técnica 
+ 
+El presente Estándar de Competencia, una vez publicado  en el Diario Oficial de la Federación se 
+integrará en el Registro Nacional de Estándares de Competencia  que opera el CONOCER a fin de 
+facilitar su uso y consulta gratuita. 
+ 
+Empresas e Instituciones participantes en el desarrollo del EC 
+ Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+ 
+ 
+Aspectos relevantes de la evaluación  
+ 
+Detalles de la práctica  El desarrollo de la evaluación de este EC se puede llevar a cabo en 
+una situación real de trabajo o de forma simulada. El candidato debe 
+presentar sus evidencias de acuerdo a lo solicitado. 
+Apoyos  Se requiere a una persona que participe como candidato a evaluar, 
+los formatos determinados por el CONOCER  y el Prestador de 
+Servicios para realizar el proceso de Evaluación de Competencia así 
+como los requerimientos e insumos específicos de la función 
+individual a evaluar. 
+ 
+ 
+=== Página 3 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+3 de 12 
+ 
+ 
+ 
+Duración estimada de la evaluación 
+ 
+ Entre 8 y 24 horas dependiendo de la Función Individual a evaluar 
+ 
+ 
+ 
+ 
+ 
+ 
+II.- Perfil del Estándar de Competencia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elemento  1 de 4 
+Preparar la evaluación de la c ompetencia del 
+candidato 
+Estándar de Competencia 
+Evaluación de la competencia  de 
+candidatos con base en Estándares de 
+Competencia. 
+ 
+Elemento  2 de 4 
+Recopilar las evidencias de la competencia del 
+candidato 
+Elemento  3 de 4 
+Emitir el juicio de la competencia del candidato 
+Elemento  4 de 4 
+Presentar los resultados de la evaluación de 
+competencia del candidato 
+=== Página 4 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+4 de 12 
+ 
+III.- Elementos que conforman el Estándar de Competencia 
+ 
+Referencia 
+1 de 4 
+Código 
+EO354 
+Título 
+Preparar la evaluación de la competencia del candidato 
+ 
+CRITERIOS DE EVALUACIÓN 
+ 
+La persona es competente cuando demuestra los siguientes: 
+ 
+DESEMPEÑOS 
+ 
+1. Presenta al candidato el Plan de Evaluación:  
+ Acudiendo al lugar, el día y la hora especificado por el CE/ ECE; 
+ Explicando al candidato qué deberá realizar, los resultados esperados y forma de 
+presentarlos de acuerdo con el Estándar de Competencia de referencia; 
+ Corroborando con él, que la información descrita en la Ficha de Referencia corresponde a sus 
+datos personales y con los del Estándar de Competencia de su interés; 
+ Aclarándole las dudas que manifieste respecto a su proceso de evaluación; 
+ Especificándole cómo se aplicarán las técnicas de evaluación durante su evaluación de  
+acuerdo con lo determinado en el plan de evaluación, y; 
+ Describiéndole los instrumentos que se aplicarán durante su evaluación de acuerdo al plan de 
+evaluación presentado. 
+ 
+2. Acuerda el Plan de Evaluación: 
+ Proponiendo al candidato lugar, fecha y horarios  para el desarrollo de la evaluación;  
+ Ajustando en el Plan de Evaluación el lugar / fecha/ horarios para el desarrollo de la 
+evaluación de acuerdo con lo convenido con el candidato;  
+ Respondiendo las preguntas expresadas por el candidato  referentes al proceso de 
+evaluación;  
+ Especificando con el cand idato quién proveerá los requerimientos para el desarrollo de la 
+evaluación determinados en el Plan de Evaluación;  
+ Solicitando la firma de conformidad del candidato, y;  
+ Entregando un ejemplar del Plan de E valuación acordado  y firmado por ambas partes  al 
+candidato.  
+ 
+ 
+La persona es competente cuando obtiene los siguientes: 
+ 
+PRODUCTOS 
+ 
+1. El Plan de Evaluación de la competencia del candidato acordado:                       
+ Contiene los nombres completos del candidato y del evaluador;  
+ Especifica el lugar, fecha y horarios para la evaluación;  
+ Especifica los responsables de proporcionar  cada requerimiento para el desarrollo de la 
+evaluación establecido en el  Plan de Evaluación; 
+=== Página 5 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+5 de 12 
+ 
+ Se presenta en el formato determinado por el Prestador de Servicios; 
+ Contiene la rúbrica/firma/ huella de conformidad del candidato y del evaluador; 
+ Incluye el resultado del diagnóstico, e;                              
+ Incluye las recomendaciones para el candidato de acuerdo con el resultado de su diagnóstico. 
+ 
+ 
+La persona es competente cuando posee los siguientes: 
+ 
+CONOCIMIENTOS NIVEL 
+1. Características y principios de la Evidencia Histórica  Conocimiento 
+  
+ACTITUDES / HÁBITOS / VALORES 
+ 
+1. Amabilidad 
+ 
+ 
+La manera en que el evaluador da un trato cordial y respetuoso cuando 
+resuelve las preguntas e inquietudes expresadas por el candidato respecto a  
+su proceso de evaluación. 
+ 
+GLOSARIO 
+ 
+1. Diagnóstico: Refiere el método que se realiza , previo al proceso de evaluación 
+de competencia, con la finalidad  de identificar el nivel de dominio 
+del candidat o respecto a lo determinado en el Estándar de 
+Competencia en el que se evaluará. Así mismo , el Diagnóstico 
+sirve para: 
+ Identificar las posibilidades de éxito que tiene el candidato de 
+someterse a un proceso de evaluación.  
+ Identificar si la experiencia del  candidato le ha permitido 
+generar evidencias que pueden ser útiles en el proceso de 
+evaluación (evidencias históricas). 
+ 
+2. Plan de Evaluación: Es un documento mediante el cual se señala con claridad y 
+precisión el qué, cómo, con qué, dónde y cuándo se real izará la 
+evaluación del candidato. 
+ 
+3. Requerimientos para el 
+desarrollo de la  
+evaluación: 
+Se refiere a las condiciones de personal, instalaciones,  insumos, 
+materiales, utensilios, documentos, entre otros, con las que se 
+debe contar para realizar el proceso de evaluación de manera real 
+o simulada. 
+ 
+=== Página 6 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+6 de 12 
+ 
+ 
+ 
+Referencia 
+2 de 4 
+Código 
+EO355 
+Título 
+Recopilar las evidencias de la competencia del candidato 
+ 
+CRITERIOS DE EVALUACIÓN 
+ 
+La persona es competente cuando demuestra los siguientes: 
+ 
+DESEMPEÑOS 
+ 
+1. Verifica las condiciones para la aplicación del IEC: 
+ Antes de la aplicación del IEC, y; 
+ Corroborando la operación y disponibilidad de los requerimientos para el desarrollo de la 
+evaluación especificado s en el Plan de Evaluación acordado  y en las instrucciones de 
+aplicación definidas en el IEC. 
+ 
+2. Comunica al candidato las instrucciones de aplicación: 
+ De acuerdo con las actividades a desarrollar  especificadas en el Plan de Evaluación 
+acordado; 
+ Aclarando las dudas que manifieste el candidato antes de iniciar la recopilación de evidencias, 
+e; 
+ Indicando al candidato el momento en que inicia su evaluación. 
+ 
+ 
+3. Recopila las evidencias de Desempeño/AHV/Respuestas a Situaciones Emergentes  
+demostradas por el candidato: 
+ Cumpliendo las instrucciones especificadas en el IEC;  
+ De acuerdo con  las actividades programadas en el Plan de Evaluación acordado con el 
+candidato;  
+ Aplicando las guías de obs ervación establecidas en el IEC sin realizar expresiones 
+verbales/no verbales aprobatorias/desaprobatorias de los comportamientos que e l candidato 
+demuestra; 
+ Registrando las observaciones derivadas de la aplicación en el espacio destinado para ello en 
+el IEC inmediatamente después de que el candidato presenta la evidencia; 
+ Sin interrumpir al candidato en el desarrollo de actividades programadas en el Plan de 
+Evaluación acordado, y; 
+ Concluyendo la aplicación de las guías de observación cuando todos los reactivos t engan 
+registros/ observaciones.  
+ 
+ 
+4. Recopila las evidencias de Producto obtenidas por el candidato: 
+ Cumpliendo las instrucciones especificadas en el IEC; 
+ De acuerdo con las actividades programadas en el Plan de Evaluación acordado con el 
+candidato; 
+=== Página 7 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+7 de 12 
+ 
+ Cotejando que las evidencias de producto recopiladas cumplen con los reactivos establecidos 
+en las listas de cotejo; 
+ Registrando las observaciones derivadas de la aplicación/revisión en el espacio destinado en 
+las listas de cotejo del IEC, y; 
+ Concluyendo la aplicación de  las listas de cotejo cuando todos los reacti vos tengan 
+evidencias/registros. 
+ 
+5. Aplica cuestionarios al candidato: 
+ Explicándole las instrucciones, y; 
+ Aclarándole las dudas que manifieste.  
+ 
+6. Cierra la aplicación del IEC: 
+ Notificando al candidato que la aplicación del IEC ha concluido; 
+ Revisando que se evaluaron todos los reactivos del IEC; 
+ Firmando el IEC en los espacios asignados; 
+ Requiriendo al candidato su firma/rúbrica/huella digital en los espacios asignados, y; 
+ Mencionando al candidato las fechas, lugares y horarios para la retroalimentación sobre los 
+resultados obtenidos del proceso de evaluación de acuerdo con lo determinado en el Pl an de 
+Evaluación. 
+ 
+ 
+La persona es competente cuando obtiene los siguientes: 
+ 
+PRODUCTOS 
+ 
+ 
+1. El IEC aplicado durante la evaluación del candidato: 
+ Especifica las fechas de su aplicación de acuerdo con lo definido en el Plan de Evaluación; 
+ Incluye el nombre del candidato y del evaluador; 
+ Incluye las rúbricas/firmas/huella digital del evaluador y el candidato  en los espacios 
+destinados para ello;  
+ Contiene el registro de los cumplimien tos/incumplimientos de todos los reactivos  de acuerdo 
+con las evidencias generadas por el candidato durante su evaluación; 
+ Especifica las observaciones de los incumplimientos registrados; 
+ Incluye la cuantificación de los pesos relativos, e; 
+ Incluye el juicio de competencia obtenido. 
+ 
+La persona es competente cuando posee los siguientes: 
+ 
+CONOCIMIENTOS NIVEL 
+1. Comprobación de la autenticidad de evidencia histórica. Aplicación 
+2. Acciones a realizar cuando el candidato realice actividades que puedan 
+poner en riesgo su integridad física, la de terceras personas y la del 
+equipo/maquinaria involucrada en la evaluación. 
+Conocimiento 
+ 
+=== Página 8 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+8 de 12 
+ 
+ACTITUDES / HÁBITOS / VALORES 
+ 
+1. Responsabilidad 
+ 
+ 
+La manera en que recopila las evidencias del candidato 
+cumpliendo con los criterios establecidos en el Decálogo y Código 
+de Ética del Evaluador. 
+GLOSARIO 
+ 
+1. Retroalimentación al 
+candidato: 
+Refiere al conjunto de actividades que el evaluador realiza para 
+comunicar al candidato sus mejores  prácticas, las áreas de 
+oportunidad detectadas durante la evaluación, los criterios de 
+evaluación que no se cubrieron, las recomen daciones de 
+capacitación, la identificación de los EC de competencia en los que 
+puede certificarse, el resumen del proceso de evaluación así como 
+el juicio de competencia obtenido. 
+ 
+ 
+Referencia 
+3 de 4 
+Código 
+EO356 
+Título 
+Emitir el juicio de la competencia del candidato 
+ 
+ 
+CRITERIOS DE EVALUACIÓN 
+ 
+ 
+La persona es competente cuando obtiene los siguientes: 
+ 
+PRODUCTOS 
+ 
+ 
+1. El juicio de competencia emitido para el candidato: 
+ Está sustentado en la suficiencia de la competencia, en la suficiencia de la evidencia 
+recopilada, en la suficiencia de los IEC y la suficiencia del portafolio de evidencias. 
+ 
+2. El portafolio de evidencias integrado: 
+ Incluye cada uno de los registros que sustentan el juicio de competencia determinado, y; 
+ Contiene los documentos solicitados y en el orden establecidos por el CONOCER. 
+ 
+3. La Cédula de Evaluación requisitada: 
+ Incluye los datos generales solicitados en el formato;  
+ Describe las mejores prácticas  presentadas por el candidato durante la  evaluación de 
+competencia;  
+ Describe las áreas de oport unidad del candidato identificadas durante la evaluación de 
+competencia;  
+ Incluye las recomendaciones del evaluador de acuerdo con las mejores prácticas y áreas de 
+oportunidad del candidato presentadas durante la evaluación de competencia;  
+ Incluye los incumplimientos del candidato con base en el IEC aplicado;  
+=== Página 9 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+9 de 12 
+ 
+ Especifica el juicio de competencia obtenido con base en el resultado de las suficiencias, y; 
+ Presenta el nombre y firma del evaluador y candidato. 
+ 
+ 
+ 
+GLOSARIO 
+ 
+1. Suficiencia de la 
+Competencia: 
+Se alcanza cuando los desempeños, los productos y los 
+conocimientos evidenciados por el candidato durante su evaluación 
+cumplen con todos los requerimientos de calidad que establece el 
+Estándar de Competencia en cada uno de sus componentes. 
+La suficiencia en la competencia permite emitir un juicio favorable 
+de evaluación para el candidato. 
+ 
+2. Suficiencia de la Evidencia 
+Recopilada: 
+Refiera a la generación o presentación, por el candidato, de  todas 
+las evidencias determinadas los elementos del Estándar de 
+Competencia de referencia, independientemente de que hayan 
+cumplido o no, con los requerimientos de calidad esperados. 
+ 
+3. Suficiencia de los IEC: Se cubre cuando los instrumentos de evaluación están completos, 
+es decir, permiten recopilar todas las evidencias que ma rcan los 
+elementos del Estándar de Competencia de referencia y permiten 
+registrar toda la información referente a los requerimientos de 
+calidad que marcan los elementos. 
+ 
+4. Suficiencia del Portafolio de 
+Evidencias: 
+Un portafolios  de evidencias  presenta sufi ciencia de evidencias 
+cuando está documentado de manera adecuada. Su contenido 
+debe mostrar los registros de la evaluación de todas las evidencias 
+y los demás componentes del Estándar de Competencia de 
+referencia. 
+ 
+5. Registros que sustentan el 
+juicio de competencia: 
+Refiere a las anotaciones que realiza el evaluador para sustentar el 
+cumplimiento o incumplimiento de las evidencias presentadas por 
+el candidato. Puede ser acompañado de videos, fotos, 
+documentos, entre otros. 
+ 
+ 
+ 
+=== Página 10 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+10 de 12 
+ 
+ 
+Referencia 
+4 de 4 
+Código 
+EO357 
+Título 
+Presentar los resultados de la evaluación de competencia del candidato 
+ 
+CRITERIOS DE EVALUACIÓN 
+ 
+La persona es competente cuando demuestra los siguientes: 
+ 
+DESEMPEÑOS 
+ 
+1. Comunica al candidato el juicio de competencia Competente: 
+ En el día y hora registrados en el Plan de Evaluación acordado; 
+ Con base en el resultado de la suficiencia de la competencia, de la suficiencia de la evidencia 
+recopilada, de la suficiencia de los IEC y de la suficiencia del portafolio de evidencias; 
+ Precisándole los compone ntes de los elementos del Estándar de Competencia en los que 
+presentó incumplimientos; 
+ Explicándole el motivo de cada incumplimiento registrado en el IEC; 
+ Proporcionándole sugerencias para que continúe con la evaluación y certificación de sus 
+competencias en otros Estándares de Competencia afines a su perfil/interés, y; 
+ Mencionándole que la entrega del Certificado de  Competencia la realiza el ECE/  CE, con el 
+que deberá ponerse en contacto. 
+ 
+2.  Comunica al candidato el juicio de competencia Todavía no competente: 
+ En el día y hora registrados en el Plan de Evaluación acordado; 
+ Con base en el resultado de  la suficiencia de la competencia, de la suficiencia de la evidencia 
+recopilada, de la suficiencia de los IEC y de la suficiencia del portafolio de evidencias;  
+ Precisándole los componentes de los elementos del Estándar de Competencia en los que 
+presentó incumplimientos; 
+ Explicándole el motivo de cada incumplimiento registrado en el IEC;  
+ Indicándole alternativas para alcanzar la competencia en los aspectos en que  se detectaron 
+incumplimientos durante su evaluación; 
+ Proporcionándole sugerencias para que continúe con la evaluación y certificación de sus 
+competencias con base en el Estándar de Competencia en la cual se evaluó, y;  
+ Mencionándole que puede solicitar al  ECE/ OC la revisión de su evaluación y que puede 
+agregar una nota de no conformidad en su Cédula de Evaluación antes de la firma.  
+ 
+ 
+3. Concluye el proceso de evaluación de competencia: 
+ Solicitando al candidato firme de enterado el juicio de competencia en l a Cédula de 
+Evaluación, y; 
+ Otorgando una copia de la Cédula de Evaluación al Candidato. 
+ 
+ 
+ 
+ 
+=== Página 11 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+11 de 12 
+ 
+ 
+ 
+La persona es competente cuando posee los siguientes: 
+ 
+CONOCIMIENTOS NIVEL 
+1. Procedimiento a realizar cuando el dictamen de la evaluación sea no 
+procedente. Comprensión 
+ 
+ 
+ 
+GLOSARIO 
+ 
+1. Dictamen de evaluación: Refiere a la determinación de la procedencia o no procedencia de 
+la certificación con base en el portafolio de evidencias recopilado 
+durante el proceso de evaluación de competencia, el juicio emitido 
+por el eval uador, en su caso el informe de verificación y la 
+documentación que se ponga a consideración durante la sesión de 
+dictamen correspondiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== Página 12 ===
+ 
+ 
+ 
+ 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+1.0 
+Página: 
+12 de 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

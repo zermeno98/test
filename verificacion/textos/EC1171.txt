@@ -1,0 +1,383 @@
+Fuente: https://www.infoem.org.mx/doc/publicaciones/EstandardeCompetencia_1171.pdf
+
+=== Página 1 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+1 de 10
+I.- Datos generales
+Código Titulo
+EC1171 Garantizar el derecho a la protección de datos personales
+Propósito del Estándar de Competencia
+Servir como referente para la evaluación ycertificación de las personas que se desempeñan como
+titulares de las Unidades de Transparencia de los sujetos obligados del Estado de México y sus
+municipios, quienes cumplen la función de enlace entre titular de los datos personales y sujeto
+obligado, promoviendo las medidas y condiciones de accesibilidad que permitanejercer el derecho
+a la protección de datos personales . Asimismo, puede ser referente para el desarrollo de
+programas de capacitación y de formación basados en Estándares de Competencia (EC).
+El presente EC se refiere únicamente a funciones para cuya realización no se requiere , por
+disposición legal, la posesión de un título profesional. Por lotanto, para certificarse en este EC, no
+deberá ser requisito poseer dicho documento académico.
+Descripción general del Estándar de Competencia
+El presente EC contempla las funciones sustantivas que deben realizar los titulares de las
+Unidades de Transparencia para garantizar el derecho a la protección de los datos personalesen
+posesión de los sujetos obligados, las cuales, de conformidad con el artículo 90 de la Ley de
+Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y
+Municipios, son las siguientes: auxiliar y orientar al titular de los da tos personales con relación al
+ejercicio del derecho a la pro tección de los datos personales y gestionar las acciones y
+mecanismos que aseguren queéstos se traten de forma adecuada y en cumplimiento con el citado
+ordenamiento legal.
+El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso,
+respeto, trabajo digno y responsabilidad social.
+Nivel en el Sistema Nacional de Competencias: Dos
+ Desempeña actividades programadas que, en su mayoría, son rutinarias y predecibles.
+ Depende de las instrucciones de un superior.
+ Se coordina con compañeros de trabajo del mismo nivel jerárquico.
+Comité de Gestión por Competencias que lo desarrolló
+Para la Tutela de los Derechos de Acceso a la Información Pública y Protección de Datos
+Personales del Estado de México
+Fecha de aprobación por el Comité
+Técnico del CONOCER:
+Fecha de publicación en el Diario Oficial
+de la Federación:
+10 de junio de 2019 25 de julio de 2019
+Periodo sugerido de revisión
+/actualización del EC:
+3 años
+Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación
+de Ocupaciones (SINCO)
+=== Página 2 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+2 de 10
+Grupo unitario
+9999 Ocupaciones no especificadas
+Ocupaciones asociadas
+Otros.
+Ocupaciones no contenidas en el Sistema Nacional de Clasificación de Ocupaciones y
+reconocidas en el Sector para este EC
+Titular de la Unidad de Transparencia
+Clasificación según el sistema de Clasificación Industrial de América del Norte (SCIAN)
+Sector:
+93 Actividades legislativas, gubernamentales, de impartición de justicia y de organismos
+internacionales y extraterritoriales.
+Subsector:
+931 Actividades legislativas, gubernamentales, de impartición de justicia.
+Rama:
+9312 Administración Pública en General.
+Subrama:
+93121 Administración Pública en General.
+Clase:
+931210 Administración pública en General.
+El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro
+Nacional de Estándares de Competencia que opera elConocer, a fin de facilitar su uso y consulta
+gratuita.
+Organizaciones participantes en el desarrollo del Estándar de Competencia
+● Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+del Estado de México y Municipios.
+Relación con otros estándares de competencia
+Estándares relacionados
+● EC0909 Facilitación de la información en poder del sujeto obligado.
+● EC1057 Garantizar el derecho de acceso a la información pública.
+Aspectos relevantes de la evaluación
+Detalles de la práctica: ● Para demostrar la competencia en este EC, se
+recomienda que se lleve a cabo en el lugar de trabajo y
+durante su jornada laboral; sin embargo, pudiera
+realizarse de forma simulada si el área de evaluación
+=== Página 3 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+3 de 10
+cuenta con los materiales, insumos, infraestructura, para
+llevar a cabo el desarrollo de todos los criterios de
+evaluación referidos en el EC.
+Apoyos/Requerimientos: ● Para el desarrollo de la evidencia es necesario que el
+candidato a certificación, cuente con un equipo de
+cómputo, internet y electricidad; así como con el dominio
+básico de los programas Word, Excel y Power Point.
+Duración estimada de la evaluación
+● 2 horas en gabinete y 5 horas en campo, totalizando 7 horas.
+Referencias de Información
+● Constitución Política de los Estados Unidos Mexicanos.
+● Constitución Política del Estado Libre y Soberano de México.
+● Ley General de Transparencia y Acceso a la Información Pública.
+● Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+Artículo 36, fracción XI; artículo 57 y 67, fracción III, inciso b).
+● Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+● Ley de Protección de Datos Personales e n Posesión de Sujetos Obligados del Estado de
+México y Municipios
+● Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública y
+Protección de Datos Personales del Estado de México y Municipios.
+● Programa de Cultura de Transparencia y Protección de Datos Personales del Estado de
+México.
+● Reglamento interno y/o manuales de organización de los sujetos obligados.
+=== Página 4 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+4 de 10
+II.- Perfil del Estándar de Competencia
+Estándar de Competencia
+Garantizar el derecho a la
+protección de datos
+personales
+Elemento 1 de 3
+Recibe las solicitudes de derechos ARCO de los
+particulares
+Elemento 2 de 3
+Realizar el procedimiento in terno que asegure y
+fortalezca la protección de datos personales
+Elemento 3 de 3
+Ejecutar las resoluciones emitidas por el P leno del
+Infoem sobre los recursos de revisión en materia de
+protección de datos personales
+=== Página 5 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+5 de 10
+II.- Elementos que conforman el Estándar de Competencia
+Referencia Código Título
+1 de 3 E3692 Recibe las solicitudes de derechos ARCO de los particulares
+CRITERIOS DE EVALUACIÓN
+La persona es competente cuando demuestra los siguientes:
+DESEMPEÑOS
+1. Atiende las solicitudes de derechos ARCO de los particulares:
+ Recibiendo la solicitud de forma escrita/electrónica,
+ Identificando las características/requisitos de la solicitud,
+ Mencionando a los particulares los requisitos, modalidades y plazos para atender el
+requerimiento, y
+ Turnando la solicitud al responsable de las áreas adscritas.
+2. Notificando la procedencia/No procedencia de los derechos ARCO al particular:
+ Verificando la procedencia/No procedencia de los derechos ARCO y,
+ Dando respuesta a la solicitud del particular.
+La persona es competente cuando obtiene los siguientes:
+PRODUCTOS
+1. El expediente de la solicitud de derechos ARCO integrado:
+ Contiene el original de la solicitud,
+ Contiene el acuse de la solicitud,
+ Contiene el oficio enviado al área administrativa que resguarda los datos personales objeto
+de derechos ARCO, e
+ Incluye la notificación al ciudadano de la procedencia /No procedencia d e la solicitud de
+derechos ARCO.
+La persona es competente cuando demuestra los siguientes:
+CONOCIMIENTOS NIVEL
+1. Principios en materia de Protección de datos personales.
+(Calidad, consentimiento, finalidad, información, lealtad,
+licitud, proporcionalidad y responsabilidad).
+Conocimiento
+2. Derechos ARCO (Acceso, Rectificación, Cancelación y
+Oposición).
+Conocimiento
+La persona es competente cuando demuestra las siguientes:
+=== Página 6 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+6 de 10
+RESPUESTAS ANTE SITUACIONES EMERGENTES
+Situación emergente:
+● El solicitante muestra agresividad cuando pide asesoría para realizar una solicitud de
+derechos ARCO.
+Respuesta esperada:
+● El servidor público responde con una actitud amable y tolerante; escucha al particular, lo
+invita al diálogo y le asesora.
+La persona es competente cuando demuestra las siguientes:
+ACTITUDES/HÁBITOS/VALORES
+1. Orden: La manera en que realiza el proceso para la atención a la solicitud
+con base en la modalidad del requerimiento.
+2. Amabilidad: La manera en que se dirige a los particulares, de forma amable y
+respetuosa para atender solicitudes de derechos ARCO.
+3. Responsabilidad: La manera en que realiza cada una de sus obligaciones en
+cumplimiento a la obligatoriedad que establece la
+LPDPPSOEMYM.
+GLOSARIO
+1. Administrador: Con base en la LPDPPSOEMYM es la servidora o el servidor público o
+persona física facultada y nombrada por el r esponsable para llevar a cabo
+tratamiento de datos personales y que tiene bajo su responsabilidad los
+sistemas y bases de datos personales.
+2. Derechos ARCO: Con base en la LPDPPSOEMYM son los derechos de acceso, rectificación,
+cancelación y oposición de datos personales.
+3. LPDPPSOEMYM: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados
+del Estado de México y Municipios.
+4. Responsable: De conformidad con la LPDPPSOEMYM son aquellos sujetos obligados a
+que se refiere la presente Ley que deciden sobre el tratamiento de los datos
+personales.
+5. Sujeto obligado: De conformidad con la LPDPPSOEMYM, son sujetos obligados, el Poder
+Ejecutivo, el Poder Legislativo, el Poder Judicial , los ayuntamientos, los
+=== Página 7 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+7 de 10
+órganos y organismos constitucionales autónomos, los tribunales
+administrativos, los partidos políticos, los fideicomisos y fondos públicos.
+6. Titular: Persona física o jurídica colectiva que corresponde los datos personales
+que sean objeto de tratamiento.
+Referencia Código Título
+2 de 3 E3693 Realizar el procedimiento interno que asegure y fortalezca la
+protección de datos personales
+CRITERIOS DE EVALUACIÓN
+La persona es competente cuando demuestra los siguientes:
+DESEMPEÑOS
+1. Orienta a las áreas administrativas en el cumplimiento y tratamiento de los datos personales.
+ Gestionando con los responsables el tratamiento de los datos personales.
+ Asesorando a los responsables en materia de protección de datos personales.
+La persona es competente cuando obtiene los siguientes:
+PRODUCTOS
+1. El Oficio de turno /Requerimiento al área administrativa responsable del tratamiento y
+resguardo de los datos personales elaborado:
+ Contiene el nombre del área administrativa competente,
+ Contiene la fundamentación y motivación del turno, y
+ Contiene el s eñalamiento del plazo /plazos internos para que el área administrativa
+correspondiente envíe la información a la Unidad de Transparencia.
+2. El Manual de procedimientos interno para la protección de datos personales:
+ Contiene una exposición de motivos,
+ Contiene una fundamentación legal,
+ Incluye un diagrama de flujo del proceso interno para la atención a l as solicitudes de
+derechos ARCO,
+ Contiene los cargos de los responsables del procedimiento interno,
+ Contiene los mecanismos de identificación par a que las y los titulares de los datos
+personales puedan ejercer sus derechos ARCO,
+ Incluye el proceso interno a través del cual se verifica que la documentación solicitada en
+el ejercicio de los derechos ARCO corresponda al titular de los datos personales,
+ Incluye los plazos de atención para las solicitudes de derechos ARCO,
+=== Página 8 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+8 de 10
+ Incluye el procedimiento para realizar un aviso de privacidad.
+ Incluye el procedimiento para realizar la creación de un sistema de datos personales.
+ Incluye el procedimiento para crear un documento de seguridad.
+ Contiene el acuerdo por el que el Comité de Transparencia delsujeto obligado apruebalos
+procedimientos internos para asegurar la mayor eficiencia en el ejercicio de los derechos
+ARCO.
+3. El Sistema de Datos Personales y Aviso de Privacidad integrados:
+ Contiene el oficio de creación/modificación del sistema de datos personales, y
+ Contiene el Aviso de Privacidad en sus versiones integral y simpli ficado completamente
+requisitados de conformidad con las disposiciones establecidas en la LPDPPSOEMYM.
+La persona es competente cuando demuestra los siguientes:
+CONOCIMIENTOS NIVEL
+1. Aviso de privacidad. Conocimiento
+2. Conceptos y generalidades del sistema de datos
+personales.
+Conocimiento
+3. Mecanismo con el que se hace el registro de bases de datos
+personales.
+Conocimiento
+4. Medidas y niveles de seguridad. Conocimiento
+La persona es competente cuando demuestra las siguientes:
+ACTITUDES/HÁBITOS/VALORES
+1. Amabilidad: La manera en que trata de forma cordial y amable a las áreas
+administrativas.
+2. Orden: La manera en que integra la información contenida en los
+expedientes del registro de las solicitudes.
+3. Responsabilidad: La manera en que cumple con el procedimiento interno para
+garantizar la protección de datos personales de conformidad con la
+LPDPPSOEMYM.
+GLOSARIO
+1. Aviso de privacidad: De conformidad con la LPDPPSOEMYM es el documento físico,
+electrónico o en cualquier formato generado por el responsable
+que es puesto a disposición del Titular con el objeto de informarle
+los propósitos del tratamiento al que serán sometidos sus datos
+personales.
+=== Página 9 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+9 de 10
+2.Base de datos
+personales:
+De conformidad con la LPDPPSOEMYM al conjunto de archivos,
+registros, ficheros, condicionados a criterios determinados con
+independencia de la forma o modalidad de su creación, tipo de
+soporte, procesamiento, almacenamiento, organización y acceso.
+3.Comité de
+Transparencia:
+Con base en lo establecido en la LPDPPSOEMYM se entiende
+como la máxima autoridad en materia de protección de datos
+personales.
+4. Medidas de seguridad: De acuerdo a la LPDPPSOEMYM son las acciones, actividades,
+controles o me canismos administrativos, técnicos y físicos que
+permitan proteger los datos personales.
+5.Sistema de datos
+personales:
+Se le llamará así a los datos personales contenidos en los archivos
+de un sujeto obligado que puede comprender el tratamiento de una
+o diversas bases de datos para el cumplimiento de una o diversas
+finalidades.
+Referencia Código Título
+3 de 3 E3694 Ejecutar las resoluciones emitidas por el Pleno del Infoem sobrelos recursos de revisión en materia de protección de datos
+personales
+CRITERIOS DE EVALUACIÓN
+La persona es competente cuando demuestra los siguientes:
+DESEMPEÑOS
+1. Gestiona las acciones requeridas para dar trámite a los recursos de revisión:
+ Identificando los plazos de interposición y respuesta al recurso de revisión,
+ Ejecutando las resoluciones que emita el Pleno del Infoem en materia de protección de
+datos personales.
+ Corroborando el acuerdo entre las partes para dar cumplimiento con la gestión sobre la
+garantía del derecho a la protección de datos personales.
+ Notificando al área administrativa correspondiente las resoluciones emitidas por el Pleno
+del Infoem, y
+ Dando seguimiento a los recursos de revisión en materia de datos personales.
+La persona es competente cuando demuestra los siguientes:
+PRODUCTOS
+1. El Expediente sobre la resolución del recurso de revisión integrado:
+ Contiene la notificación del sentido de la resolución al titular de los datos por parte del
+sujeto obligado
+=== Página 10 ===
+ESTÁNDAR DE COMPETENCIA
+Formato de Estándar de Competencia
+N-FO-02
+Versión:
+7.0
+Página:
+10 de 10
+ Contiene el acta administrativa de conciliación.
+La persona es competente cuando demuestra las siguientes:
+ACTITUDES/HÁBITOS/VALORES
+1. Responsabilidad: La manera en que el Titular de la Unidad de Transparencia da
+cumplimiento en tiempo y forma, a la s resoluciones del Pleno del
+Infoem con base en la LPDPPSOEMYM.
+GLOSARIO
+1. Infoem: Se refiere al Instituto de Transparencia, Acceso a la información
+Pública y Protección de Datos Personales del Estado de México
+y Municipios.
+2. Recurso de revisión: Con base en laLPDPPSOEMYM se establece como el medio de
+defensa que los particulares tienen frente a un presunto actuar
+indebido por parte de los sujetos obligados.
+3. Sentido de las
+resoluciones:
+Se refiere a aquellas determinaciones realizadas por el pleno
+del Infoem con base en el análisis de un recurso de revisión.

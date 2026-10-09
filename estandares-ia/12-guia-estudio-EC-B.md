@@ -209,7 +209,9 @@ La Ley Federal de Protección de Datos Personales en Posesión de los Particular
 
 **Transferencias y remisiones.**
 
-- **Remisión:** la organización comunica datos a un **encargado**, que los trata por cuenta de ella. Por ejemplo, un proveedor de IA que procesa las conversaciones de los clientes. Se formaliza en un contrato.
+*Nota: la ley de 2025 habla de transferencias y de la persona encargada; no define "remisión". Ese término viene de la Ley General para instituciones públicas y de la reglamentación anterior; si el reglamento anterior sigue aplicándose a los particulares está por confirmar con un especialista.*
+
+- **Remisión:** la organización comunica datos a una **persona encargada**, que los trata por cuenta de ella. Por ejemplo, un proveedor de IA que procesa las conversaciones de los clientes. Se formaliza en un contrato.
 - **Transferencia:** la organización comunica datos a un **tercero** que los usará para sus propios fines. Por ejemplo, un proveedor que usa los datos para entrenar sus modelos o los comparte con otras empresas. Requiere cumplir las condiciones que fija la ley, entre ellas informarlo en el aviso de privacidad.
 
 Una organización también puede ser **encargada** de otra: si trata datos por cuenta de un cliente, debe seguir sus instrucciones y avisarle de los incidentes conforme al contrato.
@@ -368,7 +370,7 @@ La **evidencia** debe poder revisarse: una bitácora, un registro técnico, un c
 
 ### 3.5 Obligaciones de capacitación y programa de capacitación
 
-La Ley Federal del Trabajo obliga a los patrones a proporcionar capacitación y adiestramiento a sus trabajadores (artículo 153-A). La capacitación se acredita con la constancia de competencias o de habilidades laborales (formato DC-3) y se conserva el registro correspondiente. En las empresas con más de 50 trabajadores interviene la comisión mixta de capacitación, adiestramiento y productividad. *Verifica los detalles vigentes con la normatividad de la Secretaría del Trabajo y Previsión Social.*
+La Ley Federal del Trabajo (última reforma DOF del 14 de mayo de 2026) obliga a los patrones a proporcionar capacitación y adiestramiento a sus trabajadores (artículo 153-A). Las instituciones, escuelas, organismos especializados e instructores independientes que impartan capacitación deben estar autorizados y registrados por la Secretaría del Trabajo y Previsión Social (mismo artículo). Quien aprueba el curso tiene derecho a que la entidad instructora le expida la constancia de competencias o de habilidades laborales (formato DC-3; artículos 153-T y 153-V), autentificada por la Comisión Mixta, y la empresa presenta a la Secretaría las listas de constancias. En las empresas con más de 50 trabajadores se constituyen Comisiones Mixtas de Capacitación, Adiestramiento y Productividad (artículo 153-E). Una persona que considere que ya tiene los conocimientos puede acreditarlos con un certificado de competencia laboral o con un examen de suficiencia (artículo 153-U). *Verifica los detalles vigentes con la normatividad de la Secretaría del Trabajo y Previsión Social.*
 
 El **programa de capacitación en el uso de IA**:
 
@@ -417,7 +419,7 @@ Métodos frecuentes: revisión documental, revisión de registros técnicos, mue
 
 ### 4.3 Vulneraciones de seguridad y deber de informar
 
-Una **vulneración de seguridad** es la pérdida, robo, extravío, copia, uso, acceso, tratamiento, daño, alteración o modificación no autorizados de datos personales.
+Una **vulneración de seguridad** es la pérdida, robo, extravío, copia, uso, acceso, tratamiento, daño, alteración o modificación no autorizados de datos personales. La ley de 2025 para particulares no la define; esta descripción sigue la lista del artículo 32 de la Ley General para instituciones públicas.
 
 Conforme a la ley de 2025 (artículo 19), las vulneraciones que afecten de forma significativa los derechos patrimoniales o morales de las personas titulares deben informárseles de inmediato, para que puedan tomar medidas. La determinación se hace con el área jurídica y considera, entre otros factores, el tipo de datos (los sensibles pesan más), el número de personas, si los datos ya se difundieron y el daño posible.
 

@@ -16,7 +16,7 @@ Un Estándar de Competencia lo desarrolla un **Comité de Gestión por Competenc
 |---|---|---|
 | Comité de Gestión por Competencias | Grupo de personas, empresas u organizaciones representativas de un sector que, por su número de trabajadores, su participación en el mercado laboral y su reconocimiento nacional, validado por el CONOCER, promueve el modelo de gestión por competencias | Presenta los estándares al CONOCER, los respalda y promueve su uso |
 | Grupo técnico de expertos | Especialistas convocados por el CGC | Valida el mapa funcional, los estándares, los instrumentos de evaluación y los resultados de la prueba piloto |
-| Comité de Validación del CONOCER | Instancia del CONOCER que valida la integración de los CGC y los estándares (en documentos de 2015 se denomina COVACEC; vigencia por confirmar) | Valida el CGC y los estándares antes de su aprobación |
+| Comité de Validación de los Comités de Gestión por Competencias y de los Estándares de Competencia (COVACEC) | Instancia del CONOCER que valida la integración de los CGC y los estándares (nombre según el manual N-OPCV-MT-01, versión 6.0, de 2015, verificado el 9 de octubre de 2026; si sigue vigente con ese nombre, por confirmar) | Valida el CGC y los estándares antes de su aprobación |
 
 ## 2. Ruta para el Comité de Gestión por Competencias
 
@@ -147,5 +147,5 @@ Los plazos de aprobación y de publicación en el Diario Oficial de la Federaci�
 ## Fuentes consultadas
 
 - CONOCER. *ABC de los Comités de Gestión por Competencias.* https://www.conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf
-- CONOCER. Manuales publicados en la sección de transparencia (incluido el manual de integración y operación del comité de validación, versión de 2015). https://conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf
+- CONOCER. Manuales publicados en la sección de transparencia (incluido el manual de integración y operación del comité de validación, versión de 2015). https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf
 - IMSS. Boletín sobre la instalación de su Comité de Gestión por Competencias. https://www.imss.gob.mx/sites/all/statics/i2f_news/IMSS.%20Bolet%C3%ADn.%20Instala%20IMSS%20nuevo%20Comit%C3%A9%20de%20Gesti%C3%B3n%20por%20Competencias%20para%20fortalecer%20profesionalizaci%C3%B3n%20del%20personal%5B1%5D.pdf

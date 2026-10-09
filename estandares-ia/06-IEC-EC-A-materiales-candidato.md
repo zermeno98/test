@@ -65,7 +65,7 @@ Es martes 13 de octubre de 2026, 9:00 horas. La Gerente de Atención a Clientes,
 | Interna | Información de operación sin datos personales ni confidenciales, por ejemplo conteos y motivos de quejas | Solo en la Herramienta A, cuenta institucional |
 | Confidencial | Costos, márgenes, contratos, negociaciones e información de terceros bajo confidencialidad | No se ingresa sin autorización escrita del área propietaria |
 | Dato personal | Nombre, teléfono, correo, domicilio o RFC de personas físicas | Se sustituye por identificadores genéricos; solo si es indispensable, en la Herramienta A, cuenta institucional |
-| Dato personal sensible | Salud, origen étnico, creencias, opiniones políticas, preferencia sexual, afiliación sindical, entre otros | Prohibido sin autorización escrita del Responsable de Protección de Datos Personales |
+| Dato personal sensible | Salud, origen étnico, creencias, opiniones políticas, preferencia sexual, información genética, entre otros | Prohibido sin autorización escrita del Responsable de Protección de Datos Personales |
 
 ## Anexo A4. Documentos de trabajo
 

@@ -48,7 +48,7 @@ I.4 Su Registro Federal de Contribuyentes es [ ] y su domicilio para efectos de 
 
 II.1 Es una sociedad constituida conforme a las leyes mexicanas, según [escritura pública, notario, fecha, registro].
 
-II.2 Está acreditada [por el CONOCER como Entidad de Certificación y Evaluación / por la Entidad de Certificación y Evaluación [nombre] como Centro de Evaluación], con número [ ], y cuenta con la acreditación para evaluar en el Estándar de Competencia [código] [y en el [código]].
+II.2 Está acreditada [por el CONOCER como Entidad de Certificación y Evaluación / por el CONOCER, a solicitud de la Entidad de Certificación y Evaluación [nombre], como Centro de Evaluación], con número [ ], y cuenta con la acreditación para evaluar en el Estándar de Competencia [código] [y en el [código]].
 
 II.3 Sus evaluadores están certificados en el EC0076 "Evaluación de la competencia de candidatos con base en Estándares de Competencia" y autorizados conforme a las reglas del CONOCER.
 

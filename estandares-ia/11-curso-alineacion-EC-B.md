@@ -203,7 +203,7 @@ Usa las respuestas de la guía (sección 13). Muchos productos admiten respuesta
 | Área temática del curso | 8000 Uso de tecnologías de la información y comunicación (clave por confirmar en el catálogo vigente de la STPS) |
 | Agente capacitador | Nombre de la empresa y su número de registro como agente capacitador externo ante la STPS (por tramitar o confirmar) |
 
-El formato, su llenado y quién lo firma se confirman con la guía vigente de la STPS. **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
+El formato, su llenado y quién lo firma se confirman con la guía vigente de la STPS. Verificado el 9 de octubre de 2026 en el Acuerdo de la STPS publicado en el DOF del 14 de junio de 2013: la constancia se expide en el formato DC-3 y debe incluir nombre del curso, duración en horas, periodo de ejecución, área temática (según catálogo), nombre del agente capacitador externo o de la empresa, nombre y firma del instructor y firma de los representantes de la Comisión Mixta de Capacitación, Adiestramiento y Productividad o, en su caso, del patrón; el acuerdo remite el catálogo de áreas temáticas al sistema de la STPS y al reverso del formato, que no pudo consultarse en fuente oficial (la clave 8000 coincide con copias del formato de terceros, por confirmar). **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
 
 ## 9. Correspondencia con el Estándar de Competencia
 

@@ -32,7 +32,7 @@ from pypdf import PdfReader
 BASE = Path(__file__).resolve().parent
 DESCARGAS = BASE / "descargas"
 TEXTOS = BASE / "textos"
-TIEMPO = 90_000  # milisegundos por intento
+TIEMPO = 40_000  # milisegundos por intento
 
 
 def es_pdf(datos: bytes) -> bool:

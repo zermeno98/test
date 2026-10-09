@@ -14,7 +14,7 @@ Contexto para continuar el proyecto desde Claude Code local. Escrito al cierre d
 1. **No depender de reformas legales.** La obligación de certificarse viene de instrumentos que ya existen: NOM (Ley de Infraestructura de la Calidad), lineamientos de dependencias, requisitos en contratos, requisitos de egreso de universidades y obligaciones vigentes de las empresas.
 2. **Mercados:**
    - Universidades: requisito de egreso. Subsistemas que dependen de la SEP (TecNM, universidades tecnológicas y politécnicas, DGETI, CONALEP) y privadas con RVOE. El EGEL del CENEVAL **no** es obligatorio a nivel nacional.
-   - Empresas: la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF 20 de marzo de 2025) exige medidas de seguridad (art. 18) e informar vulneraciones (art. 19); la LFT obliga a capacitar (art. 153-A, constancias DC-3). Empleados que pegan datos en ChatGPT = riesgo legal actual.
+   - Empresas: la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF 20 de marzo de 2025; última reforma DOF 14 de noviembre de 2025) exige medidas de seguridad (art. 18) e informar de inmediato las vulneraciones que afecten de forma significativa los derechos patrimoniales o morales (art. 19). Verificado en el texto vigente el 9 de octubre de 2026; la LFT (última reforma DOF 14 de mayo de 2026) obliga a capacitar (art. 153-A; constancias, arts. 153-T y 153-V; comisiones mixtas en empresas de más de 50 trabajadores, art. 153-E). Empleados que pegan datos en ChatGPT = riesgo legal actual.
    - Gobierno y sus proveedores.
 3. **Familia de dos estándares:**
    - **EC-A (volumen):** *Protección de la información y verificación de resultados en el uso de herramientas de inteligencia artificial generativa.* Nivel Dos. 3 elementos: preparar la información, verificar los productos, atender incidentes (incluye deepfakes y suplantación). Evaluación: caso simulado de 2 h 30 min.
@@ -25,7 +25,7 @@ Contexto para continuar el proyecto desde Claude Code local. Escrito al cierre d
 
 ## 3. Estándares de IA que ya existen en el RENEC (sin traslape con la familia)
 
-EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos con IA), EC1705 (uso básico de IA generativa para crear contenido digital; el más cercano, complementario), ECM0358 (Fundamentos de IA generativa por Microsoft, estándar de marca), EC1827, EC1828 y EC1829 (Acuerdo SE/III-26/05,R: aprobado el 3 de julio de 2026, DOF del 7 de agosto de 2026). Pendiente: revisar el Elemento 3 del EC1705 y lo publicado después del 7 de agosto de 2026.
+EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos con IA), EC1705 (uso básico de IA generativa para crear contenido digital, nivel Tres; el más cercano, complementario), EC1771 (cultura de ciberseguridad en el entorno laboral) y EC1801 (calidad en servicios de TI y ciberseguridad), relacionados por tema, ECM0358 (Fundamentos de IA generativa por Microsoft, estándar de marca), EC1827, EC1828 y EC1829 (Acuerdo SE/III-26/05,R: aprobado el 3 de julio de 2026, DOF del 7 de agosto de 2026). Revisado el 9 de octubre de 2026: el Elemento 3 del EC1705 (traslape parcial, ver nota 1 del 02) y el DOF hasta esa fecha (sin nuevos acuerdos del CONOCER). Pendiente: el texto completo de EC1827 a EC1829, EC1771 y EC1801, cuyos PDF no están disponibles.
 
 ## 4. Archivos
 
@@ -51,8 +51,6 @@ EC1657 (IA generativa en cadena de suministro), EC1691 (materiales educativos co
 | `estandares-ia/17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias (nuevo o adhesión), composición propuesta, contenido de la propuesta de integración, términos de referencia y cuatro sesiones del grupo técnico, minuta de validación, carta de confidencialidad y preguntas para el CONOCER |
 | `estandares-ia/18-decision-EC-o-ECM.md` | Análisis EC frente a ECM (y EC de uso restringido, por confirmar), cómo capturar valor con un EC público, preguntas para el CONOCER y recomendación preliminar: EC público |
 
-| `verificacion/` | Kit para verificar contra fuentes oficiales desde una computadora local: script con Playwright (`descargar_fuentes.py`), lista de fuentes (`fuentes.json`) e instrucciones con las verificaciones V1 a V12 (`INSTRUCCIONES.md`) |
-
 Copias en Google Drive (carpeta "Estándares de Competencia en IA - CONOCER"): https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP
 
 Exposición de motivos con diagramas (documento de Claude): https://claude.ai/code/artifact/71df6896-f000-44f3-bf53-ef54f1417a0c
@@ -69,11 +67,7 @@ Rama de trabajo en GitHub: `claude/ai-standards-mexico-monetize-8v1qbe` del repo
    - ~~Convenio tipo con universidades~~ **Hecho como borrador 1.0** (archivo 15), para revisión jurídica.
    - Revisión general del 9 de octubre de 2026 aplicada a los documentos 00 a 18. En el EC-A el cuestionario se aplica al final de la situación simulada, para que no adelante los errores sembrados.
    - **Siguiente:** segunda versión paralela de los casos de evaluación del EC-A y del EC-B (necesaria para la piloto y la operación), y después los demás documentos de la sección "Documentos por elaborar" del índice (00). El usuario pidió terminar los documentos, en especial los estándares; no hace falta preparar la reunión con el CONOCER.
-3. Verificar en las fuentes oficiales (la sesión en la nube **no pudo** abrir conocer.gob.mx ni dof.gob.mx; tu máquina local sí puede). **Procedimiento completo en `verificacion/INSTRUCCIONES.md`.** Ya verificado con fragmentos de estándares publicados (EC0076, EC0301, EC0554.01, EC1061, EC1410, EC1440, EC1171): frases de desempeños, productos y conocimientos; redacción de actitudes; textos de los niveles Dos y Cuatro; SINCO 9999. Falta:
-   - Las frases "demuestra la siguiente" (situaciones emergentes) y "demuestra las siguientes" (actitudes).
-   - La escala completa de niveles de conocimiento y el catálogo de actitudes (si incluye Perseverancia y Tolerancia).
-   - Los códigos y nombres del SCIAN propuestos (561110 para el EC-A y 541610 para el EC-B).
-   - El texto completo del Elemento 3 del EC1705 ("Aplicar principios de uso responsable y seguro de la inteligencia artificial generativa"), para compararlo criterio por criterio con el EC-A.
+3. ~~Verificar en las fuentes oficiales~~ **Hecho el 9 de octubre de 2026** (informe en `verificacion/INFORME-VERIFICACION.md`; textos extraídos en `verificacion/textos/`). Corregido: frases y encabezado de las situaciones emergentes ("demuestra las siguientes", "RESPUESTAS ANTE SITUACIONES EMERGENTES"), nombre del campo de organizaciones participantes, apartado "Relación con otros estándares" (no existe en el formato versión 08), definiciones de dato personal y dato sensible (sin afiliación sindical), enlaces y citas de la LFT, la DC-3, el CONOCER y la UE. Verificado sin cambios: niveles Dos y Cuatro, escala de conocimientos, catálogo de actitudes (incluye Perseverancia, Iniciativa y Tolerancia), SINCO 9999, SCIAN 561110 y 541610 (SCIAN México 2023), Acuerdo SE/III-26/05,R y Reglamento (UE) 2026/1744. Por confirmar: texto completo de EC1827 a EC1829, EC1657, EC1440 y EC1410 (PDF no disponibles); clave de área temática de la DC-3 en la fuente oficial; vigencia de los manuales del CONOCER de 2015 y 2016; existencia y condiciones de los EC restringidos; evaluación a distancia.
 4. Revisión jurídica de las definiciones de la LFPDPPP 2025 (dato personal, dato sensible, vulneración) y de los artículos citados.
 5. Gobernanza: Comité de Gestión por Competencias, grupo técnico y prueba piloto con universidades y empresas. Documentos listos: plan de la piloto (16) y ruta del comité y términos de referencia del grupo técnico (17). Falta ejecutarlos.
 6. Decidir el registro como EC o como ECM (Estándar de Competencia de Marca) y qué control da cada opción sobre quién evalúa. Análisis en el archivo 18: recomendación preliminar EC público; confirmar con el CONOCER si existe el EC de uso restringido y quién puede acreditarse.
@@ -103,4 +97,4 @@ git checkout claude/ai-standards-mexico-monetize-8v1qbe
 claude
 ```
 
-Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y verificacion/INSTRUCCIONES.md (Parte 2). Ejecuta el script de descarga, haz todas las verificaciones V1 a V12, corrige los documentos, escribe el informe y sube los cambios a la rama."
+Primer mensaje sugerido para Claude local: "Lee CLAUDE.md y los archivos de estandares-ia/. Verifica en conocer.gob.mx la plantilla F21-COOPYD-01 y el EC1705, ajusta los borradores y después elabora la segunda versión paralela de los casos de evaluación del EC-A y del EC-B."

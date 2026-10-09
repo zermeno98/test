@@ -1,0 +1,490 @@
+{
+ "EC1705": {
+  "id": "EC1705",
+  "tipo": "pdf",
+  "para": "V6: Elemento 3 de 3 completo; V1 a V3: formato reciente",
+  "estado": "ok",
+  "paginas": 8,
+  "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf",
+  "bytes": 153012,
+  "sha256": "0bfbda0aa01926c760611ad7fbd5a3a676d84019034486f71234973f86c1bb48",
+  "caracteres_de_texto": 15450,
+  "fecha": "2026-10-09T15:38:34+00:00"
+ },
+ "EC1804": {
+  "id": "EC1804",
+  "tipo": "pdf",
+  "para": "V1 a V4: formato F21-COOPYD-01 de 2026 y texto del nivel Dos",
+  "estado": "ok",
+  "paginas": 11,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/segunda_so/EC1804.pdf",
+  "bytes": 194607,
+  "sha256": "74658ab40000c6be6ed0ef262a3af55da7b4f71703cf635265d9846f07f19536",
+  "caracteres_de_texto": 19534,
+  "fecha": "2026-10-09T15:39:19+00:00"
+ },
+ "EC1780": {
+  "id": "EC1780",
+  "tipo": "pdf",
+  "para": "V1 a V4: formato de 2026 y nivel Dos",
+  "estado": "ok",
+  "paginas": 12,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1780.pdf",
+  "bytes": 126154,
+  "sha256": "b38327b4c1591bb0bd97c066f90bc8ccfc8bb65c3287716a1719b1a99e39334e",
+  "caracteres_de_texto": 21685,
+  "fecha": "2026-10-09T15:40:02+00:00"
+ },
+ "EC1781": {
+  "id": "EC1781",
+  "tipo": "pdf",
+  "para": "V1 y V5: formato de 2026, SINCO y SCIAN",
+  "estado": "ok",
+  "paginas": 14,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/primera/EC1781.pdf",
+  "bytes": 72408,
+  "sha256": "9690989e6ffe3f2a0aa7dcc7d37cedfff1103d17331b52c5a9ad7d7052ace62d",
+  "caracteres_de_texto": 33111,
+  "fecha": "2026-10-09T15:40:47+00:00"
+ },
+ "EC1827": {
+  "id": "EC1827",
+  "tipo": "pdf",
+  "para": "V1, V5 y V7: estándar de IA de agosto de 2026",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:42:50+00:00"
+ },
+ "EC1828": {
+  "id": "EC1828",
+  "tipo": "pdf",
+  "para": "V7: estándar de IA de agosto de 2026",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:44:53+00:00"
+ },
+ "EC1829": {
+  "id": "EC1829",
+  "tipo": "pdf",
+  "para": "V7: estándar de IA de agosto de 2026",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:46:55+00:00"
+ },
+ "EC1657": {
+  "id": "EC1657",
+  "tipo": "pdf",
+  "para": "V5 y V7: estándar de IA; SCIAN 54",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:48:58+00:00"
+ },
+ "EC1691": {
+  "id": "EC1691",
+  "tipo": "pdf",
+  "para": "V7: estándar de IA en educación",
+  "estado": "ok",
+  "paginas": 11,
+  "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf",
+  "bytes": 194198,
+  "sha256": "f2ef89641650c9cb7d53347376c52f6c40e2781c31cf8a5e4c18517810f3fd31",
+  "caracteres_de_texto": 18273,
+  "fecha": "2026-10-09T15:49:00+00:00"
+ },
+ "ECM0358": {
+  "id": "ECM0358",
+  "tipo": "pdf",
+  "para": "V7 y V11: estándar de marca de IA",
+  "estado": "ok",
+  "paginas": 1,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf",
+  "bytes": 406156,
+  "sha256": "404694df342e9ad3346f68bfe0594d0f31e12eac9ba0af6e027a2a46340fba1b",
+  "caracteres_de_texto": 1268,
+  "fecha": "2026-10-09T15:49:43+00:00"
+ },
+ "EC0554_01": {
+  "id": "EC0554_01",
+  "tipo": "pdf",
+  "para": "V1 a V4: estándar transversal, nivel Dos",
+  "estado": "ok",
+  "paginas": 9,
+  "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0554_01.pdf",
+  "bytes": 215564,
+  "sha256": "064446b71378ed4699b37c1d421bd4f6130773ee59660573986d84057192ff8a",
+  "caracteres_de_texto": 16147,
+  "fecha": "2026-10-09T15:49:45+00:00"
+ },
+ "EC0553_01": {
+  "id": "EC0553_01",
+  "tipo": "pdf",
+  "para": "V1 a V4: estándar transversal",
+  "estado": "ok",
+  "paginas": 8,
+  "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC0553_01.pdf",
+  "bytes": 215555,
+  "sha256": "3cc1dbf3720251d238f4ca942a7acda29311567391defebd77794b30ada86509",
+  "caracteres_de_texto": 15355,
+  "fecha": "2026-10-09T15:49:46+00:00"
+ },
+ "EC1440": {
+  "id": "EC1440",
+  "tipo": "pdf",
+  "para": "V4: texto del nivel Cuatro",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2021/cuarta/EC1440.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:51:50+00:00"
+ },
+ "EC1730": {
+  "id": "EC1730",
+  "tipo": "pdf",
+  "para": "V1 a V3: formato de 2025",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/publicaciones_dof/2025/tercera/EC1730.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:53:53+00:00"
+ },
+ "EC1131_01": {
+  "id": "EC1131_01",
+  "tipo": "pdf",
+  "para": "V1: frase en singular 'demuestra el siguiente'",
+  "estado": "ok",
+  "paginas": 11,
+  "url": "https://conocer.gob.mx/wp-content/uploads/2025/11/EC1131.01.pdf",
+  "bytes": 198478,
+  "sha256": "c0971f688eaa4a485b0373a52db954f4299f2c618ad3ecea95fd72b50c9d683f",
+  "caracteres_de_texto": 26099,
+  "fecha": "2026-10-09T16:04:27+00:00"
+ },
+ "EC0076": {
+  "id": "EC0076",
+  "tipo": "pdf",
+  "para": "V4: nivel Cuatro; requisitos de los evaluadores",
+  "estado": "ok",
+  "paginas": 12,
+  "url": "https://www.uttt.edu.mx/ECEC/Estandares/EC0076.pdf",
+  "bytes": 224326,
+  "sha256": "d1411706c93b1d656a8c88a441d348f4faf56a62802b3acc6c45c96c639d016a",
+  "caracteres_de_texto": 19582,
+  "fecha": "2026-10-09T15:55:58+00:00"
+ },
+ "EC1410": {
+  "id": "EC1410",
+  "tipo": "pdf",
+  "para": "V4: nivel Cuatro",
+  "estado": "error",
+  "errores": [
+   "https://ingles.ilce.edu.mx/images/certificaciones/competencias/estandares/EC1410.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T15:56:39+00:00"
+ },
+ "EC1171": {
+  "id": "EC1171",
+  "tipo": "pdf",
+  "para": "V5: grupo unitario SINCO 9999",
+  "estado": "ok",
+  "paginas": 10,
+  "url": "https://www.infoem.org.mx/doc/publicaciones/EstandardeCompetencia_1171.pdf",
+  "bytes": 225159,
+  "sha256": "8eeb40c67b8ce8e5ad73bdc34ba95ac9857e303c75d12dc346730eae12312a55",
+  "caracteres_de_texto": 16871,
+  "fecha": "2026-10-09T15:56:42+00:00"
+ },
+ "EC0301": {
+  "id": "EC0301",
+  "tipo": "pdf",
+  "para": "V1: frases de productos; referencia para cursos",
+  "estado": "ok",
+  "paginas": 11,
+  "url": "https://ciees.edu.mx/documentos/estandares/EC0301.pdf",
+  "bytes": 158264,
+  "sha256": "8ad7bb8a7e035a9f2b573ff3b28c4af6d86023a3a6d6aea947e529ed45127d5b",
+  "caracteres_de_texto": 23419,
+  "fecha": "2026-10-09T15:56:44+00:00"
+ },
+ "EC0217_01": {
+  "id": "EC0217_01",
+  "tipo": "pdf",
+  "para": "Referencia para los instructores de los cursos",
+  "estado": "ok",
+  "paginas": 20,
+  "url": "https://www.ilce.edu.mx/images/certificaciones/competencias/estandares/EstandarEC0217_1.pdf",
+  "bytes": 981985,
+  "sha256": "5a1e416ac8fed85abe9662ec054f3e5c203aca1a3cee8c895541139f468340a7",
+  "caracteres_de_texto": 41738,
+  "fecha": "2026-10-09T15:56:49+00:00"
+ },
+ "CONOCER_PUBLICACIONES_DOF": {
+  "id": "CONOCER_PUBLICACIONES_DOF",
+  "tipo": "pagina",
+  "para": "V7: estándares publicados después del 7 de agosto de 2026",
+  "estado": "ok",
+  "enlaces": 202,
+  "url": "https://conocer.gob.mx/publicaciones_dof/",
+  "bytes": 344390,
+  "sha256": "70bc0f2d7b1c1af2e81b54d85b614fbb11fc6208f11d942aa77eb64aa8a707fc",
+  "caracteres_de_texto": 1475,
+  "fecha": "2026-10-09T15:56:54+00:00"
+ },
+ "CONOCER_INICIO": {
+  "id": "CONOCER_INICIO",
+  "tipo": "pagina",
+  "para": "V11: localizar Reglas Generales del SNC, RENEC y formatos vigentes",
+  "estado": "ok",
+  "enlaces": 21,
+  "url": "https://conocer.gob.mx/",
+  "bytes": 281974,
+  "sha256": "154a2fd19ff869d3c066ceccba67b1f7b5860a6f50d22bac2149cda730ac9ac2",
+  "caracteres_de_texto": 5832,
+  "fecha": "2026-10-09T15:56:58+00:00"
+ },
+ "CONOCER_TRANSPARENCIA_55": {
+  "id": "CONOCER_TRANSPARENCIA_55",
+  "tipo": "pdf",
+  "para": "V11: EC frente a ECM",
+  "estado": "ok",
+  "paginas": 137,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/55.pdf",
+  "bytes": 1857203,
+  "sha256": "7c082d5a50ba7e7c4c9d0726c1d480957ef8e2760e3774d8001885059c0734bd",
+  "caracteres_de_texto": 266277,
+  "fecha": "2026-10-09T15:57:56+00:00"
+ },
+ "CONOCER_TRANSPARENCIA_61": {
+  "id": "CONOCER_TRANSPARENCIA_61",
+  "tipo": "pdf",
+  "para": "V11: comité de validación y comités de gestión",
+  "estado": "ok",
+  "paginas": 11,
+  "url": "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf",
+  "bytes": 344595,
+  "sha256": "06271ba329ac5cc6e92ba7f82fb4d74035cbe93a2e53d241026d9ccb0fcb1eaa",
+  "caracteres_de_texto": 41685,
+  "fecha": "2026-10-09T15:58:42+00:00"
+ },
+ "CONOCER_ABC_CGC": {
+  "id": "CONOCER_ABC_CGC",
+  "tipo": "pdf",
+  "para": "V11: integración de un Comité de Gestión por Competencias",
+  "estado": "error",
+  "errores": [
+   "https://conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf: respuesta 200, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\"",
+   "https://web.archive.org/web/2026id_/https://conocer.gob.mx/contenido/comites/ABC_Comites_Gestion_Competencias.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T16:00:44+00:00"
+ },
+ "DOF_2026_08_07": {
+  "id": "DOF_2026_08_07",
+  "tipo": "pagina",
+  "para": "V8: Acuerdo SE/III-26/05,R del 7 de agosto de 2026",
+  "estado": "error",
+  "errores": [
+   "https://www.dof.gob.mx/index.php?year=2026&month=08&day=07: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.dof.gob.mx/index.php?year=2026&month=08&day=07\nCall log:\n  - navigating to \"https://www.dof.gob.mx/index.php?year=2026&month=08&day=07\", waiting until \"domcontentloaded\"\n",
+   "https://dof.gob.mx/index.php?year=2026&month=08&day=07: Page.goto: Navigation to \"https://dof.gob.mx/index.php?year=2026&month=08&day=07\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://dof.gob.mx/index.php?year=2026&month=08&day=07\", waiting until \"domcontentloaded\"\n",
+   "https://www.dof.gob.mx/index_111.php?year=2026&month=08&day=07: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.dof.gob.mx/index_111.php?year=2026&month=08&day=07\nCall log:\n  - navigating to \"https://www.dof.gob.mx/index_111.php?year=2026&month=08&day=07\", waiting until \"domcontentloaded\"\n"
+  ],
+  "fecha": "2026-10-09T16:00:46+00:00"
+ },
+ "LFPDPPP": {
+  "id": "LFPDPPP",
+  "tipo": "pdf",
+  "para": "V9: ley de datos personales vigente (definiciones, principios, seguridad, vulneraciones, remisión y transferencia)",
+  "estado": "ok",
+  "paginas": 24,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+  "bytes": 457399,
+  "sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
+  "caracteres_de_texto": 74220,
+  "fecha": "2026-10-09T16:00:48+00:00"
+ },
+ "LFPDPPP_DOF_2025": {
+  "id": "LFPDPPP_DOF_2025",
+  "tipo": "pdf",
+  "para": "V9: texto original publicado el 20 de marzo de 2025",
+  "estado": "ok",
+  "paginas": 101,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.pdf",
+  "bytes": 904436,
+  "sha256": "c387972bc44acffe7fb3e9c0d7cd9d97557856ce20d1be93fadef7b3bd3d95a9",
+  "caracteres_de_texto": 410065,
+  "fecha": "2026-10-09T16:01:04+00:00"
+ },
+ "LGPDPPSO": {
+  "id": "LGPDPPSO",
+  "tipo": "pdf",
+  "para": "V9: ley para sujetos obligados (instituciones públicas del convenio)",
+  "estado": "ok",
+  "paginas": 37,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+  "bytes": 556192,
+  "sha256": "a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9",
+  "caracteres_de_texto": 147534,
+  "fecha": "2026-10-09T16:01:09+00:00"
+ },
+ "LFT": {
+  "id": "LFT",
+  "tipo": "pdf",
+  "para": "V10: capacitación (artículo 153-A y siguientes) y comisión mixta",
+  "estado": "ok",
+  "paginas": 457,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+  "bytes": 4225835,
+  "sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7",
+  "caracteres_de_texto": 1408724,
+  "fecha": "2026-10-09T16:01:59+00:00"
+ },
+ "LFDA": {
+  "id": "LFDA",
+  "tipo": "pdf",
+  "para": "Referencia del EC-A (derechos de autor e imagen)",
+  "estado": "ok",
+  "paginas": 87,
+  "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+  "bytes": 969098,
+  "sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5",
+  "caracteres_de_texto": 261185,
+  "fecha": "2026-10-09T16:02:08+00:00"
+ },
+ "LEY_INFRAESTRUCTURA_CALIDAD": {
+  "id": "LEY_INFRAESTRUCTURA_CALIDAD",
+  "tipo": "pdf",
+  "para": "Referencia: normas oficiales mexicanas que pueden exigir un estándar",
+  "estado": "error",
+  "errores": [
+   "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal.pdf: respuesta 404, no es PDF; navegador: Timeout 40000ms exceeded while waiting for event \"download\""
+  ],
+  "fecha": "2026-10-09T16:02:48+00:00"
+ },
+ "INEGI_SCIAN": {
+  "id": "INEGI_SCIAN",
+  "tipo": "pagina",
+  "para": "V5: confirmar 561110 y 541610 y sus nombres en el SCIAN vigente",
+  "estado": "ok",
+  "enlaces": 171,
+  "url": "https://www.inegi.org.mx/app/scian/",
+  "bytes": 116445,
+  "sha256": "49936107efd2fd4fa44e055197e76d9d9983e3ae0c719c9e7afeb217e545a748",
+  "caracteres_de_texto": 3313,
+  "fecha": "2026-10-09T16:02:53+00:00"
+ },
+ "INEGI_SINCO": {
+  "id": "INEGI_SINCO",
+  "tipo": "pagina",
+  "para": "V5: confirmar el grupo unitario 9999",
+  "estado": "ok",
+  "enlaces": 51,
+  "url": "https://www.inegi.org.mx/app/sinco/",
+  "bytes": 47196,
+  "sha256": "0d09e3b8c16a458e5ff6ec06f8c6fc9c2377345102d97a9b1a8ac4f7cff24c1e",
+  "caracteres_de_texto": 1168,
+  "fecha": "2026-10-09T16:02:56+00:00"
+ },
+ "EU_REGLAMENTO_IA": {
+  "id": "EU_REGLAMENTO_IA",
+  "tipo": "pagina",
+  "para": "V12: artículo 4 (alfabetización en IA)",
+  "estado": "ok",
+  "enlaces": 553,
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689",
+  "bytes": 1464408,
+  "sha256": "c9dd476ce554683fe303d45304661f2803c51425be44d3c9d44e8b1666634060",
+  "caracteres_de_texto": 673413,
+  "fecha": "2026-10-09T16:02:59+00:00"
+ },
+ "STPS_DC3": {
+  "id": "STPS_DC3",
+  "tipo": "buscar",
+  "para": "V10: Criterios generales y formatos de la STPS para la constancia DC-3 y el catálogo de áreas temáticas vigentes",
+  "estado": "buscar",
+  "nota": "Sin URL fija: Claude debe localizarla (ver INSTRUCCIONES.md).",
+  "fecha": "2026-10-09T16:02:59+00:00"
+ },
+ "EU_REGLAMENTO_2026_1744": {
+  "id": "EU_REGLAMENTO_2026_1744",
+  "tipo": "buscar",
+  "para": "V12: Reglamento (UE) 2026/1744 que modifica el artículo 4 de la Ley de IA",
+  "estado": "buscar",
+  "nota": "Sin URL fija: Claude debe localizarla (ver INSTRUCCIONES.md).",
+  "fecha": "2026-10-09T16:02:59+00:00"
+ },
+ "CONOCER_REGLAS_SNC": {
+  "id": "CONOCER_REGLAS_SNC",
+  "tipo": "buscar",
+  "para": "V11: Reglas Generales y criterios vigentes para la integración y operación del Sistema Nacional de Competencias (quién acredita a quién, ECM, uso restringido, evaluación a distancia)",
+  "estado": "buscar",
+  "nota": "Sin URL fija: Claude debe localizarla (ver INSTRUCCIONES.md).",
+  "fecha": "2026-10-09T16:02:59+00:00"
+ },
+ "DOF_ACUERDO_SE_III_26_05R": {
+  "id": "DOF_ACUERDO_SE_III_26_05R",
+  "tipo": "pagina",
+  "para": "V8: Acuerdo SE/III-26/05,R (DOF 7 de agosto de 2026, edición matutina)",
+  "estado": "ok",
+  "enlaces": 75,
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026",
+  "bytes": 94191,
+  "sha256": "510d00ecc987d35998ed9b54e80308cc6f5876daf3ea47894062ca013246edb1",
+  "caracteres_de_texto": 10622,
+  "fecha": "2026-10-09T16:04:35+00:00"
+ },
+ "STPS_ACUERDO_2013": {
+  "id": "STPS_ACUERDO_2013",
+  "tipo": "pagina",
+  "para": "Fuente adicional",
+  "estado": "ok",
+  "enlaces": 75,
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5302582&fecha=14/06/2013",
+  "bytes": 359065,
+  "sha256": "7dfbc1241605ebe756b05772f1fca1fcefe940c54c1c69371e93efe5422d9e9c",
+  "caracteres_de_texto": 62980,
+  "fecha": "2026-10-09T16:04:45+00:00"
+ },
+ "EU_REGLAMENTO_2026_1744_ES": {
+  "id": "EU_REGLAMENTO_2026_1744_ES",
+  "tipo": "pagina",
+  "para": "Fuente adicional",
+  "estado": "ok",
+  "enlaces": 137,
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202601744",
+  "bytes": 405457,
+  "sha256": "fca122decee838542d1c88b13ffe1187b5edf7860502030dd87f983ee437cb9e",
+  "caracteres_de_texto": 172362,
+  "fecha": "2026-10-09T16:04:49+00:00"
+ },
+ "INEGI_SCIAN_ESTRUCTURA_2023": {
+  "id": "INEGI_SCIAN_ESTRUCTURA_2023",
+  "tipo": "pdf",
+  "para": "Fuente adicional",
+  "estado": "ok",
+  "paginas": 195,
+  "url": "https://www.inegi.org.mx/contenidos/app/scian/estructura2023.pdf",
+  "bytes": 2415469,
+  "sha256": "ed8531e84235e5b19e4d6ebdf9d267685004f307fabf76fcec0ddffae163c3c6",
+  "caracteres_de_texto": 495136,
+  "fecha": "2026-10-09T16:05:57+00:00"
+ }
+}

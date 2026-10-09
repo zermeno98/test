@@ -128,7 +128,7 @@ Aun con cuenta institucional debes clasificar y depurar: la cuenta institucional
 | Tipo | Qué es | Ejemplos |
 |---|---|---|
 | **Dato personal** | Cualquier información de una persona física identificada o identificable | Nombre, matrícula, CURP, domicilio, teléfono, correo, fotografía, ingreso familiar, promedio de un estudiante |
-| **Dato personal sensible** | Dato que afecta la esfera más íntima de la persona o cuyo mal uso puede causar discriminación o un riesgo grave | Estado de salud (incluidos embarazo, discapacidad y salud mental), origen étnico, creencias religiosas, opiniones políticas, preferencia sexual, afiliación sindical, información genética |
+| **Dato personal sensible** | Dato que afecta la esfera más íntima de la persona o cuyo mal uso puede causar discriminación o un riesgo grave | Estado de salud (incluidos embarazo, discapacidad y salud mental), origen étnico, creencias religiosas, opiniones políticas, preferencia sexual, información genética |
 | **Información confidencial** | Información de la organización o de terceros cuyo acceso está restringido por ley, contrato o decisión de la organización | Negociaciones con proveedores, presupuestos no publicados, contratos, estrategias, información que un cliente entregó bajo confidencialidad |
 
 Cuidado: un dato sin nombre puede identificar a una persona si se combina con otros. "La única estudiante embarazada del grupo 3B de Logística" identifica a una persona aunque no diga su nombre.
@@ -749,7 +749,7 @@ Si se conserva una ilustración, debe ser sin personas reales, hecha con el Gene
 - **Contenido sintético:** texto, imagen, audio o video creado o modificado mediante inteligencia artificial.
 - **Cuenta institucional:** acceso a una herramienta de IA generativa contratado o administrado por la organización, sujeto a sus condiciones de uso y seguridad.
 - **Dato personal:** cualquier información concerniente a una persona física identificada o identificable.
-- **Dato personal sensible:** dato personal que afecta la esfera más íntima de su titular o cuya utilización indebida puede dar origen a discriminación o conllevar un riesgo grave para éste.
+- **Dato personal sensible:** dato personal que afecta la esfera más íntima de la persona titular o cuya utilización indebida puede dar origen a discriminación o conlleva un riesgo grave para esta (por ejemplo, origen racial o étnico, estado de salud presente o futuro, información genética, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual).
 - **Declaración de uso de IA:** mención expresa, en un producto de trabajo, de la herramienta de IA utilizada y de la parte elaborada con su apoyo.
 - **Depuración de la información:** eliminación o sustitución de los datos personales y de la información confidencial que no son necesarios para una tarea, antes de ingresarla a una herramienta de IA.
 - **Esquema de clasificación de la información:** criterios de la organización para asignar a cada tipo de información un nivel de acceso y de protección.

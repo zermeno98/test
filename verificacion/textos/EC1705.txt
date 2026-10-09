@@ -1,0 +1,390 @@
+Fuente: https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf
+
+=== Página 1 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+1 de 8 
+ 
+I.- Datos Generales  
+Código Título 
+EC1705 Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital 
+Propósito del Estándar de Competencia 
+Servir como referente para la evaluación y certificación de las personas que utilizan herramientas 
+de inteligencia artificial generativa para la creación básica de contenido digital en formato de texto, 
+imagen y video y aplican principios de uso ético y responsable durante dichos procesos. 
+ 
+Asimismo, puede ser referente para el desarrollo de programas de capacitación y de formación 
+basados en Estándares de Competencia (EC). 
+ 
+El presente EC se refiere únicamente a funciones para cuya realización no se requ iere por 
+disposición legal, la posesión de un título profesional. Por lo que para certificarse en este EC no 
+deberá ser requisito el poseer dicho documento académico. 
+ 
+Descripción general del Estándar de Competencia 
+El Estándar de Competencia Uso básico de herramientas de inteligencia artificial generativa para 
+la creación de contenido digital contempla las funciones sustantivas que una persona realiza para 
+el manejo inicial y responsable de estas tecnologías emergentes. 
+ 
+Estas funciones abarcan desde identificar los conceptos fundamentales de la inteligencia artificial 
+generativa y las características de las herramientas disponibles para la creación de contenido, 
+hasta generar contenido digital en formatos básicos como texto e imágenes, mediante la 
+formulación de instrucciones ( prompts) y la operación elemental de dichas herramientas. 
+Crucialmente, el estándar también incluye la aplicación de principios de uso ético y responsable, 
+tales como la consideración de la transparencia, la veracidad de la informació n, la protección de 
+la privacidad y el respeto a la propiedad intelectual durante todo el proceso de creación. 
+ 
+El presente EC se fundamenta en criterios rectores de legalidad, competitividad, libre acceso, 
+respeto, trabajo digno y responsabilidad social.  
+ 
+Nivel en el Sistema Nacional de Competencias: Tres 
+Desempeña actividades tanto programadas rutinarias como impredecibles. Recibe orientaciones 
+generales e instrucciones específicas de un superior. Requiere supervisar y orientar a otros 
+trabajadores jerárquicamente subordinados. 
+ 
+Comité de Gestión por Competencias que lo desarrolló 
+de KIORU 
+  
+=== Página 2 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+2 de 8 
+ 
+ 
+Fecha de aprobación por el Comité 
+Técnico del CONOCER:  Fecha de publicación en el Diario Oficial de la Federación: 
+ 
+ 
+ 
+  
+Periodo sugerido de revisión  
+/actualización del EC:   
+   
+ 
+Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación 
+de Ocupaciones (SINCO) 
+Grupo unitario 
+27 Auxiliares y técnicos en educación, instructores y capacitadores 
+ 
+Ocupaciones asociadas 
+Instructor y capacitador 
+Diseñador de contenido 
+ 
+Ocupaciones no contenidas en el Sistema Nacional de Clasificación de Ocupaciones y 
+reconocidas en el Sector para este EC 
+Desarrollador de contenido mediante IA. 
+ 
+Clasificación según el sistema de Clasificación Industrial de América del Norte (SCIAN) 
+Sector: 
+61 Servicios Educativos 
+Subsector: 
+611 Servicios Educativos 
+Rama: 
+6117 Servicios de Apoyo a la Educación 
+Subrama: 
+61171 Servicios de Apoyo a la Educación 
+Clase: 
+611710 Servicios de Apoyo a la Educación 
+El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro 
+Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y 
+consulta gratuita. 
+Organizaciones participantes en el desarrollo del Estándar de Competencia 
+ ABACO CONNECTION, S.A. DE C.V. 
+ AICON INTERNACIONAL S.C. 
+ ASPROL DE MÉXICO, S.C. 
+ Cámara Nacional de la Industria Editorial Mexicana (CANIEM). 
+ ENGINEERING & CONSULTING ACERT, S.A. DE C.V. 
+=== Página 3 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+3 de 8 
+ 
+ GLOBAL A&T. 
+ KIORU. 
+ 
+Aspectos relevantes de la evaluación 
+Detalles de la práctica:  Para demostrar la competencia en este EC, se recomienda 
+que se lleve a cabo en el lugar de trabajo y durante su jornada 
+laboral; sin embargo, pudiera realizarse de forma simulada si 
+el área de evaluación cuenta con los materiales, insumos, e 
+infraestructura, para llevar a cabo el desarrollo de todos los 
+criterios de evaluación referidos en el EC. 
+Apoyos/Requerimientos:  Computadora con acceso a Internet. 
+ Licencias de modelos de Inteligencia Artificial. 
+ Recursos y contenido didáctico de apoyo. 
+Duración estimada de la evaluación 
+ 30 minutos en gabinete y 1 hora en campo, totalizando 1 hora con 30 minutos. 
+ 
+Referencias de Información 
+ OpenAI. (2023). ChatGPT System Card. Recuperado de https://openai.com/research 
+ UNESCO. (2021). Recomendación sobre la ética de la inteligencia artificial. París, 
+Francia: UNESCO. 
+ Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos 
+Personales (INAI). (2023). Guía de buenas prácticas para el tratamiento de datos 
+personales en el uso de tecnologías emergentes. Ciudad de México, México. 
+ European Commission. (2023). AI Act Proposal – Regulation laying down harmonized 
+rules on Artificial Intelligence. Bruselas, Bélgica: European Union Publications. 
+ Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4a edición). 
+Nueva Jersey: Pearson Education. 
+ Google DeepMind. (2023). Gemini AI Technical Overview. Mountain View, California: 
+Alphabet Inc. 
+ Secretaría de Economía. (2024). Agenda Nacional de Inteligencia Artificial. Ciudad de 
+México, México. 
+=== Página 4 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+4 de 8 
+ 
+II.- Perfil del Estándar de Competencia 
+Estándar de Competencia  Elemento 1 de 3 
+Uso básico de herramientas de 
+inteligencia artificial generativa para la 
+creación de contenido digital 
+Identificar los fundamentos y herramientas de 
+la inteligencia artificial generativa para la 
+creación de contenido digital básico. 
+Elemento 2 de 3 
+Generar contenido digital básico en forma de 
+texto, imagen y video con  herramientas de 
+inteligencia artificial generativa 
+Elemento 3 de 3 
+Aplicar principios de uso responsable y seguro 
+de la inteligencia artificial generativa 
+ 
+ 
+  
+=== Página 5 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+5 de 8 
+ 
+III.- Elementos que conforman el Estándar de Competencia 
+Referencia Código Título 
+1 de 3 E5336 Identificar los fundamentos y herramientas de la inteligencia 
+artificial generativa para la creación de contenido digital básico. 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS 
+1. Explora la interfaz de herramientas de inteligencia artificial generativa seleccionadas: 
+ Accediendo a la herramienta de inteligencia artificial generativa, 
+ Identificando las condiciones de uso de la herramienta, 
+ Distinguiendo las funcionalidades entre versiones gratuitas y de pago mediante la consulta de 
+información en la herramienta, 
+ Localizando en la interfaz los campos de entrada para prompts, 
+ Identificando los botones de comando para iniciar la generación de contenido, 
+ Ubicando las secciones/menús específicos para la creación de texto en la herramienta, 
+ Ubicando las secciones/menús específicos para la creación de imagen en la herramienta, y 
+ Ubicando las secciones/menús específicos para la creación de video en la herramienta. 
+ 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS  NIVEL 
+1. Concepto de Inteligencia Artificial Generativa y su propósito 
+principal. 
+ Comprensión 
+2. Terminología básica asociada al uso de IA generativa: 
+prompt, generación 
+ Comprensión 
+3. Tipos de contenido digital: texto, imagen, video creables con 
+IA generativa. 
+ Comprensión 
+4. Aspectos comunes de acceso y uso en herramientas de IA 
+generativa: cuentas, versiones gratuitas/pago, límites. 
+ Comprensión 
+5. Precauciones básicas de seguridad y privacidad al usar 
+herramientas de IA en línea. 
+ Conocimiento 
+6. Capacidades generales y limitaciones comunes de la IA 
+generativa (nivel básico). 
+ Comprensión 
+ 
+GLOSARIO 
+1. Inteligencia Artificial 
+Generativa: 
+Es un tipo de inteligencia artificial capaz de crear contenido nuevo 
+y original, como textos, imágenes o videos, que no existían 
+previamente. 
+2. Herramienta de 
+Inteligencia Artificial 
+Generativa: 
+ 
+Es una aplicación o modelo 
+CHATGPT/GEMINI/CLAUDE/COPILOT que utiliza la inteligencia 
+artificial generativa para producir contenido nuevo a partir de las 
+indicaciones del usuario 
+=== Página 6 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+6 de 8 
+ 
+3. Prompts: Son las instrucciones, preguntas o frases que un usuario le da a 
+una herramienta de inteligencia artificial generativa para indicarle 
+qué tipo de contenido quiere crear y con qué características 
+ 
+Referencia Código Título 
+2 de 3 E5337 Generar contenido digital básico  en forma de texto, imagen y 
+video con herramientas de inteligencia artificial generativa  
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS 
+1. Prepara la generación de contenido con herramientas de inteligencia artificial: 
+ Seleccionando la herramienta de inteligencia artificial generativa de acuerdo con el tipo de 
+contenido a crear, y 
+ Accediendo desde un dispositivo compatible computadora/tablet/dispositivo móvil a la interfaz 
+de la herramienta de inteligencia artificial generativa seleccionada para iniciar la generación. 
+ 
+2. Genera un texto básico utilizando una herramienta de inteligencia artificial generativa: 
+ Ingresando un prompt en la herramienta para la generación del texto solicitado, 
+ Ajustando parámetros básicos de generación de texto, como tono/longitud/estilo cuando la 
+herramienta ofrece la opción y el contenido lo requ iere, cuando la herramienta lo permite y es 
+pertinente, 
+ Activando la función de generación de texto en la herramienta, y 
+ Copiando el texto generado para su uso/almacenamiento. 
+ 
+3. Genera imágenes utilizando una herramienta de Inteligencia Artificial generativa: 
+ Ingresando un prompt descriptivo en la herramienta para la generación de la imagen solicitada, 
+ Ajustando parámetros básicos de generación de imagen, como tamaño / estilo / nivel de detalle 
+si la herramienta dispone de esta opción y si la imagen  lo requiere, cuando la herramienta lo 
+permite y es pertinente, 
+ Activando la función de generación de imagen en la herramienta, y 
+ Guardando la imagen generada en un formato digital estándar: PNG/JPG. 
+ 
+4. Genera elementos conceptuales para un video básico utilizando una herramienta de inteligencia 
+artificial generativa: 
+ Ingresando un prompt en la herramienta para la generación de ideas o temas para video, 
+ Ingresando un prompt en la herramienta para la generación de un guion o estructura básica 
+para video, y  
+ Guardando en un dispositivo de almacenamiento virtual/local el video en formato digital 
+estándar: AVI/MP4 en el dispositivo utilizado. 
+ 
+ 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+1. El documento de texto con Inteligencia Artificial generado: 
+ Corresponde con el contenido solicitado en el prompt, 
+=== Página 7 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+7 de 8 
+ 
+ Refleja ajustes pertinentes en los parámetros de generación, 
+ Se presenta sin errores ortográficos/de redacción evidentes, y  
+ Está disponible para su uso/ almacenamiento en formato digital. 
+ 
+2. La imagen con Inteligencia Artificial generada: 
+ Corresponde con la descripción solicitada en el prompt, 
+ Refleja los ajustes de parámetros pertinentes, 
+ Se presenta sin errores visuales evidentes, y  
+ Está guardada en formato digital estándar: PNG/JPG. 
+ 
+3. El video con Inteligencia Artificial generado: 
+ Incluye ideas/ temas relevantes según el prompt, 
+ Incluye un guion/estructura básica coherente, 
+ Se presenta sin errores de formato/redacción evidentes, y  
+ Están disponibles para su uso/almacenamiento en formato digital: AVI/MP4. 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS  NIVEL 
+1.  Proceso de formulación de prompt.  Conocimiento 
+2.  Funciones básicas de herramientas de la IA.  Comprensión 
+ 
+La persona es competente cuando demuestra las siguientes: 
+ACTITUDES/HÁBITOS/VALORES 
+1. Orden La manera en que ejecuta las actividades o tareas siguiendo 
+metódica y secuencialmente los pasos establecidos. 
+2. Responsabilidad: La manera en que selecciona la herramienta correcta necesaria 
+para generar el tipo de contenido solicitado. 
+GLOSARIO 
+ 
+1. AVI: Se refiere a un formato contenedor de archivo de audio y video 
+desarrollado por Microsoft, que puede almacenar datos de video y 
+audio en una variedad de códecs. 
+2. JPG: Se refiere a un formato de archivo de imagen que  utiliza 
+compresión con pérdida, comúnmente usado para fotografías 
+debido a su capacidad para reducir significativamente el tamaño 
+del archivo. 
+3. MP4: Se refiere a un formato contenedor multimedia digital muy popular, 
+usado comúnmente para almacenar vide o y audio, pero también 
+puede contener otros datos como subtítulos e imágenes fijas. 
+4. PNG: Se refiere a un formato de archivo de imagen que utiliza 
+compresión sin pérdida, ideal para gráficos con transparencias o 
+líneas nítidas. 
+ 
+=== Página 8 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+8 de 8 
+ 
+Referencia Código Título 
+3 de 3 E5338 Aplicar principios de uso responsable y seguro de la 
+inteligencia artificial generativa 
+ 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS 
+1. Aplica consideraciones sobre responsabilidad en el manejo de información y cumplimiento de 
+lineamientos de privacidad al usar inteligencia artificial generativa: 
+ Revisando las políticas de privacidad de las herramientas de inteligencia artificial, ingresando 
+al apartado de las políticas cómo manejan la información ingresada por los usuarios, y 
+ Evitando ingresar información que comprometa la privacidad del usuario cuando las políticas 
+de privacidad no son claras, no ofrecen suficientes garantías/no se han podido verificar.  
+ 
+2. Verifica la información generada por inteligencia artificial antes de su uso: 
+ Identificando la información relevante como fechas/cifras/nombres/referencias generados por 
+la inteligencia artificial que requieren ser verificados antes de su uso, y 
+ Verificando la informac ión obtenida a través de inteligencia artificial consultando fuentes 
+alternas y bibliografía especializada, para identificar si esta presenta contenido falso, 
+engañoso/potencialmente perjudicial.  
+ 
+La persona es competente cuando demuestra las siguientes: 
+ACTITUDES/HÁBITOS/VALORES 
+1   Responsabilidad: La manera en que asume las consecuencias de utilizar la 
+inteligencia artificial generativa procurando la integridad de la 
+información y veracidad del contenido. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

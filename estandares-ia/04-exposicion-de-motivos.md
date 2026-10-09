@@ -39,7 +39,7 @@ Cada estándar se compone de piezas que el evaluador revisa:
 
 El sistema lo coordina el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER), entidad paraestatal sectorizada en la Secretaría de Educación Pública. Los estándares los elaboran Comités de Gestión por Competencias, con representantes de empleadores, trabajadores e instituciones del sector. El Comité Técnico del CONOCER los aprueba, se publican en el Diario Oficial de la Federación (DOF) y se inscriben en el RENEC, de consulta pública y gratuita.
 
-La evaluación la realizan las Entidades de Certificación y Evaluación acreditadas por el CONOCER y los Centros de Evaluación que estas acreditan. Capacitarse antes es opcional: el certificado acredita la competencia, no la asistencia a un curso.
+La evaluación la realizan las Entidades de Certificación y Evaluación acreditadas por el CONOCER y los Centros de Evaluación que se autorizan a solicitud de ellas por medio del sistema del CONOCER. Capacitarse antes es opcional: el certificado acredita la competencia, no la asistencia a un curso.
 
 **Así nace un estándar**
 
@@ -92,7 +92,7 @@ La familia sigue los marcos que ya usan las empresas multinacionales y los regul
 
 | Referente | Qué pide | Cómo lo recoge la familia |
 | --- | --- | --- |
-| [Ley de IA de la Unión Europea, artículo 4](https://artificialintelligenceact.eu/article/4/) | Desde febrero de 2025, quienes desarrollan o usan IA deben tomar medidas de alfabetización en IA de su personal. En julio de 2026 el [Reglamento (UE) 2026/1744](https://www.cuatrecasas.com/en/latam/intellectual-property/art/digital-omnibus-ai-has-been-published) mantuvo la obligación sin exigir un nivel específico | El EC-A puede servir como evidencia de esas medidas para empresas que atienden a Europa o pertenecen a grupos europeos |
+| [Ley de IA de la Unión Europea, artículo 4](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689) | Desde febrero de 2025, quienes desarrollan o usan IA deben tomar medidas de alfabetización en IA de su personal. En julio de 2026 el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202601744) mantuvo la obligación sin exigir un nivel específico | El EC-A puede servir como evidencia de esas medidas para empresas que atienden a Europa o pertenecen a grupos europeos |
 | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html), sistema de gestión de IA | Política de IA, evaluación de riesgos y de impacto, competencia y toma de conciencia del personal | El EC-B certifica a quien opera esos procesos; el EC-A, la toma de conciencia del personal |
 | [Marco de Gestión de Riesgos de IA del NIST](https://www.nist.gov/itl/ai-risk-management-framework) (Estados Unidos) | Cuatro funciones: gobernar, mapear, medir y gestionar. Su perfil para IA generativa de 2024 incluye privacidad, seguridad e integridad de la información | Los cuatro elementos del EC-B siguen esas funciones |
 | [Principios de IA de la OCDE](https://oecd.ai/en/ai-principles) | Transparencia, seguridad, rendición de cuentas y desarrollo de capacidades; México es país miembro | Ambos estándares desarrollan capacidades medibles en el personal |
@@ -113,13 +113,13 @@ Los siete estándares sobre IA identificados en el RENEC en octubre de 2026 cert
 
 | Estándar | Qué certifica | Protección de la información o gestión de riesgos |
 | --- | --- | --- |
-| [EC1657](https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf) | Integrar herramientas de IA generativa en la cadena de suministro | No es su objeto |
+| [EC1657](https://conocer.gob.mx/contenidos/publicaciones_dof/) | Integrar herramientas de IA generativa en la cadena de suministro | No es su objeto |
 | [EC1691](https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf) | Elaborar materiales educativos con IA generativa | No es su objeto |
-| [EC1705](https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1705.pdf) | Crear contenido digital básico con IA generativa, con principios de uso ético | Su descripción no incluye clasificar la información ni atender incidentes |
-| [ECM0358](https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf) | Fundamentos de IA generativa con herramientas de una marca | No es su objeto |
-| [EC1827](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf) | Desarrollar productos y servicios con IA en MiPyME | No es su objeto |
-| [EC1828](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf) | Dirigir el marketing de una PyME con apoyo de IA | No es su objeto |
-| [EC1829](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf) | Producir videos digitales con IA generativa | No es su objeto |
+| [EC1705](https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf) | Crear contenido digital básico con IA generativa, con principios de uso ético | Su descripción no incluye clasificar la información ni atender incidentes |
+| [ECM0358](https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf) | Fundamentos de IA generativa con herramientas de una marca | No es su objeto |
+| [EC1827](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026) | Desarrollar productos y servicios con IA en MiPyME | No es su objeto |
+| [EC1828](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026) | Dirigir el marketing de una PyME con apoyo de IA | No es su objeto |
+| [EC1829](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026) | Producir videos digitales con IA generativa | No es su objeto |
 
 La familia propuesta complementa a estos estándares. Una persona puede certificarse en crear contenido con IA (EC1705) y, además, en hacerlo sin exponer información (EC-A).
 
@@ -220,7 +220,7 @@ Consultadas en octubre de 2026.
 
 **Estándares de competencia sobre IA**
 
-- [EC1657](https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/EC1657.pdf) · [EC1691](https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf) · [EC1705](https://www.conocer.gob.mx/contenido/publicaciones_dof/2025/segunda/EC1705.pdf) · [ECM0358](https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf) · [EC1827](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1827.pdf) · [EC1828](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1828.pdf) · [EC1829](https://www.conocer.gob.mx/contenido/publicaciones_dof/2026/tercera_se/EC1829.pdf), CONOCER
+- [EC1657](https://conocer.gob.mx/contenidos/publicaciones_dof/) · [EC1691](https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf) · [EC1705](https://conocer.gob.mx/wp-content/uploads/2025/11/EC1705.pdf) · [ECM0358](https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/publicaciones_dof/2024/segunda/ECM0358.pdf) · [EC1827](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026) · [EC1828](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026) · [EC1829](https://dof.gob.mx/nota_detalle.php?codigo=5795750&fecha=07/08/2026), CONOCER
 
 **Evidencia del problema**
 
@@ -234,8 +234,8 @@ Consultadas en octubre de 2026.
 
 **Referentes internacionales**
 
-- [Ley de IA de la Unión Europea, artículo 4](https://artificialintelligenceact.eu/article/4/)
-- [Digital Omnibus on AI, Reglamento (UE) 2026/1744](https://www.cuatrecasas.com/en/latam/intellectual-property/art/digital-omnibus-ai-has-been-published), Cuatrecasas
+- [Ley de IA de la Unión Europea, artículo 4](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689)
+- [Digital Omnibus on AI, Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202601744), Diario Oficial de la Unión Europea, 24 de julio de 2026
 - [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html), ISO
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), NIST
 - [Principios de IA](https://oecd.ai/en/ai-principles), OCDE

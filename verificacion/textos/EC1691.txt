@@ -1,0 +1,468 @@
+Fuente: https://conocer.gob.mx/wp-content/uploads/2025/11/EC1691.pdf
+
+=== Página 1 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+1 de 11 
+ 
+I.- Datos Generales 
+Código Título 
+EC1691 Elaboración de materiales educativos con apoyo de herramientas de inteligencia 
+artificial generativa (IAGen) 
+Propósito del Estándar de Competencia  
+Servir como referente para la evaluación y certificación de personas especialistas en el área de 
+formación/capacitación, que se desempeñan en la elaboración de materiales educativos  con el 
+apoyo de herramientas de inteligencia artificial generativa (IAGen); a través de la promoción en el 
+uso ético y responsable de las herramientas de inteligencia artificial y el fomento de prácticas que 
+respeten los datos y la privacidad, eviten el plagio y garanticen la veracidad de la información 
+generada. 
+Asimismo, puede ser referente para el desarrollo de programas de capacitación y de formación 
+basados en Estándares de Competencia (EC). 
+ 
+El presente EC se refiere únicamente a funciones para cuya realización no se requiere por 
+disposición legal, la posesión de un título profesional. Por lo que para certificarse en este EC no 
+deberá ser requisito el poseer dicho documento académico. 
+ 
+Descripción general del Estándar de Competencia 
+El presente EC describe las habilidades que debe demostrar la persona que se apoya de las 
+herramientas de Inteligencia Artificial Generativa  (IAGen) para  diseñar una estrategia de 
+aprendizaje, elaborar un material o recurso educativo y diseñar un instrumento de evaluación del 
+aprendizaje con apoyo de IAGen. 
+ 
+Nivel en el Sistema Nacional de Competencias: Tres 
+Desempeña actividades tanto programadas rutinarias como impredecibles. Recibe orientaciones 
+generales e instrucciones específicas de un superior. Requiere supervisar y orientar a otros 
+trabajadores jerárquicamente subordinados. 
+ 
+Comité de Gestión por Competencias que lo desarrolló 
+de Tecnologías de la Información y la Comunicación para la Educación del ILCE 
+ 
+Fecha de aprobación por el Comité 
+Técnico del CONOCER: 
+ Fecha de publicación en el Diario Oficial de 
+la Federación 
+ 
+ 
+ 
+  
+Periodo sugerido de 
+revisión/actualización del EC: 
+  
+3 Años   
+ 
+ 
+=== Página 2 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+2 de 11 
+ 
+Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación 
+de Ocupaciones (SINCO) 
+Grupo unitario 
+2711 Auxiliares y técnicos en pedagogía y en educación.   
+Clasificación según el sistema de Clasificación Industrial de América del Norte (SCIAN) 
+Sector: 
+61 Servicios educativos. 
+Subsector: 
+611 Servicios educativos. 
+Rama: 
+6117 Servicios de apoyo a la educación. 
+Subrama: 
+61171 Servicios de apoyo a la educación. 
+Clase: 
+611710 Servicios de apoyo a la educación. 
+ 
+El presente EC, una vez publicado en el Diario Oficial de la Federación, se integrará en el Registro 
+Nacional de Estándares de Competencia que opera el CONOCER a fin de facilitar su uso y 
+consulta gratuita. 
+Organizaciones participantes en el desarrollo del Estándar de Competencia 
+ Coordinación de Universidad Abierta y Educación Digital (CUAED). 
+ Instituto Latinoamericano de la Comunicación Educativa.  
+ Universidad Abierta y a Distancia de México (UnADM). 
+ 
+ 
+Aspectos relevantes de la evaluación 
+Detalles de la práctica  Para demostrar la competencia en este EC, se recomienda que 
+se lleve a cabo en el lugar de trabajo y durante su jornada laboral; 
+sin embargo, pudiera realizarse de forma simulada si el área de 
+evaluación cuenta con los materiales, insumos, e infraestructura, 
+para llevar a cabo el desarrollo de todos los criterios de 
+evaluación referidos en el EC. 
+  Esta evaluación puede llevarse a cabo de manera remota a 
+través de herramientas de comunicación síncrona para lo que se 
+deberán cubrir los lineamientos del CONOCER para ejecutar las 
+evaluaciones a distancia; contar con las condiciones adecuadas 
+de visualización y audio que propicie la correcta interacción entre 
+el evaluador y el candidato, así como personal de apoyo, lo s 
+materiales, y recursos. Se recomienda apoyarse en el uso de 
+herramientas y aplicaciones digitales para este fin. 
+Apoyos/Requerimientos  Computadora. (Se recomienda Procesador Core i5 o mayor o su 
+equivalente en otras marcas, 16 MB memoria RAM, tarjeta 
+gráfica de gama media, DD sólido). 
+ Conexión a Internet. (De al menos 50 Mbps subida y bajada) 
+=== Página 3 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+3 de 11 
+ 
+ Acceso a la(s) herramienta(s) y/o plataforma de IA de 
+paga/Gratuita ilimitada. 
+ 
+Duración estimada de la evaluación 
+ 1 hora en gabinete y 2 horas en campo, totalizando 3 horas.  
+ 
+Referencias de información. 
+ Caballero Toro, Á. (2023). Inteligencia Artificial Generativa en Educación: Impulsando 
+la Creatividad Estudiantil. Universidad Miguel Hernández. 
+https://dspace.umh.es/bitstream/11000/32744/1/TFM%20Caballero%20Toro%2C%20
+%C3%81lvaro.pdf 
+ 
+ Caldeiro, G. (2023). Inteligencia artificial generativa y educación: hacia un nuevo 
+paradigma. 
+https://www.researchgate.net/publication/380744023_Inteligencia_artificial_generativa
+y_educacion_hacia_un_nuevo_paradigma_Generative_artificial_intelligence_and_edu
+cation_towards_a_new_paradigm 
+ 
+ Calderón Vivar, R. (2024). Uso de herramientas digitales multimodales para la 
+educación abierta, con un sentido holístico y teleológico a través del uso 
+hiperreferencial de una multiplataforma digital educativa. Universidad Veracruzana. 
+https://www.uv.mx/personal/rcalderon/2024/01/26/uso-de-herramientas-digitales 
+multimodales-para-la-educacion-abierta-con-un-sentido-holistico-y-teleologico-a-
+traves-del-uso-hiperreferencial-de-una-multiplataforma-digital-educativa/  
+ 
+ García-Peñalvo, F. J. (2024). Inteligencia artificial generativa y educación: Un análisis 
+desde múltiples perspectivas. Education in the Knowledge Society, 25, e31942. 
+https://revistas.usal.es/tres/index.php/eks/article/download/31942/29746/120338 
+ 
+ Hinojosa Mamani, J. (2023). Bitácora de herramientas digitales: La inteligencia artificial 
+en la investigación y las producciones académicas. Editorial Científica. 
+https://downloads.editoracientifica.com.br/books/978-65-5360-555-8.pdf 
+ 
+ López Acosta, M. (2024). Espacios itinerantes de innovación educativa: colaboración 
+entre instituciones de educación superior, caso Red de Innovación Educativa RIE 360. 
+DIDAC, (84 JUL-DIC), 68–74. 
+https://didac.ibero.mx/index.php/didac/article/view/213 
+ 
+ Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura 
+(OEI). (2024). Inteligencia artificial y educación: Insumos para  su abordaje desde 
+Iberoamérica. 
+https://oei.int/wp-content/uploads/2024/12/libro-inteligencia-artificial-y-educacion-
+insumos-para-su-abordaje-desde-iberoamerica.pdf  
+=== Página 4 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+4 de 11 
+ 
+ 
+ UNESCO. (2023). Guía para el uso de IA generativa en educación e investigación. 
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. 
+https://unesdoc.unesco.org/ark:/48223/pf0000389227/PDF/389227spa.pdf.multi 
+  
+=== Página 5 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+5 de 11 
+ 
+II.- Perfil del Estándar de Competencia 
+ 
+Estándar de Competencia  Elemento 1 de 3 
+Elaboración de materiales educativos con 
+apoyo de herramientas de inteligencia 
+artificial generativa (IAGen) 
+ Diseñar a través de prompts una estrategia de 
+aprendizaje con apoyo de herramientas de 
+inteligencia artificial generativa (IAGen). 
+ 
+ Elemento 2 de 3 
+ Crear material educativo con apoyo de 
+herramientas de inteligencia artificial generativa 
+(IAGen) alineado con la estrategia de 
+aprendizaje definida. 
+ 
+ Elemento 3 de 3 
+ Diseñar un instrumento de evaluación del 
+aprendizaje, alineado con el material educativo 
+diseñado, con apoyo de herramientas de 
+inteligencia artificial generativa (IAGen). 
+ 
+  
+=== Página 6 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+6 de 11 
+ 
+III.- Elementos que conforman el Estándar de Competencia. 
+Referencia Código Titulo 
+1 de 3 E5289 Diseñar a través de prompts una estrategia de aprendizaje 
+con apoyo de herramientas de inteligencia artificial 
+generativa (IAGen). 
+   
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS. 
+1. Aplica la/s herramienta/s de IAGen  para diseñar a través de prompts una estrategia de 
+aprendizaje de una clase/sesión/asignatura: 
+ Justificando la elección del uso de la herramienta de IAGen en el diseño de la estrategia de 
+aprendizaje, 
+ Introduciendo el prompt inicial en la herramienta de IAGen seleccionada, 
+ Solicitando a través de la interfaz de entrada de la herramienta de IAGen, la generación de una 
+propuesta que considere los siguientes elementos de una estrategia de aprendizaje: actividades 
+de aprendizaje, recursos didácticos, técnicas de aprendizaje, forma evaluación, duración, 
+ Interactuando/refinando/ajustando iterativamente e incorporando ejemplos multimodales para 
+obtener una respuesta alineada con el objetivo didáctico, 
+ Explicando las razones que justifican cada una de las iteraciones, y 
+ Argumentando la pertinencia didáctica del resultado final obtenido considerando las 
+necesidades de los estudiantes/participantes. 
+ 
+La persona es competente cuando presenta los siguientes: 
+PRODUCTOS 
+1. El prompt inicial para generar una primera propuesta de diseño de la estrategia de aprendizaje 
+con apoyo de la herramienta de IAGen: 
+ Indica por medio de verbos la acción que se solicita generar, 
+ Contiene palabras clave para ayudar a delimitar el resultado en relación con la estrategia de 
+aprendizaje por desarrollar, 
+ Está escrito en un lenguaje directo y conciso, 
+ Especifica el tipo de información del resultado a obtener  en la estrategia de aprendizaje por 
+desarrollar, considerando: objetivos de aprendizaje, características del perfil de l os 
+participantes y el contenido que se desea abordar, 
+ Especifica el formato y la longitud/extensión de la entrega del resultado esperado/que se 
+espera obtener, y 
+ Especifica el estilo/tono del resultado esperado/que se espera obtener. 
+ 
+2. La estrategia de aprendizaje de la sesión/clase/signatura diseñada con apoyo de la 
+herramienta de IAGen:  
+ Contiene el título, 
+ Menciona el perfil de los estudiantes/participantes, 
+ Incluye el tema/temario, 
+ Contiene propósitos/competencias/objetivo general y/o particular(es) de aprendizaje, 
+=== Página 7 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+7 de 11 
+ 
+ Contiene las actividades de aprendizaje alineadas con el propósito/competencia /objetivo 
+general y/o particular/es de aprendizaje,  
+ Establece la duración prevista para implementar la estrategia,   
+ Describe el tipo de interacciones con el contenido entre los estudiantes/participantes, 
+ Describe los recursos/materiales/medios que se utilizarán, y 
+ Describe la forma de evaluación de aprendizaje. 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS NIVEL 
+1. Consideraciones éticas del uso de la IAGen en la educación: Conocimiento 
+ Privacidad de datos.  
+ Plagio.  
+ Veracidad de la información generada.  
+ Créditos y citación.  
+2. Discriminación de los sesgos y alucinaciones en la IAGen. Conocimiento 
+ 
+ACTITUDES/HÁBITOS Y VALORES 
+1. Perseverancia: La manera en que ajusta de forma reiterada el prompt inicial 
+hasta lograr el diseño de la estrategia de aprendizaje que 
+satisfaga el objetivo planteado. 
+ 
+GLOSARIO  
+1. Ejemplos Multimodales: La manera en que se combinan uno o varios tipos contenido al 
+mismo tiempo, como textos, imágenes, audios, videos y 
+representación gráfica de datos, para generar una respuesta. 
+  
+2. Estilo/Tono: La manera en que se solicita a la IAGen para generar un 
+contenido adaptado a un contexto o audiencia específica, 
+por ejemplo: lenguaje coloquial, formal, académico, 
+técnico, entre otros 
+ 
+3. IAGen: La manera en que un modelo de IA que crea contenido 
+nuevo como textos, imágenes, audios, videos o código a 
+partir de indicaciones (prompts) en le nguaje que usamos 
+los humanos para comunicarnos 
+ 
+4. Interfaz de entrada Medio por el cual el usuario introduce información en un 
+sistema de IA Gen. Puede incluir texto, voz, imágenes o 
+gestos, lo que se conoce como interfaz multimodal. 
+=== Página 8 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+8 de 11 
+ 
+5. Iteraciones: La manera en que se ajustan y refinan progresivamente 
+las indicaciones que se proporcionan a una herramienta 
+de IAGen. Cada iteración permite adaptar parámetros, 
+corregir y afinar el funcionamiento del sistema para lograr 
+mayor precisión en sus resultados 
+6. Metodología didáctica: La manera en que se presenta el conjunto de técnicas, 
+estrategias y procedimientos que se utilizan para facilitar 
+el proceso de enseñanza y aprendizaje 
+7. Pertinencia didáctica: Se refiere a la adecuación de los métodos, recursos y 
+estrategias de enseñanza al contexto específico de los 
+estudiantes/participantes y los objetivos de aprendizaje. 
+8. Prompt: La manera en que se proporcionan instrucciones en 
+lenguaje natural para que la IAGen produzca salidas o 
+respuestas alineadas con un resultado determinado 
+ 
+  
+=== Página 9 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+9 de 11 
+ 
+Referencia Código Titulo 
+2 de 3 E5290 Crear material educativo con apoyo de herramientas de 
+inteligencia artificial generativa (IAGen) alineado con la 
+estrategia de aprendizaje definida. 
+ 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+DESEMPEÑOS: 
+1. Aplica la herramienta de IAGen para generar a través de prompts un material educativo de la 
+estrategia de aprendizaje diseñada: 
+ Explicando las razones de la elección del material educativo a generar y la herrami enta de 
+IAGen por utilizar, 
+ Introduciendo el prompt inicial en la herramienta de IAGen seleccionada, 
+ Interactuando/refinando/ajustando iterativamente para obtener un material educativo alineado 
+con el objetivo didáctico, 
+ Solicitando a la herramienta de la IAGen referencias académicas para sustentar el contenido 
+educativo,  
+ Comprobando la confiabilidad/veracidad/pertinencia de las referencias proporcionadas por la 
+herramienta de la IAGen a través de recursos disponibles en línea, 
+ Explicando las razones que justifican cada una de las iteraciones, 
+ Argumentando cómo determinó la confiabilidad/veracidad/pertinencia del contenido final del 
+material educativo, 
+ Argumentando la pertinencia didáctica del resultado final obtenido considerando las 
+necesidades de los estudiantes/participantes. 
+ 
+PRODUCTOS 
+ 
+1. El material educativo elaborado con apoyo de la/s herramienta/s de IAGen:  
+ Corresponde con la estrategia de aprendizaje diseñada y al menos uno de sus objetivos, y 
+ Se presenta en el formato legible/audible/visible, acorde al medio o recurso utilizado. 
+  
+2. La ficha descriptiva de uso del material educativo elaborado con apoyo de la herramienta de 
+IAGen: 
+ Incluye el título/nombre del material educativo desarrollado, 
+ Contiene una breve descripción del contexto educativo donde se aplica,  
+ Incluye el propósito(s)/objetivo(s) de aprendizaje/competencia por desarrollar, mencionando 
+una acción específica y medible (verbo) y la finalidad de (para qué), 
+ Contiene el perfil de los participantes, 
+ Incluye las instrucciones de uso para los estudiantes/participantes, 
+ Contiene la declaratoria de uso de la herramienta de IAGen utilizada en la elaboración del 
+material educativo, 
+ Describe la forma de interacción/secuencia que se propone para su uso, 
+ Incluye la forma de evaluación del aprendizaje esperado, 
+ Describe los requerimientos pedagógicos del recurso, considerando la naturaleza disciplinar, el 
+perfil del estudiantado, y 
+ Refiere al menos una fuente confiable utilizada para la producción del material educativo.  
+=== Página 10 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+10 de 11 
+ 
+ 
+La persona es competente cuando posee los siguientes 
+CONOCIMIENTOS NIVEL 
+1. Principios didácticos para la creación de materiales educativos. Conocimiento. 
+ 
+GLOSARIO  
+1. Declaratoria de uso: Se refiere al texto que menciona el nombre de la IAGen  
+utilizada y describe el propósito de su empleo, con el fin 
+de reconocer la asistencia tecnológica, así como promover 
+la transparencia e integridad académica, manifestando 
+que quien declara valida el resultado obtenido. 
+2. Fuente confiable: Se refiere al conjunto de referencias (tanto académicas 
+como institucionales comprobables y verificadas) usadas 
+para sustentar la elaboración de materiales educativos. 
+ 
+  
+=== Página 11 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+F21-COOPYD-01 
+Versión: 
+08 
+Página: 
+11 de 11 
+ 
+Referencia Código Titulo 
+3 de 3 E5291 Diseñar un instrumento de evaluación del aprendizaje, 
+alineado con el material educativo diseñado, con apoyo de 
+herramientas de inteligencia artificial generativa (IAGen). 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando demuestra los siguientes: 
+PRODUCTOS 
+1 El instrumento de evaluación elaborado con apoyo de la herramienta IAGen: 
+ Corresponde con el material educativo propuesto, 
+ Contiene el título del material educativo que sirve de referencia para la evaluación, 
+ Contiene las indicaciones para el estudiante/ participante, 
+ Contiene los indicadores/criterios/elementos claves para la evaluación y el puntaje asignado a 
+cada uno, de acuerdo con el tipo de instrumento de evaluación, e 
+ Incluye el espacio para indicar la valoración/calificación final. 
+ 
+La persona es competente cuando posee los siguientes 
+CONOCIMIENTOS NIVEL 
+1 Importancia de la evaluación del aprendizaje. Conocimiento. 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

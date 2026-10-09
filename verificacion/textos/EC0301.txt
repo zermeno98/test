@@ -1,0 +1,652 @@
+Fuente: https://ciees.edu.mx/documentos/estandares/EC0301.pdf
+
+=== Página 1 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+1 de 11 
+ 
+I.- Datos Generales  
+Código Título 
+EC0301 Diseño de cursos de formación del capital humano de manera presencial  grupal, sus instrumentos de evaluación y manuales del curso. 
+Propósito del Estándar de Competencia: 
+Servir como referente para la evaluación y certificación de las personas que diseñan cursos de 
+formación del capital humano de manera presencial  grupal, diseñando cursos de capacitación 
+presenciales, diseñando instrumentos para la evaluación de cursos de capacitación presenciales 
+y desarrollando manuales del curso de capacitación presenciales. 
+ 
+Es también referente para el desarrollo de programas de capacitación y de formación basados 
+en el EC. 
+ 
+El presente EC se refiere únicamente a funciones para cuya realización no se requiere por 
+disposición legal, la posesión de un título profesional, por lo que para certificarse en este EC no 
+deberá ser requisito el poseer dicho documento académico. 
+Descripción del Estándar de Competencia: 
+Es referente a todas las actividades que la persona lleva a cabo durante el diseño de cursos de 
+formación del capital humano diseño, diseñan cursos de capacitación presenciales, elaborando 
+la carta descriptiva y seleccionando las técnicas de instrucción, diseñan instrumentos para la 
+evaluación de cursos de capacitación presencia les, elaborando los reactivos del instrumento de 
+evaluación y diseñando el instrumento para la evaluación de satisfacción del curso, y desarrollan 
+manuales del curso de capacitación presenciales, elaborando el manual del instructor y 
+seleccionando las fuentes de información del manual del participante. 
+ 
+También establece los conocimientos teóricos, básicos y prácticos con los que debe contar para 
+realizar un trabajo, así como las actitudes relevantes en su desempeño. 
+ 
+El presente Estándar de Competencia se fundamenta en criterios rectores de legalidad, 
+competitividad, libre acceso, respeto, trabajo digno y responsabilidad social. 
+ 
+Nivel en el Sistema Nacional de Competencias: Tres 
+Desempeña actividades tanto programadas, rutinarias como impredecibles. Recibe orientaciones 
+generales e instrucciones específicas de un superior. Requiere supervisar y orientar a otros 
+trabajadores jerárquicamente subordinados.  
+ 
+Comité de Gestión por Competencias que lo desarrolló: 
+Asociación Mexicana de Capacitación de Personal y Empresarial. AMECAP, A.C. 
+ 
+Fecha de aprobación por el Comité 
+Técnico del CONOCER:  Fecha de publicación en el D.O.F: 
+03 de octubre de 2012  28 de noviembre de 2012 
+Periodo de revisión/actualización del EC:  Tiempo de Vigencia del Certificado de competencia en este EC: 
+4 años  4 años 
+=== Página 2 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+2 de 11 
+ 
+ 
+Ocupaciones relacionadas con este EC de acuerdo con el Catálogo Nacional de 
+Ocupaciones 
+Módulo/Grupo ocupacional 
+Capacitadores e instructores 
+ 
+Ocupaciones asociadas 
+Capacitador 
+Facilitador 
+Instructor 
+ 
+Clasificación según el sistema de Clasificación Industrial de América del Norte (SCIAN) 
+Sector: 
+61 Servicios educativos  
+Subsector: 
+611 Servicios educativos  
+Rama: 
+6117 Servicios de apoyo a la educación  
+Subrama: 
+61171 Servicios de apoyo a la educación  
+Clase: 
+611710 Servicios de apoyo a la educación  
+El presente Estándar de Competencia, una vez publicado en el Diario Oficial de la Federación, 
+se integrará en el Registro Nacional de Estándares de Competencia que opera el CONOCER a 
+fin de facilitar su uso y consulta gratuita. 
+Empresas e Instituciones participantes en el desarrollo del EC 
+• Asociación Mexicana de Capacitación de Personal y Empresarial A.C. ( AMECAP)  
+• Ixitia S.C. 
+• CECATI 135 
+• Centro de Investigación y Desarrollo de la Formación para el Trabajo (CIDFORT) 
+• Instituto Mexicano del Petróleo (IMP) 
+• Centro Nacional de Evaluación para la  Educación Superior A.C. (CENEVAL) 
+• Capithum S. C. 
+• Grupo Orsa 
+• Integración de Servicios de Consultoría B & B S.A. de C.V. 
+• Grupo Capinte 
+ 
+Relación con otros estándares de competencia: 
+Estándares relacionados 
+• EC0050 Diseño de cursos de capacitación para ser impartidos mediante internet. 
+• EC0217 Impartición de cursos de formación del capital humano de manera presencial 
+grupal. 
+Aspectos relevantes de la evaluación 
+=== Página 3 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+3 de 11 
+ 
+Detalles de la práctica: • Para demostrar la competencia en este Estándar de 
+Competencia, se recomienda que se lleve a cabo en el lugar 
+de trabajo y durante la jornada laboral, sin embargo pudiera 
+realizarse de manera simulada en un área experimental con la 
+infraestructura necesaria para llevar a cabo el desarrollo de 
+todos los criterios de evaluación referidos en el Estándar de 
+Competencia. 
+Apoyos/Requerimientos: • Manual del participante y manual del instructor. 
+• El manual del instructor deberá incluir: La carta descriptiva, al 
+menos un instrumento para evaluar habilidades, al menos un 
+instrumento para evaluar conocimientos y un instrumento para 
+evaluar la satisfacción del curso. 
+ 
+Duración estimada de la evaluación 
+• Evaluación en campo 1 hora  
+• Evaluación en gabinete 2 horas 
+ 
+II.- Perfil del Estándar de Competencia 
+Estándar de Competencia  Elemento 1 de 3 
+Diseño de cursos de formación del 
+capital humano de manera presencial  
+grupal, sus instrumentos de evaluación y 
+manuales del curso. 
+ 
+ 
+Diseñar cursos de formación del capital 
+humano de manera presencial grupal. 
+Elemento 2 de 3 
+ 
+Diseñar instrumentos para la evaluación de 
+cursos de formación del capital humano de 
+manera presencial grupal.  
+ 
+Elemento 3 de 3 
+ 
+Diseñar manuales del curso de formación del 
+capital humano de manera presencial grupal. 
+=== Página 4 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+4 de 11 
+ 
+ 
+III.- Elementos que conforman el Estándar de Competencia 
+Referencia Código Título 
+1 de 3 E1023 Diseñar cursos de formación del capital humano de manera 
+presencial grupal. 
+CRITERIOS DE EVALUACIÓN 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+1. La carta descriptiva elaborada: 
+• Se presenta en formato digital y/o impreso, 
+• Indica el nombre del curso, 
+• Contiene el campo para registrar el nombre de la persona que diseñó el curso, 
+• Contiene el campo para registrar la (s) fecha (s) de impartición del curso, 
+• Describe los requisitos de ingreso de los participantes, 
+• Indica el número de participantes, 
+• Contiene los objetivos de aprendizaje, 
+• Especifica los momentos de capacitación, 
+• Describe el contenido del curso, 
+• Especifica las técnicas de instrucción, 
+• Especifica las técnicas grupales, 
+• Describe las actividades del proceso de instrucción-aprendizaje, 
+• Describe las estrategias de evaluación de los aprendizajes, 
+• Refiere los materiales didácticos a utilizar, 
+• Establece los tiempos programados para el desarrollo de las actividades, y; 
+• Se presenta sin errores ortográficos. 
+ 
+2. El objetivo general del curso redactado: 
+• Determina el sujeto de aprendizaje, 
+• Indica la conducta, producto, y/o actitud  de aprendizaje a alcanzar por el participante, 
+• Especifica las condiciones de operación, y; 
+• Especifica los límites de tiempo, calidad, exactitud y/o criterio aceptable. 
+ 
+3. Los objetivos particulares y/o específicos elaborados: 
+• Determinan el sujeto de aprendizaje, 
+• Indican la conducta, producto, y/o actitud  de aprendizaje a alcanzar por el participante, 
+• Especifican las condiciones de operación, 
+• Especifican los límites de tiempo, calidad, exactitud y/o criterio aceptable, 
+• Son congruentes con los temas del curso, y; 
+• Son congruentes con las características de los participantes. 
+=== Página 5 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+5 de 11 
+ 
+ 
+4. Los temas y subtemas definidos: 
+• Son congruentes entre sí, 
+• Corresponden con los objetivos de aprendizaje, y; 
+• Se desarrollan en una secuencia de lo simple a lo complejo. 
+ 
+5. Las técnicas de instrucción seleccionadas: 
+• Corresponden con los objetivos de aprendizaje, 
+• Corresponden con los requisitos de ingreso de los participantes, y; 
+• Corresponden con el número de participantes.  
+ 
+6. Las técnicas grupales seleccionadas: 
+• Están planeadas para favorecer la dinámica secuencial del proceso instrucción-aprendizaje, 
+• Corresponden con el perfil del grupo, y; 
+• Corresponden con el número de participantes. 
+ 
+7. Las actividades del proceso de instrucción-aprendizaje definidas: 
+• Corresponden con el nivel de ejecución de los objetivos, 
+• Son congruentes con los temas del curso,  
+• Corresponden con el perfil del grupo, y; 
+• Especifican el desarrollo de las técnicas empleadas.  
+ 
+8. Las estrategias de evaluación determinadas: 
+• Corresponden con los objetivos de aprendizaje, 
+• Contienen los criterios de evaluación a utilizar, 
+• Contienen los instrumentos que se aplicarán en los tres momentos de la evaluación: 
+Diagnóstica, formativa y sumativa, 
+• Menciona los instrumentos a utilizar, y 
+• Describen las evidencias que el participante deberá demostrar como resultado del 
+aprendizaje. 
+ 
+9. Los materiales didácticos seleccionados: 
+• Corresponden con las actividades de la carta descriptiva, 
+• Son congruentes con las características de los participantes, y; 
+• Corresponden con los temas del curso. 
+ 
+La persona es competente cuando posee los siguientes: 
+CONOCIMIENTOS  NIVEL 
+1. Principios de las siguientes teorías del aprendizaje: 
+• Conductismo 
+• Cognitivismo 
+• Constructivismo 
+• Humanismo 
+ 
+ 
+Comprensión 
+2. Principios de educación de adultos: 
+• Necesidad de saber 
+• Disposición para aprender 
+• Motivación para aprender 
+• Recuperación de la experiencia 
+ 
+Conocimiento 
+=== Página 6 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+6 de 11 
+ 
+CONOCIMIENTOS  NIVEL 
+• Desaprendizaje 
+• Aplicación práctica en la vida real 
+ 
+3. Descripción de las siguientes técnicas instruccionales: 
+• Expositiva 
+• Diálogo/discusión 
+• Demostración/ejecución 
+ 
+ 
+Conocimiento 
+4. Descripción de las siguientes técnicas grupales: 
+• Rompehielo 
+• Energetizante 
+• Cierre 
+ 
+ 
+ 
+Conocimiento 
+La persona es competente cuando demuestra las siguientes: 
+ACTITUDES/HÁBITOS/VALORES 
+1. Orden: La manera en que se presentan los temas y subtemas de lo simple 
+a lo complejo. 
+ 
+GLOSARIO 
+1. Carta Descriptiva:  Es el documento que contiene todos los elementos básicos para 
+desarrollar un curso estructurado y organizado para un 
+determinado tiempo, de manera que se cumplan los objetivos de 
+enseñanza – aprendizaje. Anteriormente conocida como guía 
+instruccional. Esta integrada en el manual del instructor. 
+2. Condiciones de 
+operación 
+En la redacción de los objetivos de aprendizaje se refiere a la 
+manera en que se desarrollará una conducta,  producto de 
+aprendizaje,  actitud y/o valor  a alcanzar por el participante. 
+ 
+3. Criterios de 
+evaluación 
+Definen los resultados, características o atributos que se espera 
+cumpla el participante. 
+4. Dominio de 
+aprendizaje 
+afectivo: 
+ 
+Se refiere a la interiorización de una actitud o valor. 
+5. Dominio de 
+aprendizaje 
+cognitivo: 
+Se refiere a todas aquellas conductas en las que predominan los 
+procesos mentales o intelectuales que abarcan desde la 
+memorización hasta la aplicación de criterios y elaboración de 
+juicios de una actividad intelectual compleja. 
+6. Dominio de 
+aprendizaje 
+psicomotriz: 
+ 
+Se refiere a las conductas que se realizan con precisión, exactitud, 
+facilidad, economía del tiempo y esfuerzo.  
+7. Dominios de 
+aprendizaje: 
+Es la clasificación de diversas conductas del individuo que 
+permiten identificar la organización y jerarquización de los 
+=== Página 7 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+7 de 11 
+ 
+procesos para la adquisición de conocimientos. 
+ 
+8. Estrategia de 
+evaluación 
+Es un plan de acción que permite identificar los momentos, 
+criterios, instrumentos y evidencias que se espera cumpla el 
+participante de acuerdo a los objetivos del curso.  
+9. Evaluación 
+diagnóstica 
+Actividad que permite obtener información respecto de las 
+condiciones iniciales del aprendizaje, los conocimientos previos 
+con relación a una determinada competencia y favorece la toma de 
+decisiones para mejorar el proceso de instrucción-aprendizaje. Se 
+realiza al inicio del curso. 
+10. Evaluación 
+formativa  
+Actividad que permite proporcionar una ayuda ajustada a los 
+procesos de construcción que realizan los participantes. Se realiza 
+de forma concurrente con el proceso de instrucción-aprendizaje. 
+11. Evaluación 
+sumativa 
+Actividad que consiste en valorar si el proceso de instrucción-
+aprendizaje fue eficaz para que los participantes logren los 
+objetivos planeados previamente.  
+12. Instrumento de 
+evaluación: 
+Herramienta empleada para obtener datos cuantitativos y/o 
+cualitativos que permitan conocer el grado de acercamiento entre 
+el objetivo del curso y el resultado. Están integrados en el manual 
+del instructor. 
+13. Materiales 
+didácticos 
+Es cualquier material elaborado con la intención de facilitar los 
+procesos de instrucción-aprendizaje. 
+14. Momentos de 
+capacitación: 
+Son las etapas (Encuadre, inicio, desarrollo y cierre) que 
+estructuran el curso. 
+15. Necesidades de 
+capacitación: 
+Se traducen en conocimientos, habilidades o actitudes que deben 
+ser adoptados, desarrollados o modificados para mejorar la calidad 
+del trabajo y la preparación integral del individuo. 
+16. Objetivo específico 
+de aprendizaje: 
+Es la descripción de la conducta, producto, y/o actitud final 
+esperada del participante al término de un subtema y dependiendo 
+del curso diseñado puede desarrollarse o no. 
+Se compone de los siguientes elementos: 
+• Sujeto de aprendizaje. 
+• Conducta, producto y/o actitud de aprendizaje a alcanzar 
+por el participante. 
+• Condiciones de operación. 
+• Límites de tiempo, calidad, exactitud y/o criterio aceptable. 
+ 
+17. Objetivo general 
+de aprendizaje: 
+Es la descripción de la conducta, producto, y/o actitud final 
+esperada del participante al término de un curso.  
+Se compone de los siguientes elementos: 
+• Sujeto de aprendizaje. 
+• Conducta, producto y/o actitud de aprendizaje a alcanzar 
+por el participante. 
+• Condiciones de operación. 
+• Límites de tiempo, calidad, exactitud y/o criterio aceptable. 
+ 
+18. Objetivo particular Es la descripción de la conducta, producto, y/o actitud final 
+=== Página 8 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+8 de 11 
+ 
+de aprendizaje: esperada del participante al término de un tema. 
+Se compone de los siguientes elementos: 
+• Sujeto de aprendizaje. 
+• Conducta, producto y/o actitud de aprendizaje a alcanzar 
+por el participante. 
+• Condiciones de operación. 
+• Límites de tiempo, calidad, exactitud y/o criterio aceptable. 
+ 
+19. Técnicas de 
+instrucción: 
+Conjunto de acciones organizadas y sistematizadas que propician 
+el logro de objetivos de aprendizaje. 
+ 
+20. Técnicas grupales: Conjunto de acciones organizadas y sistematizadas, que educan 
+para la convivencia y propician un ambiente favorable dentro del 
+grupo. 
+ 
+Referencia Código Título 
+2 de 3 E1024 Diseñar instrumentos para la evaluación de cursos de 
+formación del capital humano de manera presencial grupal. 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+1. Los instrumentos de evaluación elaborados: 
+• Indican el nombre del curso, 
+• Contienen espacio para registrar el  nombre del instructor, 
+• Contienen espacio para registrar el nombre del participante, 
+• Contienen espacio para registrar la fecha de aplicación, 
+• Detallan las instrucciones de aplicación, 
+• Contienen los reactivos de evaluación, 
+• Incluyen las claves de respuestas para el evaluador y/o instructor, 
+• Corresponden con las estrategias de evaluación mencionadas en la carta descriptiva, 
+• Se presenta en formato digital y/o impreso,  y 
+• Se presentan sin errores ortográficos. 
+ 
+2. Las instrucciones de aplicación de los instrumentos de evaluación elaboradas: 
+• Establecen las condiciones de aplicación, 
+• Establecen los tiempos para la evaluación, 
+• Contienen las indicaciones para el participante, y; 
+• Contienen las indicaciones para el evaluador. 
+ 
+3. Los reactivos del instrumento de evaluación elaborados: 
+• Corresponden con los objetivos de aprendizaje, 
+• Son congruentes con el tipo de instrumento, 
+• Verifican una sola evidencia y/o característica, 
+• Son medibles, e;  
+• Indican su valor.  
+ 
+4. Las claves de respuestas para el evaluador elaboradas: 
+• Contienen las respuestas definidas como correctas, 
+=== Página 9 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+9 de 11 
+ 
+• Indican la ponderación de cada reactivo, y; 
+• Señalan el puntaje total esperado. 
+ 
+5. El instrumento para la evaluación de satisfacción del curso diseñado: 
+• Contiene el espacio para registrar el nombre del curso, 
+• Contiene espacio para registrar el nombre de instructor, 
+• Enuncia las instrucciones generales de aplicación, 
+• Señala la escala de estimación del nivel de satisfacción del curso, 
+• Incluye  los reactivos sobre las características del evento, 
+• Incluye los reactivos sobre  el contenido del curso, 
+• Incluye los reactivos sobre  los materiales didácticos empleados, 
+• Incluye los reactivos sobre el desempeño del instructor, y; 
+• Contiene espacios para  el registro de comentarios. 
+ 
+La persona es competente cuando posee los siguientes: 
+ 
+CONOCIMIENTOS  NIVEL 
+1. Definición de validez y confiabilidad de los 
+instrumentos de evaluación. 
+ 
+ 
+Conocimiento 
+2. Características de los siguientes tipos de 
+instrumentos de evaluación: 
+•  De habilidades y destrezas 
+•  De conocimiento 
+ 
+ 
+Conocimiento 
+ 
+  
+Referencia Código Título 
+3 de 3 E1025 Diseñar manuales del curso de formación del capital humano 
+de manera presencial grupal. 
+ 
+La persona es competente cuando obtiene los siguientes: 
+PRODUCTOS 
+1. El manual del participante elaborado: 
+• Incluye nombre del curso, 
+• Menciona el nombre de la persona que diseñó el curso, 
+• Contiene el índice del curso, 
+• Contiene la presentación del manual, 
+• Contiene la introducción, 
+• Señala el objetivo general del curso acorde a la carta descriptiva, 
+• Señala los objetivos particulares y/o específicos del curso acordes a la carta descriptiva, 
+• Desglosa los temas, 
+• Indica las fuentes de información documental o tomadas de la internet, 
+• Se presenta en formato digital y/o impreso, y; 
+• Se presenta sin errores ortográficos. 
+ 
+=== Página 10 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+10 de 11 
+ 
+2. La presentación del manual del participante elaborada: 
+• Contiene la bienvenida al participante, 
+• Ofrece recomendaciones acerca de la forma de utilizar el manual, y; 
+• Describe la organización del manual. 
+ 
+3. La introducción del manual del participante desarrollada: 
+• Contiene un resumen de los temas, 
+• Señala el beneficio que el curso aportará a los participantes, 
+• Establece el enfoque didáctico del curso, y; 
+• Es congruente con el objetivo de aprendizaje, 
+ 
+4. Los temas desarrollados del manual del participante: 
+• Corresponden con la carta descriptiva, 
+• Son congruentes con los objetivos de aprendizaje, 
+• Mencionan los objetivos particulares y/o específicos, 
+• Están desarrollados de lo simple a lo complejo, 
+• Describen las actividades necesarias para el desarrollo del tema, 
+• Contienen las síntesis y/o conclusiones del contenido de los temas, e; 
+• Incluyen una forma  de evaluación por tema. 
+ 
+5. Las fuentes de información documental o tomadas  de la internet, del manual del participante:  
+• Corresponden con los objetivos del curso, 
+• Especifican el nombre del autor, 
+• Señalan el año de publicación y/o la fecha de acceso al documento, 
+• Indican el título de la obra, 
+• Refieren la editorial y/o la URL, y; 
+• Señalan el país de origen de la obra. 
+ 
+6. El manual del instructor elaborado: 
+• Incluye el nombre del curso, 
+• Incluye el nombre de la persona que diseñó el curso, 
+• Contiene el índice, 
+• Cuenta con una introducción,  
+• Incluye la carta descriptiva, 
+• Describe los requerimientos del lugar de capacitación, 
+• Contiene la sugerencias para desarrollar los temas, 
+• Incluye los instrumentos de evaluación,  
+• Incluye la clave de respuestas de los cuestionarios, 
+• Señala las fuentes de información documental y/o tomadas de la internet, 
+• Se presenta digitalizado y/o impreso, y 
+• Se presenta sin errores ortográficos. 
+ 
+7. La introducción del manual del instructor elaborada: 
+• Explica el propósito del manual, 
+• Expone la estructura del curso, y 
+• Expone la modalidad del curso: Presencial, en línea, tutorado, autodidacta, mixto. 
+  
+8. Los requerimientos del lugar de capacitación elaborados: 
+• Señalan las características del lugar de capacitación, 
+=== Página 11 ===
+ESTÁNDAR DE COMPETENCIA 
+ 
+Formato de Estándar de Competencia 
+N-FO-02 
+Versión: 
+6.0 
+Página: 
+11 de 11 
+ 
+• Mencionan el material de apoyo a utilizar, 
+• Especifican el equipo necesario para desarrollar el curso, y; 
+• Proporcionan las recomendaciones de uso del material de apoyo.  
+ 
+9. Los temas del manual del instructor: 
+• Corresponden con los mencionados en la carta descriptiva, 
+• Ofrecen sugerencias de los apoyos necesarios para la explicación de cada tema, 
+• Describen las técnicas, actividades y/o ejemplos para el desarrollo de cada tema, y 
+• Describen formas, criterios y tiempos de evaluación para cada tema. 
+ 
+10. Las fuentes de información documental y/o de internet del manual del instructor integradas:  
+• Corresponden con los objetivos del curso, 
+• Especifican el nombre del autor, 
+• Señalan el año de publicación y/o la fecha de acceso al documento, 
+• Indican el título de la obra, 
+• Refieren la editorial y/o la URL, y; 
+• Señalan el país de origen de la obra. 
+ 
+GLOSARIO 
+1. Clave de 
+respuestas: 
+Documento con las respuestas correctas, del cual se apoyará el 
+instructor para revisar los instrumentos de evaluación. 
+ 
+2. Enfoque Didáctico: Modelo de instrucción que genera estrategias de formación y 
+evaluación al servicio del logro de aprendizajes significativos en 
+espacios de formación del capital humano. 
+ 
+3. Manual del 
+instructor: 
+Es el documento que le permitirá a la persona que se encuentra 
+frente a grupo, contar con los requerimientos necesarios para 
+desarrollar su curso. Comprende recursos materiales y de equipo 
+así como el diseño de su curso contenido  en una carta descriptiva 
+y el desarrollo temático además de los instrumentos de evaluación 
+y de satisfacción del curso. 
+ 
+4. Manual del 
+participante:  
+Es el documento que contiene los temas de un curso con una 
+introducción, desarrollo de temas, ejemplos, ejercicios y 
+conclusiones. 
+5. URL Localizador de recursos uniforme, es la cadena de caracteres con 
+la cual se asigna una dirección única a cada uno de los recursos 
+de información disponibles en la Internet. Existe un URL único 
+para cada página de cada uno de los documentos de la World 
+Wide Web. 
+ 

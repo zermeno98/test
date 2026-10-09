@@ -1,0 +1,809 @@
+Fuente: https://web.archive.org/web/2026id_/https://www.conocer.gob.mx/contenido/seccionesExtras/transparencia/pdfs/61.pdf
+
+=== Página 1 ===
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL DE INTEGRACIÓN Y OPERACIÓN DEL COMITÉ DE 
+VALIDACIÓN DE LOS COMITÉS DE GESTIÓN POR 
+COMPETENCIAS Y DE LOS ESTANDARES DE COMPETENCIA  
+(COVACEC) 
+N-OPCV-MT-01 
+ 
+DIRECCIÓN GENERAL ADJUNTA DE PROMOCIÓN Y 
+DESARROLLO 
+ 
+2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== Página 2 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 1 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+Índice 
+ Página 
+ 
+1. INTRODUCCIÓN 
+ 
+ 
+2  
+ 
+2. OBJETIVO DEL MANUAL 
+ 
+ 
+2  
+ 
+3. GLOSARIO 
+ 
+ 
+2  
+4. REFERENTES NORMATIVOS Y CRITERIOS GENERALES  
+4.1. DE LAS REGLAS GENERALES Y CRITERIOS  PARA LA INTEGRACIÓN Y 
+OPERACIÓN DEL SISTEMA NACIONAL DE COMPETENCIAS. 
+4.2. DE LOS CRITERIOS PARA  DETERMINAR LA PROCED ENCIA DE LA 
+INTEGRACIÓN, REESTRUCTURACIÓN O R ENOVACIÓN DE LOS COMITÉS 
+CGC.  
+ 
+4.2.1. ALCANCE. 
+4.2.2. REPRESENTATIVIDAD. 
+4.2.3. INTERLOCUCIÓN. 
+4.3. DE LOS CRITERIOS PARA  PRESENTAR A LA APROB ACIÓN DEL COMITÉ 
+TÉCNICO DEL CONOCER LAS PROPUESTAS Y PROYECTOS DE EC. 
+4.4. DE LOS CRITERIOS PARA  PRESENTAR A LA APROB ACIÓN DEL COMITÉ 
+TÉCNICO DEL CONOCER LAS PROPUESTAS Y PROYECTOS DE ECC 
+4.5 DE LOS CRITERIOS PARA  AUTORIZAR ENTIDADES DE CERTIFICACIÓN Y 
+EVALUACIÓN Y ORGANISMOS CERTIFICADORES PARA O PERAR 
+ESTÁNDARES DE COMPETENCIA 
+ 
+3 
+ 
+3 
+ 
+ 
+6 
+ 
+6 
+6 
+7 
+ 
+7 
+ 
+8 
+ 
+ 
+ 
+8 
+5. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COVACEC 
+5.1. INTEGRACIÓN DEL COVACEC. 
+5.2. FUNCIONES GENERALES DEL COVACEC. 
+5.3. FUNCIONES DE LOS INTEGRANTES DEL COVACEC.  
+5.3.1. DEL (DE LA) PRESIDENTE. 
+5.3.2. DEL (DE LA) VICEPRESIDENTE. 
+5.3.3. DEL (DE LA) SECRETARIO(A) TÉCNICO(A). 
+5.3.4. DE LAS (LOS) VOCALES.  
+5.3.5. DE LAS (LOS) VOCALES PONENTES. 
+5.3.6  DE LAS (LOS) INVITADAS(OS)  
+5.4. DE LA VOTACIÓN DE (LAS) LOS INTEGRANTES DEL COVACEC. 
+5.5. DEL FUNCIONAMIENTO DEL COVACEC.  
+5.5.1. DE LAS SESIONES DEL COMITÉ. 
+5.5.2. DECLARACIÓN DE QUÓRUM DE LAS SESIONES DEL COMITÉ. 
+ 
+9 
+9 
+9 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+11 
+ 
+6. CASOS NO PREVISTOS 
+ 
+11 
+7. DOCUMENTOS DE REFERENCIA 
+ 
+12 
+8. CONTROL DE CAMBIOS Y REGISTRO DE EMISIÓN 
+ 
+12 
+9. ARTÍCULOS TRANSITORIOS 12 
+=== Página 3 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 2 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+ 
+1. INTRODUCCIÓN  
+ 
+El presente Manual forma parte de los insumos que el Consejo Nacional de Normalización y Certificación de Competencias 
+Laborales tiene para desarrollar sus actividades inte rnas, en este caso, la Validación de los Comités de Gestión por 
+Competencias y los Estándares de Competencia.  
+ 
+2. OBJETIVO DEL MANUAL 
+ 
+Establecer los lineamientos que regirán la integración y operación del Comité de Validación de los Comités de Gestión po r 
+Competencias y de los Estándares de Competencia (COVACEC).  
+ 
+3. GLOSARIO 
+ 
+Comité de Gestión por Competencias (CGC):  Comité de Normalización de Competencia Laboral, que es el grupo de 
+personas, empresa o empresas, organización u organizaciones, representa tivas de los sectores productivo, social o público, 
+por su número de trabajadoras(es), por su participación en el mercado laboral y/o por el reconocimiento de alcance nacional 
+del sector, reconocido por el CONOCER, que funge como la instancia responsable p ara promover el modelo de gestión por 
+competencias en las organizaciones del sector que representen. 
+ 
+Comité Técnico del CONOCER. Es el Órgano de Gobierno, el cual se integra por los (las) Titulares de las Secretarías de: 
+Educación Pública; Hacienda y Créd ito Público; Economía; Trabajo y Previsión Social; Agricultura, Ganadería, Desarrollo 
+Rural, Pesca y Alimentación; Energía y Turismo; por el (la) Titular de la Director General del Instituto Nacional para la 
+Educación de los Adultos; por un(a) representant e de la Subsecretaría de Educación Media Superior de la Secretaría, y por 
+seis representantes de los sectores privado y social. 
+ 
+CONOCER: Consejo Nacional de Normalización y Certificación de Competencias Laborales. 
+ 
+COVACEC: Comité de Validación de los Comités de Gestión por Competencias y de los Estándares de Competencia. 
+ 
+Empresa de clase mundial : Significa competir con éxito y lograr utilidades en un ambiente de competencia mundial, es 
+decir en mercados nacionales en donde operan empresas extranjeras y/o  en mercados internacionales, y/o demostrar 
+contar con las mejores prácticas (metodologías, sistemas, herramientas, técnicas aplicadas y probadas con resultados 
+sobresalientes en empresas reconocidas como de clase mundial) de la industria o sector.  
+ 
+Entidades de Certificación y Evaluación de Competencias:  Persona moral, organización o institución pública o privada, 
+unidad administrativa de alguna Dependencia, Entidad o su similar en los niveles de gobierno Federal, Estatal o Municipal, 
+acreditada por el CO NOCER para capacitar, evaluar y/o certificar las competencias laborales de las personas, con base en 
+Estándares de Competencia inscritos en el Registro Nacional de Estándares de Competencia, así como para acreditar, 
+previa autorización del CONOCER, Centros  de Evaluación y/o Evaluadores Independientes en uno o varios Estándares de 
+Competencia, inscritos en el Registro Nacional de Estándares de Competencia en un periodo determinado.  
+ 
+Estándar de Competencia (EC): Norma Técnica de Competencia Laboral, que es el documento oficial aplicable en toda la 
+República Mexicana, que servirá como referente para evaluar y certificar la competencia laboral de las personas, y que 
+describirá en términos de resultados, el conjunto de conocimientos, habilidades, destrezas y actitudes a que alude el Artículo 
+45 de la Ley General de Educación y que requiere una persona para realizar actividades en el mercado de trabajo con un 
+alto nivel de desempeño 
+ 
+Estándar de Competencia Cerrado (ECC): Aquel cuya propiedad la conserva la insti tución que lo  desarrolle. Dichos 
+Estándares de Competencia también serán conocidos como Estándares de Competencia de marca o la denominación que 
+determine el Estatuto Orgánico o la normatividad aplicable en la materia del CONOCER. 
+ 
+Estándares de Competencia Cerrados de organizaciones internacionales: Son aquellos que desarrollan organizaciones 
+internacionales con su propia metodología para la estandarización y evaluación de competencias organizaciones 
+internacionales y su certificado tendrá validez en la República Mexicana a través del CONOCER. 
+ 
+=== Página 4 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 3 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+Estándares de Competencia Cerrado s de organizaciones nacionales: Son aquellos que desarrollan organizaciones 
+internacionales con su propia metodología para la estandarización y evaluación de competencias  organizaciones nacionales 
+y su certificado tendrá validez en la República Mexicana a través del CONOCER. 
+ 
+Grandes empresas: Son organizaciones que cumplen con los criterios establecidos para clasificar a las empresas por su 
+tamaño con base número de trabajadores y mon to de ventas anuales en el acuerdo por el que se establece la 
+estratificación de las micro, pequeñas y medianas empresas (Acuerdo publicado por la Secretaría de Economía en el Diario 
+Oficial de la Federación el 30 de junio de 2009). 
+ 
+Organismos Certificadores: Persona moral, organización o institución pública o privada, unidad administrativa de alguna 
+Dependencia, Entidad o su similar en los niveles de gobierno Federal, Estatal o Municipal, acreditada por el CONOCER para 
+certificar las competencias laborale s de las personas, con base en Estándares de Competencia inscritos en el Registro 
+Nacional de Estándares de Competencia, así como para acreditar, previa autorización del CONOCER, Centros de 
+Evaluación y/o Evaluadores Independientes en uno o varios Estándar es de Competencia, inscritos en el Registro Nacional 
+de Estándares de Competencia, durante un periodo determinado.  
+ 
+Organizaciones internacionales:  Se refiere a Empresas o Instituciones de reconocimiento, prestigio y alcance, 
+constituidas en países extranjeros. 
+ 
+Organizaciones nacionales: Se refiere a Empresas o Instituciones de reconocimien to, prestigio y alcance, constituidas en 
+el país. 
+ 
+Prestigio institucional: Significa el renombre y buen crédito que la organización , tanto nacional, como internacional , ha 
+generado en el mercado que atiende y que acredita mediante premios, reconocimientos, certificados, etc. otorgados por 
+terceros reconocidos en el sector. 
+ 
+Reconocimiento i nternacional: Organizaciones, tanto nacionales como internacionales,  con certific aciones reconocidas 
+en más de un país distinto al de México por instituciones gubernamentales, educativas, empresas de clase mundial o firmas 
+líderes de sectores u organismos internacionales. 
+ 
+Sistema Nacional de Competencias (SNC): Sistema Normalizado de Competencia Laboral y Sistema de Certificación de 
+Competencia Laboral. 
+ 
+4. REFERENTES NORMATIVOS Y CRITERIOS GENERALES 
+  
+4.1. De las Reglas Generales y criterios para la integración y operación del Sistema Nacional de Competencias 
+ 
+“Artículo 9. Se entiende  por Comité de Gestión por Competencias al Comité de Normalización de Competencia Laboral 
+integrado por el grupo de personas, empresa o empresas, organización u organizaciones representativas de los sectores 
+productivo, social o público, por su número de t rabajadores, por su participación en el mercado laboral y/o por el 
+reconocimiento de alcance nacional del sector, reconocido por el CONOCER, que funge como la instancia responsable para 
+promover el modelo de gestión por competencias en las organizaciones del sector que representan. 
+ 
+La solicitud de integración de un Comité de Gestión por Competencias deberá realizarse por escrito al CONOCER, el cual 
+validará y aprobará dicha solicitud, para que pueda iniciar operaciones. 
+ 
+Artículo 10.  Los integrantes de los  Comités de Gestión por Competencias deberán ser directivos y líderes de las 
+organizaciones de trabajadores y empleadores que representen. 
+Para su funcionamiento, los Comités de Gestión por Competencias, se organizarán de la siguiente manera: 
+I. Presidente; 
+II. Vicepresidente, y 
+III. Vocales. 
+Los Comités de Gestión por Competencias designarán a su vez, uno o más Grupos Técnicos de Expertos, que se integrarán 
+por directivos, mandos medios y trabajadores de las diferentes áreas de negocios y/o gestión de las empresas u 
+organizaciones que representan, que sean relevantes para el caso, quienes deberán contar con capacidad técnica y 
+experiencia laboral probada, que garanticen el adecuado desarrollo de los Mapas Funcionales, los Estándares de 
+=== Página 5 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 4 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+Competencia, sus corr espondientes Instrumentos de Evaluación de Competencia y sus Mecanismos de Consecuencias de 
+acuerdo con lo establecido en la Guía Técnica correspondiente emitida por el CONOCER. 
+ 
+Artículo 11. Se podrán reconocer Comités de Gestión por Competencias para los  sectores productivo, social y público, que 
+requieran la certificación de competencias de sus trabajadores, con fundamento en el artículo 45 de la Ley General de 
+Educación. 
+ 
+Artículo 12. Los Comités de Gestión por Competencias podrán instalarse y operar en  cualquier punto del territorio nacional, 
+según convenga al mejor cumplimiento de sus funciones. 
+ 
+Artículo 13. Los Comités de Gestión por Competencias tendrán los siguientes objetivos: 
+I. Promover el desarrollo y la implantación del modelo de gestión por competencias en los sectores que representen. 
+II. Desarrollar Estándares de Competencia, Instrumentos de Evaluación de Competencia y Mecanismos de Consecuencias 
+que incentiven la certificación en los Estándares de Competencias que desarrollen. 
+III. Promover la actualización de los Estándares de Competencia, de sus Instrumentos de Evaluación de Competencia y de 
+sus Mecanismos de Consecuencias, cuando se presenten cambios en la Función Individual, o bien cuando el uso del 
+Estándar de Competencia en opinión del  propio Comité de Gestión por Competencias, indique la necesidad de 
+modificaciones estructurales o metodológicas. 
+IV. Promover el desarrollo de la infraestructura de servicios de capacitación, evaluación y certificación en relación a los 
+Estándares de Competencia relevantes para el sector que representen. 
+V. Definir y proponer soluciones de evaluación y certificación que se requieran para cada caso específico. 
+VI. Promover la certificación en los Estándares de Competencia desarrollados, en los sectores que representen. 
+ 
+Artículo 14. Para el logro de sus objetivos, los Comités de Gestión por Competencias tienen las siguientes funciones: 
+I. Determinar los requerimientos del sector que representen, en términos de desarrollo de capital humano y perfil de 
+recursos humanos, con relación al Modelo de Gestión por Competencias. 
+II. Integrar uno o varios Grupos Técnicos de Expertos en el sector que representen, así como en las Funciones Individuales 
+de su interés, para el desarrollo de Mapas Funcionales, Estándares de Competencia, Instrumentos de Evaluación de 
+Competencia y Mecanismos de Consecuencias, de acuerdo con lo establecido en las Guías Técnicas correspondientes. 
+III. Asegurar la capacidad técnica y experiencia laboral de los integrantes de los Grupos Técnicos d e Expertos, para el 
+desarrollo de los Mapas Funcionales, Estándares de Competencia, Instrumentos de Evaluación de Competencia y 
+Mecanismos de Consecuencias. 
+IV. Determinar funciones individuales de su interés para efectos de desarrollar los Estándares de C ompetencia, sus 
+correspondientes Instrumentos de Evaluación de Competencia y Mecanismos de Consecuencias. 
+V. Desarrollar y actualizar, en su caso, los Mapas Funcionales, Estándares de Competencia, sus correspondientes 
+Instrumentos de Evaluación de Competen cia y Mecanismos de Consecuencias, de acuerdo con lo establecido en las Guías 
+Técnicas correspondientes. 
+VI. Documentar los procesos de desarrollo de Mapas Funcionales, Estándares de Competencia, Instrumentos de Evaluación 
+de Competencia y Mecanismos de Consecuencias, de acuerdo con lo establecido en las Guías Técnicas correspondientes. 
+VII. Presentar para aprobación del CONOCER, los Estándares de Competencia y sus Instrumentos de Evaluación de 
+Competencia. 
+VIII. Informar al CONOCER de los Mecanismos de Con secuencias que incentiven la certificación en los Estándares de 
+Competencia que desarrollen. 
+IX. Determinar y proponer, esquemas de evaluación y certificación pertinentes para los diferentes Estándares de 
+Competencia relevantes para el sector que representen. 
+X. Promover los procesos de capacitación, evaluación y certificación con base en Estándares de Competencia, e, 
+XI. Impulsar el Modelo de Gestión por Competencias en el sector que representen. 
+ 
+Artículo 15. El CONOCER podrá brindar apoyo a los Comités d e Gestión por Competencias, a petición expresa de éstos, 
+bajo los esquemas de asesoría y/o capacitación en las materias siguientes: 
+I. Desarrollo del Mapa Funcional como marco de referencia para identificar la necesidad de Estándares de Competencia 
+relevantes. 
+II. Desarrollo de Estándares de Competencia e Instrumentos de Evaluación de Competencia. 
+III. Uso de los Catálogos Ocupacionales y Estándares de Competencias de otros países. 
+IV. Otros temas que se refieran al Sistema Nacional de Competencias y que es tén dentro del ámbito de acción del 
+CONOCER. 
+ 
+=== Página 6 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 5 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+Artículo 20. El CONOCER, con relación al desarrollo de Estándares de Competencia, tendrá las siguientes atribuciones: 
+I. Desarrollar y diseñar metodologías de identificación de Funciones Individuales para el de sarrollo de Estándares de 
+Competencia. 
+II. Aprobar los Estándares de Competencia y los Instrumentos de Evaluación de Competencia, desarrollados por los 
+Comités de Gestión por Competencias y proceder a su inscripción en el Registro Nacional de Estándares de Competencia. 
+III. Proporcionar a petición expresa de los interesados, asesoría y/o capacitación para el desarrollo de Estándares de 
+Competencia y de Instrumentos de Evaluación de Competencia. 
+IV. Proporcionar capacitación por medios virtuales o presenciales, en relación con Modelos de Gestión por Competencias. 
+V. Promover el uso de los Estándares de Competencia en los sectores productivo, social y público, así como en 
+organizaciones laborales, empresas o instituciones públicas y privadas representativas. 
+VI. Reconocer a los Comités de Gestión por Competencias como las instancias responsables del desarrollo de Estándares 
+de Competencia, Instrumentos de Evaluación de Competencia y Mecanismos de Consecuencias. 
+VII. Supervisar los trabajos de los Comités de Gestión por Competencias y de sus Grupos Técnicos de Expertos, de manera 
+que respondan a los objetivos del Sistema Nacional de Competencias. 
+VIII. Integrar, operar y actualizar el Registro Nacional de Estándares de Competencia. 
+IX. Impulsar la mejora continua  de los productos y servicios relacionados con los Comités de Gestión por Competencias y 
+sus Grupos Técnicos de Expertos, así como de los procesos de elaboración de Estándares de Competencia, Instrumentos 
+de Evaluación de Competencia y Mecanismos de Consecuencias. 
+X. Normar y convenir el uso del logotipo o cualquier otra referencia del CONOCER, en los Estándares de Competencia, 
+Instrumentos de Evaluación de Competencia o Mecanismos de Consecuencias que realicen los Comités de Gestión por 
+Competencias u otros terceros. 
+XI. Proteger y defender la propiedad intelectual e industrial del CONOCER. 
+ 
+Artículo 21. El Estándar de Competencia o Norma Técnica de Competencia Laboral, es el documento oficial aplicable en 
+toda la República Mexicana, que servirá como refere nte para evaluar y certificar la competencia laboral de las personas, y 
+describirá en términos de resultados, el conjunto de conocimientos, habilidades, destrezas y actitudes a que alude el artícul o 
+45 de la Ley General de Educación y que requiere una pers ona para realizar actividades en el mercado de trabajo con un 
+alto nivel de desempeño. 
+Un Estándar de Competencia debe ser desarrollado por un Comité de Gestión por Competencias, a través de uno o más 
+Grupos Técnicos de Expertos en la Función Individual. 
+El Estándar de competencia debe ser presentado para aprobación del CONOCER, con el aval por escrito y firma de 
+directivos empresariales y/o de las instituciones sociales o públicas y de líderes de los trabajadores y empleadores, con 
+capacidad para tomar decisiones estratégicas y de alto nivel, y que además sean representativos de los sectores productivo, 
+social o público, y representativos de las organizaciones laborales, empresas e instituciones, que integren el Comité de 
+Gestión por Competencias correspondiente, de acuerdo a los lineamientos que para ello establezca el CONOCER. 
+ 
+Artículo 22. Los Estándares de Competencia deberán cumplir con los siguientes criterios rectores: 
+I. Legalidad: Referir función o funciones individuales dentro del marco de las leyes vigentes. 
+II. Competitividad: Promover el crecimiento, la dinámica económica y el desarrollo del país. 
+III. Libre acceso: No representar una barrera de entrada al mercado de trabajo. 
+IV. Respeto: No atentar contra los derechos humanos. 
+V. Trabajo digno: Promover oportunidades para que en los mercados de trabajo, mujeres y hombres puedan desarrollarse 
+productivamente, en condiciones de libertad, equidad, seguridad y respeto. 
+VI. Responsabilidad Social: Promover políticas, prácticas y programas que contribu yan al comportamiento ético y al respeto 
+de las personas, las comunidades y el medio ambiente. 
+ 
+Artículo 23. El desarrollo de Estándares de Competencia se realizará de acuerdo con lo establecido en la Guía Técnica 
+correspondiente, y éste deberá contener, como mínimo, lo siguiente: 
+I. Datos generales de identificación y representatividad: Título, código, nivel de competencia, nombre del Comité de Gestión 
+por Competencias que lo desarrolló, nombres y cargos de los miembros del Comité de Gestión por Competenci as, así como 
+de los integrantes del Grupo o Grupos Técnicos de Expertos que hayan participado en su desarrollo, y en su caso, la 
+denominación pertinente que refiera a la clasificación de los sectores productivo, social o público. 
+II. Perfil gráfico del Estándar de Competencia, y 
+III. Criterios de Evaluación del Desempeño: 
+a) Desempeños críticos y sus características y/o 
+b) Productos y sus características, y 
+c) Conocimientos y nivel, en su caso. 
+=== Página 7 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 6 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+IV. Mecanismo de Consecuencias de la Certificación en el Estánd ar de Competencia, es decir, incentivos para que las 
+personas se certifiquen en el Estándar de Competencia y/o consecuencias de que no lo hagan. 
+Los Estándares de Competencia que se refieran a una misma Función Individual pero impliquen diferente nivel de 
+Competencia Laboral, se inscribirán, en su caso, en el Registro Nacional de Estándares de Competencia con el mismo 
+título, distinguiéndose uno de otro por la denominación de su grado de complejidad. 
+Los sectores productivo, social o público, organizaciones  laborales, empresas e instituciones representativas, que deseen 
+incorporar en el Estándar de Competencia aspectos adicionales a los señalados en este artículo, deberán fundamentar su 
+requerimiento, realizar el planteamiento metodológico pertinente, a trav és del Comité de Gestión por Competencias 
+correspondiente, y someterlo a autorización del CONOCER. 
+ 
+Artículo 24 . Para cada Estándar de Competencia se diseñará un Instrumento de Evaluación de Competencia y un 
+Mecanismo de Consecuencias, con apego a lo establecido en la Guía Técnica correspondiente. 
+ 
+El Instrumento de Evaluación de Competencia será presentado para aprobación del CONOCER, el Mecanismo de 
+Consecuencias será presentado para información del CONOCER.  
+ 
+Artículo 25. Para ser sometidos a aprobación del Comité Técnico del CONOCER, los Estándares de Competencia deberán 
+cumplir con los siguientes requisitos:  
+I. Contar con el aval del Comité de Gestión por Competencias que lo desarrolló.  
+II. Cumplir con los criterios señalados en el artículo 22 de las presentes Reglas Generales.  
+III. Adjuntar una propuesta de evaluación y certificación en el Estándar de Competencia, en cuanto a la Entidad o Entidades 
+de Certificación y Evaluación de Competencias acreditadas o con intención de acreditarse, o bien, el Or ganismo u 
+Organismos Certificadores acreditados o con intenciones de acreditarse, con los que se pretenda realizar la evaluación y 
+certificación de Competencias.  
+IV. Indicar el número de personas que se considera que son susceptibles de certificarse en el Estándar de Competencia.  
+V. Proponer Mecanismos de Consecuencias para incentivar la certificación en el Estándar de Competencia correspondiente.  
+VI. Contar con la aprobación del CONOCER sobre el cumplimiento de lo establecido en los artículos 21, 22, 23  y 24 de las 
+presentes Reglas Generales.  
+VII. Especificar el plazo que el Comité de Gestión por Competencias considera pertinente, para realizar tanto la 
+actualización del Estándar de Competencia, como la vigencia que se sugiere tenga la certificación emi tida con base en el 
+Estándar de Competencia.”  
+ 
+4.2. De los criterios para determinar la procedencia de la integración, reestructuración o renovación de los CGC 
+ 
+En el análisis de las iniciativas que se presenten a la autorización del COVACEC las (los) integrantes del mismo deberán de 
+considerar que los CGC:  
+ 
+1. Tengan descrito adecuadamente su alcance,  
+2. Sean representativos del sector, rama o actividad productiva al que pertenecen, y  
+3. Posean un alto nivel de interlocución;  
+ 
+Para ello, deben cumplir al menos un criterio de los establecidos en cada uno de los puntos 3.2.1, 3.2.2 y 3.2 .3 del presente 
+Manual: 
+ 
+4.2.1. Alcance 
+1. La(s) organización(es) tiene(n) una participación en el mercado de su sector o producto mayor a un 30%. 
+2. La(s) organización(es) que son cons ideradas como grandes empresas , de conformidad  con el Acuerdo por el que 
+se establece la estratificación de las micro, pequeñas y medianas empresas, publicado por la Secretaría de 
+Economía en el Diario Oficial de la Federación el 30 de julio de 2009. 
+3. La integración del CGC generará un impacto en el incremento a la empleabilidad. 
+4. La población de trabajadoras( es) que sean potencialmente certificables representan un impacto significativo en el 
+sector, en relación con la población objeto a la que van dirigidos  los proyectos de EC que serán desarrollados por 
+el CGC. 
+ 
+4.2.2. Representatividad 
+1. Las empresas, organizaciones e instituciones participantes son líderes de  los sectores productivo, sindical, social, 
+educativo o de gobierno.  
+=== Página 8 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 7 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+2. Por el reconocimiento de la(s)  organización(es) a nivel nacional e internacional en el sector, rama o actividad 
+productiva. 
+3. La(s) organización(es) participantes en el CGC forman parte de una Cámara o Asociación Empresarial de su 
+sector.  
+4. La(s) organización(es) consideradas en la integración del CGC participan en una Asociación Sindical.  
+5. Entre los miembros del CGC se encuentra representada una Cámara o Asociación de las organizaciones, 
+empresas o instituciones del sector. 
+6. Entre los miembros del CGC se encuentra(n) representada(s) alguna(s) organización(es) sindical(es).  
+  
+4.2.3. Interlocución 
+1. Los CGC están integrados con la participación de Presidentes, Director as (es) Generales y Directivos de empresas 
+y organizaciones, así como por representantes sindicales de alto nivel.   
+2. La disposi ción de las (los) representantes de alto nivel del CGC , de promover con las áreas sustantivas de las 
+empresas, organizaciones e instituciones participantes, las metas y compromisos que se adopten en su 
+integración. 
+ 
+4.3. De los criterios para presentar a la aprobación del Comité Técnico del CONOCER las propuestas y proyectos de 
+EC 
+• Las propuestas y/o proyectos de EC están relacionadas con el alcance del CGC que las propone. 
+• Los proyectos de EC propuestos están elaborados de acuerdo con lo establecido en la G uía Técnica 
+correspondiente y contienen como mínimo lo establecido en los Artículos 23, 24 y 25 de las Reglas Generales y 
+Criterios para la integración y operación del Sistema Nacional de Competencias. 
+• Los proyectos de EC deben de estandarizar funciones in dividuales, que realicen ocupaciones que no requieren 
+título profesional para ser llevadas a cabo. Lo anterior a efecto de cumplir con el Artículo 3º de  las Reglas 
+Generales y criterios para la integración y operación del Sistema Nacional de Competencias. 
+4.4. De los criterios para presentar a la aprobación del Comité Técnico del CONOCER las propu estas y proyectos de 
+ECC 
+• Los proyectos de ECC deberán estar relacionados con el ámbito de competencia del CGC que los propone. 
+• Los proyectos de ECC , para ser vali dados por el CONOCER deben haber sido elaborados  bajo el enfoque de 
+competencias. 
+• Los proy ectos de ECC  deberán ser reconocidos como de valor para la sociedad mexicana y deberán ser 
+presentados por una empresa u organización que cuente con reconocimiento so cial nacional o internacional; o que 
+dicha institución sea una empresa grande, de conformidad  con el Acuerdo por el que se establece la estratificación 
+de las micro, pequeñas y medianas empresas, publicado por la Secretaría de Economía en el  Diario Oficial de la 
+Federación el 30 de julio de 2009. 
+4.5. De los criterios para autorizar Entidades de Certificación y Evaluación y Organismos Certificadores  para operar 
+Estándares de Competencia 
+• Reconocimiento social y del sector. 
+• Experiencia en el sector con relación al Estándar de Competencia a operar. 
+• Infraestructura para la operación de los procesos de evaluación. 
+• Operación de la Entidad de Certificación y Evaluación/Organismo Certificador  en lo relativo a la atención  de quejas 
+y eventual aplicación de penas convencionales. 
+• Propuesta de valor de la institución en el uso del o los Estándar(es). 
+• Proyecto a implementar. 
+5. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COVACEC 
+ 
+5.1. Integración del COVACEC  
+ 
+El Comité de Validación de los Comités de Gestión por Competencias  y de los Estándares de Competencia estará integrado 
+por las y/o los siguientes miembros: 
+ 
+a) Un(a) Presidente. 
+b) Un(a) Vicepresidente. 
+c) Un(a) Secretario(a) Técnico(a) con voz y voto. 
+=== Página 9 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 8 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+d) Cuatro Vocales con voz y voto. 
+e) Tres Vocales Ponentes que tendrán voz y voto. 
+f) Invitadas(os), únicamente con voz; participan aportando su experiencia y conocimientos en las discusiones.   
+La Presidencia recaerá en el (la) Titular de la Dirección General del CONOCER. 
+ 
+La Vicepresidencia recaerá en el (la) Titular de la Dirección General Adjunta de Promoción y Desarrollo. 
+ 
+La Secretaría Técnica recaerá en el (la) Titular de la Dirección de Gestión, Asesoría y Formación. 
+ 
+Los Vocales serán las y los Titulares de: 
+a) La Dirección General Adjunta de Operación y Servicios a Usuarios. 
+b) La Dirección General Adjunta de Administración y Finanzas. 
+c) La Dirección de Asuntos Jurídicos.  
+d) La Dirección de Mercadeo, Comunicación y Canales de Atención. 
+Los Vocales Ponentes del Comité serán las y los Titulares de: 
+a) La Dirección de Promoción y Desarrollo en los Sectores Social y de Gobierno. 
+b) La Dirección de Promoción y Desarrollo en los Sectores Productivos. 
+c) La Dirección de Gestión, Asesoría y Formación. 
+Los miembros del COVACEC podrán nombrar a un suplente en caso de no poder asistir a las reuniones de trabajo qu e se 
+convoquen. 
+ 
+En el caso de que la plaza de alguno de los Titulares de las Direcciones antes referidas se encuentre vacante, el servidor  
+público nombrado como encargado(a ) del despacho de dicha Dirección, fungirá como miembro del COVACEC, con las 
+atribuciones inherentes al cargo en el mencionado Comité. 
+ 
+5.2. Funciones generales del COVACEC 
+ 
+Se establece el COVACEC como la instancia facultada para analizar y determinar la procedencia o no de las solicitudes de 
+los sectores, ramas o actividades productivas que se presenten ante el CONOCER en los casos siguientes: 
+1. Integración de CGC. 
+2. Ratificación y/o sustitución de Presidente, Vicepresidente o Vocales de los CGC. 
+Así también, analizar la pertinencia de: 
+1. Los cambios de responsables de los actos administrativos de los EC (incluyen el compartirla), y  
+2. Los proyectos de EC que la Dirección General presente al Comité Técnico del CONOCER para su aprobación. 
+3. Los proyectos de ECC que la Dirección General presente al Comité Técnico del CONOCER para su aprobación. 
+4. La a utorización de Entidades de Certificación y Evaluación de Competenc ias y Organismos Certificadores  para 
+operar Estándares de Competencia. 
+ 
+5.3. Funciones de los Integrantes del COVACEC 
+ 
+5.3.1. Del (de la) Presidente 
+a) Presidir las reuniones; 
+b) Instruir al (a la) Secretario(a) Técnico(a) a que convoque a las reuniones del Comité, y 
+c) Conducir las discusiones de los temas de análisis que se presenten durante las reuniones del Comité. 
+5.3.2. Del (de la) Vicepresidente 
+a) Suplir al (a la) Presidente del Comité en su ausencia; 
+b) Realizar las funciones que le encomiende el (la) Presidente y 
+c) Apoyar al (a la) Presidente en el desarrollo de las sesiones del Comité. 
+ 
+5.3.3. Del (de la) Secretario(a) Técnico(a) 
+a) Convocar a las reuniones del Comité; 
+b) Preparar y elaborar el Orden del Día; 
+c) Integrar los expedientes de las iniciativas que se presenten para aprobación del Comité; 
+=== Página 10 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 9 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+d) Levantar el acta de cada una de las sesiones del Comité; 
+e) Dar seguimiento en su caso, a los acuerdos tomados por el Comité;   
+f) Resguardar los expedientes de las iniciativas presentadas y las actas de las sesiones;  
+g) Presentar iniciativas para instalar, renovar o reestructurar CGC o propuestas y/o proyectos de EC; 
+h) Participar en las decisiones del Comité y, 
+i) Realizar las demás funciones que le encomiende el (la) Presidente o el Pleno del Comité.  
+ 
+5.3.4. De las (los) Vocales 
+a) Asistir a las reuniones del Comité a las que sean convocados; 
+b) Analizar las iniciativas que se les presenten de acuerdo con los criterios establecidos en los puntos 3.2, 3.2.1, 
+3.2.2 y 3.2.3 del presente Manual y   
+c) Participar en las decisiones del Comité 
+5.3.5. De las (los) Vocales Ponentes 
+a) Presentar iniciativas para instala r, renovar o reestructurar CGC,  propuestas y/o proyectos de EC , ECC  o 
+propuestas para autorizar Soluciones de Certificación (Entid ades de Certificación y Evaluación de 
+Competencias y Organismos Certificadores) para operar Estándares de Competencia y 
+b) Participar en las decisiones del Comité.  
+ 
+5.3.6. De las (los) invitadas(os) 
+c) Participar en la discusión de los temas de análisis que se presenten durante las reuniones del Comité, con el 
+propósito de aportar su experiencia y conocimiento en dichos temas. 
+5.4. De la votación de las (los) integrantes del COVACEC 
+ 
+La procedencia o no de las iniciativas presentadas al Comité , se determinará a través de una votación de las y los 
+integrantes presentes con esa facultad; dicha determinación se definirá por mayoría simple en la votación. 
+ 
+En caso que se presente un empate, el (la) Presidente del Comité tendrá voto de calidad. 
+ 
+5.5. Del funcionamiento del COVACEC  
+ 
+5.5.1. De las sesiones del Comité   
+ 
+El COVACEC se reunirá cuando menos cada dos meses, o cuando algún sector, rama o actividad productiva presenten su 
+solicitud ante el CONOCER para integrar, reestructurar o renovar un CGC, cuando haya un cambio en el responsable de los 
+actos administrativos de un EC , cuando exista una propuesta para la autorización de  Entidades de Certificación y 
+Evaluación y Organismos Certificadores para operar un Estándar de Competencia  y/o para que se presente a la aprobación 
+del Comité Técnico un proyecto de EC o ECC. 
+ 
+El (la) Secretario(a) Técnico(a) convocar á a sesión de COVACEC por lo menos con un día hábil de anticipación al día de la 
+sesión. 
+ 
+5.5.2. Declaración de quórum de las sesiones del Comité 
+ 
+Se declarará que existe quórum legal en las sesiones del Comité, en los casos que: 
+ 
+1. Se cuente con la asistencia del Presidente y del Vicepresidente o de uno de los dos, y 
+2. Se cuente con la asistencia de la mitad más uno de sus integrantes. 
+ 
+Consecuentemente, se considerarán válidos los acuerdos y determinaciones que se adopten.  
+ 
+6. Casos no previstos 
+ 
+Los casos no previstos en el presente Manual, serán resueltos por el acuerdo del Pleno d el CO VACEC con base en la 
+normatividad aplicable en vigor.  
+=== Página 11 ===
+ Manual de integración y operación del Comité 
+de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de 
+Competencia (COVACEC) 
+Código: N-OPCV-MT-01 
+Versión 6.0 
+Página 10 de 10 
+ 
+ 
+"Aprobado mediante Acuerdo COMERI/2ª SO/04/2015, por el H. Comité de Mejora Regulatoria Interna en su 2ª Sesión 
+Ordinaria, celebrada el 10 de noviembre de 2015." 
+ 
+Consejo Nacional de Normalización y Certificación de Competencias Laborales 
+7. Documentos de referencia 
+Documento Código  
+(cuando aplique) 
+Reglas Generales y criterios para la integración y operación del Sistema Nacional de 
+Competencias  
+No Aplica 
+Estatuto Orgánico del Consejo Nacional de Normalización y Certificación de Competencias 
+Laborales (CONOCER) 
+No Aplica 
+ 
+8. Control de cambios y registro de emisión 
+Número de revisión Fecha de actualización Descripción del cambio 
+5.0 15 de septiembre de 2015 Se agregaron políticas para la operación del Comité. 
+ 
+CONTROL DE EMISIÓN 
+NOMBRE: 
+ELABORÓ: REVISÓ: Vo. Bo.: 
+Subdirección de Gestión y 
+Normatividad 
+Isel del Carmen Godinez Ortigoza 
+Dirección de Gestión, Asesoría 
+y Formación 
+Aleyda Cuevas López 
+Dirección General Adjunta de 
+Promoción y Desarrollo 
+ 
+Juan Carlos Erreguerena Albaitero 
+FIRMA 
+ 
+ 
+(Rúbrica) 
+ 
+ 
+ 
+ 
+(Rúbrica) 
+ 
+ 
+ 
+ 
+(Rúbrica) 
+ 
+ 
+ 
+FECHA 13 de noviembre de 2015 13 de noviembre de 2015 13 de noviembre de 2015 
+ 
+9. Artículos transitorios 
+PRIMERO.- El presente Manual entrará en vigor el día de su emisión. 
+SEGUNDO.- Se abroga el Manual de Integración y Operación del Comité de Validación de los Comités de Gestión por 
+Competencias y de los Estándares de Competencia N-OPCV-MT-01 versión 4.0.  
+TERCERO.- El Manual de Integración y Operación del Comité de Validación de los Comités de Gestión por Competencias y d e 
+los Estándares de Competencia deberá ser incorporado a la Normateca Interna del CONOCER dentro de los tres días hábiles 
+siguientes a la fecha de su emisión. 
+Con fundamento en la Cláusula Quinta, Párrafos Primero y Segundo del Contrato de Fideicomiso de los Siste mas Normalizado 
+de Competencia Laboral y de Certificación de Competencia Laboral, los A rtículos 16, Fracción II, 18, fracción XLIV, Artículo 19, 
+Fracciones XLVII y XLVIII , del Estatuto Orgánico del Consejo Nacional de Normalización y Certificación de Compe tencias 
+Laborales (CONOCER), 9, 13, Fracción I,14, fracción VII, 20, Fracción II y 86 de las Reglas Generales y criterios para la integración 
+y operación del Sistema Nacional de C ompetencias, y considerando la aprobación  por el H. Comité de Mejora Regulato ria 
+Interna mediante el Acuerdo COMERI/2ª SO/04/2015, en su Segunda Sesión Ordinaria, celebrada el 10 de noviembre de 2015, 
+he tenido a bien emitir el presente: 
+ 
+ MANUAL DE INTEGRACIÓN Y OPERACIÓN DEL COMITÉ DE VALIDACIÓN DE LOS COMITÉS DE GESTIÓN POR 
+COMPETENCIAS (CGC) Y DE LOS ESTÁNDARES DE COMPETENCIA (EC). 
+CÓDIGO N-OPCV-MT-01 
+ 
+ 
+(Rúbrica) 
+ 
+________________________________________ 
+Carlos León Hinojosa 
+Director General del CONOCER. 
+México, D.F., a 23 de noviembre de 2015. 
+ 
+ 

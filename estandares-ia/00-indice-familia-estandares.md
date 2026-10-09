@@ -25,8 +25,6 @@
 | `17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias, términos de referencia y sesiones del grupo técnico, minuta y carta de confidencialidad | Borrador 1.0 |
 | `18-decision-EC-o-ECM.md` | Análisis para decidir el registro como EC o como ECM, con preguntas para el CONOCER y recomendación preliminar | Borrador 1.0 |
 
-Verificación contra fuentes oficiales desde una computadora local: `verificacion/INSTRUCCIONES.md`.
-
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
 ---
@@ -53,7 +51,7 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 **A. Documentos técnicos**
 - [x] Mapa funcional
 - [x] Borradores del EC-A y del EC-B en formato F21-COOPYD-01
-- [x] Revisión de traslapes con el RENEC (antes de presentar: comparar con el texto publicado del Elemento 3 del EC1705 y revisar lo publicado después del 7 de agosto de 2026)
+- [x] Revisión de traslapes con el RENEC. El 9 de octubre de 2026 se comparó con el texto publicado del Elemento 3 del EC1705 (traslape parcial en la intención, no en los criterios; ver nota 1 del EC-A) y se revisó el DOF del 8 de agosto al 9 de octubre de 2026 (sin nuevos acuerdos del CONOCER). Pendiente: el texto de EC1827 a EC1829, EC1771 y EC1801, cuyos PDF no estaban disponibles
 - [x] Exposición de motivos
 - [x] Instrumento de Evaluación de Competencia del EC-A: caso simulado, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
 - [x] Instrumento de Evaluación de Competencia del EC-B: caso simulado con cuatro simulaciones, guía de observación, lista de cotejo de productos y cuestionario (borrador 1.0)
@@ -67,9 +65,9 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [ ] Validación de los borradores por el grupo técnico
 
 **C. Revisiones y confirmaciones**
-- [ ] Revisión jurídica: definiciones de la ley de datos de 2025, deber de informar vulneraciones, derechos de autor e imagen
-- [x] Verificar en estándares publicados el texto de los niveles Dos y Cuatro, y las frases de desempeños, productos, conocimientos y actitudes
-- [ ] Confirmar con el CONOCER: SCIAN (propuestas 561110 y 541610), frases de situaciones emergentes y actitudes, escala de conocimientos, catálogo de actitudes, umbrales de los cuestionarios (20 de 24 y 23 de 28), condiciones críticas y evaluación a distancia
+- [ ] Revisión jurídica: las definiciones de "dato personal" y "dato personal sensible" se transcribieron de la ley de datos de 2025 (última reforma DOF del 14 de noviembre de 2025); falta la revisión de un especialista de la definición de vulneración (la ley para particulares no la define), el deber de informar vulneraciones, derechos de autor e imagen
+- [x] Verificar en estándares publicados el texto de los niveles Dos y Cuatro, y las frases de desempeños, productos, conocimientos, situaciones emergentes y actitudes (verificación del 9 de octubre de 2026; ver `verificacion/INFORME-VERIFICACION.md`)
+- [ ] Confirmar con el CONOCER: que la plantilla F21-COOPYD-01 versión 08 siga vigente, que el SCIAN propuesto (561110 y 541610, verificados en el SCIAN 2023 del INEGI) sea el que acepte, umbrales de los cuestionarios (20 de 24 y 23 de 28), condiciones críticas y evaluación a distancia
 - [ ] Decidir el registro como EC o como Estándar de Competencia de Marca (ECM) (análisis y recomendación preliminar: documento 18)
 
 **D. Aprobación**
