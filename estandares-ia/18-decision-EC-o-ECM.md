@@ -27,7 +27,7 @@ La empresa quiere que los estándares generen demanda y que su centro de evaluac
 
 | Criterio | EC (público) | EC de uso restringido (si existe) | ECM |
 |---|---|---|---|
-| **Que una dependencia, una NOM, un lineamiento o una universidad pueda exigirlo** | **Fuerte.** Un estándar público y neutral es más fácil de citar en una norma o en un requisito de egreso | Media. Puede verse como una restricción a la competencia | **Débil.** Citar un estándar propiedad de una empresa en una norma o en un requisito público puede objetarse por falta de neutralidad |
+| **Que una dependencia, una NOM, un lineamiento o una universidad pueda exigirlo** | **Fuerte.** Un estándar público y neutral es más fácil de citar en una norma o en un requisito de egreso (por confirmar con la autoridad competente en cada caso; en instituciones públicas, sin costo obligatorio para el estudiante) | Media. Puede verse como una restricción a la competencia | **Débil.** Citar un estándar propiedad de una empresa en una norma o en un requisito público puede objetarse por falta de neutralidad |
 | Control sobre quién evalúa | Bajo: otros prestadores pueden acreditarse | Medio a alto (por confirmar) | Alto (por confirmar) |
 | Requisito para registrarlo | CGC representativo | CGC y justificación (por confirmar) | Prestigio nacional o internacional de la organización: la empresa puede no cumplirlo hoy |
 | Credibilidad ante universidades y gobierno | Alta | Media | Media: se percibe como certificación de un proveedor |
@@ -41,8 +41,8 @@ Un EC público no impide que la empresa capture una parte relevante del mercado.
 
 1. **Autoría y liderazgo del CGC.** La empresa y sus aliados aparecen como desarrolladores y, si el formato lo mantiene, en el certificado (por confirmar).
 2. **Primera solución de evaluación acreditada.** El centro de evaluación de la empresa es el primero en evaluar el día de la publicación, con instrumentos probados en la piloto y evaluadores formados.
-3. **Materiales propios.** Los cursos, las guías de estudio, los casos de práctica, el diagnóstico y la plantilla de política (documentos 09 a 14) son propiedad de la empresa y no forman parte del estándar.
-4. **Convenios con universidades y empresas** (documento 15) firmados antes de que lleguen otros prestadores.
+3. **Materiales propios.** Los cursos, las guías de estudio, los casos de práctica, el diagnóstico y la plantilla de política (documentos 09 a 14) son de la empresa y no forman parte del estándar. Esa titularidad debe asegurarse: con empleados que no firmaron un pacto, la ley presume que los derechos se dividen por partes iguales (Ley Federal del Derecho de Autor, artículo 84); las transmisiones deben constar por escrito (artículo 30); el autor es la persona física (artículo 12), por lo que debe documentarse la autoría y la revisión humana de lo elaborado con apoyo de IA, y los instrumentos y claves se protegen como secreto industrial (Ley Federal de Protección a la Propiedad Industrial, artículo 163). Modelos de cesión en el documento 20.
+4. **Convenios con universidades y empresas** (documento 15) firmados antes de que lleguen otros prestadores. Los convenios con instituciones públicas no son exclusivos.
 5. **Red de sedes.** Universidades como sedes de evaluación o, si la empresa es ECE, como Centros de Evaluación de su red (por confirmar).
 6. **Formación de evaluadores e instructores.** Ser la referencia para certificar a quienes evaluarán e impartirán los cursos.
 7. **Consultoría.** El EC-B se vende junto con el diagnóstico y la implementación de controles.

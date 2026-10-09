@@ -36,7 +36,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 **Antes de la evaluación**
 1. Prepare un equipo de cómputo con la Herramienta A en cuenta institucional del Centro, o con un entorno que la simule. No debe tener acceso a datos reales.
 2. Imprima o prepare en digital los Anexos A1 a A5 y A7. Guarde el Anexo A6 para entregarlo al iniciar la Parte B, y el cuestionario para aplicarlo al terminar la situación simulada.
-3. Prepare un teléfono del Centro con un número que el candidato no conozca, para enviar el mensaje y la nota de voz de la Parte C. Grabe la nota de voz con el guion de la sección 4.
+3. Prepare un teléfono del Centro con un número que el candidato no conozca, para enviar el mensaje y la nota de voz de la Parte C. Grabe la nota de voz con el guion de la sección 4, con la voz de una persona del Centro que haya firmado su autorización o con una voz sintética.
 4. Proporcione al candidato un teléfono o extensión del Centro para recibir el mensaje de la Parte C y llamar a las extensiones del Anexo A5.
 5. Lea la clave del caso (sección 7) y los guiones (sección 4).
 
@@ -354,6 +354,6 @@ En cualquier otro caso, el juicio es **todavía no competente**. El evaluador en
 1. **Tiempos.** Medir la duración real de cada parte con al menos 10 candidatos y ajustar.
 2. **Consistencia entre evaluadores.** Que dos evaluadores califiquen a los mismos candidatos de forma independiente y comparar resultados reactivo por reactivo.
 3. **Dificultad del cuestionario.** Revisar los reactivos que casi todos aciertan o casi todos fallan.
-4. **Evaluación a distancia.** Probar una versión por videollamada con pantalla compartida, sujeta a lo que autorice el CONOCER.
+4. **Evaluación a distancia.** Probar una versión por videollamada con pantalla compartida, sujeta a lo que autorice el CONOCER. Si la sesión se graba, informarlo en el aviso de privacidad (documento 19), recabar la aceptación de la persona candidata antes de iniciar y fijar el plazo de conservación.
 5. **Versiones paralelas.** Preparar al menos una segunda versión del caso (otra organización ficticia, otros datos y otros errores en el borrador) para evitar que el caso se filtre entre candidatos.
 6. **Herramienta.** El Anexo A6 se usa igual para todos los candidatos, sin importar lo que devuelva la herramienta en la Parte A. Así la Parte B es comparable entre candidatos.

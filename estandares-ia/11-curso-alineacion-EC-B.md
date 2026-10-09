@@ -82,7 +82,7 @@ Alrededor del 60% del tiempo se dedica a ejercicios, simulaciones, evaluaciones 
 | Tema | Objetivo específico | Técnica | Actividades del instructor | Actividades del participante | Material | Tiempo |
 |---|---|---|---|---|---|---|
 | Repaso | El participante recordará los puntos clave del Módulo 1 | Preguntas dirigidas | Formula preguntas sobre la sesión anterior | Responde | — | 10 min |
-| 2.1 Protección de datos personales aplicada a la IA | El participante aplicará los principios, las medidas de seguridad, las transferencias y las remisiones a los usos de IA | Expositiva y discusión guiada | Explica cada principio con un uso del caso | Identifica qué principio se afecta en tres usos del inventario | Guía, 2.1 | 30 min |
+| 2.1 Protección de datos personales aplicada a la IA | El participante aplicará los principios, las medidas de seguridad, las transferencias y la comunicación a personas encargadas a los usos de IA | Expositiva y discusión guiada | Explica cada principio con un uso del caso | Identifica qué principio se afecta en tres usos del inventario | Guía, 2.1 | 30 min |
 | 2.2 Proceso de gestión de riesgos | El participante explicará las etapas del proceso y las opciones de tratamiento | Expositiva | Explica las etapas y los tratamientos con ejemplos | Propone un tratamiento para dos riesgos | Guía, 2.2 | 20 min |
 | Escala de valoración | El participante elaborará una escala de valoración de riesgos | Ejercicio práctico | Supervisa que cada nivel tenga un criterio verificable | Resuelve el Ejercicio 4 | Guía, 2.2 | 25 min |
 | 2.3 Riesgos propios de la IA | El participante identificará los riesgos propios de la IA en los usos del caso | Demostrativa y discusión | Muestra un ejemplo de inyección de instrucciones en un entorno de prueba o con capturas preparadas, y uno de opacidad | Relaciona cada riesgo con un uso del inventario | Guía, 2.3 | 30 min |
@@ -100,15 +100,15 @@ Alrededor del 60% del tiempo se dedica a ejercicios, simulaciones, evaluaciones 
 | 2.7 Presentar a la dirección | El participante presentará los resultados de la evaluación de riesgos y responderá preguntas y objeciones | Juego de roles en tríos | Da 15 minutos de preparación; organiza los tríos (presentador, Director General con la Tarjeta B, observador) y rota entre ellos | Resuelve el Ejercicio 7; el observador retroalimenta | Guía, 2.7 y Tarjeta B | 55 min |
 | Receso | | | | | | 15 min |
 | 3.1 Tipos de controles | El participante distinguirá los controles técnicos, administrativos y físicos | Expositiva y ejercicio rápido | Presenta los tipos y diez controles para clasificar | Clasifica los controles | Guía, 3.1 | 20 min |
-| 3.2 Estructura de la política | El participante identificará los diez contenidos de una política de uso de IA | Expositiva | Analiza con el grupo una política deficiente ("queda prohibido el mal uso de la IA") | Señala lo que le falta | Guía, 3.2 | 25 min |
+| 3.2 Estructura de la política | El participante identificará los once contenidos de una política de uso de IA | Expositiva | Analiza con el grupo una política deficiente ("queda prohibido el mal uso de la IA") | Señala lo que le falta | Guía, 3.2 | 25 min |
 | Política de uso de IA | El participante redactará la política de uso de IA del caso | Ejercicio práctico | Supervisa | Resuelve el Ejercicio 8 | Guía, 3.2 | 55 min |
 
 ### Sesión 4 (4 horas)
 
 | Tema | Objetivo específico | Técnica | Actividades del instructor | Actividades del participante | Material | Tiempo |
 |---|---|---|---|---|---|---|
-| Repaso | El participante recordará los contenidos de la política | Preguntas dirigidas | Revisa dos políticas del grupo contra los diez contenidos | Corrige su política | Guía, 3.2 | 10 min |
-| 3.3 Condiciones de los proveedores | El participante identificará las condiciones de servicio relevantes y sus señales de alerta | Expositiva | Presenta los criterios y ejemplos de cláusulas | Identifica señales de alerta en dos cláusulas de ejemplo | Guía, 3.3 | 25 min |
+| Repaso | El participante recordará los contenidos de la política | Preguntas dirigidas | Revisa dos políticas del grupo contra los once contenidos | Corrige su política | Guía, 3.2 | 10 min |
+| 3.3 Condiciones de los proveedores | El participante identificará las condiciones de servicio relevantes, si el proveedor actúa como persona encargada o como tercero, y las señales de alerta | Expositiva | Presenta los criterios y ejemplos de cláusulas | Identifica señales de alerta en dos cláusulas de ejemplo | Guía, 3.3 | 25 min |
 | Lista de verificación de proveedores | El participante aplicará una lista de verificación a un proveedor del caso y recomendará con fundamento | Estudio de caso | Supervisa | Resuelve el Ejercicio 9 | Guía, 3.3; caso T5 | 40 min |
 | 3.4 Plan de controles | El participante elaborará el plan de controles de los riesgos altos | Ejercicio práctico | Insiste en que cada control tenga evidencia verificable y en proponer controles adicionales | Resuelve el Ejercicio 10 | Guía, 3.4; formato T7 | 45 min |
 | Receso | | | | | | 15 min |
@@ -193,7 +193,7 @@ Usa las respuestas de la guía (sección 13). Muchos productos admiten respuesta
 3. Participa como candidato en al menos una de las cuatro simulaciones.
 4. Obtiene al menos 16 aciertos de 20 en el cuestionario final.
 
-**Constancia DC-3.** A quien aprueba el curso se le puede expedir la constancia de competencias o de habilidades laborales (formato DC-3) de la Secretaría del Trabajo y Previsión Social, con estos datos del curso:
+**Constancia DC-3.** A la persona trabajadora que aprueba el curso, cuando su patrón lo incluye en su plan de capacitación, la empresa le expide como agente capacitador externo la constancia de competencias o de habilidades laborales (formato DC-3) de la Secretaría del Trabajo y Previsión Social, con estos datos del curso:
 
 | Campo del formato DC-3 | Dato del curso |
 |---|---|
@@ -203,7 +203,15 @@ Usa las respuestas de la guía (sección 13). Muchos productos admiten respuesta
 | Área temática del curso | 8000 Uso de tecnologías de la información y comunicación (clave por confirmar en el catálogo vigente de la STPS) |
 | Agente capacitador | Nombre de la empresa y su número de registro como agente capacitador externo ante la STPS (por tramitar o confirmar) |
 
-El formato, su llenado y quién lo firma se confirman con la guía vigente de la STPS. Verificado el 9 de octubre de 2026 en el Acuerdo de la STPS publicado en el DOF del 14 de junio de 2013: la constancia se expide en el formato DC-3 y debe incluir nombre del curso, duración en horas, periodo de ejecución, área temática (según catálogo), nombre del agente capacitador externo o de la empresa, nombre y firma del instructor y firma de los representantes de la Comisión Mixta de Capacitación, Adiestramiento y Productividad o, en su caso, del patrón; el acuerdo remite el catálogo de áreas temáticas al sistema de la STPS y al reverso del formato, que no pudo consultarse en fuente oficial (la clave 8000 coincide con copias del formato de terceros, por confirmar). **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
+Reglas de expedición, verificadas el 9 de octubre de 2026 en la Ley Federal del Trabajo (artículos 153-A y 153-T) y en el Acuerdo de la STPS publicado en el DOF del 14 de junio de 2013 (artículos 24 y 25):
+
+- La expide la entidad instructora cuando es agente capacitador externo. Para hacerlo, la empresa debe estar autorizada y registrada ante la STPS.
+- La autentica la Comisión Mixta de Capacitación, Adiestramiento y Productividad en las empresas con más de 50 trabajadores, o el patrón o su representante legal en las demás.
+- Contiene los datos de la persona trabajadora (nombre, CURP y ocupación según el catálogo), del patrón (razón social y RFC), del curso (nombre, duración, periodo y área temática según el catálogo), del agente capacitador y del instructor.
+- No lleva imágenes ni textos que sugieran que la STPS avala el desarrollo, el contenido o la calidad del curso.
+- El catálogo de áreas temáticas está en el sistema de la STPS y en el reverso del formato; no pudo consultarse en fuente oficial (la clave 8000 coincide con copias del formato de terceros, por confirmar).
+
+A estudiantes y a participantes sin patrón no se les expide DC-3: reciben una constancia de participación de la empresa, que no es un documento oficial. **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
 
 ## 9. Correspondencia con el Estándar de Competencia
 
@@ -238,7 +246,7 @@ El formato, su llenado y quién lo firma se confirman con la guía vigente de la
 ## 10. Integridad de la evaluación
 
 1. El curso no usa el caso, los anexos, los guiones, los reactivos ni las claves del instrumento de evaluación. El instructor no tiene acceso a la guía del evaluador.
-2. Quien imparte el curso a un grupo no evalúa con fines de certificación a esas mismas personas. Es una práctica recomendada; confirmar si las reglas del CONOCER la exigen.
+2. Quien imparte el curso a un grupo no evalúa con fines de certificación a esas mismas personas. El manual de operación del CONOCER (M-DGAOSU-02, 2016) lo revisa en sus auditorías: "que el personal que capacita, no evalúe en el mismo proceso de la misma candidata o candidato" (vigencia del manual por confirmar).
 3. El curso no garantiza la certificación. La evaluación la realiza un evaluador certificado, con el instrumento aprobado.
 4. En la promoción del curso no se afirma que la certificación sea obligatoria por ley. Se puede decir que ayuda a la organización a cumplir sus obligaciones de protección de datos personales y de capacitación, y que se alinea con marcos internacionales como el NIST AI RMF e ISO/IEC 42001.
 5. El cuestionario final del curso (sección 13) es confidencial para los instructores: no se entrega antes de aplicarlo, se recoge al terminar y no reutiliza las preguntas de la guía de estudio ni las del instrumento de evaluación.
@@ -398,4 +406,4 @@ El formato, su llenado y quién lo firma se confirman con la guía vigente de la
 | 19 | a | Elemento 4 de 4 · Análisis de causa raíz |
 | 20 | c | Elemento 4 de 4 · Análisis de causa raíz |
 
-*El reactivo 15 se basa en el texto de la Ley Federal del Trabajo sobre las comisiones mixtas de capacitación, adiestramiento y productividad; confirmar la redacción vigente antes de aplicarlo.*
+*Fundamento del reactivo 15: Ley Federal del Trabajo, artículo 153-E ("En las empresas que tengan más de 50 trabajadores se constituirán Comisiones Mixtas de Capacitación, Adiestramiento y Productividad"), verificado el 9 de octubre de 2026.*

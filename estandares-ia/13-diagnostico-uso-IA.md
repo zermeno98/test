@@ -41,6 +41,8 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 **Excluye:** opinión jurídica, pruebas técnicas de seguridad, implementación de controles, redacción de contratos y capacitación. Estos servicios se cotizan aparte.
 
+**Contrato.** El servicio se formaliza con el contrato de prestación de servicios profesionales del documento 20 (alcance, entregables, exclusión de opinión jurídica, límite de responsabilidad, confidencialidad y, si el cliente entrega datos personales, contrato de encargo).
+
 **Supuestos:**
 
 - El cliente designa una persona enlace con autoridad para convocar a las áreas.
@@ -51,7 +53,7 @@ Versión 1.0 · Borrador para prueba piloto · Octubre de 2026
 
 | Fase | Días hábiles | Actividades | Producto intermedio |
 |---|---|---|---|
-| 0. Arranque | 1 | Reunión con la dirección; firma del convenio de confidencialidad; designación del enlace; entrega de la solicitud de insumos y del cuestionario a jefaturas | Calendario de entrevistas |
+| 0. Arranque | 1 | Reunión con la dirección; firma del contrato de servicios y del convenio de confidencialidad; designación del enlace; entrega de la solicitud de insumos y del cuestionario a jefaturas | Calendario de entrevistas |
 | 1. Levantamiento | 2 a 6 | Cuestionario a jefaturas; entrevistas; revisión de contratos, licencias y condiciones de servicio; recepción del registro técnico | Inventario preliminar |
 | 2. Análisis | 7 a 9 | Integración del inventario con las tres fuentes; escala y matriz de riesgos; revisión de obligaciones; índice de madurez; hoja de ruta | Borrador del informe |
 | 3. Cierre | 10 | Presentación a la dirección; entrega del informe; acuerdo de siguientes pasos | Informe final |
@@ -144,7 +146,7 @@ Pregunta final: "¿Algún sistema que usen da puntuaciones, predicciones o recom
 
 ### 7.2 Guía de entrevista
 
-**Apertura (2 minutos).** Presentarse; explicar el propósito del inventario, el uso de la información y que no es una auditoría para sancionar; pedir permiso para tomar notas.
+**Apertura (2 minutos).** Presentarse; explicar el propósito del inventario, el uso de la información y que no es una auditoría para sancionar; dar a conocer el aviso de privacidad simplificado de la empresa consultora para personas entrevistadas (documento 19); pedir permiso para tomar notas.
 
 **Preguntas por tareas (10 minutos).**
 
@@ -170,8 +172,9 @@ Pregunta final: "¿Algún sistema que usen da puntuaciones, predicciones o recom
 | Criterio | Pregunta | Resultado (cumple / no cumple / no se sabe) |
 |---|---|---|
 | Uso de la información | ¿El proveedor usa la información ingresada para entrenar sus modelos o para fines propios? ¿Puede excluirse por escrito? | |
+| Calidad del proveedor | ¿Actúa solo por cuenta de la organización y conforme a sus instrucciones, con contrato (persona encargada), o usa los datos para fines propios (tercero, con transferencia)? | |
 | Conservación | ¿Por cuánto tiempo conserva la información? ¿Es acorde con la finalidad? | |
-| Ubicación | ¿Dónde se almacena? ¿Hay transferencias a otros países? | |
+| Ubicación | ¿Dónde se almacena? ¿Hay transferencias a otros países? ¿Con qué fundamento? | |
 | Eliminación | ¿Elimina o devuelve la información al terminar el contrato, con constancia y en un plazo definido? | |
 | Confidencialidad y seguridad | ¿Qué medidas concretas aplica? ¿Tiene certificaciones vigentes y con qué alcance? | |
 | Notificación de incidentes | ¿En qué plazo avisa a la organización de un incidente? | |
@@ -198,10 +201,10 @@ Se usa la escala de 3 × 3 de la Guía de estudio del EC-B (documento 12, Unidad
 2. **Inventario de sistemas de IA**, con la fuente de cada sistema y su condición.
 3. **Matriz de riesgos** y detalle de los riesgos altos.
 4. **Obligaciones relacionadas** (análisis de cumplimiento, no opinión jurídica):
-   - **Protección de datos personales** (Ley Federal de Protección de Datos Personales en Posesión de los Particulares, DOF 20 de marzo de 2025): medidas de seguridad, aviso de privacidad, remisiones y transferencias a proveedores de IA, atención de vulneraciones.
-   - **Laborales** (Ley Federal del Trabajo): obligación de capacitar y su registro; usos de IA en selección, evaluación, supervisión y terminación.
+   - **Protección de datos personales** (Ley Federal de Protección de Datos Personales en Posesión de los Particulares, DOF 20 de marzo de 2025, última reforma DOF 14 de noviembre de 2025): medidas de seguridad (art. 18), aviso de privacidad (arts. 14 a 16), comunicación a personas encargadas y transferencias a proveedores de IA (arts. 2 y 35), datos sensibles (art. 8), oposición a decisiones automatizadas (art. 26) y atención de vulneraciones (art. 19).
+   - **Laborales** (Ley Federal del Trabajo): obligación de capacitar y su registro (arts. 153-A, 153-T y 153-V); no discriminación (art. 133); supervisión en teletrabajo (art. 330-I); sanciones conforme al reglamento interior de trabajo (art. 423); usos de IA en selección, evaluación, supervisión y terminación.
    - **Contractuales:** condiciones de los proveedores de IA; obligaciones con clientes cuyos datos trata la organización.
-   - **Imagen, voz y obras de terceros** (Ley Federal del Derecho de Autor y propiedad industrial).
+   - **Imagen, voz y obras de terceros:** Ley Federal del Derecho de Autor (incluida la protección de la imagen y la voz de artistas frente a la IA, art. 87, reforma de mayo de 2026), Ley Federal de Protección a la Propiedad Industrial (marcas y secretos industriales) y Código Civil Federal (daño moral, art. 1916).
 5. **Revisión de proveedores** con la lista de verificación.
 6. **Hoja de ruta de 90 días:**
    - **Días 1 a 30, contención:** revisión humana de las decisiones sobre personas; bloqueo o control de herramientas no autorizadas; política provisional (puede partir de la plantilla, documento 14); aviso al personal sobre qué no ingresar.
@@ -220,8 +223,8 @@ Se usa la escala de 3 × 3 de la Guía de estudio del EC-B (documento 12, Unidad
 **Confidencialidad y datos:**
 
 - Antes de iniciar se firma un convenio de confidencialidad.
-- El equipo consultor no solicita datos personales de clientes ni de trabajadores del cliente. Solo recibe los datos de contacto de las personas entrevistadas y documentos sin datos personales o con ellos depurados.
-- Si para alguna actividad el cliente debe entregar datos personales, la empresa consultora actúa como encargada y se firma el contrato correspondiente, con instrucciones, medidas de seguridad, confidencialidad y eliminación al terminar.
+- El equipo consultor no solicita datos personales de clientes ni de trabajadores del cliente. Solo recibe los datos de contacto de las personas entrevistadas y documentos sin datos personales o con ellos depurados. Los datos de contacto y las notas de las entrevistas los trata la empresa consultora como responsable, conforme a su aviso de privacidad para personas entrevistadas (documento 19).
+- Si para alguna actividad el cliente debe entregar datos personales, la empresa consultora actúa como persona encargada y se firma el contrato de encargo del documento 20: instrucciones, finalidad limitada, medidas de seguridad, confidencialidad, aviso de vulneraciones, subcontratación solo autorizada y devolución o supresión al terminar. Si la consultora usara esos datos para fines propios, asumiría el carácter de responsable (Reglamento de 2011, artículo 53; aplicación por confirmar).
 - Los documentos del cliente se conservan solo durante el servicio y se eliminan o devuelven al cierre, con constancia.
 - El equipo consultor aplica su propia política de uso de IA: no ingresa información del cliente a herramientas de IA no autorizadas por el cliente.
 

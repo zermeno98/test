@@ -170,9 +170,9 @@ Instrucciones: elige una sola respuesta por pregunta. Tienes 45 minutos.
    - b) Calidad
    - c) Disponibilidad
    - d) Integridad
-8. Comunicar datos personales a un proveedor que los trata por cuenta de la organización es:
+8. Comunicar datos personales a un proveedor que los trata solo por cuenta de la organización y conforme a sus instrucciones es:
    - a) Una transferencia
-   - b) Una remisión
+   - b) Una comunicación a una persona encargada, que no es transferencia
    - c) Una publicación
    - d) Una cesión de derechos
 9. El orden de las etapas de la gestión de riesgos es:

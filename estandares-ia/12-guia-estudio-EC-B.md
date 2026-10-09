@@ -192,7 +192,7 @@ Registra **cada sistema** con:
 
 ### 2.1 Protección de datos personales aplicada a la IA
 
-La Ley Federal de Protección de Datos Personales en Posesión de los Particulares (Diario Oficial de la Federación, 20 de marzo de 2025) establece principios y deberes que aplican a todo tratamiento de datos personales, incluido el que se hace con sistemas de IA.
+La Ley Federal de Protección de Datos Personales en Posesión de los Particulares (Diario Oficial de la Federación, 20 de marzo de 2025; última reforma del 14 de noviembre de 2025) establece principios (artículo 5) y deberes que aplican a todo tratamiento de datos personales, incluido el que se hace con sistemas de IA.
 
 | Principio | Pregunta para cada uso de IA |
 |---|---|
@@ -205,13 +205,17 @@ La Ley Federal de Protección de Datos Personales en Posesión de los Particular
 | Proporcionalidad | ¿Se tratan solo los datos necesarios para ese fin? |
 | Responsabilidad | ¿La organización puede demostrar que cumple, también cuando usa proveedores? |
 
-**Medidas de seguridad.** La organización debe aplicar medidas administrativas, físicas y técnicas para proteger los datos personales.
+**Medidas de seguridad.** La organización debe aplicar medidas administrativas, físicas y técnicas para proteger los datos personales (artículo 18).
 
-**Transferencias y remisiones.**
+**Datos sensibles.** Su tratamiento requiere el consentimiento expreso y por escrito de la persona titular (artículo 8). Una autorización interna no lo sustituye.
 
-*Nota: la ley de 2025 habla de transferencias y de la persona encargada; no define "remisión". Ese término viene de la Ley General para instituciones públicas y de la reglamentación anterior; si el reglamento anterior sigue aplicándose a los particulares está por confirmar con un especialista.*
+**Decisiones automatizadas.** La persona titular puede oponerse al tratamiento automatizado que le produzca efectos jurídicos no deseados o afecte de manera significativa sus derechos, cuando evalúe sin intervención humana aspectos como su rendimiento profesional, su situación económica o su comportamiento (artículo 26, fracción II).
 
-- **Remisión:** la organización comunica datos a una **persona encargada**, que los trata por cuenta de ella. Por ejemplo, un proveedor de IA que procesa las conversaciones de los clientes. Se formaliza en un contrato.
+**Transferencias y comunicación a personas encargadas.**
+
+*Nota: la ley de 2025 define la transferencia y la persona encargada, pero no la "remisión". Ese término viene del Reglamento de 2011 (artículo 2, fracción IX), cuya aplicación a la ley de 2025 está por confirmar con un especialista, y de la Ley General para instituciones públicas.*
+
+- **Comunicación a una persona encargada (remisión, en el Reglamento de 2011):** la organización comunica datos a una **persona encargada**, que los trata por cuenta de ella. No es una transferencia (artículo 2, fracción XX). Por ejemplo, un proveedor de IA que procesa las conversaciones de los clientes. Se formaliza en un contrato.
 - **Transferencia:** la organización comunica datos a un **tercero** que los usará para sus propios fines. Por ejemplo, un proveedor que usa los datos para entrenar sus modelos o los comparte con otras empresas. Requiere cumplir las condiciones que fija la ley, entre ellas informarlo en el aviso de privacidad.
 
 Una organización también puede ser **encargada** de otra: si trata datos por cuenta de un cliente, debe seguir sus instrucciones y avisarle de los incidentes conforme al contrato.
@@ -267,10 +271,12 @@ Son los usos que intervienen en:
 En estos usos se espera, como mínimo:
 
 1. **Informar** a las personas trabajadoras qué sistema se usa, para qué y con qué consecuencias.
-2. **No usar datos que puedan discriminar**, como el estado de salud, la edad, el sexo, el estado civil o el número de hijos, salvo que la finalidad lo justifique y la ley lo permita.
+2. **No usar datos que puedan discriminar**, como el estado de salud, la edad, el sexo, el estado civil o el número de hijos. Solo pueden usarse cuando una disposición legal lo exija o para una acción afirmativa documentada, con revisión del área jurídica. La Ley Federal del Trabajo prohíbe negarse a aceptar trabajadores por esos motivos (artículo 133, fracción I).
 3. **Intervención humana** antes de que el resultado produzca efectos.
 4. **Un medio para que la persona pida una aclaración** o una revisión.
 5. **Evaluación de impacto** antes de usarlo y verificación periódica de su exactitud.
+
+La **supervisión** debe ser proporcional a su objetivo e informarse en el aviso de privacidad del personal. En el teletrabajo, las cámaras y los micrófonos solo pueden usarse de manera extraordinaria o cuando la naturaleza de las funciones lo requiera (Ley Federal del Trabajo, artículo 330-I).
 
 ### 2.5 Matriz de riesgos
 
@@ -333,13 +339,14 @@ La política de uso de IA debe:
 1. Contener el **objetivo y el alcance**: a quién aplica y a qué sistemas.
 2. Establecer los **criterios y el procedimiento para autorizar** sistemas de IA: quién lo solicita, quién evalúa, con qué criterios y quién aprueba.
 3. Especificar la **información que puede y no puede ingresarse** conforme a su clasificación.
-4. Establecer la obligación de **verificar los resultados y declarar el uso de IA**.
-5. Establecer las reglas para el uso de la **imagen, la voz y las obras de terceros**.
-6. Establecer la **intervención humana** en los usos que afectan a personas.
-7. Especificar el **procedimiento de reporte de incidentes**: canal, responsable y plazo.
-8. **Designar a los responsables** de su aplicación.
-9. Indicar las **consecuencias de su incumplimiento**.
-10. Indicar su **periodo de revisión**.
+4. Establecer que los usos de IA que traten datos personales estén **informados en el aviso de privacidad y cuenten con fundamento** (consentimiento o una excepción legal).
+5. Establecer la obligación de **verificar los resultados y declarar el uso de IA**.
+6. Establecer las reglas para el uso de la **imagen, la voz y las obras de terceros**.
+7. Establecer la **intervención humana** en los usos que afectan a personas.
+8. Especificar el **procedimiento de reporte de incidentes**: canal, responsable y plazo.
+9. **Designar a los responsables** de su aplicación.
+10. Indicar las **consecuencias de su incumplimiento**, conforme al reglamento interior de trabajo y a los contratos. Una sanción que no está en el reglamento interior no se puede aplicar a las personas trabajadoras, y la suspensión disciplinaria no puede exceder de ocho días (Ley Federal del Trabajo, artículo 423, fracción X).
+11. Indicar su **periodo de revisión**.
 
 Una política que solo dice "queda prohibido el mal uso de la IA" no cumple: no dice qué se puede hacer, quién decide ni qué pasa si no se cumple.
 
@@ -350,8 +357,9 @@ Revisa en las condiciones de servicio o en el contrato:
 | Criterio | Qué buscas | Señal de alerta |
 |---|---|---|
 | Uso de la información | Que no se use para entrenar ni para fines propios del proveedor, o que pueda excluirse por escrito | "Podremos usar sus datos para mejorar nuestros servicios" sin opción de exclusión |
+| Calidad del proveedor | Que actúe solo por cuenta de la organización, conforme a sus instrucciones y con contrato (persona encargada) | Que use los datos para fines propios: entonces es un tercero y hay transferencia, que debe informarse en el aviso de privacidad (artículo 35) |
 | Conservación | Un plazo acorde con la finalidad | Plazos largos sin justificación |
-| Ubicación | Dónde se almacena y si hay transferencias a otros países | "Servidores en distintos países" sin precisar |
+| Ubicación | Dónde se almacena, si hay transferencias a otros países y con qué fundamento | "Servidores en distintos países" sin precisar |
 | Eliminación | Eliminación o devolución al terminar el contrato, con constancia | "Conforme a nuestras políticas internas" |
 | Confidencialidad y seguridad | Medidas concretas, certificaciones vigentes y su alcance | "Medidas razonables" o "estándares de la industria" sin detalle |
 | Notificación de incidentes | Un plazo específico para avisar a la organización | "Cuando lo estimemos conveniente" o "en un plazo razonable" |
@@ -639,7 +647,7 @@ Los productos de los ejercicios forman tu **expediente de gestión de IA**. Cada
    - c) Calidad
    - d) Licitud
 6. Comunicar los datos personales de los operadores a una aseguradora para que los use con fines propios es:
-   - a) Una remisión
+   - a) Una comunicación a una persona encargada
    - b) Una transferencia
    - c) Un respaldo
    - d) Una publicación
@@ -732,7 +740,7 @@ Marca cada enunciado solo si puedes hacerlo sin consultar esta guía.
 - [ ] Presento los riesgos altos a la dirección y respondo objeciones con hechos del caso.
 
 **Política y controles**
-- [ ] Redacto una política con sus diez contenidos.
+- [ ] Redacto una política con sus once contenidos.
 - [ ] Aplico una lista de verificación a un proveedor y recomiendo con fundamento.
 - [ ] Elaboro un plan con al menos un control por riesgo alto, su tipo, responsable, plazo y evidencia.
 - [ ] Elaboro un programa de capacitación por tipo de puesto, con contenidos, modalidad, duración, calendario, evaluación y registro.
@@ -840,13 +848,14 @@ Respuestas esperadas a la Tarjeta B, en sustancia:
 |---|---|
 | Objetivo y alcance | Establecer las reglas de uso de sistemas de IA; aplica a todo el personal, a los proveedores que traten información de la empresa y a todos los sistemas de IA, incluidas las funciones incorporadas en otro software |
 | Autorización | El área solicita; Tecnologías de la Información, Jurídico y la Coordinación de Gobernanza de IA evalúan riesgos y proveedor; la Dirección General aprueba los usos de riesgo alto. Ningún módulo de IA se activa sin autorización |
-| Información permitida | Pública e interna en herramientas autorizadas; datos personales solo si son indispensables y con autorización; datos sensibles e información confidencial, nunca sin autorización expresa de Jurídico |
+| Información permitida | Pública e interna en herramientas autorizadas; datos personales solo si son indispensables y con autorización; datos sensibles e información confidencial, nunca sin autorización expresa de Jurídico, que verifica el consentimiento expreso y por escrito de la persona titular o una excepción legal |
+| Aviso y fundamento | Los usos de IA con datos personales (bono por cámaras, alertas de fatiga, asistente de redacción) se informan en el aviso de privacidad del personal y de clientes, con su fundamento |
 | Verificar y declarar | Todo resultado se verifica con fuentes distintas de la herramienta; los productos llevan la declaración de uso de IA |
 | Imagen, voz y obras | No se usa la imagen ni la voz de ninguna persona sin su consentimiento por escrito; el contenido sintético lleva la leyenda "Contenido generado con IA"; no se usan obras ni marcas de terceros sin licencia |
 | Intervención humana | Ningún sistema decide sin revisión humana sobre contratación, remuneración, evaluación, sanciones o terminación de personas trabajadoras, ni sobre derechos de clientes |
 | Reporte de incidentes | A Tecnologías de la Información (ext. 600) y a Jurídico (ext. 700), en un plazo máximo de 30 minutos, con el formato de reporte |
 | Responsables | Coordinación de Gobernanza de IA (aplicación y seguimiento), Tecnologías de la Información (controles técnicos), Jurídico (proveedores y datos personales), Recursos Humanos (capacitación) |
-| Consecuencias | Las que prevén el reglamento interior de trabajo y los contratos, según la gravedad |
+| Consecuencias | Las que prevén el reglamento interior de trabajo y los contratos, según la gravedad; la persona es oída antes de aplicar una sanción |
 | Revisión | Anual, o antes si cambia la ley o hay un incidente grave |
 
 ### Ejercicio 9. Lista de verificación aplicada a Visión Vial Ficticia
@@ -854,7 +863,8 @@ Respuestas esperadas a la Tarjeta B, en sustancia:
 | Criterio | Cláusula | Resultado |
 |---|---|---|
 | Uso de la información para entrenamiento | 1 | No cumple: usa videos y datos de operadores para entrenar. Solicitar exclusión por escrito |
-| Conservación y ubicación | 2 | No cumple: 36 meses en servidores de distintos países. Definir un plazo acorde con la finalidad y la ubicación |
+| Calidad del proveedor | 1 y 3 | No cumple: al usar los datos para entrenar y compartir estadísticas actúa para fines propios, por lo que habría transferencia. Exigir que actúe solo como persona encargada, conforme a las instrucciones de la empresa y con contrato |
+| Conservación y ubicación | 2 | No cumple: 36 meses en servidores de distintos países. Definir un plazo acorde con la finalidad, la ubicación y el fundamento de la transferencia internacional |
 | Compartir con terceros | 3 | No cumple: comparte estadísticas con aseguradoras y socios. Excluirlo o precisar la anonimización y obtener autorización |
 | Confidencialidad y seguridad | 4 | Cumple: cifrado e ISO/IEC 27001. Verificar la vigencia y el alcance del certificado |
 | Notificación de incidentes | 5 | No cumple: "cuando lo estime conveniente". Definir un plazo específico |
@@ -1046,8 +1056,9 @@ Representas al Lic. Daniel Prueba Rangel. Al iniciar, di:
 
 ## 16. Para estudiar más
 
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
-- Ley Federal del Trabajo.
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025 (última reforma: 14 de noviembre de 2025).
+- Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 21 de diciembre de 2011 (aplicación a la ley de 2025 por confirmar).
+- Ley Federal del Trabajo (última reforma: 14 de mayo de 2026).
 - ISO 31000:2018. *Risk management — Guidelines.*
 - ISO/IEC 23894:2023. *Artificial intelligence — Guidance on risk management.*
 - ISO/IEC 42001:2023. *Artificial intelligence — Management system.*

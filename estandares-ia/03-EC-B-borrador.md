@@ -83,8 +83,9 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 
 ### Referencias de Información
 - Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025 (última reforma: 14 de noviembre de 2025).
-- Ley Federal del Trabajo.
-- Ley Federal del Derecho de Autor.
+- Ley Federal del Trabajo (última reforma: 14 de mayo de 2026).
+- Ley Federal del Derecho de Autor (última reforma: 14 de mayo de 2026).
+- Ley Federal para Prevenir y Eliminar la Discriminación.
 - ISO 31000:2018. Risk management — Guidelines.
 - ISO/IEC 22989:2022. Information technology — Artificial intelligence — Artificial intelligence concepts and terminology.
 - ISO/IEC 23894:2023. Information technology — Artificial intelligence — Guidance on risk management.
@@ -216,7 +217,7 @@ La persona es competente cuando posee los siguientes:
 | 1. Principios de protección de datos personales: licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad; medidas de seguridad, vulneraciones, transferencias y tratamiento por personas encargadas. | Comprensión |
 | 2. Proceso de gestión de riesgos: identificación, análisis, valoración y tratamiento. | Aplicación |
 | 3. Riesgos propios de la IA: información inventada, sesgo, opacidad, filtración de información, inyección de instrucciones y suplantación mediante contenido sintético. | Comprensión |
-| 4. Usos de IA que afectan derechos de las personas trabajadoras: selección, evaluación del desempeño, supervisión y terminación de la relación laboral. | Comprensión |
+| 4. Usos de IA que afectan derechos de las personas trabajadoras: selección, evaluación del desempeño, supervisión y terminación de la relación laboral; no discriminación, oposición a decisiones automatizadas y proporcionalidad de la supervisión. | Comprensión |
 
 La persona es competente cuando demuestra las siguientes:
 
@@ -258,15 +259,17 @@ La persona es competente cuando obtiene los siguientes:
    - Contiene el objetivo y el alcance,
    - Establece los criterios y el procedimiento para autorizar sistemas de IA,
    - Especifica la información que puede y no puede ingresarse a los sistemas de IA conforme a su clasificación,
+   - Establece que los usos de IA que traten datos personales estén informados en el aviso de privacidad y cuenten con fundamento para su tratamiento,
    - Establece la obligación de verificar los resultados y de declarar el uso de IA,
    - Establece las reglas para el uso de la imagen, la voz y las obras de terceros,
    - Establece la intervención humana en los usos que afectan a personas,
    - Especifica el procedimiento de reporte de incidentes,
    - Designa a los responsables de su aplicación,
-   - Indica las consecuencias de su incumplimiento, e
+   - Indica las consecuencias de su incumplimiento conforme al reglamento interior de trabajo y a los contratos aplicables, e
    - Indica su periodo de revisión.
 2. La lista de verificación de proveedores de IA aplicada:
    - Contiene criterios sobre el uso que el proveedor da a la información ingresada, incluido su uso para entrenamiento,
+   - Contiene criterios sobre la calidad del proveedor como persona encargada o como tercero receptor, y sobre las transferencias internacionales,
    - Contiene criterios sobre la conservación, la ubicación y la eliminación de la información,
    - Contiene criterios de confidencialidad y seguridad,
    - Contiene criterios sobre la notificación de incidentes por parte del proveedor, e
@@ -289,7 +292,7 @@ La persona es competente cuando posee los siguientes:
 |---|---|
 | 1. Tipos de controles de seguridad de la información: técnicos, administrativos y físicos. | Comprensión |
 | 2. Estructura de una política organizacional. | Aplicación |
-| 3. Condiciones de servicio relevantes de los proveedores de IA: uso de la información para entrenamiento, conservación, ubicación, confidencialidad y notificación de incidentes. | Comprensión |
+| 3. Condiciones de servicio relevantes de los proveedores de IA: uso de la información para entrenamiento, calidad del proveedor como persona encargada o tercero, conservación, ubicación y transferencias, confidencialidad y notificación de incidentes. | Comprensión |
 | 4. Obligaciones patronales de capacitación y su registro. | Conocimiento |
 
 La persona es competente cuando demuestra las siguientes:
@@ -386,9 +389,11 @@ La persona es competente cuando demuestra las siguientes:
 3. **Nivel.** Se propone el nivel Cuatro por el grado de juicio y de coordinación con otras áreas. Confirmar con el CONOCER.
 4. **Clasificación.** Verificada en el SCIAN México 2023 del INEGI (estructura oficial): 541610 "Servicios de consultoría en administración" y la jerarquía 54, 541, 5416, 54161 coinciden con la tabla. Sigue siendo una propuesta: confirmar con el CONOCER. El grupo unitario SINCO 9999 "Ocupaciones no especificadas", con "Sin referente", sigue el precedente del EC1171 y el EC1781.
 5. **Fórmulas del formato.** Las verificadas el 9 de octubre de 2026 y las pendientes son las señaladas en la nota 2 del EC-A. El texto del nivel Cuatro es igual al del estándar de marca ECM0358 (los textos de los estándares EC0076, EC1410 y EC1440 no pudieron compararse: el EC0076 no lo incluye por ser de un formato anterior y el EC1410 y el EC1440 no se pudieron descargar). Por confirmar con el CONOCER: que la plantilla vigente no haya cambiado.
-6. **Validación jurídica.** El Acuerdo SE/III-26/05,R (DOF del 7 de agosto de 2026) señala que el contenido de los estándares y su apego a la normatividad vigente es "responsabilidad exclusiva de la Institución" que los presenta; la empresa debe contar con revisión jurídica propia. En la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025 (última reforma DOF del 14 de noviembre de 2025): los ocho principios están en el artículo 5, las medidas de seguridad en el 18 y la obligación de informar de inmediato a las personas titulares las vulneraciones que afecten de forma significativa sus derechos patrimoniales o morales en el 19. Esa ley no define "vulneración" ni "remisión" (aparecen en la Ley General para sujetos obligados, artículos 3 fracción XXIV y 32); la definición del glosario sigue el artículo 32 de aquella Ley General y debe revisarla un especialista.
+6. **Validación jurídica.** El Acuerdo SE/III-26/05,R (DOF del 7 de agosto de 2026) señala que el contenido de los estándares y su apego a la normatividad vigente es "responsabilidad exclusiva de la Institución" que los presenta; la empresa debe contar con revisión jurídica propia. En la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de 2025 (última reforma DOF del 14 de noviembre de 2025): los ocho principios están en el artículo 5, las medidas de seguridad en el 18 y la obligación de informar de inmediato a las personas titulares las vulneraciones que afecten de forma significativa sus derechos patrimoniales o morales en el 19. Esa ley no define "vulneración" ni "remisión"; ambas aparecen en el Reglamento de 2011 (artículos 2, fracción IX, y 63), cuya aplicación a la ley de 2025 está por confirmar, y en la Ley General para sujetos obligados (artículos 3, fracción XXIV, y 32). La definición del glosario sigue esas listas y debe revisarla un especialista. La intervención humana en los usos que afectan a personas se apoya en el derecho de oposición a decisiones automatizadas (artículo 26, fracción II) y en la prohibición de discriminar en el empleo (Ley Federal del Trabajo, artículo 133, fracción I).
 7. **Vínculo con el EC-A.** El producto 4 del Elemento 3 de 4 (programa de capacitación) se acredita en el personal mediante el EC-A.
 
 **Cambios respecto de la versión 0.1:** título más breve ("sistemas" incluye las herramientas); un desempeño observable por elemento mediante simulación (entrevista, presentación, comunicación y atención de incidente); escala de valoración de riesgos con criterios mínimos; riesgo residual en la evaluación de impacto; notificación de incidentes por proveedores; inyección de instrucciones entre los riesgos propios de la IA; "Imparcialidad" sustituida por "Orden"; frases introductorias del formato completas.
 
 **Cambios de la verificación del 9 de octubre de 2026:** encabezado y frases de las respuestas ante situaciones emergentes conforme a los estándares publicados; nombre del campo de organizaciones participantes; se retiró el apartado "Relación con otros estándares de competencia", que no existe en el formato versión 08 (el vínculo con el EC-A está en la nota 7); el conocimiento 1 del Elemento 2 de 4 dejó de citar "remisiones", que la ley de 2025 para particulares no define; definición de vulneración conforme al artículo 32 de la Ley General para sujetos obligados; notas 4 a 6 actualizadas.
+
+**Cambios de la revisión jurídica del 9 de octubre de 2026:** la política de uso de IA (Elemento 3, producto 1) incorpora un undécimo contenido, que los usos de IA con datos personales estén informados en el aviso de privacidad y tengan fundamento, y vincula las consecuencias del incumplimiento con el reglamento interior de trabajo; la lista de verificación de proveedores (producto 2) incorpora la calidad del proveedor como persona encargada o tercero y las transferencias internacionales; el conocimiento 4 del Elemento 2 incluye la no discriminación, la oposición a decisiones automatizadas y la proporcionalidad de la supervisión. Se ajustaron en consecuencia el instrumento (documento 07, listas P6 y P7 y clave), el curso (11), la guía (12) y la plantilla de política (14).

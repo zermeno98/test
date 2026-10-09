@@ -148,7 +148,7 @@ Usa las respuestas de la guía (sección 12). Retroalimenta primero lo que el pa
 2. Entrega resueltos los Ejercicios 2, 3, 6 y 9 (registro de clasificación, información depurada, registro de verificación y reporte de incidente).
 3. Obtiene al menos 12 aciertos de 15 en el cuestionario final del curso (anexo).
 
-**Constancia DC-3.** A quien aprueba el curso se le puede expedir la constancia de competencias o de habilidades laborales (formato DC-3) de la Secretaría del Trabajo y Previsión Social, con estos datos del curso:
+**Constancia DC-3.** A la persona trabajadora que aprueba el curso, cuando su patrón lo incluye en su plan de capacitación, la empresa le expide como agente capacitador externo la constancia de competencias o de habilidades laborales (formato DC-3) de la Secretaría del Trabajo y Previsión Social, con estos datos del curso:
 
 | Campo del formato DC-3 | Dato del curso |
 |---|---|
@@ -158,7 +158,15 @@ Usa las respuestas de la guía (sección 12). Retroalimenta primero lo que el pa
 | Área temática del curso | 8000 Uso de tecnologías de la información y comunicación (clave por confirmar en el catálogo vigente de la STPS) |
 | Agente capacitador | Nombre de la empresa y su número de registro como agente capacitador externo ante la STPS (por tramitar o confirmar) |
 
-El formato, su llenado y quién lo firma se confirman con la guía vigente de la STPS. Verificado el 9 de octubre de 2026 en el Acuerdo de la STPS publicado en el DOF del 14 de junio de 2013: la constancia se expide en el formato DC-3 y debe incluir nombre del curso, duración en horas, periodo de ejecución, área temática (según catálogo), nombre del agente capacitador externo o de la empresa, nombre y firma del instructor y firma de los representantes de la Comisión Mixta de Capacitación, Adiestramiento y Productividad o, en su caso, del patrón; el acuerdo remite el catálogo de áreas temáticas al sistema de la STPS y al reverso del formato, que no pudo consultarse en fuente oficial (la clave 8000 coincide con copias del formato de terceros, por confirmar). **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
+Reglas de expedición, verificadas el 9 de octubre de 2026 en la Ley Federal del Trabajo (artículos 153-A y 153-T) y en el Acuerdo de la STPS publicado en el DOF del 14 de junio de 2013 (artículos 24 y 25):
+
+- La expide la entidad instructora cuando es agente capacitador externo. Para hacerlo, la empresa debe estar autorizada y registrada ante la STPS.
+- La autentica la Comisión Mixta de Capacitación, Adiestramiento y Productividad en las empresas con más de 50 trabajadores, o el patrón o su representante legal en las demás.
+- Contiene los datos de la persona trabajadora (nombre, CURP y ocupación según el catálogo), del patrón (razón social y RFC), del curso (nombre, duración, periodo y área temática según el catálogo), del agente capacitador y del instructor.
+- No lleva imágenes ni textos que sugieran que la STPS avala el desarrollo, el contenido o la calidad del curso.
+- El catálogo de áreas temáticas está en el sistema de la STPS y en el reverso del formato; no pudo consultarse en fuente oficial (la clave 8000 coincide con copias del formato de terceros, por confirmar).
+
+A estudiantes y a participantes sin patrón no se les expide DC-3: reciben una constancia de participación de la empresa, que no es un documento oficial. **La DC-3 acredita la capacitación, no la competencia.** El certificado de competencia lo emite el CONOCER después de la evaluación.
 
 ## 9. Correspondencia con el Estándar de Competencia
 
@@ -193,7 +201,7 @@ El formato, su llenado y quién lo firma se confirman con la guía vigente de la
 
 1. El curso no usa el caso, los anexos, los reactivos ni las claves del instrumento de evaluación. El instructor no tiene acceso a la guía del evaluador.
 2. El cuestionario final del curso es confidencial: lo conservan los instructores, se entrega a los participantes solo durante su aplicación y se recoge al terminar. No se incluye en la guía de estudio ni se publica.
-3. Quien imparte el curso a un grupo no evalúa con fines de certificación a esas mismas personas. Es una práctica recomendada; confirmar si las reglas del CONOCER la exigen.
+3. Quien imparte el curso a un grupo no evalúa con fines de certificación a esas mismas personas. El manual de operación del CONOCER (M-DGAOSU-02, 2016) lo revisa en sus auditorías: "que el personal que capacita, no evalúe en el mismo proceso de la misma candidata o candidato" (vigencia del manual por confirmar).
 4. El curso no garantiza la certificación. La evaluación la realiza un evaluador certificado, con el instrumento aprobado.
 5. En la promoción del curso no se afirma que la certificación sea obligatoria por ley. Se puede decir que ayuda a la organización a cumplir sus obligaciones de capacitación y de protección de datos personales.
 
@@ -201,7 +209,7 @@ El formato, su llenado y quién lo firma se confirman con la guía vigente de la
 
 | Variante | Ajustes |
 |---|---|
-| Universidades y bachilleratos | Dos sesiones de 4 horas integradas a una asignatura o a un taller de egreso. El Ejercicio 7 usa la declaración académica (guía, 2.5) |
+| Universidades y bachilleratos | Dos sesiones de 4 horas integradas a una asignatura o a un taller de egreso. El Ejercicio 7 usa la declaración académica (guía, 2.5). Con personas menores de edad, se recaba el consentimiento de su madre, padre o tutor para el tratamiento de sus datos (documento 19) y se confirma con el CONOCER la edad mínima para certificarse |
 | Empresas (en sus instalaciones) | Al cierre de cada módulo, se comparan las respuestas con la política, las herramientas y el esquema de clasificación de la empresa. Los ejercicios siguen usando el caso ficticio |
 | En línea sincrónica | Dos sesiones de 4 horas por videoconferencia, con salas para trabajo en parejas y entrega de ejercicios en línea. El juego de roles del Ejercicio 8 se hace por llamada |
 

@@ -33,7 +33,7 @@ Según la guía "ABC de los Comités de Gestión por Competencias" del CONOCER:
 | **A. Integrar un CGC nuevo** de inteligencia artificial y transformación digital | Liderazgo del tema; la empresa y sus aliados aparecen como desarrolladores; puede desarrollar más estándares de IA después | Requiere reunir integrantes representativos y pasar la validación; toma más tiempo |
 | **B. Adherirse a un CGC existente** de tecnologías de la información, capacitación o un sector afín | Más rápido; aprovecha una instancia ya validada | Menor control de la agenda; el liderazgo es compartido |
 
-**Recomendación:** plantear ambas opciones a la directora del CONOCER y elegir la que permita presentar los estándares en menos tiempo sin perder la autoría. Si se elige la opción A, convocar desde el inicio a integrantes con peso nacional.
+**Recomendación:** plantear ambas opciones al CONOCER por los canales formales (oficio y reunión con minuta) y elegir la que permita presentar los estándares en menos tiempo sin perder la autoría. Documentar las interacciones con el CONOCER y no ofrecer beneficios a sus servidores públicos: la ley obliga a la persona servidora pública a excusarse de los asuntos en que tenga conflicto de interés y sanciona al particular que use su influencia para obtener una ventaja (Ley General de Responsabilidades Administrativas, artículos 58 y 68). Si se elige la opción A, convocar desde el inicio a integrantes con peso nacional.
 
 ### 2.2 Composición propuesta (opción A)
 
@@ -70,7 +70,7 @@ Cargos que suelen tener los comités: presidencia, vicepresidencia, secretaría 
 
 | Perfil | Aporta |
 |---|---|
-| Protección de datos personales (abogado o responsable de datos) | Definiciones legales, deber de informar vulneraciones, transferencias y remisiones |
+| Protección de datos personales (abogado o responsable de datos) | Definiciones legales, deber de informar vulneraciones, transferencias y comunicación a personas encargadas |
 | Seguridad de la información | Controles, incidentes, proveedores |
 | Recursos humanos o derecho laboral | Usos de IA que afectan a personas trabajadoras; capacitación y DC-3 |
 | Educación superior | Aplicación del EC-A a estudiantes y requisitos de egreso |
@@ -78,7 +78,7 @@ Cargos que suelen tener los comités: presidencia, vicepresidencia, secretaría 
 | Evaluación de competencias (certificado en el EC0076) | Evaluabilidad de los criterios e instrumentos |
 | IA o ciencia de datos | Exactitud técnica sobre sistemas de IA y sus riesgos |
 
-**Compromisos de cada integrante:** asistir a las sesiones; revisar los documentos antes de cada sesión; firmar la carta de confidencialidad y de conflicto de interés (sección 3.4).
+**Compromisos de cada integrante:** asistir a las sesiones; revisar los documentos antes de cada sesión; firmar la carta de confidencialidad, conflicto de interés y autorización de uso de sus aportaciones (sección 3.4). Sus datos se tratan conforme al aviso de privacidad para integrantes del grupo técnico (documento 19).
 
 **Reconocimiento:** mención como participante en el estándar publicado, si el formato del CONOCER lo permite (por confirmar), y constancia de participación.
 
@@ -115,6 +115,8 @@ Yo, [nombre], integrante del grupo técnico para el desarrollo de los Estándare
 2. No usaré los instrumentos ni sus claves para preparar a candidatos ni para fines distintos del desarrollo de los estándares.
 3. Informaré cualquier interés que pueda afectar mi imparcialidad, como impartir cursos o evaluar en estos estándares, o tener una relación con un proveedor de sistemas de IA mencionado en las sesiones.
 4. Mis opiniones en el grupo técnico son técnicas y no comprometen a la organización en la que trabajo, salvo que así se indique.
+5. Autorizo a [empresa o Comité de Gestión por Competencias] a usar, modificar e incorporar mis aportaciones en los estándares, los instrumentos de evaluación y los materiales, y le transmito los derechos patrimoniales que pudieran corresponderme sobre ellas en los términos del contrato de cesión del documento 20, que se firma por escrito y con la contraprestación que ahí se indica (Ley Federal del Derecho de Autor, artículo 30).
+6. Acepto que mi nombre y la organización en la que trabajo aparezcan como participantes en el estándar publicado, si el formato del CONOCER lo permite. [Sí / No]
 
 Intereses que declaro: ____________________
 

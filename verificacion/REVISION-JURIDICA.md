@@ -301,3 +301,43 @@ Formato de cada tabla: ubicación · texto actual · problema · fundamento (ley
 - Requisitos de edad mínima del CONOCER para certificarse.
 - Artículos del CCF aplicables a la rescisión y la responsabilidad contractual del convenio y del contrato de consultoría.
 - Cómo aplica cada institución pública el principio de imparcialidad (LGRA art. 7, verificado) a la difusión de servicios de particulares.
+
+---
+
+## 8. Estado de aplicación (9 de octubre de 2026)
+
+Las correcciones se aplicaron el mismo día en `estandares-ia/` (en la copia local, `Markdown/`). Lo que se hizo con cada hallazgo:
+
+| Hallazgos | Aplicación | Documentos modificados |
+|---|---|---|
+| T1 (aviso de privacidad) | Se elaboraron los avisos A a D y los formatos de consentimiento E.1 a E.3. Las referencias de 13, 15, 16 y 17 remiten a ellos | 19 (nuevo), 13, 15, 16, 17 |
+| T2, 15-1, 15-3, 15-4 (instituciones públicas, pagos e instalaciones) | El convenio con instituciones públicas solo admite el pago directo de cada participante; se agregaron las notas 6 a 8, el uso de instalaciones conforme a la normatividad de la institución y la difusión como opción voluntaria | 15 |
+| T3, 15-2, 18-2 (requisito de egreso) | Opción voluntaria de titulación; en instituciones públicas, sin costo obligatorio para la o el estudiante | 15, 18, CLAUDE.md |
+| T4, 04-1, 10-1 (imagen y voz) | Se citan el art. 87 de la LFDA (reforma del 14-05-2026) y el art. 1916 del CCF | 02, 04, 10, 13, 14 |
+| T5, 08-1, 11-3, 13-3, 17-2 (remisión) | "Comunicación a una persona encargada"; el término "remisión" queda como referencia al reglamento de 2011 | 03, 08, 11, 12, 13, 17 |
+| T6, 09-1, 11-1, 15-8 (DC-3) | Reglas de expedición del Acuerdo de la STPS (arts. 24 y 25); DC-3 solo para personas trabajadoras y constancia de participación para los demás | 09, 11, 14, 15, 20 |
+| T7, 03-1 (calidad del proveedor) | Nuevo criterio en el EC-B (producto 2 del Elemento 3) y en sus materiales | 03, 07 (P7.2), 11, 12, 13, 14 |
+| T8, 12-1, 14-5 (variables discriminatorias) | La salvedad se limita a obligaciones legales o acciones afirmativas documentadas, con cita del art. 133 de la LFT | 12, 14 |
+| T9, 17-1, 18 (titularidad de materiales) | Modelo de cesión de derechos (C), carta del grupo técnico con autorización y cesión, y nota sobre autoría humana y secreto industrial | 17, 18, 20 (nuevo) |
+| 03-2, 03-3, 03-4 (política del EC-B) | Undécimo contenido de la política (aviso y fundamento); consecuencias conforme al reglamento interior de trabajo; conocimiento 4 ampliado | 03, 07 (P6.4 y P6.10), 11, 12, 14 |
+| 02-1 a 02-3 | Referencias actualizadas; etiquetado conforme a la política; nota 4 sobre el consentimiento para datos sensibles | 02 |
+| 04-2 a 04-4 | Fecha de la última reforma; la "Ley Antimemes" se marca en proceso legislativo; la contratación pública se condiciona a la libre participación | 04 y su PDF con diagramas |
+| 05-1, 05-2, 07-1, 16-3 (grabaciones) | Autorización de la voz grabada; aviso y aceptación previa para evaluaciones a distancia | 05, 07, 16, 19 |
+| 06-1 | El reactivo 18 remite a la política del caso | 06 |
+| 09-2, 09-3, 11-2, 11-4 | Prohibición de logotipos de la STPS en las constancias; menores de edad; fundamento del reactivo 15; regla del CONOCER sobre quien capacita y quien evalúa | 09, 11 |
+| 10-2, 12-2 | Fechas de reforma; supervisión proporcional y LFT art. 330-I | 10, 12 |
+| 13-1, 13-2, 13-4 | Aviso a personas entrevistadas; cláusulas de encargo; contrato de servicios (modelo A) | 13, 20 |
+| 14-1 a 14-10 | Definiciones literales, datos sensibles, aviso y fundamento (6.4), registros técnicos, sanciones, alcance, DC-3, notas 7 y 8 | 14 |
+| 15-5 a 15-12 | Anexo D con fundamentos, encargo (NOVENA.7), menores (NOVENA.8), licencia, relación laboral, nuevas cláusulas DÉCIMA NOVENA a VIGÉSIMA SEGUNDA (rescisión, responsabilidad, cesión, notificaciones), controversias renumerada como VIGÉSIMA TERCERA, declaraciones II.7 y II.8, cancelación y reembolso | 15 |
+| 16-1, 16-2, 16-4 | Consentimiento con finalidades y entrega agregada; no se informa quién no participó; mayores de edad | 16 |
+| 17-3 | Canales formales con el CONOCER y cita de la LGRA | 17 |
+
+**Pendientes (no se resuelven editando documentos):**
+
+- Dictamen de un abogado (sección 6).
+- Designar el departamento de datos personales.
+- Registrarse como agente capacitador externo.
+- Firmar las cesiones de derechos.
+- Regenerar las versiones en Word, que siguen con el texto anterior.
+
+Los identificadores de esta revisión (por ejemplo, "DÉCIMA NOVENA" en 15-12) se refieren a los documentos antes de aplicarse las correcciones.

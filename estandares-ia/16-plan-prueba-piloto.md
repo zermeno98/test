@@ -19,7 +19,7 @@ Versión 1.0 · Borrador · Octubre de 2026
 
 | Grupo | Instituciones u organizaciones | Personas | Qué se prueba |
 |---|---|---|---|
-| Universidades | 2: una universidad tecnológica o politécnica y una institución particular con RVOE | 30 a 40 estudiantes de últimos semestres y 5 a 10 integrantes del personal administrativo | Curso y evaluación del EC-A |
+| Universidades | 2: una universidad tecnológica o politécnica y una institución particular con RVOE | 30 a 40 estudiantes de últimos semestres, mayores de edad, y 5 a 10 integrantes del personal administrativo | Curso y evaluación del EC-A |
 | Empresas | 2 o 3, de distinto tamaño y sector | 10 a 15 personas usuarias de IA; 8 a 12 responsables de cumplimiento, protección de datos, TI o recursos humanos | Curso y evaluación del EC-A; curso y evaluación del EC-B; diagnóstico estándar en al menos una |
 | Autodiagnóstico exprés | 10 organizaciones | Una persona de la dirección por organización | Cuestionario de 20 preguntas |
 | Evaluadores | Centro de evaluación de la empresa | 4 evaluadores certificados en el EC0076 | Aplicación de los instrumentos y consistencia |
@@ -36,7 +36,7 @@ Para medir el efecto del curso, la mitad de los candidatos del EC-A se evalúa *
 3. Doble calificación: al menos 10 candidatos son evaluados por dos evaluadores al mismo tiempo, de forma independiente.
 4. Registro del tiempo de cada parte (cuestionario, Parte A, Parte B, Parte C) por candidato.
 5. Versión paralela: la mitad de cada grupo resuelve la segunda versión del caso; se comparan tiempos, dificultad y juicio entre versiones.
-6. Evaluación a distancia: si el CONOCER lo autoriza, [5] candidatos se evalúan por videollamada con pantalla compartida y se comparan tiempos y acuerdo entre evaluadores con la modalidad presencial.
+6. Evaluación a distancia: si el CONOCER lo autoriza, [5] candidatos se evalúan por videollamada con pantalla compartida y se comparan tiempos y acuerdo entre evaluadores con la modalidad presencial. Si la sesión se graba, se informa en el aviso de privacidad, se recaba la aceptación antes de iniciar y se fija el plazo de conservación.
 
 ### 3.2 EC-B
 
@@ -84,10 +84,10 @@ Los criterios numéricos son una propuesta para validar con el CONOCER y con el 
 
 ## 6. Ética y protección de datos
 
-1. **Participación voluntaria** con consentimiento informado por escrito (Anexo 1). La participación o el resultado no afectan calificaciones, empleo ni evaluaciones de desempeño.
+1. **Participación voluntaria** con consentimiento informado por escrito (Anexo 1). La participación o el resultado no afectan calificaciones, empleo ni evaluaciones de desempeño. Las instituciones y empresas piloto no reciben la lista de quienes no aceptaron participar.
 2. **Datos ficticios** en todos los casos y ejercicios. En la piloto empresarial del EC-A se usan los casos del instrumento, nunca información real de la organización.
 3. **Resultados individuales confidenciales.** A las instituciones y empresas solo se entregan resultados agregados, salvo autorización de cada participante.
-4. **Datos personales mínimos:** nombre, correo, perfil (estudiante, personal administrativo, responsable de área) y resultados. Se eliminan [seis meses] después del informe, salvo los datos agregados.
+4. **Datos personales mínimos:** nombre, correo, perfil (estudiante, personal administrativo, responsable de área) y resultados. Se tratan conforme al aviso de privacidad de la empresa (documento 19), que se entrega antes del registro, y se eliminan [seis meses] después del informe, salvo los datos agregados. Con personas menores de edad no se aplica la piloto sin el consentimiento de su madre, padre o tutor.
 5. **Constancia de participación** para quienes concluyan, sin valor de certificado.
 6. **Diagnóstico:** se aplica la sección 10 del documento 13 (confidencialidad y tratamiento de datos).
 
@@ -137,7 +137,8 @@ Entiendo que:
 2. Mi participación no afecta mis calificaciones, mi empleo ni mis evaluaciones de desempeño.
 3. No recibiré un certificado de competencia; recibiré una constancia de participación si concluyo.
 4. Mis resultados individuales son confidenciales y solo se informarán de forma agregada, salvo que yo lo autorice.
-5. Mis datos personales se tratan conforme al aviso de privacidad de [empresa], que recibí, y se eliminan [seis meses] después del informe.
-6. Puedo retirarme en cualquier momento sin consecuencias.
+5. Mis resultados se usan para analizar los materiales y los instrumentos, y se informan al CONOCER y a [institución u organización] solo de forma agregada.
+6. Mis datos personales se tratan conforme al aviso de privacidad de [empresa], que recibí antes de registrarme, y se eliminan [seis meses] después del informe.
+7. Puedo retirarme en cualquier momento sin consecuencias.
 
 Firma: ____________________ Fecha: ____________________

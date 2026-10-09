@@ -135,7 +135,7 @@ Cuidado: un dato sin nombre puede identificar a una persona si se combina con ot
 
 ### 1.4 Principios y deberes de protección de datos personales
 
-La Ley Federal de Protección de Datos Personales en Posesión de los Particulares (Diario Oficial de la Federación, 20 de marzo de 2025) establece principios que debe respetar quien trata datos personales. Los más relevantes para el uso de IA son:
+La Ley Federal de Protección de Datos Personales en Posesión de los Particulares (Diario Oficial de la Federación, 20 de marzo de 2025; última reforma del 14 de noviembre de 2025) establece principios que debe respetar quien trata datos personales (artículo 5). Los más relevantes para el uso de IA son:
 
 - **Finalidad:** los datos se usan solo para el fin para el que se obtuvieron.
 - **Proporcionalidad:** solo se tratan los datos necesarios para ese fin.
@@ -143,8 +143,8 @@ La Ley Federal de Protección de Datos Personales en Posesión de los Particular
 
 Y dos deberes:
 
-- **Seguridad:** proteger los datos contra daño, pérdida, alteración, destrucción, uso, acceso o tratamiento no autorizado.
-- **Confidencialidad:** quien interviene en el tratamiento guarda secreto sobre los datos.
+- **Seguridad:** proteger los datos contra daño, pérdida, alteración, destrucción, uso, acceso o tratamiento no autorizado (artículo 18).
+- **Confidencialidad:** quien interviene en el tratamiento guarda secreto sobre los datos (artículo 20).
 
 Pegar datos personales en una herramienta no autorizada puede violar ambos deberes y los principios de finalidad y proporcionalidad.
 
@@ -253,7 +253,7 @@ Pedirle a la misma herramienta (o a otra) que confirme un dato **no es verificar
 Antes de usar el producto, revisa que:
 
 - **No contenga datos personales ni información confidencial** no autorizados, **incluidos los que haya agregado la herramienta.**
-- **No use la imagen, la voz o los rasgos físicos de una persona sin su autorización.** La Ley Federal del Derecho de Autor protege el retrato de las personas; usar su imagen o su voz recreadas con IA sin consentimiento puede, además, facilitar engaños.
+- **No use la imagen, la voz o los rasgos físicos de una persona sin su autorización.** La imagen y la voz de una persona son datos personales y están protegidas frente al daño moral (Código Civil Federal, artículo 1916); la de artistas intérpretes y ejecutantes lo está además por la Ley Federal del Derecho de Autor, incluso cuando se recrea con IA (artículo 87, reforma de mayo de 2026). Usar su imagen o su voz recreadas con IA sin consentimiento puede, además, facilitar engaños.
 - **No reproduzca obras protegidas ni signos distintivos sin autorización:** personajes, ilustraciones, canciones, logotipos o marcas de otros.
 - **Etiquete como generado con IA** el contenido sintético de imagen, audio o video, con la leyenda que establezca tu organización.
 
@@ -764,8 +764,9 @@ Si se conserva una ilustración, debe ser sin personas reales, hecha con el Gene
 
 ## 14. Para estudiar más
 
-- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025.
-- Ley Federal del Derecho de Autor.
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Diario Oficial de la Federación, 20 de marzo de 2025 (última reforma: 14 de noviembre de 2025).
+- Ley Federal del Derecho de Autor (última reforma: 14 de mayo de 2026).
+- Código Civil Federal, artículo 1916.
 - National Institute of Standards and Technology (2024). NIST AI 600-1. *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.*
 - UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial.*
 - La política de uso de IA de tu organización o las reglas de tu institución educativa.

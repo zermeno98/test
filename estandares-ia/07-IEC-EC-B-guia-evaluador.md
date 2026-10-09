@@ -227,19 +227,21 @@ Marque **Sí** cuando el producto cumple el criterio. Un criterio que no aplica 
 | P6.1 | Contiene el objetivo y el alcance | | | |
 | P6.2 | Establece los criterios y el procedimiento para autorizar sistemas de IA | | | |
 | P6.3 | Especifica la información que puede y no puede ingresarse conforme a su clasificación | | | |
-| P6.4 | Establece la obligación de verificar los resultados y de declarar el uso de IA | | | |
-| P6.5 | Establece las reglas para el uso de la imagen, la voz y las obras de terceros | | | |
-| P6.6 | Establece la intervención humana en los usos que afectan a personas | | | |
-| P6.7 | Especifica el procedimiento de reporte de incidentes | | | |
-| P6.8 | Designa a los responsables de su aplicación | | | |
-| P6.9 | Indica las consecuencias de su incumplimiento | | | |
-| P6.10 | Indica su periodo de revisión | | | |
+| P6.4 | Establece que los usos de IA que traten datos personales estén informados en el aviso de privacidad y cuenten con fundamento para su tratamiento | | | |
+| P6.5 | Establece la obligación de verificar los resultados y de declarar el uso de IA | | | |
+| P6.6 | Establece las reglas para el uso de la imagen, la voz y las obras de terceros | | | |
+| P6.7 | Establece la intervención humana en los usos que afectan a personas | | | |
+| P6.8 | Especifica el procedimiento de reporte de incidentes | | | |
+| P6.9 | Designa a los responsables de su aplicación | | | |
+| P6.10 | Indica las consecuencias de su incumplimiento conforme al reglamento interior de trabajo y a los contratos aplicables | | | |
+| P6.11 | Indica su periodo de revisión | | | |
 | | **Lista de verificación de proveedores de IA, aplicada al asistente virtual** | | | |
 | P7.1 | Contiene criterios sobre el uso de la información ingresada, incluido el entrenamiento | | | |
-| P7.2 | Contiene criterios sobre la conservación, la ubicación y la eliminación de la información | | | |
-| P7.3 | Contiene criterios de confidencialidad y seguridad | | | |
-| P7.4 | Contiene criterios sobre la notificación de incidentes por parte del proveedor | | | |
-| P7.5 | Incluye el resultado de su aplicación al Proveedor Conversacional Ficticio y una recomendación fundamentada | | | |
+| P7.2 | Contiene criterios sobre la calidad del proveedor como persona encargada o como tercero receptor, y sobre las transferencias internacionales | | | |
+| P7.3 | Contiene criterios sobre la conservación, la ubicación y la eliminación de la información | | | |
+| P7.4 | Contiene criterios de confidencialidad y seguridad | | | |
+| P7.5 | Contiene criterios sobre la notificación de incidentes por parte del proveedor | | | |
+| P7.6 | Incluye el resultado de su aplicación al Proveedor Conversacional Ficticio y una recomendación fundamentada | | | |
 | | **Plan de controles** | | | |
 | P8.1 | Contiene al menos un control para cada riesgo alto de la matriz | | | |
 | P8.2 | Especifica el tipo de cada control: técnico, administrativo o físico | | | |
@@ -310,7 +312,8 @@ El uso esperado es el filtro de candidatos. Debe describir el puntaje y el desca
 | Cláusula (Anexo B5) | Hallazgo esperado |
 |---|---|
 | 1. Uso de conversaciones para entrenar | Solicitar por escrito que no se usen para entrenamiento |
-| 2. Servidores en distintos países; 24 meses de conservación | Definir ubicación, transferencias y un plazo de conservación acorde con la finalidad |
+| 1. Calidad del proveedor | Si usa las conversaciones para sus propios fines, deja de actuar solo por cuenta de la organización y habría una transferencia de datos de clientes; exigir que actúe como persona encargada, conforme a las instrucciones de la organización y con contrato |
+| 2. Servidores en distintos países; 24 meses de conservación | Definir ubicación, transferencias internacionales y su fundamento, y un plazo de conservación acorde con la finalidad |
 | 3. Seguridad "conforme a estándares de la industria" | Solicitar las medidas concretas |
 | 4. Notificación "en un plazo razonable" | Definir un plazo específico |
 | Falta cláusula de eliminación al terminar | Agregar eliminación o devolución de la información al terminar el contrato |
@@ -402,4 +405,4 @@ En cualquier otro caso, el juicio es **todavía no competente**. El evaluador en
 2. **Consistencia entre evaluadores.** Dos evaluadores califican a los mismos candidatos de forma independiente y se comparan los resultados reactivo por reactivo, sobre todo en los productos con criterio abierto (política, evaluación de impacto e informe).
 3. **Simulaciones.** Verificar que los guiones de la Parte A entreguen la información solo ante preguntas pertinentes y que todos los evaluadores los apliquen igual.
 4. **Versiones paralelas.** Preparar al menos una segunda versión del caso con otra organización ficticia y otros sistemas.
-5. **Evaluación a distancia.** Probar una versión por videollamada, sujeta a lo que autorice el CONOCER.
+5. **Evaluación a distancia.** Probar una versión por videollamada, sujeta a lo que autorice el CONOCER. Si la sesión se graba, informarlo en el aviso de privacidad (documento 19), recabar la aceptación de la persona candidata antes de iniciar y fijar el plazo de conservación.

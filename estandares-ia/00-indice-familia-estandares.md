@@ -24,6 +24,8 @@
 | `16-plan-prueba-piloto.md` | Plan de la prueba piloto: participantes, diseño, indicadores y criterios de decisión, calendario, ética y consentimiento informado | Borrador 1.0 |
 | `17-gobernanza-comite-grupo-tecnico.md` | Ruta para el Comité de Gestión por Competencias, términos de referencia y sesiones del grupo técnico, minuta y carta de confidencialidad | Borrador 1.0 |
 | `18-decision-EC-o-ECM.md` | Análisis para decidir el registro como EC o como ECM, con preguntas para el CONOCER y recomendación preliminar | Borrador 1.0 |
+| `19-avisos-de-privacidad.md` | Avisos de privacidad de la empresa: integral y simplificado para participantes y candidatos, para personas entrevistadas del diagnóstico y para el grupo técnico, con formatos de consentimiento específico | Borrador 1.0 para revisión jurídica |
+| `20-contratos-tipo.md` | Contratos tipo: servicios de consultoría, encargo de tratamiento de datos personales, cesión de derechos de autor y términos y condiciones para participantes | Borrador 1.0 para revisión jurídica |
 
 Copias en Google Docs: [carpeta "Estándares de Competencia en IA - CONOCER"](https://drive.google.com/drive/folders/1UVEkFJ_GA7fd-w1_kA7MqKXrHWS-O3OP). Contexto para continuar con Claude Code local: `CLAUDE.md` en la raíz del repositorio.
 
@@ -65,6 +67,8 @@ Un EC no es un temario ni un curso: describe **lo que una persona hace en su tra
 - [ ] Validación de los borradores por el grupo técnico
 
 **C. Revisiones y confirmaciones**
+- [x] Revisión de congruencia jurídica de los documentos 02 a 18 contra los textos oficiales vigentes y aplicación de sus correcciones (9 de octubre de 2026; ver `verificacion/REVISION-JURIDICA.md` y `verificacion/EVALUACION-RIESGO-LEGAL.md`)
+- [ ] Dictamen de un abogado mexicano sobre los temas de la sección 6 de la revisión jurídica (reglamento de 2011, requisito de egreso en instituciones públicas, vía de contratación con cada tipo de institución, servicios especializados, contratos tipo, avisos de privacidad, menores de edad)
 - [ ] Revisión jurídica: las definiciones de "dato personal" y "dato personal sensible" se transcribieron de la ley de datos de 2025 (última reforma DOF del 14 de noviembre de 2025); falta la revisión de un especialista de la definición de vulneración (la ley para particulares no la define), el deber de informar vulneraciones, derechos de autor e imagen
 - [x] Verificar en estándares publicados el texto de los niveles Dos y Cuatro, y las frases de desempeños, productos, conocimientos, situaciones emergentes y actitudes (verificación del 9 de octubre de 2026; ver `verificacion/INFORME-VERIFICACION.md`)
 - [ ] Confirmar con el CONOCER: que la plantilla F21-COOPYD-01 versión 08 siga vigente, que el SCIAN propuesto (561110 y 541610, verificados en el SCIAN 2023 del INEGI) sea el que acepte, umbrales de los cuestionarios (20 de 24 y 23 de 28), condiciones críticas y evaluación a distancia
@@ -104,10 +108,12 @@ Revisión del paquete del 9 de octubre de 2026. En orden de prioridad:
 - Carta o convenio de participación en la piloto con instituciones y empresas (el documento 15 supone un estándar publicado).
 - Constancia de participación.
 - Programa de capacitación de los evaluadores en los instrumentos.
-- Aviso de privacidad de la empresa para candidatos, participantes y convenios (con revisión jurídica).
+- ~~Aviso de privacidad de la empresa para candidatos, participantes y convenios~~ Hecho como borrador (documento 19); falta la revisión jurídica y designar el departamento de datos personales.
 
 **4. Para la consultoría y los convenios**
-- Convenio de confidencialidad con los clientes del diagnóstico y contrato de encargo de tratamiento de datos.
+- ~~Contrato de servicios con los clientes del diagnóstico y contrato de encargo de tratamiento de datos~~ Hechos como borrador (documento 20), junto con la cesión de derechos de autor y los términos para participantes; falta la revisión jurídica.
+- Registro como agente capacitador externo ante la STPS, antes de expedir constancias DC-3.
+- Firma de las cesiones de derechos (documento 20, modelo C) con quienes elaboraron los materiales, y registro de obras y marcas.
 - Formato del informe periódico de resultados a las instituciones (documento 15).
 - Descripción del servicio de seguimiento trimestral (documento 13).
 - Convenio general (marco) con instituciones, cuando la institución lo pida.

@@ -278,7 +278,7 @@ Instrucciones: elige una sola respuesta por pregunta. Tienes 30 minutos.
     - b) Ninguna, si el producto ya se revisó
     - c) "Elaborado con apoyo de Herramienta A en la redacción del primer borrador; revisado por Juan Pérez"
     - d) "Generado automáticamente"
-18. Una imagen generada con IA para un comunicado debe:
+18. Conforme a la política del caso (Anexo A1), una imagen generada con IA para un comunicado debe:
     - a) Presentarse como fotografía real
     - b) Llevar la firma del diseñador
     - c) No usarse nunca

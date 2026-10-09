@@ -102,3 +102,29 @@ P: probabilidad. I: impacto. Residual: nivel esperado después de aplicar las ac
 - Se tomó como vigente el texto de las leyes descargadas el 9 de octubre de 2026. Siguen por confirmar: la aplicación del reglamento de 2011 de la ley de datos, la vigencia de los manuales del CONOCER de 2015 y 2016 y el texto de las Reglas Generales del Sistema Nacional de Competencias.
 - No se evaluaron riesgos fiscales, de competencia económica ni de normatividad estatal (leyes de datos y de adquisiciones de cada entidad, y normatividad de universidades autónomas), que dependen de cada institución y cliente.
 - Los temas que requieren dictamen de un abogado mexicano están en la sección 6 de `REVISION-JURIDICA.md`.
+
+---
+
+## 7. Estado del tratamiento (9 de octubre de 2026)
+
+Ya se aplicaron en los documentos las acciones que dependían de su redacción:
+
+- R01 y R02: avisos de privacidad, documento 19.
+- R03, R14 y R21: plantilla de política, documento 14.
+- R04 a R06: convenio, documento 15.
+- R07: canales formales, documento 17.
+- R08: reglas de la DC-3, documentos 09, 11, 14 y 15.
+- R09: modelo de cesión y notas de titularidad, documentos 17, 18 y 20.
+- R12 y R16: contrato de servicios y términos para participantes, documento 20.
+- R13: reactivo 8 del documento 08.
+- R18: menores de edad, documentos 09, 15, 16 y 19.
+- R19: reforma de la LFDA, documentos 04, 10 y 14.
+- R20: grabaciones, documentos 05, 07, 16 y 19.
+
+Las acciones que requieren actos de la empresa siguen pendientes y conservan su nivel hasta que se realicen:
+
+- Publicar los avisos y designar el departamento de datos personales.
+- Registrarse ante la STPS como agente capacitador externo.
+- Firmar las cesiones y registrar obras y marcas.
+- Obtener el dictamen del abogado.
+- Aplicar los controles de acceso a los instrumentos de evaluación.
