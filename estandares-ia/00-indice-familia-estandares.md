@@ -135,6 +135,7 @@ Actitudes: responsabilidad, imparcialidad, perseverancia.
 ## Documentos de la familia
 - `01-mapa-funcional.md` – Mapa funcional y delimitación frente al RENEC
 - `02-EC-A-borrador.md` – Borrador completo del EC-A en formato F21-COOPYD-01
+- `03-EC-B-borrador.md` – Borrador completo del EC-B en formato F21-COOPYD-01
 
 ## Decisiones pendientes
 1. Confirmar niveles SNC con CONOCER.
