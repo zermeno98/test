@@ -45,6 +45,7 @@ Reglas de redacción aplicadas:
 | EC | Título (según fuentes públicas) | Relación con esta familia |
 |---|---|---|
 | EC1705 | Uso básico de herramientas de IA generativa para la creación de contenido digital | **Complementario.** Cubre la operación de la herramienta y la generación de contenido. El EC-A no evalúa cómo generar contenido, sino **qué información puede ingresarse, cómo se verifica el resultado y cómo se atienden incidentes**. |
+| ECM0358 | Fundamentos de IA generativa por Microsoft (estándar de marca) | Ligado a un proveedor; el EC-A es neutral respecto de la herramienta. |
 | EC1691 | Elaboración de materiales educativos con apoyo de IA generativa | Distinto ámbito (docencia). Sin traslape relevante. |
 | EC1657 | Integración de arquitectura y herramientas de IA generativa en la cadena de suministro | Distinto ámbito (implementación técnica). Sin traslape relevante. |
 | Por identificar | Tres EC de IA aprobados en el Acuerdo SE/III-26/05,R (DOF 7-ago-2026) | **Revisar antes de presentar el proyecto.** Pueden traslaparse con el EC-A o el EC-B. |

@@ -37,10 +37,10 @@ Desempeña actividades programadas que, en su mayoría, son rutinarias y predeci
 
 | Periodo sugerido de revisión/actualización del EC | Tiempo de vigencia del certificado de competencia en este EC |
 |---|---|
-| 2 años *(propuesto: la tecnología cambia rápido)* | 2 años *(propuesto)* |
+| 2 años *(propuesto: la tecnología cambia rápido; el EC1781 de 2026 usa 3 años)* | 2 años *(propuesto)* |
 
 ### Ocupaciones relacionadas con este EC de acuerdo con el Sistema Nacional de Clasificación de Ocupaciones (SINCO)
-*Estándar transversal. Grupos unitarios a confirmar con CONOCER; propuesta preliminar:*
+*Estándar transversal. Opción A (usada por el EC1781, DOF 2026): Grupo unitario 9999 Ocupaciones no especificadas; Ocupaciones asociadas: Sin referente. Opción B, grupos unitarios específicos a confirmar con CONOCER:*
 - [Auxiliares y técnicos en administración, contabilidad y finanzas]
 - [Secretarias, capturistas y operadores de equipo de cómputo]
 - [Trabajadores de apoyo en actividades administrativas diversas]
@@ -66,6 +66,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 
 ### Relación con otros estándares de competencia
 **Estándares relacionados:**
+- ECM0358 Fundamentos de IA generativa por Microsoft *(estándar de marca; uso de herramientas Microsoft)*.
 - EC1705 Uso básico de herramientas de inteligencia artificial generativa para la creación de contenido digital *(complementario: el EC1705 evalúa la operación de la herramienta; el presente EC evalúa la protección de la información y la verificación de resultados)*.
 - [EC-B] Gestión de riesgos y controles en el uso de sistemas de inteligencia artificial en la organización *(en desarrollo)*.
 
@@ -83,7 +84,7 @@ El presente EC, una vez publicado en el Diario Oficial de la Federación, se int
 - Formatos de registro de clasificación, registro de verificación y reporte de incidente.
 
 **Duración estimada de la evaluación:**
-- [30 minutos en gabinete y 2 horas en campo, totalizando 2 horas 30 minutos] *(a validar en la prueba piloto)*.
+- 30 minutos en gabinete y 2 horas en campo, totalizando 2 horas y 30 minutos. *(Redacción conforme al EC1781; tiempos a validar en la prueba piloto.)*
 
 ### Referencias de información
 - Ley Federal de Protección de Datos Personales en Posesión de los Particulares. DOF, 20 de marzo de 2025.
@@ -143,6 +144,8 @@ La persona es competente cuando demuestra los siguientes:
    - No contiene información confidencial ajena al propósito de la tarea, y
    - Conserva los elementos necesarios para realizar la tarea.
 
+La persona es competente cuando posee los siguientes:
+
 **CONOCIMIENTOS** | **NIVEL**
 1. Conceptos de dato personal, dato personal sensible e información confidencial. | Comprensión
 2. Principios y deberes de protección de datos personales previstos en la legislación vigente. | Conocimiento
@@ -199,6 +202,8 @@ La persona es competente cuando demuestra los siguientes:
    - Contiene las fuentes utilizadas para contrastar el contenido, y
    - Describe las correcciones realizadas al contenido generado.
 
+La persona es competente cuando posee los siguientes:
+
 **CONOCIMIENTOS** | **NIVEL**
 1. Limitaciones de la IA generativa: información inexacta o inventada, sesgos y desactualización. | Comprensión
 2. Criterios para valorar la confiabilidad de las fuentes de información. | Aplicación
@@ -244,6 +249,8 @@ La persona es competente cuando demuestra los siguientes:
    - Describe las acciones de contención realizadas, e
    - Indica el nombre del responsable al que se notificó.
 
+La persona es competente cuando posee los siguientes:
+
 **CONOCIMIENTOS** | **NIVEL**
 1. Tipos de incidentes relacionados con el uso de IA generativa. | Conocimiento
 2. Señales de suplantación de identidad mediante voz, imagen, video o texto sintéticos. | Comprensión
@@ -269,6 +276,8 @@ La persona es competente cuando demuestra los siguientes:
 ## Notas de diseño (no forman parte del EC)
 1. **Diferenciación con el EC1705:** este EC no evalúa la generación de contenido en sí, sino la protección de la información, la verificación y la atención de incidentes. Debe confirmarse que los tres EC de IA aprobados en el DOF del 7-ago-2026 no cubran estas funciones.
 2. **Volumen:** la duración propuesta (≈2.5 h) y el uso de casos ficticios permiten aplicar la evaluación a grupos grandes. Confirmar con CONOCER si es admisible la evaluación a distancia.
-3. **Niveles de conocimiento:** confirmar la escala vigente que usa CONOCER.
-4. **Actitudes:** confirmar contra el catálogo que utiliza CONOCER.
-5. **Glosario:** las definiciones legales deben ajustarse al texto literal de la LFPDPPP 2025.
+3. **Verificado en EC publicados:** formato F21-COOPYD-01; los conocimientos se introducen con "La persona es competente cuando posee los siguientes:"; códigos de elemento tipo E5336; redacción de la duración ("X en gabinete y Y en campo, totalizando Z").
+4. **EC1705 (verificado parcialmente):** Elemento 1 E5336 "Identificar los fundamentos y herramientas de la IA generativa para la creación de contenido digital básico"; Elemento 2 "Generar contenido digital básico…"; Elemento 3 no recuperado. Revisar que su Elemento 3 (posible uso ético) no se traslape con nuestro Elemento 2.
+5. **Niveles de conocimiento:** confirmar la escala vigente que usa CONOCER.
+6. **Actitudes:** confirmar contra el catálogo que utiliza CONOCER.
+7. **Glosario:** las definiciones legales deben ajustarse al texto literal de la LFPDPPP 2025.
